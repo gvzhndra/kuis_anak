@@ -1,0 +1,435 @@
+{
+ "subject": "Pendidikan Pancasila",
+ "icon": "🦅",
+ "source": "Buku Siswa Pendidikan Pancasila untuk SD/MI Kelas I (Kemendikdasmen) · Bab 1–2",
+ "chapters": [
+  "Bab 1 Aku dan Teman-Temanku",
+  "Bab 2 Aku Patuh pada Aturan"
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "bab": "Bab 1 Aku dan Teman-Temanku",
+   "q": "Saat berkenalan, kita menyebutkan …",
+   "choices": [
+    "nama kita",
+    "nama hewan",
+    "nama makanan",
+    "nama mainan"
+   ],
+   "answer": 0,
+   "explain": "Saat berkenalan, kita menyebutkan nama kita sendiri.",
+   "id": "k1-pancasila-001"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Aku dan Teman-Temanku",
+   "q": "Saat berkenalan, sebaiknya kita …",
+   "img": "🤝",
+   "choices": [
+    "tersenyum & berjabat tangan",
+    "cemberut",
+    "berteriak",
+    "pergi"
+   ],
+   "answer": 0,
+   "explain": "Berkenalan dengan ramah: tersenyum dan berjabat tangan.",
+   "id": "k1-pancasila-002"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Aku dan Teman-Temanku",
+   "q": "Setiap anak memiliki kegemaran yang …",
+   "choices": [
+    "berbeda-beda",
+    "harus sama",
+    "tidak boleh ada",
+    "jelek"
+   ],
+   "answer": 0,
+   "explain": "Kegemaran (hobi) setiap anak bisa berbeda. Kita saling menghargai.",
+   "id": "k1-pancasila-003"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Aku dan Teman-Temanku",
+   "q": "Saat bermain ayunan bersama teman, kita harus …",
+   "choices": [
+    "bergantian",
+    "berebut",
+    "mendorong teman",
+    "marah"
+   ],
+   "answer": 0,
+   "explain": "Bermain bersama harus bergantian agar semua senang.",
+   "id": "k1-pancasila-004"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 2 Aku Patuh pada Aturan",
+   "q": "Bangun tidur, kita merapikan …",
+   "img": "🛏️",
+   "choices": [
+    "tempat tidur",
+    "mainan teman",
+    "tas guru",
+    "jalan raya"
+   ],
+   "answer": 0,
+   "explain": "Merapikan tempat tidur adalah aturan baik di rumah.",
+   "id": "k1-pancasila-005"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 2 Aku Patuh pada Aturan",
+   "q": "Sampah harus dibuang ke …",
+   "img": "🗑️",
+   "choices": [
+    "tempat sampah",
+    "sungai",
+    "kolong meja",
+    "jalan"
+   ],
+   "answer": 0,
+   "explain": "Buang sampah di tempat sampah agar rumah dan lingkungan bersih.",
+   "id": "k1-pancasila-006"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 2 Aku Patuh pada Aturan",
+   "q": "Sepulang sekolah, sepatu disimpan di …",
+   "img": "👟",
+   "choices": [
+    "rak sepatu",
+    "meja makan",
+    "tempat tidur",
+    "kamar mandi"
+   ],
+   "answer": 0,
+   "explain": "Simpan sepatu di rak sepatu agar rapi.",
+   "id": "k1-pancasila-007"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 2 Aku Patuh pada Aturan",
+   "q": "Anak yang patuh mau mendengarkan nasihat …",
+   "choices": [
+    "orang tua",
+    "orang asing",
+    "kucing",
+    "televisi"
+   ],
+   "answer": 0,
+   "explain": "Anak yang baik mendengarkan nasihat ayah dan ibu.",
+   "id": "k1-pancasila-008"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Aku dan Teman-Temanku",
+   "q": "Temanku berbeda warna kulit dan rambut. Sikapku …",
+   "choices": [
+    "tetap berteman",
+    "menjauhinya",
+    "mengejeknya",
+    "tidak mau bermain"
+   ],
+   "answer": 0,
+   "explain": "Perbedaan itu indah. Kita tetap berteman dengan semua teman.",
+   "id": "k1-pancasila-009"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Aku dan Teman-Temanku",
+   "q": "Saat kalah bermain, sikap yang baik adalah …",
+   "choices": [
+    "menerima dengan senang",
+    "menangis & marah",
+    "merusak permainan",
+    "menyalahkan teman"
+   ],
+   "answer": 0,
+   "explain": "Menang atau kalah, tetap gembira dan sportif.",
+   "id": "k1-pancasila-010"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Aku dan Teman-Temanku",
+   "q": "Sebelum bermain bersama, kita membuat …",
+   "choices": [
+    "aturan main",
+    "keributan",
+    "pertengkaran",
+    "kotor"
+   ],
+   "answer": 0,
+   "explain": "Aturan main membuat permainan tertib dan adil.",
+   "id": "k1-pancasila-011"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Aku dan Teman-Temanku",
+   "q": "Saat bermain, kita harus bersikap …",
+   "choices": [
+    "jujur",
+    "curang",
+    "sombong",
+    "kasar"
+   ],
+   "answer": 0,
+   "explain": "Bermain dengan jujur, tidak curang.",
+   "id": "k1-pancasila-012"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 2 Aku Patuh pada Aturan",
+   "q": "Jika kita tidak menaati aturan di rumah, akibatnya …",
+   "choices": [
+    "rumah tidak tertib",
+    "rumah rapi",
+    "semua senang",
+    "badan sehat"
+   ],
+   "answer": 0,
+   "explain": "Aturan dibuat agar rumah tertib dan nyaman.",
+   "id": "k1-pancasila-013"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 2 Aku Patuh pada Aturan",
+   "q": "Sebelum tidur, sebaiknya kita …",
+   "choices": [
+    "menggosok gigi",
+    "makan permen",
+    "main gawai",
+    "minum soda"
+   ],
+   "answer": 0,
+   "explain": "Menggosok gigi sebelum tidur menjaga gigi tetap sehat.",
+   "id": "k1-pancasila-014"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 2 Aku Patuh pada Aturan",
+   "q": "Setelah bermain, mainan sebaiknya …",
+   "choices": [
+    "dirapikan kembali",
+    "dibiarkan berserakan",
+    "dibuang",
+    "dilempar"
+   ],
+   "answer": 0,
+   "explain": "Rapikan mainan setelah dipakai.",
+   "id": "k1-pancasila-015"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 2 Aku Patuh pada Aturan",
+   "q": "Membersihkan lingkungan rumah bersama-sama disebut …",
+   "choices": [
+    "gotong royong",
+    "bertengkar",
+    "bermalas-malasan",
+    "berebut"
+   ],
+   "answer": 0,
+   "explain": "Gotong royong artinya bekerja sama membantu satu sama lain.",
+   "id": "k1-pancasila-016"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1 Aku dan Teman-Temanku",
+   "q": "Doni tidak sengaja menginjak kaki Rina. Doni sebaiknya berkata …",
+   "choices": [
+    "Maaf, aku tidak sengaja.",
+    "Salahmu sendiri!",
+    "Biar saja.",
+    "Terima kasih."
+   ],
+   "answer": 0,
+   "explain": "Jika berbuat salah, kita meminta maaf.",
+   "id": "k1-pancasila-017"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1 Aku dan Teman-Temanku",
+   "q": "Teman baru di kelas terlihat sendirian. Sebaiknya kita …",
+   "choices": [
+    "mengajaknya berkenalan",
+    "membiarkannya",
+    "menertawakannya",
+    "menjauhinya"
+   ],
+   "answer": 0,
+   "explain": "Ajak teman baru berkenalan dan bermain bersama.",
+   "id": "k1-pancasila-018"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1 Aku dan Teman-Temanku",
+   "q": "Saat antre bermain perosotan, sikap yang benar adalah …",
+   "choices": [
+    "menunggu giliran",
+    "menyerobot",
+    "mendorong",
+    "berteriak"
+   ],
+   "answer": 0,
+   "explain": "Antre dan tunggu giliran dengan sabar.",
+   "id": "k1-pancasila-019"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 2 Aku Patuh pada Aturan",
+   "q": "Ibu meminta Adi mematikan TV dan belajar. Adi sebaiknya …",
+   "choices": [
+    "segera mematikan TV",
+    "pura-pura tidak dengar",
+    "marah",
+    "menonton terus"
+   ],
+   "answer": 0,
+   "explain": "Anak yang patuh segera melaksanakan nasihat orang tua.",
+   "id": "k1-pancasila-020"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 2 Aku Patuh pada Aturan",
+   "q": "Siapa yang membuat aturan di rumah?",
+   "choices": [
+    "orang tua",
+    "tetangga",
+    "teman sekelas",
+    "pedagang"
+   ],
+   "answer": 0,
+   "explain": "Aturan di rumah dibuat oleh orang tua dan ditaati seluruh keluarga.",
+   "id": "k1-pancasila-021"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 2 Aku Patuh pada Aturan",
+   "q": "Contoh peduli pada lingkungan tempat tinggal adalah …",
+   "choices": [
+    "menyiram tanaman",
+    "mencoret tembok",
+    "memetik bunga tetangga",
+    "membuang sampah di got"
+   ],
+   "answer": 0,
+   "explain": "Menyiram tanaman membuat lingkungan hijau dan asri.",
+   "id": "k1-pancasila-022"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 2 Aku Patuh pada Aturan",
+   "q": "Manfaat menaati aturan adalah …",
+   "choices": [
+    "hidup tertib & nyaman",
+    "sering dimarahi",
+    "rumah berantakan",
+    "mudah sakit"
+   ],
+   "answer": 0,
+   "explain": "Aturan membuat hidup tertib, aman, dan nyaman.",
+   "id": "k1-pancasila-023"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Aku dan Teman-Temanku",
+   "q": "Tubuh, rambut, dan kulit setiap orang …",
+   "choices": [
+    "berbeda-beda",
+    "harus sama",
+    "tidak penting",
+    "jelek"
+   ],
+   "answer": 0,
+   "explain": "Ciri fisik setiap orang berbeda. Kita saling menghargai.",
+   "id": "k1-pancasila-024"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 2 Aku Patuh pada Aturan",
+   "q": "Sebelum makan, kita …",
+   "choices": [
+    "berdoa",
+    "berlari",
+    "berteriak",
+    "bermain"
+   ],
+   "answer": 0,
+   "explain": "Berdoa sebelum makan adalah kebiasaan baik di rumah.",
+   "id": "k1-pancasila-025"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Aku dan Teman-Temanku",
+   "q": "Hobi Rina menari. Hobi Doni menggambar. Sikap kita …",
+   "choices": [
+    "menghargai hobi mereka",
+    "mengejek hobi Rina",
+    "memaksa Doni menari",
+    "marah"
+   ],
+   "answer": 0,
+   "explain": "Setiap anak boleh punya hobi berbeda.",
+   "id": "k1-pancasila-026"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 2 Aku Patuh pada Aturan",
+   "q": "Aturan di rumah dibuat agar …",
+   "choices": [
+    "rumah tertib dan nyaman",
+    "kita dimarahi",
+    "rumah berantakan",
+    "kita malas"
+   ],
+   "answer": 0,
+   "explain": "Aturan membuat keluarga tertib dan nyaman.",
+   "id": "k1-pancasila-027"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1 Aku dan Teman-Temanku",
+   "q": "Teman terjatuh saat bermain. Sikapmu …",
+   "choices": [
+    "menolongnya berdiri",
+    "menertawakannya",
+    "pergi saja",
+    "pura-pura tidak lihat"
+   ],
+   "answer": 0,
+   "explain": "Teman yang baik saling menolong.",
+   "id": "k1-pancasila-028"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 2 Aku Patuh pada Aturan",
+   "q": "Ayah meminta Adik tidur siang. Adik masih ingin main. Sebaiknya Adik …",
+   "choices": [
+    "menuruti nasihat ayah",
+    "menangis keras",
+    "bersembunyi",
+    "marah-marah"
+   ],
+   "answer": 0,
+   "explain": "Anak yang patuh menuruti nasihat orang tua.",
+   "id": "k1-pancasila-029"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 2 Aku Patuh pada Aturan",
+   "q": "Lingkungan rumah yang bersih membuat kita …",
+   "choices": [
+    "sehat",
+    "sakit",
+    "sedih",
+    "malas"
+   ],
+   "answer": 0,
+   "explain": "Lingkungan bersih membuat badan sehat dan hati senang.",
+   "id": "k1-pancasila-030"
+  }
+ ]
+}

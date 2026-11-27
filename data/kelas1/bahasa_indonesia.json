@@ -1,0 +1,454 @@
+{
+ "subject": "Bahasa Indonesia",
+ "icon": "📖",
+ "source": "Buku Siswa Bahasa Indonesia: Aku Bisa! untuk SD/MI Kelas I (Edisi Revisi) · Bab 1–4",
+ "chapters": [
+  "Bab 1 Bunyi Apa?",
+  "Bab 2 Ayo, Bermain!",
+  "Bab 3 Awas Kuman!",
+  "Bab 4 Aku Bisa!"
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "bab": "Huruf vokal",
+   "q": "Huruf vokal adalah …",
+   "choices": [
+    "a",
+    "b",
+    "k",
+    "m"
+   ],
+   "answer": 0,
+   "explain": "Huruf vokal ada lima: a, i, u, e, o.",
+   "id": "k1-bahasa_indonesia-001"
+  },
+  {
+   "level": 1,
+   "bab": "Huruf vokal",
+   "q": "Manakah yang BUKAN huruf vokal?",
+   "choices": [
+    "d",
+    "a",
+    "i",
+    "u"
+   ],
+   "answer": 0,
+   "explain": "Huruf vokal: a, i, u, e, o. Huruf d adalah huruf konsonan.",
+   "id": "k1-bahasa_indonesia-002"
+  },
+  {
+   "level": 1,
+   "bab": "Huruf awal",
+   "q": "Gambar ini diawali huruf …",
+   "img": "🦆",
+   "imgSpeak": "bebek",
+   "choices": [
+    "b",
+    "d",
+    "p",
+    "k"
+   ],
+   "answer": 0,
+   "explain": "Bebek diawali huruf b.",
+   "id": "k1-bahasa_indonesia-003"
+  },
+  {
+   "level": 1,
+   "bab": "Huruf awal",
+   "q": "Gambar ini diawali huruf …",
+   "img": "🐈",
+   "imgSpeak": "kucing",
+   "choices": [
+    "k",
+    "c",
+    "g",
+    "h"
+   ],
+   "answer": 0,
+   "explain": "Kucing diawali huruf k: ku-cing.",
+   "id": "k1-bahasa_indonesia-004"
+  },
+  {
+   "level": 1,
+   "bab": "Huruf awal",
+   "q": "Gambar ini diawali huruf …",
+   "img": "🐟",
+   "imgSpeak": "ikan",
+   "choices": [
+    "i",
+    "a",
+    "e",
+    "u"
+   ],
+   "answer": 0,
+   "explain": "Ikan diawali huruf i.",
+   "id": "k1-bahasa_indonesia-005"
+  },
+  {
+   "level": 1,
+   "bab": "Huruf awal",
+   "q": "Gambar ini diawali huruf …",
+   "img": "🌙",
+   "imgSpeak": "bulan",
+   "choices": [
+    "b",
+    "p",
+    "d",
+    "l"
+   ],
+   "answer": 0,
+   "explain": "Bulan diawali huruf b: bu-lan.",
+   "id": "k1-bahasa_indonesia-006"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 3 Awas Kuman!",
+   "q": "Sebelum makan, kita harus …",
+   "choices": [
+    "mencuci tangan",
+    "bermain tanah",
+    "tidur",
+    "berlari"
+   ],
+   "answer": 0,
+   "explain": "Cuci tangan dengan sabun agar kuman tidak masuk ke tubuh.",
+   "id": "k1-bahasa_indonesia-007"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 3 Awas Kuman!",
+   "q": "Kita mencuci tangan memakai air dan …",
+   "img": "🧼",
+   "choices": [
+    "sabun",
+    "pasir",
+    "minyak",
+    "susu"
+   ],
+   "answer": 0,
+   "explain": "Sabun membantu membersihkan kuman di tangan.",
+   "id": "k1-bahasa_indonesia-008"
+  },
+  {
+   "level": 1,
+   "bab": "Kata sopan",
+   "q": "Jika dibantu teman, kita mengucapkan …",
+   "choices": [
+    "terima kasih",
+    "pergi sana",
+    "biarin",
+    "nanti saja"
+   ],
+   "answer": 0,
+   "explain": "Ucapkan terima kasih jika ditolong orang lain.",
+   "id": "k1-bahasa_indonesia-009"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 2 Ayo, Bermain!",
+   "q": "Saat bermain di tempat ramai, kita tidak boleh …",
+   "choices": [
+    "berlari sembarangan",
+    "berhati-hati",
+    "melihat jalan",
+    "berbaris rapi"
+   ],
+   "answer": 0,
+   "explain": "Jangan berlari di tempat ramai, lihat arah jalanmu.",
+   "id": "k1-bahasa_indonesia-010"
+  },
+  {
+   "level": 2,
+   "bab": "Suku kata",
+   "q": "Kata \"bola\" terdiri atas suku kata …",
+   "choices": [
+    "bo – la",
+    "b – ola",
+    "bol – a",
+    "bo – l – a"
+   ],
+   "answer": 0,
+   "explain": "Bola dibaca bo-la, ada dua suku kata.",
+   "id": "k1-bahasa_indonesia-011"
+  },
+  {
+   "level": 2,
+   "bab": "Suku kata",
+   "q": "Suku kata awal kata \"buku\" adalah …",
+   "choices": [
+    "bu",
+    "ku",
+    "bo",
+    "ba"
+   ],
+   "answer": 0,
+   "explain": "Buku = bu-ku. Suku kata awalnya bu.",
+   "id": "k1-bahasa_indonesia-012"
+  },
+  {
+   "level": 2,
+   "bab": "Suku kata",
+   "q": "ka + ki dibaca …",
+   "choices": [
+    "kaki",
+    "kiki",
+    "kaku",
+    "kuki"
+   ],
+   "answer": 0,
+   "explain": "ka + ki = kaki.",
+   "id": "k1-bahasa_indonesia-013"
+  },
+  {
+   "level": 2,
+   "bab": "Suku kata",
+   "q": "Lengkapi kata ini!",
+   "img": "🦶 ka _ _",
+   "imgSpeak": "ka titik-titik",
+   "choices": [
+    "ki",
+    "ku",
+    "ke",
+    "ko"
+   ],
+   "answer": 0,
+   "explain": "Gambarnya kaki: ka-ki.",
+   "id": "k1-bahasa_indonesia-014"
+  },
+  {
+   "level": 2,
+   "bab": "Suku kata",
+   "q": "Lengkapi kata ini!",
+   "img": "🍌 pi _ _ _",
+   "imgSpeak": "pi titik-titik",
+   "choices": [
+    "sang",
+    "ring",
+    "san",
+    "sau"
+   ],
+   "answer": 0,
+   "explain": "Gambarnya pisang: pi-sang.",
+   "id": "k1-bahasa_indonesia-015"
+  },
+  {
+   "level": 2,
+   "bab": "Suku kata",
+   "q": "Kata yang diawali suku kata \"la\" adalah …",
+   "choices": [
+    "lampu",
+    "lilin",
+    "lupa",
+    "bola"
+   ],
+   "answer": 0,
+   "explain": "Lampu = lam-pu, diawali \"la\".",
+   "id": "k1-bahasa_indonesia-016"
+  },
+  {
+   "level": 2,
+   "bab": "Suku kata",
+   "q": "Kata yang diawali suku kata \"ci\" adalah …",
+   "choices": [
+    "cicak",
+    "cabe",
+    "cuci",
+    "kaca"
+   ],
+   "answer": 0,
+   "explain": "Cicak = ci-cak.",
+   "id": "k1-bahasa_indonesia-017"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 3 Awas Kuman!",
+   "q": "Saat bersin, kita sebaiknya menutup …",
+   "choices": [
+    "mulut dan hidung",
+    "mata",
+    "telinga",
+    "kaki"
+   ],
+   "answer": 0,
+   "explain": "Tutup mulut dan hidung saat bersin agar kuman tidak menyebar.",
+   "id": "k1-bahasa_indonesia-018"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 3 Awas Kuman!",
+   "q": "Kuman dapat membuat kita …",
+   "choices": [
+    "sakit",
+    "pintar",
+    "kuat",
+    "tinggi"
+   ],
+   "answer": 0,
+   "explain": "Kuman bisa membuat kita tertular penyakit.",
+   "id": "k1-bahasa_indonesia-019"
+  },
+  {
+   "level": 2,
+   "bab": "Tanda baca",
+   "q": "Di akhir kalimat berita kita memakai tanda …",
+   "choices": [
+    "titik ( . )",
+    "tanya ( ? )",
+    "seru ( ! )",
+    "koma ( , )"
+   ],
+   "answer": 0,
+   "explain": "Kalimat berita diakhiri tanda titik.",
+   "id": "k1-bahasa_indonesia-020"
+  },
+  {
+   "level": 3,
+   "bab": "Menyusun kata",
+   "q": "Susunlah suku kata ini menjadi kata yang benar!",
+   "img": "ku – bu",
+   "imgSpeak": "ku, bu",
+   "choices": [
+    "buku",
+    "kubu",
+    "baku",
+    "kuku"
+   ],
+   "answer": 0,
+   "explain": "bu + ku = buku.",
+   "id": "k1-bahasa_indonesia-021"
+  },
+  {
+   "level": 3,
+   "bab": "Menyusun kata",
+   "q": "Susunlah suku kata ini menjadi kata yang benar!",
+   "img": "mah – ru",
+   "imgSpeak": "mah, ru",
+   "choices": [
+    "rumah",
+    "murah",
+    "marah",
+    "rambut"
+   ],
+   "answer": 0,
+   "explain": "ru + mah = rumah.",
+   "id": "k1-bahasa_indonesia-022"
+  },
+  {
+   "level": 3,
+   "bab": "Membaca",
+   "q": "Siapa yang mencuci tangan?",
+   "img": "Lala mencuci tangan.\nLala memakai sabun.\nTangan Lala bersih.",
+   "choices": [
+    "Lala",
+    "Lili",
+    "Ibu",
+    "Kakak"
+   ],
+   "answer": 0,
+   "explain": "Di bacaan tertulis \"Lala mencuci tangan\".",
+   "id": "k1-bahasa_indonesia-023"
+  },
+  {
+   "level": 3,
+   "bab": "Membaca",
+   "q": "Lala mencuci tangan memakai …",
+   "img": "Lala mencuci tangan.\nLala memakai sabun.\nTangan Lala bersih.",
+   "choices": [
+    "sabun",
+    "pasir",
+    "kain",
+    "tisu"
+   ],
+   "answer": 0,
+   "explain": "\"Lala memakai sabun.\"",
+   "id": "k1-bahasa_indonesia-024"
+  },
+  {
+   "level": 3,
+   "bab": "Membaca",
+   "q": "Bola Beni warnanya …",
+   "img": "Beni punya bola.\nBola Beni berwarna merah.\nBeni bermain bola bersama Dika.",
+   "choices": [
+    "merah",
+    "biru",
+    "kuning",
+    "hijau"
+   ],
+   "answer": 0,
+   "explain": "\"Bola Beni berwarna merah.\"",
+   "id": "k1-bahasa_indonesia-025"
+  },
+  {
+   "level": 3,
+   "bab": "Membaca",
+   "q": "Beni bermain bola bersama …",
+   "img": "Beni punya bola.\nBola Beni berwarna merah.\nBeni bermain bola bersama Dika.",
+   "choices": [
+    "Dika",
+    "Lala",
+    "Ayah",
+    "Kakak"
+   ],
+   "answer": 0,
+   "explain": "\"Beni bermain bola bersama Dika.\"",
+   "id": "k1-bahasa_indonesia-026"
+  },
+  {
+   "level": 3,
+   "bab": "Kalimat",
+   "q": "Kalimat yang benar adalah …",
+   "choices": [
+    "Adik minum susu.",
+    "Susu adik minum.",
+    "Minum susu adik.",
+    "Adik susu minum."
+   ],
+   "answer": 0,
+   "explain": "Susunan yang benar: Adik (siapa) minum (melakukan apa) susu (apa).",
+   "id": "k1-bahasa_indonesia-027"
+  },
+  {
+   "level": 3,
+   "bab": "Kata sopan",
+   "q": "Ingin meminjam pensil teman, kita berkata …",
+   "choices": [
+    "Boleh aku pinjam pensilmu?",
+    "Sini pensilnya!",
+    "Aku ambil ya!",
+    "Pensilmu jelek."
+   ],
+   "answer": 0,
+   "explain": "Gunakan kata yang sopan saat meminta tolong atau meminjam.",
+   "id": "k1-bahasa_indonesia-028"
+  },
+  {
+   "level": 3,
+   "bab": "Huruf kapital",
+   "q": "Penulisan nama yang benar adalah …",
+   "choices": [
+    "Dika",
+    "dika",
+    "dIka",
+    "DIKA kecil"
+   ],
+   "answer": 0,
+   "explain": "Nama orang diawali huruf kapital (huruf besar).",
+   "id": "k1-bahasa_indonesia-029"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 3 Awas Kuman!",
+   "q": "Agar tidak tertular pilek, sebaiknya kita …",
+   "choices": [
+    "memakai masker & cuci tangan",
+    "berbagi sedotan",
+    "mengucek mata",
+    "tidak mandi"
+   ],
+   "answer": 0,
+   "explain": "Masker dan cuci tangan membantu mencegah kuman menular.",
+   "id": "k1-bahasa_indonesia-030"
+  }
+ ]
+}

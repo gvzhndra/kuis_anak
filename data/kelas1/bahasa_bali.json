@@ -1,0 +1,449 @@
+{
+ "subject": "Bahasa Bali",
+ "icon": "🌺",
+ "source": "Muatan lokal Bahasa Bali Kelas I (materi umum kurikulum Bahasa Bali, bukan dari SIBI) — mohon dicocokkan dengan buku sekolah",
+ "chapters": [
+  "Angka (wilangan)",
+  "Anggan awak",
+  "Kulawarga",
+  "Wewalungan",
+  "Warna",
+  "Pangastungkara"
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "bab": "Pangastungkara",
+   "q": "Salam umat Hindu di Bali saat bertemu adalah …",
+   "choices": [
+    "Om Swastyastu",
+    "Selamat tinggal",
+    "Dadah",
+    "Permisi"
+   ],
+   "answer": 0,
+   "explain": "Om Swastyastu artinya semoga dalam keadaan baik atas karunia Hyang Widhi.",
+   "id": "k1-bahasa_bali-001"
+  },
+  {
+   "level": 1,
+   "bab": "Angka",
+   "q": "Angka 1 dalam bahasa Bali adalah …",
+   "choices": [
+    "besik",
+    "dua",
+    "telu",
+    "papat"
+   ],
+   "answer": 0,
+   "explain": "1 = besik (abesik).",
+   "id": "k1-bahasa_bali-002"
+  },
+  {
+   "level": 1,
+   "bab": "Angka",
+   "q": "Angka 3 dalam bahasa Bali adalah …",
+   "choices": [
+    "telu",
+    "papat",
+    "lima",
+    "dua"
+   ],
+   "answer": 0,
+   "explain": "3 = telu.",
+   "id": "k1-bahasa_bali-003"
+  },
+  {
+   "level": 1,
+   "bab": "Wewalungan",
+   "q": "Bahasa Bali dari \"kucing\" adalah …",
+   "img": "🐈",
+   "choices": [
+    "meong",
+    "cicing",
+    "siap",
+    "bikul"
+   ],
+   "answer": 0,
+   "explain": "Kucing = meong.",
+   "id": "k1-bahasa_bali-004"
+  },
+  {
+   "level": 1,
+   "bab": "Wewalungan",
+   "q": "Bahasa Bali dari \"ayam\" adalah …",
+   "img": "🐔",
+   "choices": [
+    "siap",
+    "bebek",
+    "kedis",
+    "meong"
+   ],
+   "answer": 0,
+   "explain": "Ayam = siap.",
+   "id": "k1-bahasa_bali-005"
+  },
+  {
+   "level": 1,
+   "bab": "Wewalungan",
+   "q": "Bahasa Bali dari \"anjing\" adalah …",
+   "img": "🐕",
+   "choices": [
+    "cicing",
+    "meong",
+    "sampi",
+    "jaran"
+   ],
+   "answer": 0,
+   "explain": "Anjing = cicing.",
+   "id": "k1-bahasa_bali-006"
+  },
+  {
+   "level": 1,
+   "bab": "Kulawarga",
+   "q": "Bahasa Bali dari \"ibu\" adalah …",
+   "choices": [
+    "meme",
+    "bapa",
+    "pekak",
+    "beli"
+   ],
+   "answer": 0,
+   "explain": "Ibu = meme.",
+   "id": "k1-bahasa_bali-007"
+  },
+  {
+   "level": 1,
+   "bab": "Kulawarga",
+   "q": "Bahasa Bali dari \"ayah\" adalah …",
+   "choices": [
+    "bapa",
+    "meme",
+    "dadong",
+    "adi"
+   ],
+   "answer": 0,
+   "explain": "Ayah = bapa.",
+   "id": "k1-bahasa_bali-008"
+  },
+  {
+   "level": 1,
+   "bab": "Anggan awak",
+   "q": "Bahasa Bali dari \"hidung\" adalah …",
+   "img": "👃",
+   "choices": [
+    "cunguh",
+    "kuping",
+    "bibih",
+    "batis"
+   ],
+   "answer": 0,
+   "explain": "Hidung = cunguh.",
+   "id": "k1-bahasa_bali-009"
+  },
+  {
+   "level": 2,
+   "bab": "Angka",
+   "q": "\"Lima\" dalam bahasa Bali artinya angka …",
+   "choices": [
+    "5",
+    "4",
+    "6",
+    "7"
+   ],
+   "answer": 0,
+   "explain": "Lima = 5 (sama seperti bahasa Indonesia).",
+   "id": "k1-bahasa_bali-010"
+  },
+  {
+   "level": 2,
+   "bab": "Angka",
+   "q": "Angka 4 dalam bahasa Bali adalah …",
+   "choices": [
+    "papat",
+    "pitu",
+    "kutus",
+    "telu"
+   ],
+   "answer": 0,
+   "explain": "4 = papat.",
+   "id": "k1-bahasa_bali-011"
+  },
+  {
+   "level": 2,
+   "bab": "Angka",
+   "q": "Angka 7 dalam bahasa Bali adalah …",
+   "choices": [
+    "pitu",
+    "nem",
+    "kutus",
+    "sia"
+   ],
+   "answer": 0,
+   "explain": "7 = pitu.",
+   "id": "k1-bahasa_bali-012"
+  },
+  {
+   "level": 2,
+   "bab": "Anggan awak",
+   "q": "Bahasa Bali dari \"telinga\" adalah …",
+   "img": "👂",
+   "choices": [
+    "kuping",
+    "cunguh",
+    "mata",
+    "lima"
+   ],
+   "answer": 0,
+   "explain": "Telinga = kuping.",
+   "id": "k1-bahasa_bali-013"
+  },
+  {
+   "level": 2,
+   "bab": "Anggan awak",
+   "q": "Bahasa Bali dari \"kaki\" adalah …",
+   "img": "🦶",
+   "choices": [
+    "batis",
+    "lima",
+    "sirah",
+    "bibih"
+   ],
+   "answer": 0,
+   "explain": "Kaki = batis.",
+   "id": "k1-bahasa_bali-014"
+  },
+  {
+   "level": 2,
+   "bab": "Anggan awak",
+   "q": "Dalam bahasa Bali, \"lima\" juga berarti …",
+   "img": "✋",
+   "choices": [
+    "tangan",
+    "kaki",
+    "kepala",
+    "mata"
+   ],
+   "answer": 0,
+   "explain": "Lima artinya tangan, dan juga angka 5.",
+   "id": "k1-bahasa_bali-015"
+  },
+  {
+   "level": 2,
+   "bab": "Warna",
+   "q": "Warna \"barak\" artinya …",
+   "img": "🟥",
+   "choices": [
+    "merah",
+    "hitam",
+    "putih",
+    "hijau"
+   ],
+   "answer": 0,
+   "explain": "Barak = merah.",
+   "id": "k1-bahasa_bali-016"
+  },
+  {
+   "level": 2,
+   "bab": "Warna",
+   "q": "Warna \"selem\" artinya …",
+   "img": "⬛",
+   "choices": [
+    "hitam",
+    "putih",
+    "kuning",
+    "merah"
+   ],
+   "answer": 0,
+   "explain": "Selem = hitam.",
+   "id": "k1-bahasa_bali-017"
+  },
+  {
+   "level": 2,
+   "bab": "Kulawarga",
+   "q": "Bahasa Bali dari \"kakek\" adalah …",
+   "choices": [
+    "pekak",
+    "dadong",
+    "bapa",
+    "adi"
+   ],
+   "answer": 0,
+   "explain": "Kakek = pekak, nenek = dadong.",
+   "id": "k1-bahasa_bali-018"
+  },
+  {
+   "level": 3,
+   "bab": "Angka",
+   "q": "Angka 8 dalam bahasa Bali adalah …",
+   "choices": [
+    "kutus",
+    "sia",
+    "pitu",
+    "dasa"
+   ],
+   "answer": 0,
+   "explain": "8 = kutus, 9 = sia, 10 = dasa.",
+   "id": "k1-bahasa_bali-019"
+  },
+  {
+   "level": 3,
+   "bab": "Angka",
+   "q": "dua + telu = …",
+   "choices": [
+    "lima",
+    "papat",
+    "nem",
+    "pitu"
+   ],
+   "answer": 0,
+   "explain": "2 + 3 = 5 → lima.",
+   "id": "k1-bahasa_bali-020"
+  },
+  {
+   "level": 3,
+   "bab": "Warna",
+   "q": "Warna \"gadang\" artinya …",
+   "img": "🟩",
+   "choices": [
+    "hijau",
+    "biru",
+    "kuning",
+    "merah"
+   ],
+   "answer": 0,
+   "explain": "Gadang = hijau.",
+   "id": "k1-bahasa_bali-021"
+  },
+  {
+   "level": 3,
+   "bab": "Kulawarga",
+   "q": "Bahasa Bali dari \"nenek\" adalah …",
+   "choices": [
+    "dadong",
+    "pekak",
+    "meme",
+    "mbok"
+   ],
+   "answer": 0,
+   "explain": "Nenek = dadong.",
+   "id": "k1-bahasa_bali-022"
+  },
+  {
+   "level": 3,
+   "bab": "Kulawarga",
+   "q": "Bahasa Bali dari \"adik\" adalah …",
+   "choices": [
+    "adi",
+    "beli",
+    "mbok",
+    "bapa"
+   ],
+   "answer": 0,
+   "explain": "Adik = adi. Kakak laki-laki = beli, kakak perempuan = mbok.",
+   "id": "k1-bahasa_bali-023"
+  },
+  {
+   "level": 3,
+   "bab": "Wewalungan",
+   "q": "Bahasa Bali dari \"sapi\" adalah …",
+   "img": "🐄",
+   "choices": [
+    "sampi",
+    "jaran",
+    "celeng",
+    "kambing"
+   ],
+   "answer": 0,
+   "explain": "Sapi = sampi.",
+   "id": "k1-bahasa_bali-024"
+  },
+  {
+   "level": 3,
+   "bab": "Wewalungan",
+   "q": "Bahasa Bali dari \"tikus\" adalah …",
+   "img": "🐭",
+   "choices": [
+    "bikul",
+    "meong",
+    "lelipi",
+    "kedis"
+   ],
+   "answer": 0,
+   "explain": "Tikus = bikul.",
+   "id": "k1-bahasa_bali-025"
+  },
+  {
+   "level": 3,
+   "bab": "Pangastungkara",
+   "q": "Bahasa Bali dari \"terima kasih\" adalah …",
+   "choices": [
+    "suksma",
+    "rahajeng",
+    "nggih",
+    "durus"
+   ],
+   "answer": 0,
+   "explain": "Terima kasih = suksma.",
+   "id": "k1-bahasa_bali-026"
+  },
+  {
+   "level": 1,
+   "bab": "Angka",
+   "q": "Angka 2 dalam bahasa Bali adalah …",
+   "choices": [
+    "dua",
+    "telu",
+    "besik",
+    "lima"
+   ],
+   "answer": 0,
+   "explain": "2 = dua.",
+   "id": "k1-bahasa_bali-027"
+  },
+  {
+   "level": 2,
+   "bab": "Wewalungan",
+   "q": "Bahasa Bali dari \"burung\" adalah …",
+   "choices": [
+    "kedis",
+    "siap",
+    "be",
+    "bikul"
+   ],
+   "answer": 0,
+   "explain": "Burung = kedis.",
+   "img": "🐦",
+   "id": "k1-bahasa_bali-028"
+  },
+  {
+   "level": 3,
+   "bab": "Angka",
+   "q": "Angka 9 dalam bahasa Bali adalah …",
+   "choices": [
+    "sia",
+    "kutus",
+    "dasa",
+    "nem"
+   ],
+   "answer": 0,
+   "explain": "9 = sia.",
+   "id": "k1-bahasa_bali-029"
+  },
+  {
+   "level": 3,
+   "bab": "Wewalungan",
+   "q": "Bahasa Bali dari \"ikan\" adalah …",
+   "choices": [
+    "be",
+    "siap",
+    "kedis",
+    "meong"
+   ],
+   "answer": 0,
+   "explain": "Ikan = be.",
+   "img": "🐟",
+   "id": "k1-bahasa_bali-030"
+  }
+ ]
+}

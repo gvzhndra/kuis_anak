@@ -1,0 +1,258 @@
+{
+ "subject": "Matematika",
+ "icon": "🔢",
+ "source": "Buku Siswa Matematika untuk SD/MI Kelas III (Kemendikdasmen) · Bab 1–3",
+ "chapters": [
+  "Bab 1 Bilangan Cacah sampai 1.000",
+  "Bab 2 Kalimat Matematika",
+  "Bab 3 Pengukuran Panjang dan Berat"
+ ],
+ "generatedShare": 0.75,
+ "generators": {
+  "1": [
+   "k3_place",
+   "k3_read",
+   "k3_compare",
+   "k3_add",
+   "k3_sub",
+   "k3_mul",
+   "k3_div",
+   "k3_sentence"
+  ],
+  "2": [
+   "k3_place",
+   "k3_read",
+   "k3_compare",
+   "k3_add",
+   "k3_sub",
+   "k3_mul",
+   "k3_div",
+   "k3_sentence",
+   "k3_measure"
+  ],
+  "3": [
+   "k3_place",
+   "k3_compare",
+   "k3_add",
+   "k3_sub",
+   "k3_mul",
+   "k3_div",
+   "k3_sentence",
+   "k3_measure"
+  ]
+ },
+ "questions": [
+  {
+   "level": 1,
+   "bab": "Bab 1 Bilangan",
+   "q": "Bilangan ganjil di bawah ini adalah …",
+   "choices": [
+    "57",
+    "36",
+    "48",
+    "90"
+   ],
+   "answer": 0,
+   "explain": "Bilangan ganjil berakhiran 1, 3, 5, 7, 9. 57 berakhiran 7.",
+   "id": "k3-matematika-001"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Bilangan",
+   "q": "Bilangan genap di bawah ini adalah …",
+   "choices": [
+    "74",
+    "63",
+    "81",
+    "95"
+   ],
+   "answer": 0,
+   "explain": "Bilangan genap berakhiran 0, 2, 4, 6, 8. 74 berakhiran 4.",
+   "id": "k3-matematika-002"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Bilangan",
+   "q": "Hasil 6 × 0 adalah …",
+   "choices": [
+    "0",
+    "6",
+    "1",
+    "60"
+   ],
+   "answer": 0,
+   "explain": "Bilangan apa pun dikali 0 hasilnya 0.",
+   "id": "k3-matematika-003"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 3 Pengukuran",
+   "q": "Alat untuk mengukur panjang meja adalah …",
+   "img": "📏",
+   "choices": [
+    "penggaris/meteran",
+    "timbangan",
+    "termometer",
+    "jam"
+   ],
+   "answer": 0,
+   "explain": "Panjang diukur dengan penggaris atau meteran.",
+   "id": "k3-matematika-004"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 3 Pengukuran",
+   "q": "Alat untuk mengukur berat beras adalah …",
+   "img": "⚖️",
+   "choices": [
+    "timbangan",
+    "penggaris",
+    "meteran",
+    "gelas"
+   ],
+   "answer": 0,
+   "explain": "Berat diukur dengan timbangan.",
+   "id": "k3-matematika-005"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Bilangan",
+   "q": "4 × 6 sama dengan …",
+   "choices": [
+    "6 × 4",
+    "4 + 6",
+    "6 − 4",
+    "4 × 4"
+   ],
+   "answer": 0,
+   "explain": "Perkalian bisa ditukar: 4 × 6 = 6 × 4 = 24 (sifat pertukaran).",
+   "id": "k3-matematika-006"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Bilangan",
+   "q": "7 + 7 + 7 + 7 = … × 7",
+   "choices": [
+    "4",
+    "7",
+    "3",
+    "28"
+   ],
+   "answer": 0,
+   "explain": "Angka 7 dijumlahkan sebanyak 4 kali, jadi 4 × 7.",
+   "id": "k3-matematika-007"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Bilangan",
+   "q": "Bilangan 500 + 30 + 8 adalah …",
+   "choices": [
+    "538",
+    "583",
+    "5.308",
+    "358"
+   ],
+   "answer": 0,
+   "explain": "500 + 30 + 8 = 538.",
+   "id": "k3-matematika-008"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Bilangan",
+   "q": "Bilangan terbesar yang dapat disusun dari angka 4, 9, 2 adalah …",
+   "choices": [
+    "942",
+    "924",
+    "492",
+    "249"
+   ],
+   "answer": 0,
+   "explain": "Taruh angka terbesar di ratusan: 9, lalu 4, lalu 2 → 942.",
+   "id": "k3-matematika-009"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Bilangan",
+   "q": "Hasil pembulatan 68 ke puluhan terdekat adalah …",
+   "choices": [
+    "70",
+    "60",
+    "80",
+    "65"
+   ],
+   "answer": 0,
+   "explain": "Satuannya 8 (≥ 5), dibulatkan ke atas menjadi 70.",
+   "id": "k3-matematika-010"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1 Bilangan",
+   "q": "Bilangan terkecil yang dapat disusun dari angka 7, 0, 5 (angka ratusan tidak boleh 0) adalah …",
+   "choices": [
+    "507",
+    "057",
+    "570",
+    "705"
+   ],
+   "answer": 0,
+   "explain": "Ratusan tidak boleh 0, jadi pilih 5, lalu 0, lalu 7 → 507.",
+   "id": "k3-matematika-011"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1 Bilangan",
+   "q": "Ibu membeli 3 kantong jeruk. Setiap kantong berisi 8 jeruk. 5 jeruk dimakan. Sisa jeruk ada …",
+   "choices": [
+    "19",
+    "24",
+    "29",
+    "16"
+   ],
+   "answer": 0,
+   "explain": "3 × 8 = 24, lalu 24 − 5 = 19.",
+   "id": "k3-matematika-012"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 2 Kalimat Matematika",
+   "q": "Nilai … pada kalimat 45 + … = 72 adalah …",
+   "choices": [
+    "27",
+    "37",
+    "117",
+    "33"
+   ],
+   "answer": 0,
+   "explain": "72 − 45 = 27.",
+   "id": "k3-matematika-013"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 2 Kalimat Matematika",
+   "q": "Nilai … pada kalimat … − 38 = 25 adalah …",
+   "choices": [
+    "63",
+    "13",
+    "53",
+    "73"
+   ],
+   "answer": 0,
+   "explain": "25 + 38 = 63. Cek: 63 − 38 = 25.",
+   "id": "k3-matematika-014"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 3 Pengukuran",
+   "q": "Panjang pita Ani 2 m. Panjang pita Budi 150 cm. Selisih panjang pita mereka adalah …",
+   "choices": [
+    "50 cm",
+    "148 cm",
+    "350 cm",
+    "52 cm"
+   ],
+   "answer": 0,
+   "explain": "2 m = 200 cm. 200 − 150 = 50 cm.",
+   "id": "k3-matematika-015"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+# ============================================================
+#  File & folder yang TIDAK perlu di-upload ke GitHub
+# ============================================================
+
+# --- Buku PDF dari SIBI (±250 MB, ada yang > 100 MB → ditolak GitHub) ---
+#     Simpan di laptop saja. Bisa diunduh ulang dari buku.kemendikdasmen.go.id
+buku/
+*.pdf
+
+# --- Mockup desain (hanya untuk diskusi, tidak dipakai aplikasi) ---
+mockup/
+
+# --- Pengaturan lokal Claude Code / editor (Antigravity, VS Code, dll.) ---
+.claude/
+.vscode/
+.idea/
+.antigravity/
+*.code-workspace
+
+# --- File sistem macOS / Windows ---
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+
+# --- File sementara, cadangan, dan log ---
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# --- Jika suatu saat memakai Node.js / Python ---
+node_modules/
+__pycache__/
+.env
+.env.*

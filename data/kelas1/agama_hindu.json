@@ -1,0 +1,435 @@
+{
+ "subject": "Agama Hindu",
+ "icon": "🙏",
+ "source": "Buku Siswa Pendidikan Agama Hindu dan Budi Pekerti untuk SD Kelas I (Kemendikdasmen) · Bab 1–2",
+ "chapters": [
+  "Bab 1 Cerita Ramayana",
+  "Bab 2 Ciptaan Hyang Widhi Wasa"
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "bab": "Bab 1 Cerita Ramayana",
+   "q": "Istri Rama bernama …",
+   "choices": [
+    "Sita",
+    "Kekayi",
+    "Anjani",
+    "Manthara"
+   ],
+   "answer": 0,
+   "explain": "Rama menikah dengan Sita, putri Raja Janaka.",
+   "id": "k1-agama_hindu-001"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Cerita Ramayana",
+   "q": "Ayah Rama adalah Raja …",
+   "choices": [
+    "Dasaratha",
+    "Rahwana",
+    "Janaka",
+    "Subali"
+   ],
+   "answer": 0,
+   "explain": "Raja Dasaratha adalah raja Kosala, ayah Rama.",
+   "id": "k1-agama_hindu-002"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Cerita Ramayana",
+   "q": "Kera putih yang membantu Rama mencari Sita adalah …",
+   "img": "🐒",
+   "choices": [
+    "Hanuman",
+    "Jatayu",
+    "Rahwana",
+    "Bharata"
+   ],
+   "answer": 0,
+   "explain": "Hanuman membantu Rama dengan tulus.",
+   "id": "k1-agama_hindu-003"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Cerita Ramayana",
+   "q": "Rama pandai …",
+   "img": "🏹",
+   "choices": [
+    "memanah",
+    "berenang",
+    "memasak",
+    "menari"
+   ],
+   "answer": 0,
+   "explain": "Rama mahir memanah.",
+   "id": "k1-agama_hindu-004"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 2 Ciptaan Hyang Widhi",
+   "q": "Pencipta alam semesta beserta isinya adalah …",
+   "choices": [
+    "Hyang Widhi Wasa",
+    "manusia",
+    "raja",
+    "guru"
+   ],
+   "answer": 0,
+   "explain": "Alam semesta adalah ciptaan Hyang Widhi Wasa.",
+   "id": "k1-agama_hindu-005"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 2 Ciptaan Hyang Widhi",
+   "q": "Yang termasuk makhluk hidup adalah …",
+   "choices": [
+    "🐔 ayam",
+    "🪨 batu",
+    "⛰️ gunung",
+    "🌊 laut"
+   ],
+   "answer": 0,
+   "explain": "Ayam bisa bergerak, makan, dan tumbuh. Ayam makhluk hidup.",
+   "id": "k1-agama_hindu-006"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 2 Ciptaan Hyang Widhi",
+   "q": "Yang termasuk benda mati ciptaan Hyang Widhi adalah …",
+   "choices": [
+    "☀️ matahari",
+    "🐟 ikan",
+    "🌳 pohon",
+    "🐄 sapi"
+   ],
+   "answer": 0,
+   "explain": "Matahari, bulan, bintang, gunung, dan laut termasuk benda mati.",
+   "id": "k1-agama_hindu-007"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 2 Ciptaan Hyang Widhi",
+   "q": "Tanaman di rumah harus kita …",
+   "img": "🪴",
+   "choices": [
+    "siram",
+    "injak",
+    "cabut",
+    "biarkan layu"
+   ],
+   "answer": 0,
+   "explain": "Menyiram tanaman adalah cara menghargai ciptaan Hyang Widhi.",
+   "id": "k1-agama_hindu-008"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Cerita Ramayana",
+   "q": "Kitab Ramayana ditulis oleh Maharesi …",
+   "choices": [
+    "Walmiki",
+    "Wiswamitra",
+    "Wyasa",
+    "Agastya"
+   ],
+   "answer": 0,
+   "explain": "Kitab Ramayana ditulis Maharesi Walmiki.",
+   "id": "k1-agama_hindu-009"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Cerita Ramayana",
+   "q": "Kitab Ramayana terdiri atas … kanda.",
+   "choices": [
+    "7",
+    "5",
+    "6",
+    "4"
+   ],
+   "answer": 0,
+   "explain": "Ramayana terdiri atas 7 kanda. Kanda artinya buku.",
+   "id": "k1-agama_hindu-010"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Cerita Ramayana",
+   "q": "Kerajaan Kosala beribu kota …",
+   "choices": [
+    "Ayodhya",
+    "Alengka",
+    "Mithila",
+    "Kiskenda"
+   ],
+   "answer": 0,
+   "explain": "Ibu kota Kerajaan Kosala adalah Ayodhya.",
+   "id": "k1-agama_hindu-011"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Cerita Ramayana",
+   "q": "Saudara yang menemani Rama tinggal di hutan adalah …",
+   "choices": [
+    "Laksmana",
+    "Bharata",
+    "Satrughna",
+    "Sugriwa"
+   ],
+   "answer": 0,
+   "explain": "Laksmana setia menemani dan menjaga Rama.",
+   "id": "k1-agama_hindu-012"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Cerita Ramayana",
+   "q": "Saudara kembar Laksmana bernama …",
+   "choices": [
+    "Satrughna",
+    "Bharata",
+    "Rama",
+    "Subali"
+   ],
+   "answer": 0,
+   "explain": "Laksmana dan Satrughna adalah saudara kembar.",
+   "id": "k1-agama_hindu-013"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Cerita Ramayana",
+   "q": "Raja Alengka yang membawa lari Sita adalah …",
+   "choices": [
+    "Rahwana",
+    "Dasaratha",
+    "Sugriwa",
+    "Janaka"
+   ],
+   "answer": 0,
+   "explain": "Rahwana, raja Alengka, membawa lari Sita.",
+   "id": "k1-agama_hindu-014"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 2 Ciptaan Hyang Widhi",
+   "q": "Tri Pramana artinya tiga …",
+   "choices": [
+    "kemampuan",
+    "dewa",
+    "warna",
+    "tempat suci"
+   ],
+   "answer": 0,
+   "explain": "Tri = tiga, pramana = kemampuan.",
+   "id": "k1-agama_hindu-015"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 2 Ciptaan Hyang Widhi",
+   "q": "Tumbuhan hanya memiliki satu kemampuan, yaitu tumbuh. Tumbuhan termasuk …",
+   "choices": [
+    "Eka Pramana",
+    "Dwi Pramana",
+    "Tri Pramana",
+    "Tri Murti"
+   ],
+   "answer": 0,
+   "explain": "Tumbuhan punya bayu (tumbuh) saja, jadi Eka Pramana.",
+   "id": "k1-agama_hindu-016"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 2 Ciptaan Hyang Widhi",
+   "q": "Kemampuan bersuara disebut …",
+   "choices": [
+    "sabda",
+    "bayu",
+    "idep",
+    "kanda"
+   ],
+   "answer": 0,
+   "explain": "Bayu = bergerak/tumbuh, sabda = bersuara, idep = berpikir.",
+   "id": "k1-agama_hindu-017"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1 Cerita Ramayana",
+   "q": "Burung yang mencoba menolong Sita saat dibawa lari Rahwana adalah …",
+   "choices": [
+    "Jatayu",
+    "Sampati",
+    "Garuda",
+    "Hanuman"
+   ],
+   "answer": 0,
+   "explain": "Jatayu mencoba menolong Sita, tetapi dikalahkan Rahwana.",
+   "id": "k1-agama_hindu-018"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1 Cerita Ramayana",
+   "q": "Kakak Jatayu yang memberi tahu Rama bahwa Sita ada di Alengka adalah …",
+   "choices": [
+    "Sampati",
+    "Subali",
+    "Sugriwa",
+    "Bharata"
+   ],
+   "answer": 0,
+   "explain": "Sampati memberi tahu Rama bahwa Sita dibawa ke Alengka.",
+   "id": "k1-agama_hindu-019"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1 Cerita Ramayana",
+   "q": "Sifat Hanuman yang patut kita teladani adalah …",
+   "choices": [
+    "tulus tanpa pamrih",
+    "mengharapkan hadiah",
+    "sombong",
+    "mudah menyerah"
+   ],
+   "answer": 0,
+   "explain": "Hanuman membantu Rama dengan tulus dan tidak putus asa.",
+   "id": "k1-agama_hindu-020"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1 Cerita Ramayana",
+   "q": "Rama tinggal di hutan selama … tahun.",
+   "choices": [
+    "14",
+    "7",
+    "10",
+    "4"
+   ],
+   "answer": 0,
+   "explain": "Rama tinggal di hutan selama 14 tahun.",
+   "id": "k1-agama_hindu-021"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1 Cerita Ramayana",
+   "q": "Sifat Rama yang patut diteladani adalah …",
+   "choices": [
+    "berbhakti kepada orang tua",
+    "pemarah",
+    "pembohong",
+    "malas"
+   ],
+   "answer": 0,
+   "explain": "Rama berbhakti kepada orang tua, pemaaf, dan penyayang.",
+   "id": "k1-agama_hindu-022"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 2 Ciptaan Hyang Widhi",
+   "q": "Manusia termasuk Tri Pramana karena memiliki …",
+   "choices": [
+    "bayu, sabda, dan idep",
+    "bayu saja",
+    "bayu dan sabda",
+    "sabda saja"
+   ],
+   "answer": 0,
+   "explain": "Manusia bisa bergerak (bayu), bersuara (sabda), dan berpikir (idep).",
+   "id": "k1-agama_hindu-023"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 2 Ciptaan Hyang Widhi",
+   "q": "Kucing bisa bergerak dan bersuara. Kucing termasuk …",
+   "img": "🐈",
+   "choices": [
+    "Dwi Pramana",
+    "Eka Pramana",
+    "Tri Pramana",
+    "benda mati"
+   ],
+   "answer": 0,
+   "explain": "Binatang punya bayu dan sabda, jadi Dwi Pramana.",
+   "id": "k1-agama_hindu-024"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 2 Ciptaan Hyang Widhi",
+   "q": "Cara menghargai ciptaan Hyang Widhi adalah …",
+   "choices": [
+    "merawat binatang peliharaan",
+    "menembak burung",
+    "membuang sampah di sungai",
+    "mencabut tanaman"
+   ],
+   "answer": 0,
+   "explain": "Merawat binatang dan tanaman adalah wujud syukur kepada Hyang Widhi.",
+   "id": "k1-agama_hindu-025"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 2 Ciptaan Hyang Widhi",
+   "q": "Manusia diciptakan berbeda-beda agar kita saling …",
+   "choices": [
+    "menghargai",
+    "membenci",
+    "mengejek",
+    "bertengkar"
+   ],
+   "answer": 0,
+   "explain": "Perbedaan membuat kita saling menghargai dan menghormati.",
+   "id": "k1-agama_hindu-026"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Cerita Ramayana",
+   "q": "Rama mempunyai … saudara laki-laki.",
+   "choices": [
+    "3",
+    "2",
+    "4",
+    "5"
+   ],
+   "answer": 0,
+   "explain": "Saudara Rama: Bharata, Laksmana, dan Satrughna.",
+   "id": "k1-agama_hindu-027"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 2 Ciptaan Hyang Widhi",
+   "q": "Benda langit ciptaan Hyang Widhi yang bersinar di malam hari adalah …",
+   "choices": [
+    "🌙 bulan",
+    "🌳 pohon",
+    "🐟 ikan",
+    "🐔 ayam"
+   ],
+   "answer": 0,
+   "explain": "Matahari, bulan, dan bintang adalah benda langit ciptaan Hyang Widhi.",
+   "id": "k1-agama_hindu-028"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Cerita Ramayana",
+   "q": "Sita adalah putri Raja …",
+   "choices": [
+    "Janaka",
+    "Dasaratha",
+    "Rahwana",
+    "Sugriwa"
+   ],
+   "answer": 0,
+   "explain": "Sita adalah putri Raja Janaka dari Mithila.",
+   "id": "k1-agama_hindu-029"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1 Cerita Ramayana",
+   "q": "Untuk menuju Alengka, pasukan Sugriwa membuat …",
+   "choices": [
+    "jembatan",
+    "kapal terbang",
+    "terowongan",
+    "tangga"
+   ],
+   "answer": 0,
+   "explain": "Pasukan Sugriwa membuat jembatan melewati laut menuju Alengka.",
+   "id": "k1-agama_hindu-030"
+  }
+ ]
+}

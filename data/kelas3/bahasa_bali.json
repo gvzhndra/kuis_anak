@@ -1,0 +1,437 @@
+{
+ "subject": "Bahasa Bali",
+ "icon": "🌺",
+ "source": "Muatan lokal Bahasa Bali Kelas III (materi umum kurikulum Bahasa Bali, bukan dari SIBI) — mohon dicocokkan dengan buku sekolah",
+ "chapters": [
+  "Wilangan (angka)",
+  "Wewaran (nama hari)",
+  "Anggan awak",
+  "Kulawarga",
+  "Sor singgih basa (basa alus)",
+  "Pangangge aksara Bali",
+  "Pangastungkara"
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "bab": "Pangastungkara",
+   "q": "Salam pembuka umat Hindu adalah …",
+   "choices": [
+    "Om Swastyastu",
+    "Om Shanti Shanti Shanti Om",
+    "Rahajeng wengi",
+    "Suksma"
+   ],
+   "answer": 0,
+   "explain": "Om Swastyastu = salam pembuka. Om Shanti Shanti Shanti Om = salam penutup.",
+   "id": "k3-bahasa_bali-001"
+  },
+  {
+   "level": 1,
+   "bab": "Pangastungkara",
+   "q": "Salam penutup umat Hindu adalah …",
+   "choices": [
+    "Om Shanti Shanti Shanti Om",
+    "Om Swastyastu",
+    "Rahajeng semeng",
+    "Durus"
+   ],
+   "answer": 0,
+   "explain": "Om Shanti Shanti Shanti Om artinya semoga damai di hati, di dunia, dan selamanya.",
+   "id": "k3-bahasa_bali-002"
+  },
+  {
+   "level": 1,
+   "bab": "Pangastungkara",
+   "q": "\"Rahajeng semeng\" artinya …",
+   "choices": [
+    "selamat pagi",
+    "selamat malam",
+    "selamat jalan",
+    "selamat ulang tahun"
+   ],
+   "answer": 0,
+   "explain": "Semeng = pagi. Rahajeng semeng = selamat pagi.",
+   "id": "k3-bahasa_bali-003"
+  },
+  {
+   "level": 1,
+   "bab": "Wilangan",
+   "q": "Angka 10 dalam bahasa Bali adalah …",
+   "choices": [
+    "dasa",
+    "sia",
+    "kutus",
+    "nem"
+   ],
+   "answer": 0,
+   "explain": "10 = dasa (adasa).",
+   "id": "k3-bahasa_bali-004"
+  },
+  {
+   "level": 1,
+   "bab": "Wilangan",
+   "q": "Angka 6 dalam bahasa Bali adalah …",
+   "choices": [
+    "nem",
+    "lima",
+    "pitu",
+    "papat"
+   ],
+   "answer": 0,
+   "explain": "6 = nem.",
+   "id": "k3-bahasa_bali-005"
+  },
+  {
+   "level": 1,
+   "bab": "Anggan awak",
+   "q": "\"Bibih\" artinya …",
+   "img": "👄",
+   "choices": [
+    "mulut",
+    "hidung",
+    "telinga",
+    "mata"
+   ],
+   "answer": 0,
+   "explain": "Bibih = mulut.",
+   "id": "k3-bahasa_bali-006"
+  },
+  {
+   "level": 1,
+   "bab": "Kulawarga",
+   "q": "Kakak perempuan dalam bahasa Bali disebut …",
+   "choices": [
+    "mbok",
+    "beli",
+    "adi",
+    "meme"
+   ],
+   "answer": 0,
+   "explain": "Mbok = kakak perempuan, beli = kakak laki-laki.",
+   "id": "k3-bahasa_bali-007"
+  },
+  {
+   "level": 1,
+   "bab": "Wewaran",
+   "q": "Hari Minggu dalam bahasa Bali disebut …",
+   "choices": [
+    "Redite",
+    "Soma",
+    "Buda",
+    "Sukra"
+   ],
+   "answer": 0,
+   "explain": "Redite = Minggu.",
+   "id": "k3-bahasa_bali-008"
+  },
+  {
+   "level": 2,
+   "bab": "Wewaran",
+   "q": "Hari Senin dalam bahasa Bali disebut …",
+   "choices": [
+    "Soma",
+    "Anggara",
+    "Wraspati",
+    "Saniscara"
+   ],
+   "answer": 0,
+   "explain": "Soma = Senin.",
+   "id": "k3-bahasa_bali-009"
+  },
+  {
+   "level": 2,
+   "bab": "Wewaran",
+   "q": "\"Buda\" adalah hari …",
+   "choices": [
+    "Rabu",
+    "Selasa",
+    "Kamis",
+    "Jumat"
+   ],
+   "answer": 0,
+   "explain": "Buda = Rabu.",
+   "id": "k3-bahasa_bali-010"
+  },
+  {
+   "level": 2,
+   "bab": "Wewaran",
+   "q": "\"Sukra\" adalah hari …",
+   "choices": [
+    "Jumat",
+    "Sabtu",
+    "Kamis",
+    "Minggu"
+   ],
+   "answer": 0,
+   "explain": "Sukra = Jumat.",
+   "id": "k3-bahasa_bali-011"
+  },
+  {
+   "level": 2,
+   "bab": "Wilangan",
+   "q": "papat + lima = …",
+   "choices": [
+    "sia",
+    "kutus",
+    "pitu",
+    "dasa"
+   ],
+   "answer": 0,
+   "explain": "4 + 5 = 9 → sia.",
+   "id": "k3-bahasa_bali-012"
+  },
+  {
+   "level": 2,
+   "bab": "Wilangan",
+   "q": "dasa − telu = …",
+   "choices": [
+    "pitu",
+    "nem",
+    "kutus",
+    "lima"
+   ],
+   "answer": 0,
+   "explain": "10 − 3 = 7 → pitu.",
+   "id": "k3-bahasa_bali-013"
+  },
+  {
+   "level": 2,
+   "bab": "Sor singgih basa",
+   "q": "Berbicara kepada orang yang lebih tua atau guru sebaiknya memakai basa …",
+   "choices": [
+    "alus",
+    "kasar",
+    "campur-campur",
+    "asing"
+   ],
+   "answer": 0,
+   "explain": "Kepada orang yang dihormati kita memakai basa alus.",
+   "id": "k3-bahasa_bali-014"
+  },
+  {
+   "level": 2,
+   "bab": "Sor singgih basa",
+   "q": "\"Nggih\" artinya …",
+   "choices": [
+    "ya",
+    "tidak",
+    "nanti",
+    "kenapa"
+   ],
+   "answer": 0,
+   "explain": "Nggih = ya (basa alus).",
+   "id": "k3-bahasa_bali-015"
+  },
+  {
+   "level": 2,
+   "bab": "Pangangge aksara",
+   "q": "Pangangge suara yang membuat bunyi \"i\" disebut …",
+   "choices": [
+    "ulu",
+    "suku",
+    "taleng",
+    "pepet"
+   ],
+   "answer": 0,
+   "explain": "Ulu = i, suku = u, taleng = é, pepet = e (ě).",
+   "id": "k3-bahasa_bali-016"
+  },
+  {
+   "level": 3,
+   "bab": "Wewaran",
+   "q": "\"Wraspati\" adalah hari …",
+   "choices": [
+    "Kamis",
+    "Rabu",
+    "Selasa",
+    "Sabtu"
+   ],
+   "answer": 0,
+   "explain": "Wraspati = Kamis.",
+   "id": "k3-bahasa_bali-017"
+  },
+  {
+   "level": 3,
+   "bab": "Wewaran",
+   "q": "\"Saniscara\" adalah hari …",
+   "choices": [
+    "Sabtu",
+    "Jumat",
+    "Minggu",
+    "Senin"
+   ],
+   "answer": 0,
+   "explain": "Saniscara = Sabtu. Anggara = Selasa.",
+   "id": "k3-bahasa_bali-018"
+  },
+  {
+   "level": 3,
+   "bab": "Wewaran",
+   "q": "Urutan hari yang benar adalah …",
+   "choices": [
+    "Redite – Soma – Anggara",
+    "Soma – Redite – Buda",
+    "Anggara – Buda – Soma",
+    "Sukra – Redite – Soma"
+   ],
+   "answer": 0,
+   "explain": "Redite (Minggu), Soma (Senin), Anggara (Selasa), Buda, Wraspati, Sukra, Saniscara.",
+   "id": "k3-bahasa_bali-019"
+  },
+  {
+   "level": 3,
+   "bab": "Pangangge aksara",
+   "q": "Pangangge suara \"suku\" memberi bunyi …",
+   "choices": [
+    "u",
+    "i",
+    "é",
+    "o"
+   ],
+   "answer": 0,
+   "explain": "Suku = u. Contoh: ba + suku = bu.",
+   "id": "k3-bahasa_bali-020"
+  },
+  {
+   "level": 3,
+   "bab": "Pangangge aksara",
+   "q": "Pangangge suara untuk bunyi \"o\" disebut …",
+   "choices": [
+    "taleng tedong",
+    "ulu",
+    "suku",
+    "pepet"
+   ],
+   "answer": 0,
+   "explain": "Taleng tedong = o.",
+   "id": "k3-bahasa_bali-021"
+  },
+  {
+   "level": 3,
+   "bab": "Sor singgih basa",
+   "q": "Kata \"tiang\" artinya …",
+   "choices": [
+    "saya",
+    "kamu",
+    "dia",
+    "kami"
+   ],
+   "answer": 0,
+   "explain": "Tiang = saya (basa alus, dipakai kepada orang yang dihormati).",
+   "id": "k3-bahasa_bali-022"
+  },
+  {
+   "level": 3,
+   "bab": "Pangastungkara",
+   "q": "Saat menerima pemberian dari guru, kita mengucapkan …",
+   "choices": [
+    "Suksma, Bu/Pak Guru",
+    "Ayo pergi",
+    "Sing ada",
+    "Sampun"
+   ],
+   "answer": 0,
+   "explain": "Suksma = terima kasih.",
+   "id": "k3-bahasa_bali-023"
+  },
+  {
+   "level": 3,
+   "bab": "Anggan awak",
+   "q": "\"Sirah\" artinya …",
+   "choices": [
+    "kepala",
+    "perut",
+    "punggung",
+    "lutut"
+   ],
+   "answer": 0,
+   "explain": "Sirah = kepala.",
+   "id": "k3-bahasa_bali-024"
+  },
+  {
+   "level": 1,
+   "bab": "Kulawarga",
+   "q": "Kakak laki-laki dalam bahasa Bali disebut …",
+   "choices": [
+    "beli",
+    "mbok",
+    "adi",
+    "pekak"
+   ],
+   "answer": 0,
+   "explain": "Beli = kakak laki-laki.",
+   "id": "k3-bahasa_bali-025"
+  },
+  {
+   "level": 1,
+   "bab": "Pangastungkara",
+   "q": "\"Suksma\" artinya …",
+   "choices": [
+    "terima kasih",
+    "selamat pagi",
+    "sampai jumpa",
+    "maaf"
+   ],
+   "answer": 0,
+   "explain": "Suksma = terima kasih.",
+   "id": "k3-bahasa_bali-026"
+  },
+  {
+   "level": 2,
+   "bab": "Wewaran",
+   "q": "\"Anggara\" adalah hari …",
+   "choices": [
+    "Selasa",
+    "Senin",
+    "Rabu",
+    "Minggu"
+   ],
+   "answer": 0,
+   "explain": "Anggara = Selasa.",
+   "id": "k3-bahasa_bali-027"
+  },
+  {
+   "level": 2,
+   "bab": "Wilangan",
+   "q": "kutus − telu = …",
+   "choices": [
+    "lima",
+    "papat",
+    "nem",
+    "pitu"
+   ],
+   "answer": 0,
+   "explain": "8 − 3 = 5 → lima.",
+   "id": "k3-bahasa_bali-028"
+  },
+  {
+   "level": 3,
+   "bab": "Wilangan",
+   "q": "dua × lima = …",
+   "choices": [
+    "dasa",
+    "sia",
+    "kutus",
+    "pitu"
+   ],
+   "answer": 0,
+   "explain": "2 × 5 = 10 → dasa.",
+   "id": "k3-bahasa_bali-029"
+  },
+  {
+   "level": 3,
+   "bab": "Pangangge aksara",
+   "q": "Pangangge suara \"taleng\" memberi bunyi …",
+   "choices": [
+    "é",
+    "i",
+    "u",
+    "o"
+   ],
+   "answer": 0,
+   "explain": "Taleng = é.",
+   "id": "k3-bahasa_bali-030"
+  }
+ ]
+}

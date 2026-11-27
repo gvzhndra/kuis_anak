@@ -1,0 +1,439 @@
+{
+ "subject": "IPAS",
+ "icon": "🌱",
+ "source": "Buku Siswa Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas III (Edisi Revisi) · Bab 1–4",
+ "chapters": [
+  "Bab 1 Keajaiban Tubuhku",
+  "Bab 2 Dahulu, Kini, dan Nanti",
+  "Bab 3 Peduli dan Berbagi",
+  "Bab 4 Siklus Hidup yang Menakjubkan"
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "bab": "Bab 1 Keajaiban Tubuhku",
+   "q": "Kita melihat menggunakan indra …",
+   "img": "👁️",
+   "choices": [
+    "penglihatan (mata)",
+    "pendengaran (telinga)",
+    "penciuman (hidung)",
+    "pengecap (lidah)"
+   ],
+   "answer": 0,
+   "explain": "Mata adalah indra penglihatan.",
+   "id": "k3-ipas-001"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Keajaiban Tubuhku",
+   "q": "Indra untuk mencium bau adalah …",
+   "choices": [
+    "hidung",
+    "telinga",
+    "lidah",
+    "kulit"
+   ],
+   "answer": 0,
+   "explain": "Hidung adalah indra penciuman.",
+   "id": "k3-ipas-002"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Keajaiban Tubuhku",
+   "q": "Rasa manis gula dapat kita ketahui dengan …",
+   "img": "👅",
+   "choices": [
+    "lidah",
+    "mata",
+    "telinga",
+    "hidung"
+   ],
+   "answer": 0,
+   "explain": "Lidah adalah indra pengecap.",
+   "id": "k3-ipas-003"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Keajaiban Tubuhku",
+   "q": "Pancaindra berjumlah …",
+   "choices": [
+    "5",
+    "3",
+    "4",
+    "6"
+   ],
+   "answer": 0,
+   "explain": "Panca = lima: mata, telinga, hidung, lidah, kulit.",
+   "id": "k3-ipas-004"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 3 Peduli dan Berbagi",
+   "q": "Urutan pertumbuhan manusia yang benar adalah …",
+   "choices": [
+    "bayi → anak-anak → remaja → dewasa",
+    "dewasa → bayi → remaja → anak",
+    "remaja → bayi → dewasa → anak",
+    "anak → bayi → dewasa → remaja"
+   ],
+   "answer": 0,
+   "explain": "Manusia tumbuh dari bayi, anak-anak, remaja, dewasa, lalu lansia.",
+   "id": "k3-ipas-005"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 3 Peduli dan Berbagi",
+   "q": "Contoh peran anak di rumah adalah …",
+   "choices": [
+    "merapikan kamar sendiri",
+    "mencari nafkah",
+    "menyetir mobil",
+    "membayar listrik"
+   ],
+   "answer": 0,
+   "explain": "Anak bisa membantu dengan merapikan kamar dan belajar.",
+   "id": "k3-ipas-006"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 4 Siklus Hidup",
+   "q": "Hewan yang berkembang biak dengan bertelur adalah …",
+   "choices": [
+    "🐔 ayam",
+    "🐄 sapi",
+    "🐈 kucing",
+    "🐐 kambing"
+   ],
+   "answer": 0,
+   "explain": "Ayam bertelur. Sapi, kucing, dan kambing melahirkan.",
+   "id": "k3-ipas-007"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 4 Siklus Hidup",
+   "q": "Tumbuhan tumbuh dari …",
+   "img": "🌱",
+   "choices": [
+    "biji",
+    "batu",
+    "pasir",
+    "plastik"
+   ],
+   "answer": 0,
+   "explain": "Banyak tumbuhan tumbuh dari biji.",
+   "id": "k3-ipas-008"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Keajaiban Tubuhku",
+   "q": "Kulit adalah indra …",
+   "choices": [
+    "peraba",
+    "pengecap",
+    "pendengar",
+    "penglihatan"
+   ],
+   "answer": 0,
+   "explain": "Kulit merasakan panas, dingin, halus, kasar → indra peraba.",
+   "id": "k3-ipas-009"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Keajaiban Tubuhku",
+   "q": "Telinga berfungsi untuk …",
+   "img": "👂",
+   "choices": [
+    "mendengar",
+    "melihat",
+    "mencium",
+    "mengecap"
+   ],
+   "answer": 0,
+   "explain": "Telinga adalah indra pendengaran.",
+   "id": "k3-ipas-010"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Keajaiban Tubuhku",
+   "q": "Cara merawat mata yang benar adalah …",
+   "choices": [
+    "membaca di tempat terang",
+    "membaca sambil tiduran",
+    "menonton TV terlalu dekat",
+    "mengucek mata dengan tangan kotor"
+   ],
+   "answer": 0,
+   "explain": "Membaca di tempat terang dan menjaga jarak menjaga kesehatan mata.",
+   "id": "k3-ipas-011"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Keajaiban Tubuhku",
+   "q": "Bulu hidung berfungsi untuk …",
+   "choices": [
+    "menyaring debu & kotoran",
+    "mencium bau harum",
+    "membuat hidung mancung",
+    "mengeluarkan suara"
+   ],
+   "answer": 0,
+   "explain": "Bulu hidung menyaring debu yang masuk saat bernapas.",
+   "id": "k3-ipas-012"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
+   "q": "Nama suatu daerah bisa berasal dari …",
+   "choices": [
+    "nama tumbuhan, hewan, tokoh, atau peristiwa",
+    "nama makanan cepat saji",
+    "nama mainan",
+    "nama film"
+   ],
+   "answer": 0,
+   "explain": "Contoh: Gandaria (Jakarta) berasal dari nama pohon gandaria.",
+   "id": "k3-ipas-013"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
+   "q": "Contoh situs budaya yang perlu dijaga adalah …",
+   "choices": [
+    "candi dan pura kuno",
+    "pusat perbelanjaan",
+    "jalan tol",
+    "pom bensin"
+   ],
+   "answer": 0,
+   "explain": "Situs budaya seperti candi dan pura kuno adalah peninggalan sejarah.",
+   "id": "k3-ipas-014"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
+   "q": "Dahulu orang berkirim kabar lewat surat. Sekarang lewat …",
+   "choices": [
+    "telepon genggam",
+    "burung merpati",
+    "kentongan",
+    "asap"
+   ],
+   "answer": 0,
+   "explain": "Teknologi berubah dari masa ke masa.",
+   "id": "k3-ipas-015"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 3 Peduli dan Berbagi",
+   "q": "Ciri fisik bayi adalah …",
+   "choices": [
+    "tubuh kecil, belum bisa berjalan",
+    "tubuh tinggi, bisa bekerja",
+    "rambut beruban",
+    "bisa menyetir"
+   ],
+   "answer": 0,
+   "explain": "Bayi (0–2 tahun) bertubuh kecil, merangkak, menangis, dan menyusu.",
+   "id": "k3-ipas-016"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 4 Siklus Hidup",
+   "q": "Urutan daur hidup kupu-kupu adalah …",
+   "img": "🦋",
+   "choices": [
+    "telur → ulat → kepompong → kupu-kupu",
+    "telur → kepompong → ulat → kupu-kupu",
+    "ulat → telur → kupu-kupu → kepompong",
+    "kupu-kupu → ulat → telur → kepompong"
+   ],
+   "answer": 0,
+   "explain": "Kupu-kupu mengalami metamorfosis sempurna.",
+   "id": "k3-ipas-017"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 4 Siklus Hidup",
+   "q": "Kebutuhan tumbuhan agar dapat tumbuh adalah …",
+   "choices": [
+    "air, cahaya matahari, udara",
+    "pasir dan plastik",
+    "susu dan roti",
+    "gelap dan kering"
+   ],
+   "answer": 0,
+   "explain": "Tumbuhan butuh air, sinar matahari, udara, dan tanah yang subur.",
+   "id": "k3-ipas-018"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1 Keajaiban Tubuhku",
+   "q": "Telinga kita berlekuk-lekuk. Gunanya adalah …",
+   "choices": [
+    "menangkap dan mengarahkan suara",
+    "agar telinga terlihat lucu",
+    "menyimpan kotoran",
+    "membantu mencium bau"
+   ],
+   "answer": 0,
+   "explain": "Bentuk daun telinga membantu menangkap dan mengarahkan suara ke dalam telinga.",
+   "id": "k3-ipas-019"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1 Keajaiban Tubuhku",
+   "q": "Saat menyentuh panci panas, tangan kita langsung menjauh. Indra yang bekerja adalah …",
+   "choices": [
+    "kulit",
+    "mata",
+    "lidah",
+    "hidung"
+   ],
+   "answer": 0,
+   "explain": "Kulit merasakan panas dan melindungi kita dari bahaya.",
+   "id": "k3-ipas-020"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
+   "q": "Sikap yang tepat terhadap tradisi di daerah kita adalah …",
+   "choices": [
+    "melestarikannya",
+    "melupakannya",
+    "mengejeknya",
+    "merusaknya"
+   ],
+   "answer": 0,
+   "explain": "Tradisi dan situs budaya perlu dijaga agar tidak hilang.",
+   "id": "k3-ipas-021"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
+   "q": "Lapangan bermain kini berubah menjadi perumahan. Ini contoh …",
+   "choices": [
+    "perubahan lingkungan dari masa ke masa",
+    "bencana alam",
+    "daur hidup",
+    "pancaindra"
+   ],
+   "answer": 0,
+   "explain": "Lingkungan bisa berubah karena kebutuhan manusia dari waktu ke waktu.",
+   "id": "k3-ipas-022"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 3 Peduli dan Berbagi",
+   "q": "Kakek sudah lanjut usia dan sulit berjalan. Sikap peduli kita adalah …",
+   "choices": [
+    "membantunya berjalan",
+    "membiarkannya",
+    "menertawakannya",
+    "pergi bermain"
+   ],
+   "answer": 0,
+   "explain": "Lansia perlu dibantu dan dihormati.",
+   "id": "k3-ipas-023"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 4 Siklus Hidup",
+   "q": "Hewan yang mengalami metamorfosis TIDAK sempurna (tanpa kepompong) adalah …",
+   "choices": [
+    "belalang",
+    "kupu-kupu",
+    "nyamuk",
+    "lalat"
+   ],
+   "answer": 0,
+   "explain": "Belalang: telur → nimfa → belalang dewasa, tanpa kepompong.",
+   "id": "k3-ipas-024"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 4 Siklus Hidup",
+   "q": "Daur hidup katak yang benar adalah …",
+   "img": "🐸",
+   "choices": [
+    "telur → berudu → katak muda → katak",
+    "telur → ulat → katak",
+    "berudu → telur → katak",
+    "katak muda → telur → berudu"
+   ],
+   "answer": 0,
+   "explain": "Katak menetas menjadi berudu yang hidup di air, lalu tumbuh kaki menjadi katak.",
+   "id": "k3-ipas-025"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 4 Siklus Hidup",
+   "q": "Biji yang baru tumbuh menjadi tumbuhan kecil disebut …",
+   "choices": [
+    "kecambah",
+    "kepompong",
+    "berudu",
+    "nimfa"
+   ],
+   "answer": 0,
+   "explain": "Biji berkecambah, lalu tumbuh menjadi tanaman muda.",
+   "id": "k3-ipas-026"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 4 Siklus Hidup",
+   "q": "Cara melestarikan hewan dan tumbuhan adalah …",
+   "choices": [
+    "tidak menebang pohon sembarangan",
+    "berburu hewan langka",
+    "membakar hutan",
+    "memetik bunga di taman"
+   ],
+   "answer": 0,
+   "explain": "Menjaga hutan dan tidak berburu membantu hewan dan tumbuhan tetap lestari.",
+   "id": "k3-ipas-027"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 4 Siklus Hidup",
+   "q": "Hewan yang berkembang biak dengan melahirkan adalah …",
+   "choices": [
+    "🐄 sapi",
+    "🐔 ayam",
+    "🐢 penyu",
+    "🐍 ular"
+   ],
+   "answer": 0,
+   "explain": "Sapi melahirkan anaknya. Ayam, penyu, dan ular bertelur.",
+   "id": "k3-ipas-028"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 3 Peduli dan Berbagi",
+   "q": "Peran ayah dan ibu dalam keluarga adalah …",
+   "choices": [
+    "merawat dan membimbing anak",
+    "bermain sepanjang hari",
+    "tidur seharian",
+    "menonton TV terus"
+   ],
+   "answer": 0,
+   "explain": "Orang tua merawat, menyayangi, dan membimbing anak.",
+   "id": "k3-ipas-029"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1 Keajaiban Tubuhku",
+   "q": "Saat pilek, makanan terasa kurang enak karena …",
+   "choices": [
+    "hidung tersumbat sehingga sulit mencium aroma",
+    "lidah hilang",
+    "mata tertutup",
+    "telinga sakit"
+   ],
+   "answer": 0,
+   "explain": "Indra penciuman dan pengecap bekerja sama merasakan makanan.",
+   "id": "k3-ipas-030"
+  }
+ ]
+}

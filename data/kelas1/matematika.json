@@ -1,0 +1,232 @@
+{
+ "subject": "Matematika",
+ "icon": "🔢",
+ "source": "Buku Siswa Matematika untuk SD/MI Kelas I (Kemendikdasmen) · Bab 1–4",
+ "chapters": [
+  "Bab 1 Membilang sampai 10",
+  "Bab 2 Penjumlahan sampai 10",
+  "Bab 3 Pengurangan sampai 10",
+  "Bab 4 Mengenal Bentuk"
+ ],
+ "generatedShare": 0.8,
+ "generators": {
+  "1": [
+   "k1_count",
+   "k1_add",
+   "k1_sub",
+   "k1_compare",
+   "k1_sequence",
+   "k1_before_after",
+   "k1_bond",
+   "k1_shapes"
+  ],
+  "2": [
+   "k1_count",
+   "k1_add",
+   "k1_sub",
+   "k1_compare",
+   "k1_sequence",
+   "k1_story",
+   "k1_bond",
+   "k1_shapes"
+  ],
+  "3": [
+   "k1_count",
+   "k1_add",
+   "k1_sub",
+   "k1_compare",
+   "k1_sequence",
+   "k1_story",
+   "k1_bond"
+  ]
+ },
+ "questions": [
+  {
+   "level": 1,
+   "bab": "Bab 1 Membilang",
+   "q": "Lambang bilangan \"tujuh\" adalah …",
+   "choices": [
+    "7",
+    "1",
+    "4",
+    "9"
+   ],
+   "answer": 0,
+   "explain": "Tujuh ditulis 7.",
+   "id": "k1-matematika-001"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Membilang",
+   "q": "Angka 5 dibaca …",
+   "choices": [
+    "lima",
+    "enam",
+    "empat",
+    "tiga"
+   ],
+   "answer": 0,
+   "explain": "5 dibaca lima.",
+   "id": "k1-matematika-002"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Membilang",
+   "q": "Jari tangan kita satu tangan ada …",
+   "img": "🖐️",
+   "choices": [
+    "5",
+    "4",
+    "6",
+    "10"
+   ],
+   "answer": 0,
+   "explain": "Satu tangan punya 5 jari.",
+   "id": "k1-matematika-003"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 4 Mengenal Bentuk",
+   "q": "Benda yang berbentuk bulat seperti bola adalah …",
+   "choices": [
+    "⚽ bola",
+    "📦 kardus",
+    "📏 penggaris",
+    "📘 buku"
+   ],
+   "answer": 0,
+   "explain": "Bola berbentuk bulat.",
+   "id": "k1-matematika-004"
+  },
+  {
+   "level": 1,
+   "bab": "Bab 4 Mengenal Bentuk",
+   "q": "Benda yang permukaannya datar dan bisa ditumpuk adalah …",
+   "choices": [
+    "📦 kardus",
+    "⚽ bola",
+    "🍊 jeruk",
+    "🎈 balon"
+   ],
+   "answer": 0,
+   "explain": "Kardus punya sisi datar, jadi mudah ditumpuk.",
+   "id": "k1-matematika-005"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Membilang",
+   "q": "Bilangan \"sembilan\" ditulis …",
+   "choices": [
+    "9",
+    "6",
+    "8",
+    "10"
+   ],
+   "answer": 0,
+   "explain": "Sembilan ditulis 9.",
+   "id": "k1-matematika-006"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Membilang",
+   "q": "Kaki ayam ada 2. Kaki kucing ada …",
+   "img": "🐔  🐱",
+   "choices": [
+    "4",
+    "2",
+    "3",
+    "6"
+   ],
+   "answer": 0,
+   "explain": "Kucing berkaki empat (4).",
+   "id": "k1-matematika-007"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 4 Mengenal Bentuk",
+   "q": "Benda yang BISA menggelinding adalah …",
+   "choices": [
+    "🥫 kaleng",
+    "📦 kotak",
+    "🎲 dadu",
+    "📘 buku"
+   ],
+   "answer": 0,
+   "explain": "Kaleng berbentuk tabung, sisinya melengkung sehingga bisa menggelinding.",
+   "id": "k1-matematika-008"
+  },
+  {
+   "level": 2,
+   "bab": "Bab 4 Mengenal Bentuk",
+   "q": "Dadu berbentuk …",
+   "img": "🎲",
+   "choices": [
+    "kubus",
+    "bola",
+    "tabung",
+    "kerucut"
+   ],
+   "answer": 0,
+   "explain": "Dadu berbentuk kubus. Semua sisinya sama besar.",
+   "id": "k1-matematika-009"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1 Membilang",
+   "q": "Bilangan di antara 6 dan 8 adalah …",
+   "choices": [
+    "7",
+    "5",
+    "9",
+    "6"
+   ],
+   "answer": 0,
+   "explain": "6, 7, 8. Jadi bilangan di antaranya adalah 7.",
+   "id": "k1-matematika-010"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 2 Penjumlahan",
+   "q": "Hasil 3 + 4 sama dengan hasil …",
+   "choices": [
+    "5 + 2",
+    "3 + 3",
+    "4 + 4",
+    "6 + 2"
+   ],
+   "answer": 0,
+   "explain": "3 + 4 = 7 dan 5 + 2 = 7. Hasilnya sama.",
+   "id": "k1-matematika-011"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 3 Pengurangan",
+   "q": "Ada 10 kursi. 6 kursi sudah diduduki.\nBerapa kursi yang masih kosong?",
+   "img": "🪑🪑🪑🪑🪑\n🪑🪑🪑🪑🪑",
+   "choices": [
+    "4",
+    "6",
+    "5",
+    "3"
+   ],
+   "answer": 0,
+   "explain": "10 − 6 = 4 kursi kosong.",
+   "id": "k1-matematika-012"
+  },
+  {
+   "level": 3,
+   "bab": "Bab 4 Mengenal Bentuk",
+   "q": "Bentuk bagian atas topi ulang tahun adalah …",
+   "img": "🥳",
+   "choices": [
+    "kerucut",
+    "kubus",
+    "balok",
+    "tabung"
+   ],
+   "answer": 0,
+   "explain": "Topi ulang tahun bentuknya kerucut: bawahnya bulat, atasnya runcing.",
+   "id": "k1-matematika-013"
+  }
+ ]
+}
