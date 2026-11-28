@@ -17,7 +17,7 @@ Dibuka di browser (tablet/HP/laptop), tanpa instal aplikasi.
 | 1 | TIK | Materi umum muatan sekolah (bukan mapel nasional SD) |
 | 3 | Matematika | Buku Siswa Matematika Kelas III · Bab 1–3 (soal otomatis + soal pilihan) |
 | 3 | Bahasa Indonesia | *Kawan Seiring* Kelas III (Edisi Revisi) · Bab 1–2 |
-| 3 | IPAS | Buku Siswa IPAS Kelas III (Edisi Revisi) · Bab 1–4 |
+| 3 | IPAS | Buku Siswa IPAS Kelas III (Kemendikbudristek 2022, Amalia Fitri dkk. — buku sekolah) · Semester 1: Bab 1–4 |
 | 3 | Pendidikan Pancasila | Buku Siswa Kelas III · Bab 1–2 |
 | 3 | Agama Hindu | Buku Siswa Agama Hindu & Budi Pekerti Kelas III · Bab 1–3 |
 | 3 | Bahasa Bali | Materi umum muatan lokal (bukan dari SIBI) · **Bab 4 Aksara Bali & Angka Bali** (hanacaraka, kata tanpa pangangge, angka ᭐–᭙) |
@@ -104,7 +104,7 @@ Buka file di `data/kelasN/<pelajaran>.json` (misalnya di Antigravity), lalu tamb
 - `id` boleh dikosongkan.
 
 ### Cara cepat menambah soal (format ringkas)
-Tambahkan baris di `data/_sumber/kelas1_part1.txt`, `kelas1_part2.txt`, `kelas3_part1.txt`, atau `kelas3_part2.txt` di bawah judul pelajaran (`@ ipas`, dst.):
+Tambahkan baris di `data/_sumber/kelas1_part1.txt`, `kelas1_part2.txt`, `kelas3_part1.txt`, atau `kelas3_part2.txt` di bawah judul pelajaran (`@ pancasila`, dst.):
 ```
 M|level|bab|pertanyaan|jawaban benar|salah 1|salah 2|salah 3|penjelasan
 I|level|bab|pertanyaan|jawaban;variasi lain|penjelasan
@@ -120,9 +120,9 @@ Skrip ini memasukkan soal ke file JSON, memberi nomor bab, dan mengecek kesalaha
 Soal **pangangge suara** aksara Bali kelas 3 (ulu, suku, taleng, pepet) disimpan tetapi **tidak dipakai** karena belum diajarkan di sekolah.
 Jika sudah diajarkan: buka `tools/build_bank.py`, hapus baris `(3, "bahasa_bali")` di bagian `SKIP`, lalu jalankan `python3 tools/build_bank.py`.
 
-Soal Bahasa Inggris dibuat oleh `tools/gen_inggris_k1.py` dan `tools/gen_inggris_k3.py` (dari buku *My Next Words* Grade 1 & 3). Soal aksara Bali dibuat oleh `tools/gen_aksara.py` (daftar kata ada di dalamnya). Setelah mengubahnya, jalankan:
+Soal Bahasa Inggris dibuat oleh `tools/gen_inggris_k1.py` dan `tools/gen_inggris_k3.py` (dari buku *My Next Words* Grade 1 & 3), soal IPAS kelas 3 oleh `tools/gen_ipas_k3.py`. Soal aksara Bali dibuat oleh `tools/gen_aksara.py` (daftar kata ada di dalamnya). Setelah mengubahnya, jalankan:
 ```bash
-python3 tools/gen_aksara.py && python3 tools/gen_inggris_k1.py && python3 tools/gen_inggris_k3.py && python3 tools/build_bank.py
+python3 tools/gen_aksara.py && python3 tools/gen_inggris_k1.py && python3 tools/gen_inggris_k3.py && python3 tools/gen_ipas_k3.py && python3 tools/build_bank.py
 ```
 
 ## Menjalankan di laptop

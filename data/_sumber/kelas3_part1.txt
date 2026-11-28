@@ -36,68 +36,6 @@ I|3|2|Buku yang berisi daftar kata beserta artinya, disusun menurut abjad, diseb
 U|2|Tuliskan pendapatmu tentang membuang sampah di sungai, beserta alasannya!|Aku tidak setuju membuang sampah di sungai, karena sungai menjadi kotor, airnya tercemar, ikan bisa mati, dan dapat menyebabkan banjir.|tidak setuju, kotor, banjir, tercemar
 U|2|Bagaimana perasaanmu jika temanmu sakit? Apa yang akan kamu lakukan?|Aku merasa sedih/khawatir. Aku akan menjenguknya, mendoakannya, atau mengantarkan catatan pelajaran.|sedih, menjenguk, mendoakan, membantu
 
-@ ipas
-M|1|1|Indra peraba adalah …|kulit|mata|telinga|lidah|Kulit merasakan halus, kasar, panas, dan dingin.
-M|1|1|Kita dapat mengetahui bunga harum menggunakan …|hidung|mata|kulit|telinga|Hidung adalah indra penciuman.
-M|1|1|Bagian tubuh untuk melihat warna pelangi adalah …|mata|hidung|lidah|kulit|Mata adalah indra penglihatan.
-M|2|1|Cara merawat telinga yang benar adalah …|membersihkan bagian luar dengan lembut|mengorek dengan benda tajam|mendengar musik sangat keras|memasukkan air sabun|Jangan mengorek telinga dengan benda tajam, cukup bersihkan bagian luar.
-M|2|1|Fungsi alis dan bulu mata adalah …|melindungi mata dari debu & keringat|membuat wajah lucu|membantu mendengar|membantu mencium|Alis dan bulu mata melindungi mata.
-M|2|1|Rasa yang dapat dikecap lidah, kecuali …|harum|manis|asin|pahit|Harum dicium dengan hidung, bukan dikecap lidah.
-M|3|1|Doni menutup mata lalu meraba benda: halus dan dingin. Indra yang bekerja adalah …|kulit (peraba)|mata|telinga|hidung|Tanpa melihat, kulit tetap bisa merasakan halus dan dingin.
-M|3|1|Pancaindra membantu melindungi kita. Contohnya …|hidung mencium bau gosong sehingga kita tahu ada kebakaran|mata dipakai untuk tidur|lidah dipakai untuk melihat|telinga dipakai untuk mencium|Indra memberi tanda bahaya, misalnya bau asap atau gosong.
-M|3|1|Membaca di tempat gelap terlalu lama dapat membuat …|mata cepat lelah|telinga sakit|hidung tersumbat|lidah pahit|Membaca harus di tempat yang cukup terang.
-I|2|1|Indra pengecap adalah …|lidah|Lidah dapat merasakan manis, asin, asam, dan pahit.
-I|2|1|Jumlah pancaindra manusia ada …|5;lima|Panca = lima: mata, telinga, hidung, lidah, kulit.
-I|3|1|Telinga adalah indra …|pendengaran;pendengar|Telinga untuk mendengar.
-I|3|1|Bulu-bulu di dalam hidung berfungsi untuk menyaring …|debu;kotoran;debu dan kotoran|Bulu hidung menyaring debu yang masuk saat bernapas.
-U|1|Sebutkan pancaindra dan fungsinya masing-masing!|Mata untuk melihat, telinga untuk mendengar, hidung untuk mencium, lidah untuk mengecap, kulit untuk meraba.|melihat, mendengar, mencium, mengecap, meraba
-U|1|Tuliskan dua cara merawat mata!|Membaca di tempat terang, menjaga jarak saat menonton TV/gawai, tidak mengucek mata dengan tangan kotor, makan sayur (wortel), dan istirahat yang cukup.|terang, jarak, mengucek, wortel
-M|1|2|Benda yang dipakai orang zaman dahulu untuk menulis surat adalah …|kertas dan pena|telepon genggam|komputer|tablet|Dahulu orang berkirim kabar lewat surat yang ditulis di kertas.
-M|1|2|Contoh situs budaya di Bali adalah …|Pura Besakih|Mal|Bandara|Jalan tol|Pura Besakih adalah tempat suci bersejarah di Bali.
-M|1|2|Kebiasaan turun-temurun dalam keluarga atau masyarakat disebut …|tradisi|teknologi|transportasi|tetangga|Tradisi diwariskan dari orang tua kepada anak cucu.
-M|2|2|Dahulu orang bepergian jauh dengan kuda atau pedati. Sekarang memakai …|mobil, motor, pesawat|dinosaurus|sepatu roda saja|kapal layar kayu saja|Alat transportasi berubah dari masa ke masa.
-M|2|2|Asal-usul nama Gandaria di Jakarta berasal dari nama …|pohon buah gandaria|tokoh pahlawan|sungai besar|gunung|Di daerah itu dahulu banyak tumbuh pohon gandaria.
-M|2|2|Cara mengetahui sejarah keluarga kita adalah …|bertanya kepada kakek dan nenek|menonton kartun|bermain gim|tidur siang|Kakek, nenek, dan orang tua adalah saksi sejarah keluarga.
-M|3|2|Sikap yang tepat saat mengunjungi situs budaya adalah …|menjaga kebersihan & tidak mencoret-coret|mencoret dinding candi|memanjat arca|membuang sampah sembarangan|Situs budaya harus dijaga agar tetap lestari.
-M|3|2|Contoh perubahan lingkungan dari masa ke masa adalah …|sawah berubah menjadi perumahan|matahari terbit dari barat|gunung pindah tempat|laut menjadi kering dalam sehari|Lingkungan bisa berubah karena kebutuhan manusia.
-M|3|2|Manfaat mempelajari sejarah daerah adalah …|mengenal & bangga pada asal-usul daerah|agar cepat kaya|agar tidak sekolah|agar bisa terbang|Mengenal sejarah membuat kita menghargai dan melestarikan budaya.
-I|2|2|Tempat bersejarah peninggalan masa lalu, seperti candi dan pura kuno, disebut situs …|budaya;sejarah|Situs budaya perlu dijaga bersama.
-I|3|2|Kebiasaan yang diwariskan turun-temurun disebut …|tradisi;adat;adat istiadat|Tradisi diwariskan dari generasi ke generasi.
-I|3|2|Orang yang mengalami atau melihat langsung suatu peristiwa masa lalu disebut saksi …|sejarah|Kakek-nenek bisa menjadi saksi sejarah.
-I|2|2|Perubahan alat komunikasi: dahulu surat, sekarang …|telepon genggam;hp;handphone;telepon;ponsel|Sekarang kabar bisa dikirim dengan cepat lewat HP.
-U|2|Sebutkan contoh perubahan di lingkungan tempat tinggal dahulu dan sekarang!|Contoh: dahulu banyak sawah dan lapangan, sekarang menjadi rumah/toko; dahulu jalan tanah, sekarang jalan aspal; dahulu pasar tradisional, sekarang ada toko modern.|dahulu, sekarang, sawah, jalan
-U|2|Mengapa situs budaya harus dijaga? Tuliskan juga satu cara menjaganya!|Karena situs budaya adalah peninggalan sejarah/leluhur yang tidak bisa diganti. Cara menjaganya: tidak mencoret-coret, tidak membuang sampah sembarangan, dan ikut merawatnya.|peninggalan, sejarah, mencoret, sampah
-M|1|3|Fase kehidupan manusia setelah bayi adalah …|anak-anak|dewasa|lansia|remaja|Urutan: bayi → anak-anak → remaja → dewasa → lansia.
-M|1|3|Manusia lanjut usia disebut juga …|lansia|balita|remaja|bayi|Lansia = lanjut usia.
-M|1|3|Contoh sikap peduli kepada anggota keluarga adalah …|membantu ibu menyapu rumah|bermain gawai terus|membantah ayah|berteriak di rumah|Membantu pekerjaan rumah adalah wujud peduli.
-M|2|3|Ciri fisik pada fase dewasa adalah …|tubuh tumbuh sempurna dan bisa bekerja|belum bisa berjalan|masih menyusu|rambut memutih semua|Orang dewasa tubuhnya sudah tumbuh sempurna.
-M|2|3|Ciri fisik lansia adalah …|rambut beruban, kulit keriput|tubuh sangat kecil|belum punya gigi karena bayi|tumbuh tinggi dengan cepat|Lansia biasanya beruban, kulit keriput, dan gerak melambat.
-M|2|3|Peran kakak di rumah adalah …|membantu & membimbing adik|menyuruh adik terus|mengambil mainan adik|tidak peduli|Kakak memberi contoh baik dan membantu adik.
-M|3|3|Nenek ingin menyeberang jalan. Sikap peduli yang tepat adalah …|membantu nenek menyeberang dengan hati-hati|membiarkannya|menertawakannya|berlari mendahului|Membantu orang lain adalah sikap peduli dan berbagi.
-M|3|3|Mengapa setiap anggota keluarga perlu menjalankan perannya?|agar keluarga rukun, nyaman, dan teratur|agar ada yang dimarahi|agar rumah berantakan|agar tidak perlu bekerja sama|Jika semua menjalankan peran, keluarga menjadi harmonis.
-M|3|3|Urutan fase kehidupan yang BENAR adalah …|bayi, anak-anak, remaja, dewasa, lansia|bayi, remaja, anak-anak, lansia, dewasa|anak-anak, bayi, dewasa, remaja, lansia|lansia, dewasa, remaja, anak-anak, bayi|Manusia tumbuh dari bayi sampai lansia.
-I|2|3|Fase kehidupan manusia usia 0–2 tahun disebut …|bayi|Bayi bertubuh kecil, merangkak, dan menyusu.
-I|2|3|Fase sesudah anak-anak dan sebelum dewasa adalah …|remaja|Remaja: tubuh tumbuh cepat dan mulai mandiri.
-I|3|3|Sikap mau membantu orang lain yang membutuhkan disebut sikap …|peduli;tolong menolong;peduli sosial|Peduli = memperhatikan dan membantu orang lain.
-I|3|3|Orang yang bertugas mencari nafkah untuk keluarga biasanya adalah …|ayah;orang tua;ayah dan ibu|Ayah (dan ibu) bekerja untuk memenuhi kebutuhan keluarga.
-U|3|Tuliskan urutan fase kehidupan manusia dan satu ciri setiap fase!|Bayi (tubuh kecil, menyusu) → anak-anak (mulai sekolah, aktif bermain) → remaja (tubuh tumbuh cepat) → dewasa (tubuh sempurna, bekerja) → lansia (beruban, keriput).|bayi, anak-anak, remaja, dewasa, lansia
-U|3|Apa saja peranmu sebagai anak di rumah? Sebutkan minimal dua!|Belajar dengan rajin, membantu orang tua (menyapu, merapikan kamar), menjaga adik, dan menaati aturan di rumah.|belajar, membantu, merapikan, menaati
-M|1|4|Kupu-kupu berasal dari …|ulat|cacing|ikan|semut|Ulat berubah menjadi kepompong, lalu menjadi kupu-kupu.
-M|1|4|Anak katak yang hidup di air disebut …|berudu|ulat|kecambah|nimfa|Berudu (kecebong) bernapas dengan insang dan hidup di air.
-M|1|4|Bagian tumbuhan yang menyerap air dari tanah adalah …|akar|daun|bunga|buah|Akar menyerap air dan zat hara dari tanah.
-M|2|4|Perubahan bentuk tubuh hewan dari menetas sampai dewasa disebut …|metamorfosis|fotosintesis|adaptasi|reproduksi|Metamorfosis: contohnya kupu-kupu dan katak.
-M|2|4|Bagian tumbuhan tempat membuat makanan adalah …|daun|akar|batang|bunga|Daun membuat makanan dengan bantuan sinar matahari.
-M|2|4|Hewan yang TIDAK mengalami metamorfosis adalah …|kucing|kupu-kupu|katak|nyamuk|Anak kucing bentuknya sudah mirip induknya.
-M|3|4|Nyamuk bertelur di air. Cara mencegah nyamuk berkembang biak adalah …|menguras & menutup tempat air|membiarkan genangan air|menyimpan kaleng bekas berisi air|menanam di air kotor|Telur nyamuk menetas di air yang tergenang.
-M|3|4|Urutan daur hidup belalang adalah …|telur → nimfa → belalang dewasa|telur → ulat → kepompong → belalang|telur → berudu → belalang|nimfa → telur → belalang|Belalang mengalami metamorfosis tidak sempurna.
-M|3|4|Biji kacang hijau diletakkan di kapas basah. Beberapa hari kemudian muncul …|kecambah|kepompong|berudu|bunga|Biji yang mendapat air akan berkecambah.
-I|2|4|Ulat yang membungkus dirinya sebelum menjadi kupu-kupu disebut …|kepompong|Kepompong (pupa) adalah tahap sebelum kupu-kupu.
-I|2|4|Bagian tumbuhan yang menyerap air adalah …|akar|Akar menyerap air dan unsur hara dari tanah.
-I|3|4|Anak belalang yang mirip induknya tetapi belum bersayap disebut …|nimfa|Nimfa adalah tahap metamorfosis tidak sempurna.
-I|3|4|Tumbuhan membutuhkan air, udara, dan … matahari untuk tumbuh.|cahaya;sinar;cahaya matahari;sinar matahari|Cahaya matahari membantu tumbuhan membuat makanan.
-U|4|Tuliskan urutan daur hidup kupu-kupu!|Telur → ulat (larva) → kepompong (pupa) → kupu-kupu dewasa.|telur, ulat, kepompong, kupu-kupu
-U|4|Sebutkan dua cara melestarikan hewan dan tumbuhan!|Tidak menebang pohon sembarangan, menanam pohon (reboisasi), tidak berburu hewan langka, tidak membakar hutan, dan menjaga kebersihan lingkungan.|menanam, menebang, berburu, hutan
-
 @ pancasila
 M|1|1|Nama, alamat, dan tanggal lahir termasuk …|identitas diri|hobi|cita-cita|denah|Identitas diri menunjukkan siapa kita.
 M|1|1|Indonesia terdiri atas banyak suku. Contohnya suku …|Bali|Eropa|Jepang|Arab Saudi|Suku Bali adalah salah satu suku bangsa di Indonesia.

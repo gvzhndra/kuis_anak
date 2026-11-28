@@ -3,7 +3,7 @@ Jalankan: python3 tools/build_bank.py   (aman dijalankan berulang — soal sumbe
 import json, re, glob, os
 CH3 = {
  "bahasa_indonesia": ["Bab 1 Kawan Seiring", "Bab 2 Yuk, Berpendapat!"],
- "ipas": ["Bab 1 Keajaiban Tubuhku", "Bab 2 Dahulu, Kini, dan Nanti", "Bab 3 Peduli dan Berbagi", "Bab 4 Siklus Hidup yang Menakjubkan"],
+ "ipas": ["Bab 1 Mari Kenali Hewan di Sekitar Kita", "Bab 2 Ayo, Mengenal Siklus pada Makhluk Hidup", "Bab 3 Hidup Bersama Alam", "Bab 4 Berkenalan dengan Energi"],
  "pancasila": ["Bab 1 Aku Anak Indonesia", "Bab 2 Aku Patuh Aturan"],
  "agama_hindu": ["Bab 1 Kitab Purana", "Bab 2 Tri Murti", "Bab 3 Tri Parartha"],
  "bahasa_bali": ["Bab 1 Pangastungkara, Kulawarga & Anggan Awak", "Bab 2 Wilangan & Wewaran", "Bab 3 Basa Alus (Sor Singgih)", "Bab 4 Aksara Bali & Angka Bali"],
@@ -38,7 +38,7 @@ GRADES = {1: (CH1, TOPIC1), 3: (CH3, TOPIC3)}
 # Materi yang BELUM diajarkan di sekolah → soal disimpan tetapi tidak dipakai ("skip": true).
 # Hapus baris di sini jika materinya sudah diajarkan, lalu jalankan ulang skrip ini.
 # Soal lama yang diganti seluruhnya oleh sumber baru (mis. dari buku yang baru diterima)
-RESET = {(1, "bahasa_inggris"), (3, "bahasa_inggris")}
+RESET = {(1, "bahasa_inggris"), (3, "bahasa_inggris"), (3, "ipas")}
 # Pembagian semester per pelajaran: nomor bab → semester. Tanpa entri di sini = semua bab semester 1.
 SEMESTERS = {
  (1, "bahasa_inggris"): {"1": [1, 2, 3], "2": [4, 5, 6]},

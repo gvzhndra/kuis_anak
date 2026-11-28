@@ -1,0 +1,1135 @@
+{
+ "ipas": [
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Hewan yang sengaja dipelihara, diberi makan, dan dirawat manusia disebut hewan …",
+   "choices": [
+    "peliharaan",
+    "liar",
+    "purba",
+    "langka"
+   ],
+   "answer": 0,
+   "explain": "Hewan peliharaan dirawat manusia, contohnya kucing."
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Contoh hewan peliharaan adalah …",
+   "choices": [
+    "kucing",
+    "nyamuk",
+    "belalang",
+    "kelelawar"
+   ],
+   "answer": 0,
+   "explain": "Kucing banyak dipelihara di rumah.",
+   "img": "🐈",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Hewan yang hidup di air adalah …",
+   "choices": [
+    "ikan",
+    "kucing",
+    "ayam",
+    "kambing"
+   ],
+   "answer": 0,
+   "explain": "Ikan hidup di air.",
+   "img": "🐟",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Kucing memiliki … kaki.",
+   "choices": [
+    "4",
+    "2",
+    "6",
+    "0"
+   ],
+   "answer": 0,
+   "explain": "Kucing berkaki empat, cacing tidak punya kaki."
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Cacing bergerak dengan cara …",
+   "choices": [
+    "menggeliat",
+    "berjalan",
+    "terbang",
+    "melompat"
+   ],
+   "answer": 0,
+   "explain": "Cacing tidak punya kaki, ia menggeliat.",
+   "img": "🪱",
+   "imgSpeak": ""
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Hewan yang memakan tumbuhan disebut …",
+   "choices": [
+    "herbivora",
+    "karnivora",
+    "omnivora",
+    "amfibi"
+   ],
+   "answer": 0,
+   "explain": "Herbivora = pemakan tumbuhan, contohnya sapi, kambing, kelinci."
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Hewan yang memakan daging (hewan lain) disebut …",
+   "choices": [
+    "karnivora",
+    "herbivora",
+    "omnivora",
+    "mamalia"
+   ],
+   "answer": 0,
+   "explain": "Karnivora = pemakan daging, contohnya harimau dan singa."
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Hewan pemakan tumbuhan dan daging disebut …",
+   "choices": [
+    "omnivora",
+    "herbivora",
+    "karnivora",
+    "reptil"
+   ],
+   "answer": 0,
+   "explain": "Omnivora memakan keduanya, contohnya monyet, tikus, babi."
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Contoh hewan herbivora adalah …",
+   "choices": [
+    "kambing",
+    "harimau",
+    "buaya",
+    "singa"
+   ],
+   "answer": 0,
+   "explain": "Kambing memakan rumput.",
+   "img": "🐐",
+   "imgSpeak": ""
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Hewan yang menyusui anaknya termasuk kelompok …",
+   "choices": [
+    "mamalia",
+    "aves",
+    "reptil",
+    "pisces"
+   ],
+   "answer": 0,
+   "explain": "Mamalia menyusui, contohnya kucing, sapi, monyet."
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Gigi taring pada harimau berguna untuk …",
+   "choices": [
+    "mengoyak daging",
+    "mengunyah rumput",
+    "memecah biji",
+    "minum air"
+   ],
+   "answer": 0,
+   "explain": "Karnivora punya taring untuk mengoyak daging."
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Ayam dan burung memiliki paruh yang kuat untuk …",
+   "choices": [
+    "memecah biji-bijian",
+    "mengoyak daging",
+    "berenang",
+    "menggali tanah"
+   ],
+   "answer": 0,
+   "explain": "Paruh kuat membantu menghancurkan biji-bijian."
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Kuku kucing runcing dan melengkung agar kucing mudah …",
+   "choices": [
+    "memanjat",
+    "berenang",
+    "terbang",
+    "menggali"
+   ],
+   "answer": 0,
+   "explain": "Kuku tajam mencengkeram pohon saat memanjat."
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Hewan yang hidup di dua alam (darat dan air) disebut amfibi. Contohnya …",
+   "choices": [
+    "katak",
+    "ular",
+    "burung",
+    "kucing"
+   ],
+   "answer": 0,
+   "explain": "Katak hidup di air dan di darat.",
+   "img": "🐸",
+   "imgSpeak": ""
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Ular, buaya, kadal, dan kura-kura termasuk kelompok …",
+   "choices": [
+    "reptil",
+    "mamalia",
+    "aves",
+    "amfibi"
+   ],
+   "answer": 0,
+   "explain": "Reptil adalah hewan melata."
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Hewan yang TIDAK memiliki tulang belakang disebut …",
+   "choices": [
+    "invertebrata",
+    "vertebrata",
+    "mamalia",
+    "reptil"
+   ],
+   "answer": 0,
+   "explain": "Invertebrata tidak punya tulang belakang, contohnya cacing, siput, kepiting."
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "type": "input",
+   "q": "Hewan pemakan tumbuhan disebut … (herbivora/karnivora)",
+   "answer": "herbivora",
+   "accept": [],
+   "explain": "Herbivora = pemakan tumbuhan."
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "Sapi berkembang dan menyusui anaknya. Sapi termasuk hewan …",
+   "answer": "mamalia",
+   "accept": [],
+   "explain": "Hewan menyusui = mamalia."
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "Burung memiliki bulu dan termasuk kelompok … (aves/reptil)",
+   "answer": "aves",
+   "accept": [],
+   "explain": "Aves = hewan berbulu, yaitu burung."
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "input",
+   "q": "Hewan yang memiliki tulang belakang disebut …",
+   "answer": "vertebrata",
+   "accept": [],
+   "explain": "Vertebrata = bertulang belakang."
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Mengapa bentuk tubuh hewan berbeda-beda? Berikan satu contoh!",
+   "answer": "Karena bentuk tubuh hewan menyesuaikan makanan, tempat tinggal, dan cara bergeraknya supaya bisa bertahan hidup. Contoh: ikan punya sirip untuk berenang, kucing punya kuku tajam untuk memanjat.",
+   "keywords": [
+    "makanan",
+    "tempat tinggal",
+    "bergerak",
+    "bertahan hidup"
+   ]
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Sebutkan masing-masing satu contoh hewan herbivora, karnivora, dan omnivora!",
+   "answer": "Herbivora: sapi/kambing/kelinci. Karnivora: harimau/singa/buaya. Omnivora: monyet/tikus/babi.",
+   "keywords": [
+    "sapi",
+    "kambing",
+    "kelinci",
+    "harimau",
+    "singa",
+    "monyet",
+    "tikus"
+   ]
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Salah satu ciri makhluk hidup adalah berkembang biak, artinya …",
+   "choices": [
+    "menghasilkan keturunan",
+    "bergerak cepat",
+    "makan banyak",
+    "tidur lama"
+   ],
+   "answer": 0,
+   "explain": "Berkembang biak = menghasilkan keturunan."
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Siklus artinya …",
+   "choices": [
+    "putaran kejadian yang berulang",
+    "kejadian sekali saja",
+    "gerakan lurus",
+    "makanan hewan"
+   ],
+   "answer": 0,
+   "explain": "Siklus digambarkan seperti lingkaran."
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Ayam berkembang biak dengan cara …",
+   "choices": [
+    "bertelur",
+    "melahirkan",
+    "membelah diri",
+    "bertunas"
+   ],
+   "answer": 0,
+   "explain": "Ayam bertelur lalu mengeraminya.",
+   "img": "🐔",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Sapi berkembang biak dengan cara …",
+   "choices": [
+    "melahirkan",
+    "bertelur",
+    "bertunas",
+    "membelah diri"
+   ],
+   "answer": 0,
+   "explain": "Sapi melahirkan anaknya.",
+   "img": "🐄",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Anak ulat jika sudah dewasa akan menjadi …",
+   "choices": [
+    "kupu-kupu",
+    "belalang",
+    "lebah",
+    "nyamuk"
+   ],
+   "answer": 0,
+   "explain": "Ulat → kepompong → kupu-kupu.",
+   "img": "🐛",
+   "imgSpeak": ""
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Siklus hidup manusia dimulai dari tahap …",
+   "choices": [
+    "bayi",
+    "dewasa",
+    "remaja",
+    "lanjut usia"
+   ],
+   "answer": 0,
+   "explain": "Bayi → anak-anak → remaja → dewasa → lanjut usia."
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Induk ayam mengerami telurnya selama sekitar …",
+   "choices": [
+    "21 hari",
+    "2 hari",
+    "9 bulan",
+    "1 tahun"
+   ],
+   "answer": 0,
+   "explain": "Telur ayam menetas setelah sekitar 21 hari."
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Hewan yang punah artinya …",
+   "choices": [
+    "habis semua, tidak ada lagi",
+    "jarang ditemukan",
+    "sedang tidur",
+    "pindah rumah"
+   ],
+   "answer": 0,
+   "explain": "Contohnya harimau Jawa dan burung dodo."
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Salah satu penyebab harimau Jawa punah adalah …",
+   "choices": [
+    "hutan rusak dan perburuan",
+    "terlalu banyak makan",
+    "cuaca dingin",
+    "dipelihara manusia"
+   ],
+   "answer": 0,
+   "explain": "Habitat rusak, makanan berkurang, dan perburuan."
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Perubahan bentuk tubuh pada siklus hidup hewan disebut …",
+   "choices": [
+    "metamorfosis",
+    "fotosintesis",
+    "berkembang biak",
+    "adaptasi"
+   ],
+   "answer": 0,
+   "explain": "Metamorfosis = perubahan bentuk."
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Urutan metamorfosis sempurna kupu-kupu yang benar adalah …",
+   "choices": [
+    "telur – ulat – kepompong – kupu-kupu",
+    "telur – kepompong – ulat – kupu-kupu",
+    "ulat – telur – kupu-kupu – kepompong",
+    "telur – nimfa – kupu-kupu"
+   ],
+   "answer": 0,
+   "explain": "Metamorfosis sempurna: telur → larva → pupa → dewasa."
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Metamorfosis tidak sempurna terdiri dari 3 fase, yaitu …",
+   "choices": [
+    "telur – nimfa – dewasa",
+    "telur – larva – pupa – dewasa",
+    "bayi – anak – dewasa",
+    "telur – pupa – dewasa"
+   ],
+   "answer": 0,
+   "explain": "Contohnya belalang, capung, kecoa."
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Hewan yang mengalami metamorfosis TIDAK sempurna adalah …",
+   "choices": [
+    "belalang",
+    "kupu-kupu",
+    "nyamuk",
+    "katak"
+   ],
+   "answer": 0,
+   "explain": "Belalang: telur → nimfa → dewasa.",
+   "img": "🦗",
+   "imgSpeak": ""
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Jentik-jentik adalah fase … pada nyamuk.",
+   "choices": [
+    "larva",
+    "pupa",
+    "dewasa",
+    "nimfa"
+   ],
+   "answer": 0,
+   "explain": "Telur nyamuk menetas menjadi jentik (larva) di air.",
+   "img": "🦟",
+   "imgSpeak": ""
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Nyamuk senang bertelur di …",
+   "choices": [
+    "air yang tergenang",
+    "tanah kering",
+    "pasir panas",
+    "daun kering"
+   ],
+   "answer": 0,
+   "explain": "Karena itu kita menguras dan menutup tempat penampungan air."
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Ular viper dan ikan gupi berkembang biak dengan cara …",
+   "choices": [
+    "bertelur dan melahirkan",
+    "bertelur saja",
+    "membelah diri",
+    "bertunas"
+   ],
+   "answer": 0,
+   "explain": "Telur menetas di dalam perut induknya, lalu anaknya dilahirkan."
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "type": "input",
+   "q": "Kepompong disebut juga …",
+   "answer": "pupa",
+   "accept": [],
+   "explain": "Pupa = kepompong."
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "type": "input",
+   "q": "Tahap anak pada tumbuhan disebut … (bibit)",
+   "answer": "benih",
+   "accept": [
+    "biji",
+    "bibit"
+   ],
+   "explain": "Tahap anak pada tumbuhan = benih."
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "type": "input",
+   "q": "Metamorfosis sempurna terdiri dari … fase. (tulis angka)",
+   "answer": "4",
+   "accept": [
+    "empat"
+   ],
+   "explain": "Telur, larva, pupa, dewasa."
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "input",
+   "q": "Hanya nyamuk … yang mengisap darah. (jantan/betina)",
+   "answer": "betina",
+   "accept": [],
+   "explain": "Nyamuk betina butuh darah untuk telurnya."
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "uraian",
+   "q": "Mengapa makhluk hidup perlu berkembang biak?",
+   "answer": "Agar keturunannya tetap ada di Bumi (mempertahankan jenisnya) dan tidak punah.",
+   "keywords": [
+    "keturunan",
+    "punah",
+    "jenis"
+   ]
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "uraian",
+   "q": "Sebutkan perbedaan metamorfosis sempurna dan tidak sempurna!",
+   "answer": "Metamorfosis sempurna 4 fase: telur, larva, pupa, dewasa (contoh kupu-kupu). Tidak sempurna 3 fase: telur, nimfa, dewasa (contoh belalang).",
+   "keywords": [
+    "4",
+    "3",
+    "larva",
+    "pupa",
+    "nimfa"
+   ]
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "Lingkungan tempat tinggal makhluk hidup disebut …",
+   "choices": [
+    "habitat",
+    "populasi",
+    "individu",
+    "energi"
+   ],
+   "answer": 0,
+   "explain": "Habitat = tempat tinggal."
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "Makhluk hidup di suatu lingkungan disebut komponen …",
+   "choices": [
+    "biotik",
+    "abiotik",
+    "energi",
+    "buatan"
+   ],
+   "answer": 0,
+   "explain": "Biotik = makhluk hidup."
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "Contoh komponen abiotik adalah …",
+   "choices": [
+    "air",
+    "rumput",
+    "ikan",
+    "cacing"
+   ],
+   "answer": 0,
+   "explain": "Abiotik = benda tidak hidup: tanah, air, udara, Matahari, batu."
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "Contoh komponen biotik adalah …",
+   "choices": [
+    "kupu-kupu",
+    "batu",
+    "tanah",
+    "udara"
+   ],
+   "answer": 0,
+   "explain": "Kupu-kupu adalah makhluk hidup."
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "Satu ekor kucing disebut …",
+   "choices": [
+    "individu",
+    "populasi",
+    "komunitas",
+    "ekosistem"
+   ],
+   "answer": 0,
+   "explain": "Satu makhluk hidup = individu."
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "Sekelompok makhluk hidup SEJENIS di satu tempat disebut …",
+   "choices": [
+    "populasi",
+    "individu",
+    "komunitas",
+    "habitat"
+   ],
+   "answer": 0,
+   "explain": "Contoh: sekelompok ikan mas di kolam."
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "Kumpulan makhluk hidup yang BERBEDA jenis dan hidup berdampingan disebut …",
+   "choices": [
+    "komunitas",
+    "populasi",
+    "individu",
+    "abiotik"
+   ],
+   "answer": 0,
+   "explain": "Contoh: ikan, katak, dan teratai di danau."
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "Hubungan antara makhluk hidup dan benda tidak hidup di suatu lingkungan disebut …",
+   "choices": [
+    "ekosistem",
+    "populasi",
+    "simbiosis",
+    "habitat"
+   ],
+   "answer": 0,
+   "explain": "Ekosistem = komunitas + komponen abiotik yang saling berhubungan."
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "Cacing tanah berperan membuat tanah menjadi …",
+   "choices": [
+    "gembur",
+    "keras",
+    "kering",
+    "tercemar"
+   ],
+   "answer": 0,
+   "explain": "Tanah gembur membuat tanaman tumbuh baik.",
+   "img": "🪱",
+   "imgSpeak": ""
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "Akuarium adalah contoh ekosistem …",
+   "choices": [
+    "buatan",
+    "hutan",
+    "gurun",
+    "sawah alami"
+   ],
+   "answer": 0,
+   "explain": "Manusia membuat akuarium mirip ekosistem air."
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "Hubungan yang khas antara dua makhluk hidup disebut …",
+   "choices": [
+    "simbiosis",
+    "ekosistem",
+    "metamorfosis",
+    "habitat"
+   ],
+   "answer": 0,
+   "explain": "Simbiosis ada tiga: mutualisme, komensalisme, parasitisme."
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "Kupu-kupu dan bunga saling menguntungkan. Ini disebut simbiosis …",
+   "choices": [
+    "mutualisme",
+    "parasitisme",
+    "komensalisme",
+    "metamorfosis"
+   ],
+   "answer": 0,
+   "explain": "Kupu-kupu dapat nektar, bunga terbantu penyerbukannya."
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "Anggrek menempel pada pohon. Anggrek untung, pohon tidak untung dan tidak rugi. Ini simbiosis …",
+   "choices": [
+    "komensalisme",
+    "mutualisme",
+    "parasitisme",
+    "predasi"
+   ],
+   "answer": 0,
+   "explain": "Komensalisme: satu untung, yang lain tidak dirugikan."
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "Kutu mengisap darah kucing sehingga kucing gatal. Ini simbiosis …",
+   "choices": [
+    "parasitisme",
+    "mutualisme",
+    "komensalisme",
+    "ekosistem"
+   ],
+   "answer": 0,
+   "explain": "Parasitisme: satu untung, yang lain dirugikan."
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "Tanaman air di kolam berguna untuk hewan air, KECUALI …",
+   "choices": [
+    "membuat air menjadi kotor",
+    "menghasilkan udara",
+    "tempat berlindung",
+    "sumber makanan"
+   ],
+   "answer": 0,
+   "explain": "Tanaman air (eceng gondok) justru menyerap kotoran."
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "Jika pohon-pohon di hutan ditebang habis, yang terjadi adalah …",
+   "choices": [
+    "hewan kehilangan tempat tinggal",
+    "hewan makin banyak",
+    "udara makin segar",
+    "tanah makin subur"
+   ],
+   "answer": 0,
+   "explain": "Jika satu komponen rusak, makhluk hidup lain terganggu."
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "type": "input",
+   "q": "Benda tidak hidup di lingkungan disebut komponen …",
+   "answer": "abiotik",
+   "accept": [],
+   "explain": "Abiotik = tidak hidup."
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "type": "input",
+   "q": "Sari bunga yang diisap kupu-kupu disebut …",
+   "answer": "nektar",
+   "accept": [],
+   "explain": "Nektar = sari bunga."
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "type": "input",
+   "q": "Satu makhluk hidup yang hidup sendiri disebut …",
+   "answer": "individu",
+   "accept": [],
+   "explain": "Individu."
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "input",
+   "q": "Simbiosis yang saling menguntungkan disebut simbiosis …",
+   "answer": "mutualisme",
+   "accept": [],
+   "explain": "Mutualisme = saling menguntungkan."
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "uraian",
+   "q": "Sebutkan 2 komponen biotik dan 2 komponen abiotik di sekolahmu!",
+   "answer": "Biotik: pohon, rumput, semut, burung, manusia. Abiotik: tanah, air, udara, batu, cahaya Matahari.",
+   "keywords": [
+    "pohon",
+    "rumput",
+    "semut",
+    "burung",
+    "tanah",
+    "air",
+    "udara",
+    "batu",
+    "matahari"
+   ]
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "uraian",
+   "q": "Apa yang bisa kamu lakukan untuk menjaga ekosistem di sekitarmu?",
+   "answer": "Tidak membuang sampah sembarangan, tidak mencabut tanaman atau mengganggu hewan, menanam pohon, menjaga kebersihan air.",
+   "keywords": [
+    "sampah",
+    "menanam",
+    "tidak merusak",
+    "mengganggu",
+    "menjaga"
+   ]
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "q": "Lampu menghasilkan energi …",
+   "choices": [
+    "cahaya",
+    "bunyi",
+    "kimia",
+    "gerak"
+   ],
+   "answer": 0,
+   "explain": "Lampu membuat tempat gelap menjadi terang.",
+   "img": "💡",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "q": "Kipas angin menghasilkan energi …",
+   "choices": [
+    "gerak",
+    "cahaya",
+    "kimia",
+    "panas"
+   ],
+   "answer": 0,
+   "explain": "Baling-baling kipas berputar = energi gerak."
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "q": "Sumber energi panas dan cahaya terbesar di Bumi adalah …",
+   "choices": [
+    "Matahari",
+    "Bulan",
+    "lampu",
+    "baterai"
+   ],
+   "answer": 0,
+   "explain": "Matahari memancarkan panas dan cahaya.",
+   "img": "☀️",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "q": "Gitar yang dipetik menghasilkan energi …",
+   "choices": [
+    "bunyi",
+    "cahaya",
+    "panas",
+    "listrik"
+   ],
+   "answer": 0,
+   "explain": "Dawai bergetar dan berbunyi.",
+   "img": "🎸",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "q": "Senter dan jam dinding memakai … sebagai sumber energinya.",
+   "choices": [
+    "baterai",
+    "air",
+    "angin",
+    "kayu bakar"
+   ],
+   "answer": 0,
+   "explain": "Baterai adalah sumber energi listrik.",
+   "img": "🔋",
+   "imgSpeak": ""
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "q": "Energi gerak disebut juga energi …",
+   "choices": [
+    "kinetik",
+    "kimia",
+    "listrik",
+    "panas"
+   ],
+   "answer": 0,
+   "explain": "Energi gerak = energi kinetik."
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "q": "Makanan yang kita makan mengandung energi …",
+   "choices": [
+    "kimia",
+    "bunyi",
+    "cahaya",
+    "listrik"
+   ],
+   "answer": 0,
+   "explain": "Tubuh mengolah makanan menjadi energi kimia."
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "q": "Menjemur pakaian agar kering memanfaatkan energi …",
+   "choices": [
+    "panas",
+    "bunyi",
+    "listrik",
+    "kimia"
+   ],
+   "answer": 0,
+   "explain": "Panas Matahari mengeringkan pakaian, ikan asin, kerupuk."
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "q": "TV, kulkas, dan komputer membutuhkan energi …",
+   "choices": [
+    "listrik",
+    "bunyi",
+    "kimia",
+    "gerak"
+   ],
+   "answer": 0,
+   "explain": "Alat elektronik memakai energi listrik."
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "q": "Angin dapat dimanfaatkan untuk …",
+   "choices": [
+    "menerbangkan layang-layang",
+    "memasak nasi",
+    "menyalakan senter",
+    "menghangatkan air"
+   ],
+   "answer": 0,
+   "explain": "Angin menghasilkan energi gerak, juga untuk kapal layar dan kincir angin.",
+   "img": "🪁",
+   "imgSpeak": ""
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "q": "Bensin, solar, gas elpiji, dan kayu bakar termasuk …",
+   "choices": [
+    "bahan bakar",
+    "energi bunyi",
+    "energi cahaya",
+    "baterai"
+   ],
+   "answer": 0,
+   "explain": "Bahan bakar menyimpan energi kimia; saat dibakar menjadi panas."
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "q": "Uap panas yang keluar dari dalam tanah di sekitar gunung berapi disebut …",
+   "choices": [
+    "panas bumi",
+    "tenaga surya",
+    "energi angin",
+    "energi bunyi"
+   ],
+   "answer": 0,
+   "explain": "Panas bumi bisa diubah menjadi listrik."
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "q": "Pembangkit listrik yang memakai sinar Matahari disebut tenaga …",
+   "choices": [
+    "surya",
+    "air",
+    "angin",
+    "uap"
+   ],
+   "answer": 0,
+   "explain": "Tenaga surya = tenaga Matahari."
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "q": "Cara menghemat listrik yang benar adalah …",
+   "choices": [
+    "mematikan lampu saat tidak dipakai",
+    "menyalakan TV sepanjang hari",
+    "membuka kulkas terus",
+    "menyalakan lampu siang hari"
+   ],
+   "answer": 0,
+   "explain": "Matikan alat elektronik yang tidak dipakai."
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "q": "Mengapa kita tidak boleh membuang-buang makanan?",
+   "choices": [
+    "karena makanan adalah sumber energi",
+    "karena makanan berbunyi",
+    "karena makanan menghasilkan listrik",
+    "karena makanan tidak berguna"
+   ],
+   "answer": 0,
+   "explain": "Membuang makanan = membuang energi; masih banyak orang yang butuh makan."
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "q": "Hewan yang punya listrik di tubuhnya adalah …",
+   "choices": [
+    "belut listrik",
+    "kucing",
+    "ayam",
+    "kupu-kupu"
+   ],
+   "answer": 0,
+   "explain": "Belut listrik dan ikan pari torpedo memakai listrik untuk melindungi diri."
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "type": "input",
+   "q": "Bangun pagi dengan alarm memakai energi …",
+   "answer": "bunyi",
+   "accept": [],
+   "explain": "Alarm berbunyi = energi bunyi."
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "type": "input",
+   "q": "Pergi ke sekolah naik sepeda memakai energi …",
+   "answer": "gerak",
+   "accept": [
+    "kinetik"
+   ],
+   "explain": "Bersepeda = energi gerak."
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "type": "input",
+   "q": "Benda yang menyimpan energi disebut … energi.",
+   "answer": "sumber",
+   "accept": [],
+   "explain": "Contoh sumber energi: baterai, Matahari, makanan."
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "type": "input",
+   "q": "Mandi dan mencuci secukupnya adalah cara menghemat …",
+   "answer": "air",
+   "accept": [],
+   "explain": "Gunakan air seperlunya."
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "type": "uraian",
+   "q": "Sebutkan 3 cara menghemat energi di rumah atau sekolah!",
+   "answer": "Mematikan lampu dan alat elektronik yang tidak dipakai, memakai air secukupnya, menghabiskan makanan, memanfaatkan cahaya Matahari di siang hari.",
+   "keywords": [
+    "mematikan",
+    "lampu",
+    "air",
+    "makanan",
+    "listrik"
+   ]
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "type": "uraian",
+   "q": "Sebutkan 3 bentuk energi beserta contoh bendanya!",
+   "answer": "Cahaya: lampu. Panas: kompor/setrika. Bunyi: gitar/radio. Gerak: kipas angin. Listrik: TV. Kimia: makanan/bensin.",
+   "keywords": [
+    "cahaya",
+    "panas",
+    "bunyi",
+    "gerak",
+    "listrik",
+    "kimia"
+   ]
+  }
+ ]
+}

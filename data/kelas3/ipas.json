@@ -1,1308 +1,1347 @@
 {
  "subject": "IPAS",
  "icon": "🌱",
- "source": "Buku Siswa Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas III (Edisi Revisi) · Bab 1–4",
+ "source": "Buku Siswa Ilmu Pengetahuan Alam dan Sosial SD/MI Kelas III (Kemendikbudristek 2022, Amalia Fitri dkk.) — buku yang dipakai sekolah · Semester 1: Bab 1–4",
  "chapters": [
-  "Bab 1 Keajaiban Tubuhku",
-  "Bab 2 Dahulu, Kini, dan Nanti",
-  "Bab 3 Peduli dan Berbagi",
-  "Bab 4 Siklus Hidup yang Menakjubkan"
+  "Bab 1 Mari Kenali Hewan di Sekitar Kita",
+  "Bab 2 Ayo, Mengenal Siklus pada Makhluk Hidup",
+  "Bab 3 Hidup Bersama Alam",
+  "Bab 4 Berkenalan dengan Energi"
  ],
  "questions": [
   {
    "level": 1,
-   "bab": "Bab 1 Keajaiban Tubuhku",
-   "q": "Kita melihat menggunakan indra …",
-   "img": "👁️",
+   "ch": 1,
+   "q": "Hewan yang sengaja dipelihara, diberi makan, dan dirawat manusia disebut hewan …",
    "choices": [
-    "penglihatan (mata)",
-    "pendengaran (telinga)",
-    "penciuman (hidung)",
-    "pengecap (lidah)"
+    "peliharaan",
+    "liar",
+    "purba",
+    "langka"
    ],
    "answer": 0,
-   "explain": "Mata adalah indra penglihatan.",
-   "id": "k3-ipas-001",
-   "ch": 1
-  },
-  {
-   "level": 1,
-   "bab": "Bab 1 Keajaiban Tubuhku",
-   "q": "Indra untuk mencium bau adalah …",
-   "choices": [
-    "hidung",
-    "telinga",
-    "lidah",
-    "kulit"
-   ],
-   "answer": 0,
-   "explain": "Hidung adalah indra penciuman.",
-   "id": "k3-ipas-002",
-   "ch": 1
-  },
-  {
-   "level": 1,
-   "bab": "Bab 1 Keajaiban Tubuhku",
-   "q": "Rasa manis gula dapat kita ketahui dengan …",
-   "img": "👅",
-   "choices": [
-    "lidah",
-    "mata",
-    "telinga",
-    "hidung"
-   ],
-   "answer": 0,
-   "explain": "Lidah adalah indra pengecap.",
-   "id": "k3-ipas-003",
-   "ch": 1
-  },
-  {
-   "level": 1,
-   "bab": "Bab 1 Keajaiban Tubuhku",
-   "q": "Pancaindra berjumlah …",
-   "choices": [
-    "5",
-    "3",
-    "4",
-    "6"
-   ],
-   "answer": 0,
-   "explain": "Panca = lima: mata, telinga, hidung, lidah, kulit.",
-   "id": "k3-ipas-004",
-   "ch": 1
-  },
-  {
-   "level": 1,
-   "bab": "Bab 3 Peduli dan Berbagi",
-   "q": "Urutan pertumbuhan manusia yang benar adalah …",
-   "choices": [
-    "bayi → anak-anak → remaja → dewasa",
-    "dewasa → bayi → remaja → anak",
-    "remaja → bayi → dewasa → anak",
-    "anak → bayi → dewasa → remaja"
-   ],
-   "answer": 0,
-   "explain": "Manusia tumbuh dari bayi, anak-anak, remaja, dewasa, lalu lansia.",
-   "id": "k3-ipas-005",
-   "ch": 3
-  },
-  {
-   "level": 1,
-   "bab": "Bab 3 Peduli dan Berbagi",
-   "q": "Contoh peran anak di rumah adalah …",
-   "choices": [
-    "merapikan kamar sendiri",
-    "mencari nafkah",
-    "menyetir mobil",
-    "membayar listrik"
-   ],
-   "answer": 0,
-   "explain": "Anak bisa membantu dengan merapikan kamar dan belajar.",
-   "id": "k3-ipas-006",
-   "ch": 3
-  },
-  {
-   "level": 1,
-   "bab": "Bab 4 Siklus Hidup",
-   "q": "Hewan yang berkembang biak dengan bertelur adalah …",
-   "choices": [
-    "🐔 ayam",
-    "🐄 sapi",
-    "🐈 kucing",
-    "🐐 kambing"
-   ],
-   "answer": 0,
-   "explain": "Ayam bertelur. Sapi, kucing, dan kambing melahirkan.",
-   "id": "k3-ipas-007",
-   "ch": 4
-  },
-  {
-   "level": 1,
-   "bab": "Bab 4 Siklus Hidup",
-   "q": "Tumbuhan tumbuh dari …",
-   "img": "🌱",
-   "choices": [
-    "biji",
-    "batu",
-    "pasir",
-    "plastik"
-   ],
-   "answer": 0,
-   "explain": "Banyak tumbuhan tumbuh dari biji.",
-   "id": "k3-ipas-008",
-   "ch": 4
-  },
-  {
-   "level": 2,
-   "bab": "Bab 1 Keajaiban Tubuhku",
-   "q": "Kulit adalah indra …",
-   "choices": [
-    "peraba",
-    "pengecap",
-    "pendengar",
-    "penglihatan"
-   ],
-   "answer": 0,
-   "explain": "Kulit merasakan panas, dingin, halus, kasar → indra peraba.",
-   "id": "k3-ipas-009",
-   "ch": 1
-  },
-  {
-   "level": 1,
-   "bab": "Bab 1 Keajaiban Tubuhku",
-   "q": "Telinga berfungsi untuk …",
-   "img": "👂",
-   "choices": [
-    "mendengar",
-    "melihat",
-    "mencium",
-    "mengecap"
-   ],
-   "answer": 0,
-   "explain": "Telinga adalah indra pendengaran.",
-   "id": "k3-ipas-010",
-   "ch": 1
-  },
-  {
-   "level": 2,
-   "bab": "Bab 1 Keajaiban Tubuhku",
-   "q": "Cara merawat mata yang benar adalah …",
-   "choices": [
-    "membaca di tempat terang",
-    "membaca sambil tiduran",
-    "menonton TV terlalu dekat",
-    "mengucek mata dengan tangan kotor"
-   ],
-   "answer": 0,
-   "explain": "Membaca di tempat terang dan menjaga jarak menjaga kesehatan mata.",
-   "id": "k3-ipas-011",
-   "ch": 1
-  },
-  {
-   "level": 2,
-   "bab": "Bab 1 Keajaiban Tubuhku",
-   "q": "Bulu hidung berfungsi untuk …",
-   "choices": [
-    "menyaring debu & kotoran",
-    "mencium bau harum",
-    "membuat hidung mancung",
-    "mengeluarkan suara"
-   ],
-   "answer": 0,
-   "explain": "Bulu hidung menyaring debu yang masuk saat bernapas.",
-   "id": "k3-ipas-012",
-   "ch": 1
-  },
-  {
-   "level": 2,
-   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
-   "q": "Nama suatu daerah bisa berasal dari …",
-   "choices": [
-    "nama tumbuhan, hewan, tokoh, atau peristiwa",
-    "nama makanan cepat saji",
-    "nama mainan",
-    "nama film"
-   ],
-   "answer": 0,
-   "explain": "Contoh: Gandaria (Jakarta) berasal dari nama pohon gandaria.",
-   "id": "k3-ipas-013",
-   "ch": 2
-  },
-  {
-   "level": 2,
-   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
-   "q": "Contoh situs budaya yang perlu dijaga adalah …",
-   "choices": [
-    "candi dan pura kuno",
-    "pusat perbelanjaan",
-    "jalan tol",
-    "pom bensin"
-   ],
-   "answer": 0,
-   "explain": "Situs budaya seperti candi dan pura kuno adalah peninggalan sejarah.",
-   "id": "k3-ipas-014",
-   "ch": 2
-  },
-  {
-   "level": 2,
-   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
-   "q": "Dahulu orang berkirim kabar lewat surat. Sekarang lewat …",
-   "choices": [
-    "telepon genggam",
-    "burung merpati",
-    "kentongan",
-    "asap"
-   ],
-   "answer": 0,
-   "explain": "Teknologi berubah dari masa ke masa.",
-   "id": "k3-ipas-015",
-   "ch": 2
-  },
-  {
-   "level": 2,
-   "bab": "Bab 3 Peduli dan Berbagi",
-   "q": "Ciri fisik bayi adalah …",
-   "choices": [
-    "tubuh kecil, belum bisa berjalan",
-    "tubuh tinggi, bisa bekerja",
-    "rambut beruban",
-    "bisa menyetir"
-   ],
-   "answer": 0,
-   "explain": "Bayi (0–2 tahun) bertubuh kecil, merangkak, menangis, dan menyusu.",
-   "id": "k3-ipas-016",
-   "ch": 3
-  },
-  {
-   "level": 2,
-   "bab": "Bab 4 Siklus Hidup",
-   "q": "Urutan daur hidup kupu-kupu adalah …",
-   "img": "🦋",
-   "choices": [
-    "telur → ulat → kepompong → kupu-kupu",
-    "telur → kepompong → ulat → kupu-kupu",
-    "ulat → telur → kupu-kupu → kepompong",
-    "kupu-kupu → ulat → telur → kepompong"
-   ],
-   "answer": 0,
-   "explain": "Kupu-kupu mengalami metamorfosis sempurna.",
-   "id": "k3-ipas-017",
-   "ch": 4
-  },
-  {
-   "level": 2,
-   "bab": "Bab 4 Siklus Hidup",
-   "q": "Kebutuhan tumbuhan agar dapat tumbuh adalah …",
-   "choices": [
-    "air, cahaya matahari, udara",
-    "pasir dan plastik",
-    "susu dan roti",
-    "gelap dan kering"
-   ],
-   "answer": 0,
-   "explain": "Tumbuhan butuh air, sinar matahari, udara, dan tanah yang subur.",
-   "id": "k3-ipas-018",
-   "ch": 4
-  },
-  {
-   "level": 3,
-   "bab": "Bab 1 Keajaiban Tubuhku",
-   "q": "Telinga kita berlekuk-lekuk. Gunanya adalah …",
-   "choices": [
-    "menangkap dan mengarahkan suara",
-    "agar telinga terlihat lucu",
-    "menyimpan kotoran",
-    "membantu mencium bau"
-   ],
-   "answer": 0,
-   "explain": "Bentuk daun telinga membantu menangkap dan mengarahkan suara ke dalam telinga.",
-   "id": "k3-ipas-019",
-   "ch": 1
-  },
-  {
-   "level": 3,
-   "bab": "Bab 1 Keajaiban Tubuhku",
-   "q": "Saat menyentuh panci panas, tangan kita langsung menjauh. Indra yang bekerja adalah …",
-   "choices": [
-    "kulit",
-    "mata",
-    "lidah",
-    "hidung"
-   ],
-   "answer": 0,
-   "explain": "Kulit merasakan panas dan melindungi kita dari bahaya.",
-   "id": "k3-ipas-020",
-   "ch": 1
-  },
-  {
-   "level": 3,
-   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
-   "q": "Sikap yang tepat terhadap tradisi di daerah kita adalah …",
-   "choices": [
-    "melestarikannya",
-    "melupakannya",
-    "mengejeknya",
-    "merusaknya"
-   ],
-   "answer": 0,
-   "explain": "Tradisi dan situs budaya perlu dijaga agar tidak hilang.",
-   "id": "k3-ipas-021",
-   "ch": 2
-  },
-  {
-   "level": 3,
-   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
-   "q": "Lapangan bermain kini berubah menjadi perumahan. Ini contoh …",
-   "choices": [
-    "perubahan lingkungan dari masa ke masa",
-    "bencana alam",
-    "daur hidup",
-    "pancaindra"
-   ],
-   "answer": 0,
-   "explain": "Lingkungan bisa berubah karena kebutuhan manusia dari waktu ke waktu.",
-   "id": "k3-ipas-022",
-   "ch": 2
-  },
-  {
-   "level": 3,
-   "bab": "Bab 3 Peduli dan Berbagi",
-   "q": "Kakek sudah lanjut usia dan sulit berjalan. Sikap peduli kita adalah …",
-   "choices": [
-    "membantunya berjalan",
-    "membiarkannya",
-    "menertawakannya",
-    "pergi bermain"
-   ],
-   "answer": 0,
-   "explain": "Lansia perlu dibantu dan dihormati.",
-   "id": "k3-ipas-023",
-   "ch": 3
-  },
-  {
-   "level": 3,
-   "bab": "Bab 4 Siklus Hidup",
-   "q": "Hewan yang mengalami metamorfosis TIDAK sempurna (tanpa kepompong) adalah …",
-   "choices": [
-    "belalang",
-    "kupu-kupu",
-    "nyamuk",
-    "lalat"
-   ],
-   "answer": 0,
-   "explain": "Belalang: telur → nimfa → belalang dewasa, tanpa kepompong.",
-   "id": "k3-ipas-024",
-   "ch": 4
-  },
-  {
-   "level": 3,
-   "bab": "Bab 4 Siklus Hidup",
-   "q": "Daur hidup katak yang benar adalah …",
-   "img": "🐸",
-   "choices": [
-    "telur → berudu → katak muda → katak",
-    "telur → ulat → katak",
-    "berudu → telur → katak",
-    "katak muda → telur → berudu"
-   ],
-   "answer": 0,
-   "explain": "Katak menetas menjadi berudu yang hidup di air, lalu tumbuh kaki menjadi katak.",
-   "id": "k3-ipas-025",
-   "ch": 4
-  },
-  {
-   "level": 3,
-   "bab": "Bab 4 Siklus Hidup",
-   "q": "Biji yang baru tumbuh menjadi tumbuhan kecil disebut …",
-   "choices": [
-    "kecambah",
-    "kepompong",
-    "berudu",
-    "nimfa"
-   ],
-   "answer": 0,
-   "explain": "Biji berkecambah, lalu tumbuh menjadi tanaman muda.",
-   "id": "k3-ipas-026",
-   "ch": 4
-  },
-  {
-   "level": 3,
-   "bab": "Bab 4 Siklus Hidup",
-   "q": "Cara melestarikan hewan dan tumbuhan adalah …",
-   "choices": [
-    "tidak menebang pohon sembarangan",
-    "berburu hewan langka",
-    "membakar hutan",
-    "memetik bunga di taman"
-   ],
-   "answer": 0,
-   "explain": "Menjaga hutan dan tidak berburu membantu hewan dan tumbuhan tetap lestari.",
-   "id": "k3-ipas-027",
-   "ch": 4
-  },
-  {
-   "level": 1,
-   "bab": "Bab 4 Siklus Hidup",
-   "q": "Hewan yang berkembang biak dengan melahirkan adalah …",
-   "choices": [
-    "🐄 sapi",
-    "🐔 ayam",
-    "🐢 penyu",
-    "🐍 ular"
-   ],
-   "answer": 0,
-   "explain": "Sapi melahirkan anaknya. Ayam, penyu, dan ular bertelur.",
-   "id": "k3-ipas-028",
-   "ch": 4
-  },
-  {
-   "level": 2,
-   "bab": "Bab 3 Peduli dan Berbagi",
-   "q": "Peran ayah dan ibu dalam keluarga adalah …",
-   "choices": [
-    "merawat dan membimbing anak",
-    "bermain sepanjang hari",
-    "tidur seharian",
-    "menonton TV terus"
-   ],
-   "answer": 0,
-   "explain": "Orang tua merawat, menyayangi, dan membimbing anak.",
-   "id": "k3-ipas-029",
-   "ch": 3
-  },
-  {
-   "level": 3,
-   "bab": "Bab 1 Keajaiban Tubuhku",
-   "q": "Saat pilek, makanan terasa kurang enak karena …",
-   "choices": [
-    "hidung tersumbat sehingga sulit mencium aroma",
-    "lidah hilang",
-    "mata tertutup",
-    "telinga sakit"
-   ],
-   "answer": 0,
-   "explain": "Indra penciuman dan pengecap bekerja sama merasakan makanan.",
-   "id": "k3-ipas-030",
-   "ch": 1
+   "explain": "Hewan peliharaan dirawat manusia, contohnya kucing.",
+   "bab": "Bab 1 Mari Kenali Hewan di Sekitar Kita",
+   "fromSource": true,
+   "id": "k3-ipas-001"
   },
   {
    "level": 1,
    "ch": 1,
-   "q": "Indra peraba adalah …",
+   "q": "Contoh hewan peliharaan adalah …",
    "choices": [
-    "kulit",
-    "mata",
-    "telinga",
-    "lidah"
+    "kucing",
+    "nyamuk",
+    "belalang",
+    "kelelawar"
    ],
    "answer": 0,
-   "explain": "Kulit merasakan halus, kasar, panas, dan dingin.",
-   "bab": "Bab 1 Keajaiban Tubuhku",
+   "explain": "Kucing banyak dipelihara di rumah.",
+   "img": "🐈",
+   "imgSpeak": "",
+   "bab": "Bab 1 Mari Kenali Hewan di Sekitar Kita",
+   "fromSource": true,
+   "id": "k3-ipas-002"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Hewan yang hidup di air adalah …",
+   "choices": [
+    "ikan",
+    "kucing",
+    "ayam",
+    "kambing"
+   ],
+   "answer": 0,
+   "explain": "Ikan hidup di air.",
+   "img": "🐟",
+   "imgSpeak": "",
+   "bab": "Bab 1 Mari Kenali Hewan di Sekitar Kita",
+   "fromSource": true,
+   "id": "k3-ipas-003"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Kucing memiliki … kaki.",
+   "choices": [
+    "4",
+    "2",
+    "6",
+    "0"
+   ],
+   "answer": 0,
+   "explain": "Kucing berkaki empat, cacing tidak punya kaki.",
+   "bab": "Bab 1 Mari Kenali Hewan di Sekitar Kita",
+   "fromSource": true,
+   "id": "k3-ipas-004"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Cacing bergerak dengan cara …",
+   "choices": [
+    "menggeliat",
+    "berjalan",
+    "terbang",
+    "melompat"
+   ],
+   "answer": 0,
+   "explain": "Cacing tidak punya kaki, ia menggeliat.",
+   "img": "🪱",
+   "imgSpeak": "",
+   "bab": "Bab 1 Mari Kenali Hewan di Sekitar Kita",
+   "fromSource": true,
+   "id": "k3-ipas-005"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Hewan yang memakan tumbuhan disebut …",
+   "choices": [
+    "herbivora",
+    "karnivora",
+    "omnivora",
+    "amfibi"
+   ],
+   "answer": 0,
+   "explain": "Herbivora = pemakan tumbuhan, contohnya sapi, kambing, kelinci.",
+   "bab": "Bab 1 Mari Kenali Hewan di Sekitar Kita",
+   "fromSource": true,
+   "id": "k3-ipas-006"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Hewan yang memakan daging (hewan lain) disebut …",
+   "choices": [
+    "karnivora",
+    "herbivora",
+    "omnivora",
+    "mamalia"
+   ],
+   "answer": 0,
+   "explain": "Karnivora = pemakan daging, contohnya harimau dan singa.",
+   "bab": "Bab 1 Mari Kenali Hewan di Sekitar Kita",
+   "fromSource": true,
+   "id": "k3-ipas-007"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Hewan pemakan tumbuhan dan daging disebut …",
+   "choices": [
+    "omnivora",
+    "herbivora",
+    "karnivora",
+    "reptil"
+   ],
+   "answer": 0,
+   "explain": "Omnivora memakan keduanya, contohnya monyet, tikus, babi.",
+   "bab": "Bab 1 Mari Kenali Hewan di Sekitar Kita",
+   "fromSource": true,
+   "id": "k3-ipas-008"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Contoh hewan herbivora adalah …",
+   "choices": [
+    "kambing",
+    "harimau",
+    "buaya",
+    "singa"
+   ],
+   "answer": 0,
+   "explain": "Kambing memakan rumput.",
+   "img": "🐐",
+   "imgSpeak": "",
+   "bab": "Bab 1 Mari Kenali Hewan di Sekitar Kita",
+   "fromSource": true,
+   "id": "k3-ipas-009"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Hewan yang menyusui anaknya termasuk kelompok …",
+   "choices": [
+    "mamalia",
+    "aves",
+    "reptil",
+    "pisces"
+   ],
+   "answer": 0,
+   "explain": "Mamalia menyusui, contohnya kucing, sapi, monyet.",
+   "bab": "Bab 1 Mari Kenali Hewan di Sekitar Kita",
+   "fromSource": true,
+   "id": "k3-ipas-010"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Gigi taring pada harimau berguna untuk …",
+   "choices": [
+    "mengoyak daging",
+    "mengunyah rumput",
+    "memecah biji",
+    "minum air"
+   ],
+   "answer": 0,
+   "explain": "Karnivora punya taring untuk mengoyak daging.",
+   "bab": "Bab 1 Mari Kenali Hewan di Sekitar Kita",
+   "fromSource": true,
+   "id": "k3-ipas-011"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Ayam dan burung memiliki paruh yang kuat untuk …",
+   "choices": [
+    "memecah biji-bijian",
+    "mengoyak daging",
+    "berenang",
+    "menggali tanah"
+   ],
+   "answer": 0,
+   "explain": "Paruh kuat membantu menghancurkan biji-bijian.",
+   "bab": "Bab 1 Mari Kenali Hewan di Sekitar Kita",
+   "fromSource": true,
+   "id": "k3-ipas-012"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Kuku kucing runcing dan melengkung agar kucing mudah …",
+   "choices": [
+    "memanjat",
+    "berenang",
+    "terbang",
+    "menggali"
+   ],
+   "answer": 0,
+   "explain": "Kuku tajam mencengkeram pohon saat memanjat.",
+   "bab": "Bab 1 Mari Kenali Hewan di Sekitar Kita",
+   "fromSource": true,
+   "id": "k3-ipas-013"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Hewan yang hidup di dua alam (darat dan air) disebut amfibi. Contohnya …",
+   "choices": [
+    "katak",
+    "ular",
+    "burung",
+    "kucing"
+   ],
+   "answer": 0,
+   "explain": "Katak hidup di air dan di darat.",
+   "img": "🐸",
+   "imgSpeak": "",
+   "bab": "Bab 1 Mari Kenali Hewan di Sekitar Kita",
+   "fromSource": true,
+   "id": "k3-ipas-014"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Ular, buaya, kadal, dan kura-kura termasuk kelompok …",
+   "choices": [
+    "reptil",
+    "mamalia",
+    "aves",
+    "amfibi"
+   ],
+   "answer": 0,
+   "explain": "Reptil adalah hewan melata.",
+   "bab": "Bab 1 Mari Kenali Hewan di Sekitar Kita",
+   "fromSource": true,
+   "id": "k3-ipas-015"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Hewan yang TIDAK memiliki tulang belakang disebut …",
+   "choices": [
+    "invertebrata",
+    "vertebrata",
+    "mamalia",
+    "reptil"
+   ],
+   "answer": 0,
+   "explain": "Invertebrata tidak punya tulang belakang, contohnya cacing, siput, kepiting.",
+   "bab": "Bab 1 Mari Kenali Hewan di Sekitar Kita",
+   "fromSource": true,
+   "id": "k3-ipas-016"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "type": "input",
+   "q": "Hewan pemakan tumbuhan disebut … (herbivora/karnivora)",
+   "answer": "herbivora",
+   "accept": [],
+   "explain": "Herbivora = pemakan tumbuhan.",
+   "bab": "Bab 1 Mari Kenali Hewan di Sekitar Kita",
+   "fromSource": true,
+   "id": "k3-ipas-017"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "Sapi berkembang dan menyusui anaknya. Sapi termasuk hewan …",
+   "answer": "mamalia",
+   "accept": [],
+   "explain": "Hewan menyusui = mamalia.",
+   "bab": "Bab 1 Mari Kenali Hewan di Sekitar Kita",
+   "fromSource": true,
+   "id": "k3-ipas-018"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "Burung memiliki bulu dan termasuk kelompok … (aves/reptil)",
+   "answer": "aves",
+   "accept": [],
+   "explain": "Aves = hewan berbulu, yaitu burung.",
+   "bab": "Bab 1 Mari Kenali Hewan di Sekitar Kita",
+   "fromSource": true,
+   "id": "k3-ipas-019"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "input",
+   "q": "Hewan yang memiliki tulang belakang disebut …",
+   "answer": "vertebrata",
+   "accept": [],
+   "explain": "Vertebrata = bertulang belakang.",
+   "bab": "Bab 1 Mari Kenali Hewan di Sekitar Kita",
+   "fromSource": true,
+   "id": "k3-ipas-020"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Mengapa bentuk tubuh hewan berbeda-beda? Berikan satu contoh!",
+   "answer": "Karena bentuk tubuh hewan menyesuaikan makanan, tempat tinggal, dan cara bergeraknya supaya bisa bertahan hidup. Contoh: ikan punya sirip untuk berenang, kucing punya kuku tajam untuk memanjat.",
+   "keywords": [
+    "makanan",
+    "tempat tinggal",
+    "bergerak",
+    "bertahan hidup"
+   ],
+   "bab": "Bab 1 Mari Kenali Hewan di Sekitar Kita",
+   "fromSource": true,
+   "id": "k3-ipas-021"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Sebutkan masing-masing satu contoh hewan herbivora, karnivora, dan omnivora!",
+   "answer": "Herbivora: sapi/kambing/kelinci. Karnivora: harimau/singa/buaya. Omnivora: monyet/tikus/babi.",
+   "keywords": [
+    "sapi",
+    "kambing",
+    "kelinci",
+    "harimau",
+    "singa",
+    "monyet",
+    "tikus"
+   ],
+   "bab": "Bab 1 Mari Kenali Hewan di Sekitar Kita",
+   "fromSource": true,
+   "id": "k3-ipas-022"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Salah satu ciri makhluk hidup adalah berkembang biak, artinya …",
+   "choices": [
+    "menghasilkan keturunan",
+    "bergerak cepat",
+    "makan banyak",
+    "tidur lama"
+   ],
+   "answer": 0,
+   "explain": "Berkembang biak = menghasilkan keturunan.",
+   "bab": "Bab 2 Ayo, Mengenal Siklus pada Makhluk Hidup",
+   "fromSource": true,
+   "id": "k3-ipas-023"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Siklus artinya …",
+   "choices": [
+    "putaran kejadian yang berulang",
+    "kejadian sekali saja",
+    "gerakan lurus",
+    "makanan hewan"
+   ],
+   "answer": 0,
+   "explain": "Siklus digambarkan seperti lingkaran.",
+   "bab": "Bab 2 Ayo, Mengenal Siklus pada Makhluk Hidup",
+   "fromSource": true,
+   "id": "k3-ipas-024"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Ayam berkembang biak dengan cara …",
+   "choices": [
+    "bertelur",
+    "melahirkan",
+    "membelah diri",
+    "bertunas"
+   ],
+   "answer": 0,
+   "explain": "Ayam bertelur lalu mengeraminya.",
+   "img": "🐔",
+   "imgSpeak": "",
+   "bab": "Bab 2 Ayo, Mengenal Siklus pada Makhluk Hidup",
+   "fromSource": true,
+   "id": "k3-ipas-025"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Sapi berkembang biak dengan cara …",
+   "choices": [
+    "melahirkan",
+    "bertelur",
+    "bertunas",
+    "membelah diri"
+   ],
+   "answer": 0,
+   "explain": "Sapi melahirkan anaknya.",
+   "img": "🐄",
+   "imgSpeak": "",
+   "bab": "Bab 2 Ayo, Mengenal Siklus pada Makhluk Hidup",
+   "fromSource": true,
+   "id": "k3-ipas-026"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Anak ulat jika sudah dewasa akan menjadi …",
+   "choices": [
+    "kupu-kupu",
+    "belalang",
+    "lebah",
+    "nyamuk"
+   ],
+   "answer": 0,
+   "explain": "Ulat → kepompong → kupu-kupu.",
+   "img": "🐛",
+   "imgSpeak": "",
+   "bab": "Bab 2 Ayo, Mengenal Siklus pada Makhluk Hidup",
+   "fromSource": true,
+   "id": "k3-ipas-027"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Siklus hidup manusia dimulai dari tahap …",
+   "choices": [
+    "bayi",
+    "dewasa",
+    "remaja",
+    "lanjut usia"
+   ],
+   "answer": 0,
+   "explain": "Bayi → anak-anak → remaja → dewasa → lanjut usia.",
+   "bab": "Bab 2 Ayo, Mengenal Siklus pada Makhluk Hidup",
+   "fromSource": true,
+   "id": "k3-ipas-028"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Induk ayam mengerami telurnya selama sekitar …",
+   "choices": [
+    "21 hari",
+    "2 hari",
+    "9 bulan",
+    "1 tahun"
+   ],
+   "answer": 0,
+   "explain": "Telur ayam menetas setelah sekitar 21 hari.",
+   "bab": "Bab 2 Ayo, Mengenal Siklus pada Makhluk Hidup",
+   "fromSource": true,
+   "id": "k3-ipas-029"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Hewan yang punah artinya …",
+   "choices": [
+    "habis semua, tidak ada lagi",
+    "jarang ditemukan",
+    "sedang tidur",
+    "pindah rumah"
+   ],
+   "answer": 0,
+   "explain": "Contohnya harimau Jawa dan burung dodo.",
+   "bab": "Bab 2 Ayo, Mengenal Siklus pada Makhluk Hidup",
+   "fromSource": true,
+   "id": "k3-ipas-030"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Salah satu penyebab harimau Jawa punah adalah …",
+   "choices": [
+    "hutan rusak dan perburuan",
+    "terlalu banyak makan",
+    "cuaca dingin",
+    "dipelihara manusia"
+   ],
+   "answer": 0,
+   "explain": "Habitat rusak, makanan berkurang, dan perburuan.",
+   "bab": "Bab 2 Ayo, Mengenal Siklus pada Makhluk Hidup",
    "fromSource": true,
    "id": "k3-ipas-031"
   },
   {
-   "level": 1,
-   "ch": 1,
-   "q": "Kita dapat mengetahui bunga harum menggunakan …",
+   "level": 2,
+   "ch": 2,
+   "q": "Perubahan bentuk tubuh pada siklus hidup hewan disebut …",
    "choices": [
-    "hidung",
-    "mata",
-    "kulit",
-    "telinga"
+    "metamorfosis",
+    "fotosintesis",
+    "berkembang biak",
+    "adaptasi"
    ],
    "answer": 0,
-   "explain": "Hidung adalah indra penciuman.",
-   "bab": "Bab 1 Keajaiban Tubuhku",
+   "explain": "Metamorfosis = perubahan bentuk.",
+   "bab": "Bab 2 Ayo, Mengenal Siklus pada Makhluk Hidup",
    "fromSource": true,
    "id": "k3-ipas-032"
   },
   {
-   "level": 1,
-   "ch": 1,
-   "q": "Bagian tubuh untuk melihat warna pelangi adalah …",
+   "level": 3,
+   "ch": 2,
+   "q": "Urutan metamorfosis sempurna kupu-kupu yang benar adalah …",
    "choices": [
-    "mata",
-    "hidung",
-    "lidah",
-    "kulit"
+    "telur – ulat – kepompong – kupu-kupu",
+    "telur – kepompong – ulat – kupu-kupu",
+    "ulat – telur – kupu-kupu – kepompong",
+    "telur – nimfa – kupu-kupu"
    ],
    "answer": 0,
-   "explain": "Mata adalah indra penglihatan.",
-   "bab": "Bab 1 Keajaiban Tubuhku",
+   "explain": "Metamorfosis sempurna: telur → larva → pupa → dewasa.",
+   "bab": "Bab 2 Ayo, Mengenal Siklus pada Makhluk Hidup",
    "fromSource": true,
    "id": "k3-ipas-033"
   },
   {
-   "level": 2,
-   "ch": 1,
-   "q": "Cara merawat telinga yang benar adalah …",
+   "level": 3,
+   "ch": 2,
+   "q": "Metamorfosis tidak sempurna terdiri dari 3 fase, yaitu …",
    "choices": [
-    "membersihkan bagian luar dengan lembut",
-    "mengorek dengan benda tajam",
-    "mendengar musik sangat keras",
-    "memasukkan air sabun"
+    "telur – nimfa – dewasa",
+    "telur – larva – pupa – dewasa",
+    "bayi – anak – dewasa",
+    "telur – pupa – dewasa"
    ],
    "answer": 0,
-   "explain": "Jangan mengorek telinga dengan benda tajam, cukup bersihkan bagian luar.",
-   "bab": "Bab 1 Keajaiban Tubuhku",
+   "explain": "Contohnya belalang, capung, kecoa.",
+   "bab": "Bab 2 Ayo, Mengenal Siklus pada Makhluk Hidup",
    "fromSource": true,
    "id": "k3-ipas-034"
   },
   {
-   "level": 2,
-   "ch": 1,
-   "q": "Fungsi alis dan bulu mata adalah …",
+   "level": 3,
+   "ch": 2,
+   "q": "Hewan yang mengalami metamorfosis TIDAK sempurna adalah …",
    "choices": [
-    "melindungi mata dari debu & keringat",
-    "membuat wajah lucu",
-    "membantu mendengar",
-    "membantu mencium"
+    "belalang",
+    "kupu-kupu",
+    "nyamuk",
+    "katak"
    ],
    "answer": 0,
-   "explain": "Alis dan bulu mata melindungi mata.",
-   "bab": "Bab 1 Keajaiban Tubuhku",
+   "explain": "Belalang: telur → nimfa → dewasa.",
+   "img": "🦗",
+   "imgSpeak": "",
+   "bab": "Bab 2 Ayo, Mengenal Siklus pada Makhluk Hidup",
    "fromSource": true,
    "id": "k3-ipas-035"
   },
   {
-   "level": 2,
-   "ch": 1,
-   "q": "Rasa yang dapat dikecap lidah, kecuali …",
+   "level": 3,
+   "ch": 2,
+   "q": "Jentik-jentik adalah fase … pada nyamuk.",
    "choices": [
-    "harum",
-    "manis",
-    "asin",
-    "pahit"
+    "larva",
+    "pupa",
+    "dewasa",
+    "nimfa"
    ],
    "answer": 0,
-   "explain": "Harum dicium dengan hidung, bukan dikecap lidah.",
-   "bab": "Bab 1 Keajaiban Tubuhku",
+   "explain": "Telur nyamuk menetas menjadi jentik (larva) di air.",
+   "img": "🦟",
+   "imgSpeak": "",
+   "bab": "Bab 2 Ayo, Mengenal Siklus pada Makhluk Hidup",
    "fromSource": true,
    "id": "k3-ipas-036"
   },
   {
    "level": 3,
-   "ch": 1,
-   "q": "Doni menutup mata lalu meraba benda: halus dan dingin. Indra yang bekerja adalah …",
+   "ch": 2,
+   "q": "Nyamuk senang bertelur di …",
    "choices": [
-    "kulit (peraba)",
-    "mata",
-    "telinga",
-    "hidung"
+    "air yang tergenang",
+    "tanah kering",
+    "pasir panas",
+    "daun kering"
    ],
    "answer": 0,
-   "explain": "Tanpa melihat, kulit tetap bisa merasakan halus dan dingin.",
-   "bab": "Bab 1 Keajaiban Tubuhku",
+   "explain": "Karena itu kita menguras dan menutup tempat penampungan air.",
+   "bab": "Bab 2 Ayo, Mengenal Siklus pada Makhluk Hidup",
    "fromSource": true,
    "id": "k3-ipas-037"
   },
   {
    "level": 3,
-   "ch": 1,
-   "q": "Pancaindra membantu melindungi kita. Contohnya …",
+   "ch": 2,
+   "q": "Ular viper dan ikan gupi berkembang biak dengan cara …",
    "choices": [
-    "hidung mencium bau gosong sehingga kita tahu ada kebakaran",
-    "mata dipakai untuk tidur",
-    "lidah dipakai untuk melihat",
-    "telinga dipakai untuk mencium"
+    "bertelur dan melahirkan",
+    "bertelur saja",
+    "membelah diri",
+    "bertunas"
    ],
    "answer": 0,
-   "explain": "Indra memberi tanda bahaya, misalnya bau asap atau gosong.",
-   "bab": "Bab 1 Keajaiban Tubuhku",
+   "explain": "Telur menetas di dalam perut induknya, lalu anaknya dilahirkan.",
+   "bab": "Bab 2 Ayo, Mengenal Siklus pada Makhluk Hidup",
    "fromSource": true,
    "id": "k3-ipas-038"
   },
   {
-   "level": 3,
-   "ch": 1,
-   "q": "Membaca di tempat gelap terlalu lama dapat membuat …",
-   "choices": [
-    "mata cepat lelah",
-    "telinga sakit",
-    "hidung tersumbat",
-    "lidah pahit"
-   ],
-   "answer": 0,
-   "explain": "Membaca harus di tempat yang cukup terang.",
-   "bab": "Bab 1 Keajaiban Tubuhku",
+   "level": 1,
+   "ch": 2,
+   "type": "input",
+   "q": "Kepompong disebut juga …",
+   "answer": "pupa",
+   "accept": [],
+   "explain": "Pupa = kepompong.",
+   "bab": "Bab 2 Ayo, Mengenal Siklus pada Makhluk Hidup",
    "fromSource": true,
    "id": "k3-ipas-039"
   },
   {
    "level": 2,
-   "ch": 1,
+   "ch": 2,
    "type": "input",
-   "q": "Indra pengecap adalah …",
-   "answer": "lidah",
-   "accept": [],
-   "explain": "Lidah dapat merasakan manis, asin, asam, dan pahit.",
-   "bab": "Bab 1 Keajaiban Tubuhku",
+   "q": "Tahap anak pada tumbuhan disebut … (bibit)",
+   "answer": "benih",
+   "accept": [
+    "biji",
+    "bibit"
+   ],
+   "explain": "Tahap anak pada tumbuhan = benih.",
+   "bab": "Bab 2 Ayo, Mengenal Siklus pada Makhluk Hidup",
    "fromSource": true,
    "id": "k3-ipas-040"
   },
   {
    "level": 2,
-   "ch": 1,
+   "ch": 2,
    "type": "input",
-   "q": "Jumlah pancaindra manusia ada …",
-   "answer": "5",
+   "q": "Metamorfosis sempurna terdiri dari … fase. (tulis angka)",
+   "answer": "4",
    "accept": [
-    "lima"
+    "empat"
    ],
-   "explain": "Panca = lima: mata, telinga, hidung, lidah, kulit.",
-   "bab": "Bab 1 Keajaiban Tubuhku",
+   "explain": "Telur, larva, pupa, dewasa.",
+   "bab": "Bab 2 Ayo, Mengenal Siklus pada Makhluk Hidup",
    "fromSource": true,
    "id": "k3-ipas-041"
   },
   {
    "level": 3,
-   "ch": 1,
+   "ch": 2,
    "type": "input",
-   "q": "Telinga adalah indra …",
-   "answer": "pendengaran",
-   "accept": [
-    "pendengar"
-   ],
-   "explain": "Telinga untuk mendengar.",
-   "bab": "Bab 1 Keajaiban Tubuhku",
+   "q": "Hanya nyamuk … yang mengisap darah. (jantan/betina)",
+   "answer": "betina",
+   "accept": [],
+   "explain": "Nyamuk betina butuh darah untuk telurnya.",
+   "bab": "Bab 2 Ayo, Mengenal Siklus pada Makhluk Hidup",
    "fromSource": true,
    "id": "k3-ipas-042"
   },
   {
    "level": 3,
-   "ch": 1,
-   "type": "input",
-   "q": "Bulu-bulu di dalam hidung berfungsi untuk menyaring …",
-   "answer": "debu",
-   "accept": [
-    "kotoran",
-    "debu dan kotoran"
+   "ch": 2,
+   "type": "uraian",
+   "q": "Mengapa makhluk hidup perlu berkembang biak?",
+   "answer": "Agar keturunannya tetap ada di Bumi (mempertahankan jenisnya) dan tidak punah.",
+   "keywords": [
+    "keturunan",
+    "punah",
+    "jenis"
    ],
-   "explain": "Bulu hidung menyaring debu yang masuk saat bernapas.",
-   "bab": "Bab 1 Keajaiban Tubuhku",
+   "bab": "Bab 2 Ayo, Mengenal Siklus pada Makhluk Hidup",
    "fromSource": true,
    "id": "k3-ipas-043"
   },
   {
    "level": 3,
-   "ch": 1,
+   "ch": 2,
    "type": "uraian",
-   "q": "Sebutkan pancaindra dan fungsinya masing-masing!",
-   "answer": "Mata untuk melihat, telinga untuk mendengar, hidung untuk mencium, lidah untuk mengecap, kulit untuk meraba.",
+   "q": "Sebutkan perbedaan metamorfosis sempurna dan tidak sempurna!",
+   "answer": "Metamorfosis sempurna 4 fase: telur, larva, pupa, dewasa (contoh kupu-kupu). Tidak sempurna 3 fase: telur, nimfa, dewasa (contoh belalang).",
    "keywords": [
-    "melihat",
-    "mendengar",
-    "mencium",
-    "mengecap",
-    "meraba"
+    "4",
+    "3",
+    "larva",
+    "pupa",
+    "nimfa"
    ],
-   "bab": "Bab 1 Keajaiban Tubuhku",
+   "bab": "Bab 2 Ayo, Mengenal Siklus pada Makhluk Hidup",
    "fromSource": true,
    "id": "k3-ipas-044"
   },
   {
-   "level": 3,
-   "ch": 1,
-   "type": "uraian",
-   "q": "Tuliskan dua cara merawat mata!",
-   "answer": "Membaca di tempat terang, menjaga jarak saat menonton TV/gawai, tidak mengucek mata dengan tangan kotor, makan sayur (wortel), dan istirahat yang cukup.",
-   "keywords": [
-    "terang",
-    "jarak",
-    "mengucek",
-    "wortel"
+   "level": 1,
+   "ch": 3,
+   "q": "Lingkungan tempat tinggal makhluk hidup disebut …",
+   "choices": [
+    "habitat",
+    "populasi",
+    "individu",
+    "energi"
    ],
-   "bab": "Bab 1 Keajaiban Tubuhku",
+   "answer": 0,
+   "explain": "Habitat = tempat tinggal.",
+   "bab": "Bab 3 Hidup Bersama Alam",
    "fromSource": true,
    "id": "k3-ipas-045"
   },
   {
    "level": 1,
-   "ch": 2,
-   "q": "Benda yang dipakai orang zaman dahulu untuk menulis surat adalah …",
+   "ch": 3,
+   "q": "Makhluk hidup di suatu lingkungan disebut komponen …",
    "choices": [
-    "kertas dan pena",
-    "telepon genggam",
-    "komputer",
-    "tablet"
+    "biotik",
+    "abiotik",
+    "energi",
+    "buatan"
    ],
    "answer": 0,
-   "explain": "Dahulu orang berkirim kabar lewat surat yang ditulis di kertas.",
-   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
+   "explain": "Biotik = makhluk hidup.",
+   "bab": "Bab 3 Hidup Bersama Alam",
    "fromSource": true,
    "id": "k3-ipas-046"
   },
   {
    "level": 1,
-   "ch": 2,
-   "q": "Contoh situs budaya di Bali adalah …",
+   "ch": 3,
+   "q": "Contoh komponen abiotik adalah …",
    "choices": [
-    "Pura Besakih",
-    "Mal",
-    "Bandara",
-    "Jalan tol"
+    "air",
+    "rumput",
+    "ikan",
+    "cacing"
    ],
    "answer": 0,
-   "explain": "Pura Besakih adalah tempat suci bersejarah di Bali.",
-   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
+   "explain": "Abiotik = benda tidak hidup: tanah, air, udara, Matahari, batu.",
+   "bab": "Bab 3 Hidup Bersama Alam",
    "fromSource": true,
    "id": "k3-ipas-047"
   },
   {
    "level": 1,
-   "ch": 2,
-   "q": "Kebiasaan turun-temurun dalam keluarga atau masyarakat disebut …",
+   "ch": 3,
+   "q": "Contoh komponen biotik adalah …",
    "choices": [
-    "tradisi",
-    "teknologi",
-    "transportasi",
-    "tetangga"
+    "kupu-kupu",
+    "batu",
+    "tanah",
+    "udara"
    ],
    "answer": 0,
-   "explain": "Tradisi diwariskan dari orang tua kepada anak cucu.",
-   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
+   "explain": "Kupu-kupu adalah makhluk hidup.",
+   "bab": "Bab 3 Hidup Bersama Alam",
    "fromSource": true,
    "id": "k3-ipas-048"
   },
   {
-   "level": 2,
-   "ch": 2,
-   "q": "Dahulu orang bepergian jauh dengan kuda atau pedati. Sekarang memakai …",
+   "level": 1,
+   "ch": 3,
+   "q": "Satu ekor kucing disebut …",
    "choices": [
-    "mobil, motor, pesawat",
-    "dinosaurus",
-    "sepatu roda saja",
-    "kapal layar kayu saja"
+    "individu",
+    "populasi",
+    "komunitas",
+    "ekosistem"
    ],
    "answer": 0,
-   "explain": "Alat transportasi berubah dari masa ke masa.",
-   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
+   "explain": "Satu makhluk hidup = individu.",
+   "bab": "Bab 3 Hidup Bersama Alam",
    "fromSource": true,
    "id": "k3-ipas-049"
   },
   {
    "level": 2,
-   "ch": 2,
-   "q": "Asal-usul nama Gandaria di Jakarta berasal dari nama …",
+   "ch": 3,
+   "q": "Sekelompok makhluk hidup SEJENIS di satu tempat disebut …",
    "choices": [
-    "pohon buah gandaria",
-    "tokoh pahlawan",
-    "sungai besar",
-    "gunung"
+    "populasi",
+    "individu",
+    "komunitas",
+    "habitat"
    ],
    "answer": 0,
-   "explain": "Di daerah itu dahulu banyak tumbuh pohon gandaria.",
-   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
+   "explain": "Contoh: sekelompok ikan mas di kolam.",
+   "bab": "Bab 3 Hidup Bersama Alam",
    "fromSource": true,
    "id": "k3-ipas-050"
   },
   {
    "level": 2,
-   "ch": 2,
-   "q": "Cara mengetahui sejarah keluarga kita adalah …",
+   "ch": 3,
+   "q": "Kumpulan makhluk hidup yang BERBEDA jenis dan hidup berdampingan disebut …",
    "choices": [
-    "bertanya kepada kakek dan nenek",
-    "menonton kartun",
-    "bermain gim",
-    "tidur siang"
+    "komunitas",
+    "populasi",
+    "individu",
+    "abiotik"
    ],
    "answer": 0,
-   "explain": "Kakek, nenek, dan orang tua adalah saksi sejarah keluarga.",
-   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
+   "explain": "Contoh: ikan, katak, dan teratai di danau.",
+   "bab": "Bab 3 Hidup Bersama Alam",
    "fromSource": true,
    "id": "k3-ipas-051"
   },
   {
-   "level": 3,
-   "ch": 2,
-   "q": "Sikap yang tepat saat mengunjungi situs budaya adalah …",
+   "level": 2,
+   "ch": 3,
+   "q": "Hubungan antara makhluk hidup dan benda tidak hidup di suatu lingkungan disebut …",
    "choices": [
-    "menjaga kebersihan & tidak mencoret-coret",
-    "mencoret dinding candi",
-    "memanjat arca",
-    "membuang sampah sembarangan"
+    "ekosistem",
+    "populasi",
+    "simbiosis",
+    "habitat"
    ],
    "answer": 0,
-   "explain": "Situs budaya harus dijaga agar tetap lestari.",
-   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
+   "explain": "Ekosistem = komunitas + komponen abiotik yang saling berhubungan.",
+   "bab": "Bab 3 Hidup Bersama Alam",
    "fromSource": true,
    "id": "k3-ipas-052"
   },
   {
-   "level": 3,
-   "ch": 2,
-   "q": "Contoh perubahan lingkungan dari masa ke masa adalah …",
+   "level": 2,
+   "ch": 3,
+   "q": "Cacing tanah berperan membuat tanah menjadi …",
    "choices": [
-    "sawah berubah menjadi perumahan",
-    "matahari terbit dari barat",
-    "gunung pindah tempat",
-    "laut menjadi kering dalam sehari"
+    "gembur",
+    "keras",
+    "kering",
+    "tercemar"
    ],
    "answer": 0,
-   "explain": "Lingkungan bisa berubah karena kebutuhan manusia.",
-   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
+   "explain": "Tanah gembur membuat tanaman tumbuh baik.",
+   "img": "🪱",
+   "imgSpeak": "",
+   "bab": "Bab 3 Hidup Bersama Alam",
    "fromSource": true,
    "id": "k3-ipas-053"
   },
   {
-   "level": 3,
-   "ch": 2,
-   "q": "Manfaat mempelajari sejarah daerah adalah …",
+   "level": 2,
+   "ch": 3,
+   "q": "Akuarium adalah contoh ekosistem …",
    "choices": [
-    "mengenal & bangga pada asal-usul daerah",
-    "agar cepat kaya",
-    "agar tidak sekolah",
-    "agar bisa terbang"
+    "buatan",
+    "hutan",
+    "gurun",
+    "sawah alami"
    ],
    "answer": 0,
-   "explain": "Mengenal sejarah membuat kita menghargai dan melestarikan budaya.",
-   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
+   "explain": "Manusia membuat akuarium mirip ekosistem air.",
+   "bab": "Bab 3 Hidup Bersama Alam",
    "fromSource": true,
    "id": "k3-ipas-054"
   },
   {
-   "level": 2,
-   "ch": 2,
-   "type": "input",
-   "q": "Tempat bersejarah peninggalan masa lalu, seperti candi dan pura kuno, disebut situs …",
-   "answer": "budaya",
-   "accept": [
-    "sejarah"
+   "level": 3,
+   "ch": 3,
+   "q": "Hubungan yang khas antara dua makhluk hidup disebut …",
+   "choices": [
+    "simbiosis",
+    "ekosistem",
+    "metamorfosis",
+    "habitat"
    ],
-   "explain": "Situs budaya perlu dijaga bersama.",
-   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
+   "answer": 0,
+   "explain": "Simbiosis ada tiga: mutualisme, komensalisme, parasitisme.",
+   "bab": "Bab 3 Hidup Bersama Alam",
    "fromSource": true,
    "id": "k3-ipas-055"
   },
   {
    "level": 3,
-   "ch": 2,
-   "type": "input",
-   "q": "Kebiasaan yang diwariskan turun-temurun disebut …",
-   "answer": "tradisi",
-   "accept": [
-    "adat",
-    "adat istiadat"
+   "ch": 3,
+   "q": "Kupu-kupu dan bunga saling menguntungkan. Ini disebut simbiosis …",
+   "choices": [
+    "mutualisme",
+    "parasitisme",
+    "komensalisme",
+    "metamorfosis"
    ],
-   "explain": "Tradisi diwariskan dari generasi ke generasi.",
-   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
+   "answer": 0,
+   "explain": "Kupu-kupu dapat nektar, bunga terbantu penyerbukannya.",
+   "bab": "Bab 3 Hidup Bersama Alam",
    "fromSource": true,
    "id": "k3-ipas-056"
   },
   {
    "level": 3,
-   "ch": 2,
-   "type": "input",
-   "q": "Orang yang mengalami atau melihat langsung suatu peristiwa masa lalu disebut saksi …",
-   "answer": "sejarah",
-   "accept": [],
-   "explain": "Kakek-nenek bisa menjadi saksi sejarah.",
-   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
+   "ch": 3,
+   "q": "Anggrek menempel pada pohon. Anggrek untung, pohon tidak untung dan tidak rugi. Ini simbiosis …",
+   "choices": [
+    "komensalisme",
+    "mutualisme",
+    "parasitisme",
+    "predasi"
+   ],
+   "answer": 0,
+   "explain": "Komensalisme: satu untung, yang lain tidak dirugikan.",
+   "bab": "Bab 3 Hidup Bersama Alam",
    "fromSource": true,
    "id": "k3-ipas-057"
   },
   {
-   "level": 2,
-   "ch": 2,
-   "type": "input",
-   "q": "Perubahan alat komunikasi: dahulu surat, sekarang …",
-   "answer": "telepon genggam",
-   "accept": [
-    "hp",
-    "handphone",
-    "telepon",
-    "ponsel"
+   "level": 3,
+   "ch": 3,
+   "q": "Kutu mengisap darah kucing sehingga kucing gatal. Ini simbiosis …",
+   "choices": [
+    "parasitisme",
+    "mutualisme",
+    "komensalisme",
+    "ekosistem"
    ],
-   "explain": "Sekarang kabar bisa dikirim dengan cepat lewat HP.",
-   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
+   "answer": 0,
+   "explain": "Parasitisme: satu untung, yang lain dirugikan.",
+   "bab": "Bab 3 Hidup Bersama Alam",
    "fromSource": true,
    "id": "k3-ipas-058"
   },
   {
    "level": 3,
-   "ch": 2,
-   "type": "uraian",
-   "q": "Sebutkan contoh perubahan di lingkungan tempat tinggal dahulu dan sekarang!",
-   "answer": "Contoh: dahulu banyak sawah dan lapangan, sekarang menjadi rumah/toko; dahulu jalan tanah, sekarang jalan aspal; dahulu pasar tradisional, sekarang ada toko modern.",
-   "keywords": [
-    "dahulu",
-    "sekarang",
-    "sawah",
-    "jalan"
+   "ch": 3,
+   "q": "Tanaman air di kolam berguna untuk hewan air, KECUALI …",
+   "choices": [
+    "membuat air menjadi kotor",
+    "menghasilkan udara",
+    "tempat berlindung",
+    "sumber makanan"
    ],
-   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
+   "answer": 0,
+   "explain": "Tanaman air (eceng gondok) justru menyerap kotoran.",
+   "bab": "Bab 3 Hidup Bersama Alam",
    "fromSource": true,
    "id": "k3-ipas-059"
   },
   {
    "level": 3,
-   "ch": 2,
-   "type": "uraian",
-   "q": "Mengapa situs budaya harus dijaga? Tuliskan juga satu cara menjaganya!",
-   "answer": "Karena situs budaya adalah peninggalan sejarah/leluhur yang tidak bisa diganti. Cara menjaganya: tidak mencoret-coret, tidak membuang sampah sembarangan, dan ikut merawatnya.",
-   "keywords": [
-    "peninggalan",
-    "sejarah",
-    "mencoret",
-    "sampah"
+   "ch": 3,
+   "q": "Jika pohon-pohon di hutan ditebang habis, yang terjadi adalah …",
+   "choices": [
+    "hewan kehilangan tempat tinggal",
+    "hewan makin banyak",
+    "udara makin segar",
+    "tanah makin subur"
    ],
-   "bab": "Bab 2 Dahulu, Kini, dan Nanti",
+   "answer": 0,
+   "explain": "Jika satu komponen rusak, makhluk hidup lain terganggu.",
+   "bab": "Bab 3 Hidup Bersama Alam",
    "fromSource": true,
    "id": "k3-ipas-060"
   },
   {
    "level": 1,
    "ch": 3,
-   "q": "Fase kehidupan manusia setelah bayi adalah …",
-   "choices": [
-    "anak-anak",
-    "dewasa",
-    "lansia",
-    "remaja"
-   ],
-   "answer": 0,
-   "explain": "Urutan: bayi → anak-anak → remaja → dewasa → lansia.",
-   "bab": "Bab 3 Peduli dan Berbagi",
+   "type": "input",
+   "q": "Benda tidak hidup di lingkungan disebut komponen …",
+   "answer": "abiotik",
+   "accept": [],
+   "explain": "Abiotik = tidak hidup.",
+   "bab": "Bab 3 Hidup Bersama Alam",
    "fromSource": true,
    "id": "k3-ipas-061"
   },
   {
-   "level": 1,
+   "level": 2,
    "ch": 3,
-   "q": "Manusia lanjut usia disebut juga …",
-   "choices": [
-    "lansia",
-    "balita",
-    "remaja",
-    "bayi"
-   ],
-   "answer": 0,
-   "explain": "Lansia = lanjut usia.",
-   "bab": "Bab 3 Peduli dan Berbagi",
+   "type": "input",
+   "q": "Sari bunga yang diisap kupu-kupu disebut …",
+   "answer": "nektar",
+   "accept": [],
+   "explain": "Nektar = sari bunga.",
+   "bab": "Bab 3 Hidup Bersama Alam",
    "fromSource": true,
    "id": "k3-ipas-062"
   },
   {
-   "level": 1,
+   "level": 2,
    "ch": 3,
-   "q": "Contoh sikap peduli kepada anggota keluarga adalah …",
-   "choices": [
-    "membantu ibu menyapu rumah",
-    "bermain gawai terus",
-    "membantah ayah",
-    "berteriak di rumah"
-   ],
-   "answer": 0,
-   "explain": "Membantu pekerjaan rumah adalah wujud peduli.",
-   "bab": "Bab 3 Peduli dan Berbagi",
+   "type": "input",
+   "q": "Satu makhluk hidup yang hidup sendiri disebut …",
+   "answer": "individu",
+   "accept": [],
+   "explain": "Individu.",
+   "bab": "Bab 3 Hidup Bersama Alam",
    "fromSource": true,
    "id": "k3-ipas-063"
   },
   {
-   "level": 2,
+   "level": 3,
    "ch": 3,
-   "q": "Ciri fisik pada fase dewasa adalah …",
-   "choices": [
-    "tubuh tumbuh sempurna dan bisa bekerja",
-    "belum bisa berjalan",
-    "masih menyusu",
-    "rambut memutih semua"
-   ],
-   "answer": 0,
-   "explain": "Orang dewasa tubuhnya sudah tumbuh sempurna.",
-   "bab": "Bab 3 Peduli dan Berbagi",
+   "type": "input",
+   "q": "Simbiosis yang saling menguntungkan disebut simbiosis …",
+   "answer": "mutualisme",
+   "accept": [],
+   "explain": "Mutualisme = saling menguntungkan.",
+   "bab": "Bab 3 Hidup Bersama Alam",
    "fromSource": true,
    "id": "k3-ipas-064"
   },
   {
-   "level": 2,
+   "level": 3,
    "ch": 3,
-   "q": "Ciri fisik lansia adalah …",
-   "choices": [
-    "rambut beruban, kulit keriput",
-    "tubuh sangat kecil",
-    "belum punya gigi karena bayi",
-    "tumbuh tinggi dengan cepat"
+   "type": "uraian",
+   "q": "Sebutkan 2 komponen biotik dan 2 komponen abiotik di sekolahmu!",
+   "answer": "Biotik: pohon, rumput, semut, burung, manusia. Abiotik: tanah, air, udara, batu, cahaya Matahari.",
+   "keywords": [
+    "pohon",
+    "rumput",
+    "semut",
+    "burung",
+    "tanah",
+    "air",
+    "udara",
+    "batu",
+    "matahari"
    ],
-   "answer": 0,
-   "explain": "Lansia biasanya beruban, kulit keriput, dan gerak melambat.",
-   "bab": "Bab 3 Peduli dan Berbagi",
+   "bab": "Bab 3 Hidup Bersama Alam",
    "fromSource": true,
    "id": "k3-ipas-065"
   },
   {
-   "level": 2,
+   "level": 3,
    "ch": 3,
-   "q": "Peran kakak di rumah adalah …",
-   "choices": [
-    "membantu & membimbing adik",
-    "menyuruh adik terus",
-    "mengambil mainan adik",
-    "tidak peduli"
+   "type": "uraian",
+   "q": "Apa yang bisa kamu lakukan untuk menjaga ekosistem di sekitarmu?",
+   "answer": "Tidak membuang sampah sembarangan, tidak mencabut tanaman atau mengganggu hewan, menanam pohon, menjaga kebersihan air.",
+   "keywords": [
+    "sampah",
+    "menanam",
+    "tidak merusak",
+    "mengganggu",
+    "menjaga"
    ],
-   "answer": 0,
-   "explain": "Kakak memberi contoh baik dan membantu adik.",
-   "bab": "Bab 3 Peduli dan Berbagi",
+   "bab": "Bab 3 Hidup Bersama Alam",
    "fromSource": true,
    "id": "k3-ipas-066"
   },
   {
-   "level": 3,
-   "ch": 3,
-   "q": "Nenek ingin menyeberang jalan. Sikap peduli yang tepat adalah …",
+   "level": 1,
+   "ch": 4,
+   "q": "Lampu menghasilkan energi …",
    "choices": [
-    "membantu nenek menyeberang dengan hati-hati",
-    "membiarkannya",
-    "menertawakannya",
-    "berlari mendahului"
+    "cahaya",
+    "bunyi",
+    "kimia",
+    "gerak"
    ],
    "answer": 0,
-   "explain": "Membantu orang lain adalah sikap peduli dan berbagi.",
-   "bab": "Bab 3 Peduli dan Berbagi",
+   "explain": "Lampu membuat tempat gelap menjadi terang.",
+   "img": "💡",
+   "imgSpeak": "",
+   "bab": "Bab 4 Berkenalan dengan Energi",
    "fromSource": true,
    "id": "k3-ipas-067"
   },
   {
-   "level": 3,
-   "ch": 3,
-   "q": "Mengapa setiap anggota keluarga perlu menjalankan perannya?",
+   "level": 1,
+   "ch": 4,
+   "q": "Kipas angin menghasilkan energi …",
    "choices": [
-    "agar keluarga rukun, nyaman, dan teratur",
-    "agar ada yang dimarahi",
-    "agar rumah berantakan",
-    "agar tidak perlu bekerja sama"
+    "gerak",
+    "cahaya",
+    "kimia",
+    "panas"
    ],
    "answer": 0,
-   "explain": "Jika semua menjalankan peran, keluarga menjadi harmonis.",
-   "bab": "Bab 3 Peduli dan Berbagi",
+   "explain": "Baling-baling kipas berputar = energi gerak.",
+   "bab": "Bab 4 Berkenalan dengan Energi",
    "fromSource": true,
    "id": "k3-ipas-068"
   },
   {
-   "level": 3,
-   "ch": 3,
-   "q": "Urutan fase kehidupan yang BENAR adalah …",
+   "level": 1,
+   "ch": 4,
+   "q": "Sumber energi panas dan cahaya terbesar di Bumi adalah …",
    "choices": [
-    "bayi, anak-anak, remaja, dewasa, lansia",
-    "bayi, remaja, anak-anak, lansia, dewasa",
-    "anak-anak, bayi, dewasa, remaja, lansia",
-    "lansia, dewasa, remaja, anak-anak, bayi"
+    "Matahari",
+    "Bulan",
+    "lampu",
+    "baterai"
    ],
    "answer": 0,
-   "explain": "Manusia tumbuh dari bayi sampai lansia.",
-   "bab": "Bab 3 Peduli dan Berbagi",
+   "explain": "Matahari memancarkan panas dan cahaya.",
+   "img": "☀️",
+   "imgSpeak": "",
+   "bab": "Bab 4 Berkenalan dengan Energi",
    "fromSource": true,
    "id": "k3-ipas-069"
   },
   {
-   "level": 2,
-   "ch": 3,
-   "type": "input",
-   "q": "Fase kehidupan manusia usia 0–2 tahun disebut …",
-   "answer": "bayi",
-   "accept": [],
-   "explain": "Bayi bertubuh kecil, merangkak, dan menyusu.",
-   "bab": "Bab 3 Peduli dan Berbagi",
+   "level": 1,
+   "ch": 4,
+   "q": "Gitar yang dipetik menghasilkan energi …",
+   "choices": [
+    "bunyi",
+    "cahaya",
+    "panas",
+    "listrik"
+   ],
+   "answer": 0,
+   "explain": "Dawai bergetar dan berbunyi.",
+   "img": "🎸",
+   "imgSpeak": "",
+   "bab": "Bab 4 Berkenalan dengan Energi",
    "fromSource": true,
    "id": "k3-ipas-070"
   },
   {
-   "level": 2,
-   "ch": 3,
-   "type": "input",
-   "q": "Fase sesudah anak-anak dan sebelum dewasa adalah …",
-   "answer": "remaja",
-   "accept": [],
-   "explain": "Remaja: tubuh tumbuh cepat dan mulai mandiri.",
-   "bab": "Bab 3 Peduli dan Berbagi",
+   "level": 1,
+   "ch": 4,
+   "q": "Senter dan jam dinding memakai … sebagai sumber energinya.",
+   "choices": [
+    "baterai",
+    "air",
+    "angin",
+    "kayu bakar"
+   ],
+   "answer": 0,
+   "explain": "Baterai adalah sumber energi listrik.",
+   "img": "🔋",
+   "imgSpeak": "",
+   "bab": "Bab 4 Berkenalan dengan Energi",
    "fromSource": true,
    "id": "k3-ipas-071"
   },
   {
-   "level": 3,
-   "ch": 3,
-   "type": "input",
-   "q": "Sikap mau membantu orang lain yang membutuhkan disebut sikap …",
-   "answer": "peduli",
-   "accept": [
-    "tolong menolong",
-    "peduli sosial"
+   "level": 2,
+   "ch": 4,
+   "q": "Energi gerak disebut juga energi …",
+   "choices": [
+    "kinetik",
+    "kimia",
+    "listrik",
+    "panas"
    ],
-   "explain": "Peduli = memperhatikan dan membantu orang lain.",
-   "bab": "Bab 3 Peduli dan Berbagi",
+   "answer": 0,
+   "explain": "Energi gerak = energi kinetik.",
+   "bab": "Bab 4 Berkenalan dengan Energi",
    "fromSource": true,
    "id": "k3-ipas-072"
   },
   {
-   "level": 3,
-   "ch": 3,
-   "type": "input",
-   "q": "Orang yang bertugas mencari nafkah untuk keluarga biasanya adalah …",
-   "answer": "ayah",
-   "accept": [
-    "orang tua",
-    "ayah dan ibu"
+   "level": 2,
+   "ch": 4,
+   "q": "Makanan yang kita makan mengandung energi …",
+   "choices": [
+    "kimia",
+    "bunyi",
+    "cahaya",
+    "listrik"
    ],
-   "explain": "Ayah (dan ibu) bekerja untuk memenuhi kebutuhan keluarga.",
-   "bab": "Bab 3 Peduli dan Berbagi",
+   "answer": 0,
+   "explain": "Tubuh mengolah makanan menjadi energi kimia.",
+   "bab": "Bab 4 Berkenalan dengan Energi",
    "fromSource": true,
    "id": "k3-ipas-073"
   },
   {
-   "level": 3,
-   "ch": 3,
-   "type": "uraian",
-   "q": "Tuliskan urutan fase kehidupan manusia dan satu ciri setiap fase!",
-   "answer": "Bayi (tubuh kecil, menyusu) → anak-anak (mulai sekolah, aktif bermain) → remaja (tubuh tumbuh cepat) → dewasa (tubuh sempurna, bekerja) → lansia (beruban, keriput).",
-   "keywords": [
-    "bayi",
-    "anak-anak",
-    "remaja",
-    "dewasa",
-    "lansia"
+   "level": 2,
+   "ch": 4,
+   "q": "Menjemur pakaian agar kering memanfaatkan energi …",
+   "choices": [
+    "panas",
+    "bunyi",
+    "listrik",
+    "kimia"
    ],
-   "bab": "Bab 3 Peduli dan Berbagi",
+   "answer": 0,
+   "explain": "Panas Matahari mengeringkan pakaian, ikan asin, kerupuk.",
+   "bab": "Bab 4 Berkenalan dengan Energi",
    "fromSource": true,
    "id": "k3-ipas-074"
   },
   {
-   "level": 3,
-   "ch": 3,
-   "type": "uraian",
-   "q": "Apa saja peranmu sebagai anak di rumah? Sebutkan minimal dua!",
-   "answer": "Belajar dengan rajin, membantu orang tua (menyapu, merapikan kamar), menjaga adik, dan menaati aturan di rumah.",
-   "keywords": [
-    "belajar",
-    "membantu",
-    "merapikan",
-    "menaati"
+   "level": 2,
+   "ch": 4,
+   "q": "TV, kulkas, dan komputer membutuhkan energi …",
+   "choices": [
+    "listrik",
+    "bunyi",
+    "kimia",
+    "gerak"
    ],
-   "bab": "Bab 3 Peduli dan Berbagi",
+   "answer": 0,
+   "explain": "Alat elektronik memakai energi listrik.",
+   "bab": "Bab 4 Berkenalan dengan Energi",
    "fromSource": true,
    "id": "k3-ipas-075"
   },
   {
-   "level": 1,
+   "level": 2,
    "ch": 4,
-   "q": "Kupu-kupu berasal dari …",
+   "q": "Angin dapat dimanfaatkan untuk …",
    "choices": [
-    "ulat",
-    "cacing",
-    "ikan",
-    "semut"
+    "menerbangkan layang-layang",
+    "memasak nasi",
+    "menyalakan senter",
+    "menghangatkan air"
    ],
    "answer": 0,
-   "explain": "Ulat berubah menjadi kepompong, lalu menjadi kupu-kupu.",
-   "bab": "Bab 4 Siklus Hidup yang Menakjubkan",
+   "explain": "Angin menghasilkan energi gerak, juga untuk kapal layar dan kincir angin.",
+   "img": "🪁",
+   "imgSpeak": "",
+   "bab": "Bab 4 Berkenalan dengan Energi",
    "fromSource": true,
    "id": "k3-ipas-076"
   },
   {
-   "level": 1,
+   "level": 3,
    "ch": 4,
-   "q": "Anak katak yang hidup di air disebut …",
+   "q": "Bensin, solar, gas elpiji, dan kayu bakar termasuk …",
    "choices": [
-    "berudu",
-    "ulat",
-    "kecambah",
-    "nimfa"
+    "bahan bakar",
+    "energi bunyi",
+    "energi cahaya",
+    "baterai"
    ],
    "answer": 0,
-   "explain": "Berudu (kecebong) bernapas dengan insang dan hidup di air.",
-   "bab": "Bab 4 Siklus Hidup yang Menakjubkan",
+   "explain": "Bahan bakar menyimpan energi kimia; saat dibakar menjadi panas.",
+   "bab": "Bab 4 Berkenalan dengan Energi",
    "fromSource": true,
    "id": "k3-ipas-077"
   },
   {
-   "level": 1,
+   "level": 3,
    "ch": 4,
-   "q": "Bagian tumbuhan yang menyerap air dari tanah adalah …",
+   "q": "Uap panas yang keluar dari dalam tanah di sekitar gunung berapi disebut …",
    "choices": [
-    "akar",
-    "daun",
-    "bunga",
-    "buah"
+    "panas bumi",
+    "tenaga surya",
+    "energi angin",
+    "energi bunyi"
    ],
    "answer": 0,
-   "explain": "Akar menyerap air dan zat hara dari tanah.",
-   "bab": "Bab 4 Siklus Hidup yang Menakjubkan",
+   "explain": "Panas bumi bisa diubah menjadi listrik.",
+   "bab": "Bab 4 Berkenalan dengan Energi",
    "fromSource": true,
    "id": "k3-ipas-078"
   },
   {
-   "level": 2,
+   "level": 3,
    "ch": 4,
-   "q": "Perubahan bentuk tubuh hewan dari menetas sampai dewasa disebut …",
+   "q": "Pembangkit listrik yang memakai sinar Matahari disebut tenaga …",
    "choices": [
-    "metamorfosis",
-    "fotosintesis",
-    "adaptasi",
-    "reproduksi"
+    "surya",
+    "air",
+    "angin",
+    "uap"
    ],
    "answer": 0,
-   "explain": "Metamorfosis: contohnya kupu-kupu dan katak.",
-   "bab": "Bab 4 Siklus Hidup yang Menakjubkan",
+   "explain": "Tenaga surya = tenaga Matahari.",
+   "bab": "Bab 4 Berkenalan dengan Energi",
    "fromSource": true,
    "id": "k3-ipas-079"
   },
   {
-   "level": 2,
+   "level": 3,
    "ch": 4,
-   "q": "Bagian tumbuhan tempat membuat makanan adalah …",
+   "q": "Cara menghemat listrik yang benar adalah …",
    "choices": [
-    "daun",
-    "akar",
-    "batang",
-    "bunga"
+    "mematikan lampu saat tidak dipakai",
+    "menyalakan TV sepanjang hari",
+    "membuka kulkas terus",
+    "menyalakan lampu siang hari"
    ],
    "answer": 0,
-   "explain": "Daun membuat makanan dengan bantuan sinar matahari.",
-   "bab": "Bab 4 Siklus Hidup yang Menakjubkan",
+   "explain": "Matikan alat elektronik yang tidak dipakai.",
+   "bab": "Bab 4 Berkenalan dengan Energi",
    "fromSource": true,
    "id": "k3-ipas-080"
   },
   {
-   "level": 2,
+   "level": 3,
    "ch": 4,
-   "q": "Hewan yang TIDAK mengalami metamorfosis adalah …",
+   "q": "Mengapa kita tidak boleh membuang-buang makanan?",
    "choices": [
-    "kucing",
-    "kupu-kupu",
-    "katak",
-    "nyamuk"
+    "karena makanan adalah sumber energi",
+    "karena makanan berbunyi",
+    "karena makanan menghasilkan listrik",
+    "karena makanan tidak berguna"
    ],
    "answer": 0,
-   "explain": "Anak kucing bentuknya sudah mirip induknya.",
-   "bab": "Bab 4 Siklus Hidup yang Menakjubkan",
+   "explain": "Membuang makanan = membuang energi; masih banyak orang yang butuh makan.",
+   "bab": "Bab 4 Berkenalan dengan Energi",
    "fromSource": true,
    "id": "k3-ipas-081"
   },
   {
    "level": 3,
    "ch": 4,
-   "q": "Nyamuk bertelur di air. Cara mencegah nyamuk berkembang biak adalah …",
+   "q": "Hewan yang punya listrik di tubuhnya adalah …",
    "choices": [
-    "menguras & menutup tempat air",
-    "membiarkan genangan air",
-    "menyimpan kaleng bekas berisi air",
-    "menanam di air kotor"
+    "belut listrik",
+    "kucing",
+    "ayam",
+    "kupu-kupu"
    ],
    "answer": 0,
-   "explain": "Telur nyamuk menetas di air yang tergenang.",
-   "bab": "Bab 4 Siklus Hidup yang Menakjubkan",
+   "explain": "Belut listrik dan ikan pari torpedo memakai listrik untuk melindungi diri.",
+   "bab": "Bab 4 Berkenalan dengan Energi",
    "fromSource": true,
    "id": "k3-ipas-082"
   },
   {
-   "level": 3,
+   "level": 1,
    "ch": 4,
-   "q": "Urutan daur hidup belalang adalah …",
-   "choices": [
-    "telur → nimfa → belalang dewasa",
-    "telur → ulat → kepompong → belalang",
-    "telur → berudu → belalang",
-    "nimfa → telur → belalang"
-   ],
-   "answer": 0,
-   "explain": "Belalang mengalami metamorfosis tidak sempurna.",
-   "bab": "Bab 4 Siklus Hidup yang Menakjubkan",
+   "type": "input",
+   "q": "Bangun pagi dengan alarm memakai energi …",
+   "answer": "bunyi",
+   "accept": [],
+   "explain": "Alarm berbunyi = energi bunyi.",
+   "bab": "Bab 4 Berkenalan dengan Energi",
    "fromSource": true,
    "id": "k3-ipas-083"
   },
   {
-   "level": 3,
+   "level": 2,
    "ch": 4,
-   "q": "Biji kacang hijau diletakkan di kapas basah. Beberapa hari kemudian muncul …",
-   "choices": [
-    "kecambah",
-    "kepompong",
-    "berudu",
-    "bunga"
+   "type": "input",
+   "q": "Pergi ke sekolah naik sepeda memakai energi …",
+   "answer": "gerak",
+   "accept": [
+    "kinetik"
    ],
-   "answer": 0,
-   "explain": "Biji yang mendapat air akan berkecambah.",
-   "bab": "Bab 4 Siklus Hidup yang Menakjubkan",
+   "explain": "Bersepeda = energi gerak.",
+   "bab": "Bab 4 Berkenalan dengan Energi",
    "fromSource": true,
    "id": "k3-ipas-084"
   },
@@ -1310,85 +1349,60 @@
    "level": 2,
    "ch": 4,
    "type": "input",
-   "q": "Ulat yang membungkus dirinya sebelum menjadi kupu-kupu disebut …",
-   "answer": "kepompong",
+   "q": "Benda yang menyimpan energi disebut … energi.",
+   "answer": "sumber",
    "accept": [],
-   "explain": "Kepompong (pupa) adalah tahap sebelum kupu-kupu.",
-   "bab": "Bab 4 Siklus Hidup yang Menakjubkan",
+   "explain": "Contoh sumber energi: baterai, Matahari, makanan.",
+   "bab": "Bab 4 Berkenalan dengan Energi",
    "fromSource": true,
    "id": "k3-ipas-085"
   },
   {
-   "level": 2,
+   "level": 3,
    "ch": 4,
    "type": "input",
-   "q": "Bagian tumbuhan yang menyerap air adalah …",
-   "answer": "akar",
+   "q": "Mandi dan mencuci secukupnya adalah cara menghemat …",
+   "answer": "air",
    "accept": [],
-   "explain": "Akar menyerap air dan unsur hara dari tanah.",
-   "bab": "Bab 4 Siklus Hidup yang Menakjubkan",
+   "explain": "Gunakan air seperlunya.",
+   "bab": "Bab 4 Berkenalan dengan Energi",
    "fromSource": true,
    "id": "k3-ipas-086"
   },
   {
    "level": 3,
    "ch": 4,
-   "type": "input",
-   "q": "Anak belalang yang mirip induknya tetapi belum bersayap disebut …",
-   "answer": "nimfa",
-   "accept": [],
-   "explain": "Nimfa adalah tahap metamorfosis tidak sempurna.",
-   "bab": "Bab 4 Siklus Hidup yang Menakjubkan",
+   "type": "uraian",
+   "q": "Sebutkan 3 cara menghemat energi di rumah atau sekolah!",
+   "answer": "Mematikan lampu dan alat elektronik yang tidak dipakai, memakai air secukupnya, menghabiskan makanan, memanfaatkan cahaya Matahari di siang hari.",
+   "keywords": [
+    "mematikan",
+    "lampu",
+    "air",
+    "makanan",
+    "listrik"
+   ],
+   "bab": "Bab 4 Berkenalan dengan Energi",
    "fromSource": true,
    "id": "k3-ipas-087"
   },
   {
    "level": 3,
    "ch": 4,
-   "type": "input",
-   "q": "Tumbuhan membutuhkan air, udara, dan … matahari untuk tumbuh.",
-   "answer": "cahaya",
-   "accept": [
-    "sinar",
-    "cahaya matahari",
-    "sinar matahari"
+   "type": "uraian",
+   "q": "Sebutkan 3 bentuk energi beserta contoh bendanya!",
+   "answer": "Cahaya: lampu. Panas: kompor/setrika. Bunyi: gitar/radio. Gerak: kipas angin. Listrik: TV. Kimia: makanan/bensin.",
+   "keywords": [
+    "cahaya",
+    "panas",
+    "bunyi",
+    "gerak",
+    "listrik",
+    "kimia"
    ],
-   "explain": "Cahaya matahari membantu tumbuhan membuat makanan.",
-   "bab": "Bab 4 Siklus Hidup yang Menakjubkan",
+   "bab": "Bab 4 Berkenalan dengan Energi",
    "fromSource": true,
    "id": "k3-ipas-088"
-  },
-  {
-   "level": 3,
-   "ch": 4,
-   "type": "uraian",
-   "q": "Tuliskan urutan daur hidup kupu-kupu!",
-   "answer": "Telur → ulat (larva) → kepompong (pupa) → kupu-kupu dewasa.",
-   "keywords": [
-    "telur",
-    "ulat",
-    "kepompong",
-    "kupu-kupu"
-   ],
-   "bab": "Bab 4 Siklus Hidup yang Menakjubkan",
-   "fromSource": true,
-   "id": "k3-ipas-089"
-  },
-  {
-   "level": 3,
-   "ch": 4,
-   "type": "uraian",
-   "q": "Sebutkan dua cara melestarikan hewan dan tumbuhan!",
-   "answer": "Tidak menebang pohon sembarangan, menanam pohon (reboisasi), tidak berburu hewan langka, tidak membakar hutan, dan menjaga kebersihan lingkungan.",
-   "keywords": [
-    "menanam",
-    "menebang",
-    "berburu",
-    "hutan"
-   ],
-   "bab": "Bab 4 Siklus Hidup yang Menakjubkan",
-   "fromSource": true,
-   "id": "k3-ipas-090"
   }
  ],
  "semesters": {
