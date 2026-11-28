@@ -1,0 +1,1172 @@
+{
+ "title": "Belajar Dulu",
+ "note": "Materi singkat dari buku My Next Words Grade 1. Ketuk kartu untuk mendengar suaranya.",
+ "topics": [
+  {
+   "id": "greet",
+   "icon": "👋",
+   "color": "var(--c5)",
+   "title": "Salam",
+   "sub": "Good morning … Good night",
+   "cards": [
+    {
+     "type": "rule",
+     "title": "Salam sepanjang hari",
+     "rows": [
+      {
+       "pic": "🌅",
+       "a": "Pagi",
+       "b": "Good morning",
+       "c": "bertemu"
+      },
+      {
+       "pic": "☀️",
+       "a": "Siang – sore",
+       "b": "Good afternoon",
+       "c": "bertemu"
+      },
+      {
+       "pic": "🌆",
+       "a": "Malam",
+       "b": "Good evening",
+       "c": "bertemu, menyapa"
+      },
+      {
+       "pic": "🛌",
+       "a": "Mau tidur",
+       "b": "Good night",
+       "c": "pamit tidur"
+      }
+     ],
+     "tip": "Ingat: Good EVENING = \"halo\" di malam hari (datang). Good NIGHT = \"selamat tidur\" (pergi tidur). 🌆 datang → 🛌 tidur.",
+     "say": [
+      {
+       "text": "Good morning. Good afternoon. Good evening. Good night.",
+       "lang": "en"
+      }
+     ]
+    },
+    {
+     "pic": "🌅",
+     "en": "Good morning",
+     "id": "Selamat pagi",
+     "note": "Pagi hari, saat bertemu"
+    },
+    {
+     "pic": "☀️",
+     "en": "Good afternoon",
+     "id": "Selamat siang / sore",
+     "note": "Siang sampai sore, saat bertemu"
+    },
+    {
+     "pic": "🌆",
+     "en": "Good evening",
+     "id": "Selamat malam",
+     "note": "Malam hari, saat BERTEMU"
+    },
+    {
+     "pic": "🛌",
+     "en": "Good night",
+     "id": "Selamat tidur",
+     "note": "Malam hari, saat mau TIDUR atau pamit"
+    },
+    {
+     "pic": "🙋",
+     "en": "Hello",
+     "id": "Halo",
+     "note": "Menyapa kapan saja"
+    },
+    {
+     "pic": "👋",
+     "en": "Goodbye",
+     "id": "Sampai jumpa",
+     "note": "Saat berpisah"
+    },
+    {
+     "pic": "😊",
+     "en": "How are you?",
+     "id": "Apa kabar?",
+     "note": "Jawab: I am fine, thank you."
+    },
+    {
+     "pic": "👍",
+     "en": "I am fine, thank you",
+     "id": "Aku baik, terima kasih",
+     "note": "Jawaban How are you?"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Pagi hari kamu bertemu guru. Kamu berkata …",
+     "img": "🌅",
+     "choices": [
+      "Good morning",
+      "Good night",
+      "Good evening",
+      "Goodbye"
+     ],
+     "answer": 0,
+     "explain": "Pagi → Good morning."
+    },
+    {
+     "q": "Malam hari kamu mau tidur. Kamu berkata kepada ibu …",
+     "img": "🛌",
+     "choices": [
+      "Good night",
+      "Good evening",
+      "Good morning",
+      "Hello"
+     ],
+     "answer": 0,
+     "explain": "Mau tidur → Good night (selamat tidur)."
+    },
+    {
+     "q": "Malam hari tamu datang ke rumah. Kita menyapa …",
+     "img": "🌆",
+     "choices": [
+      "Good evening",
+      "Good night",
+      "Good afternoon",
+      "Goodbye"
+     ],
+     "answer": 0,
+     "explain": "Bertemu di malam hari → Good evening. Good night hanya untuk pamit tidur."
+    },
+    {
+     "q": "Siang hari pulang sekolah, kamu bertemu tetangga. Kamu berkata …",
+     "img": "☀️",
+     "choices": [
+      "Good afternoon",
+      "Good morning",
+      "Good night",
+      "Good evening"
+     ],
+     "answer": 0,
+     "explain": "Siang – sore → Good afternoon."
+    },
+    {
+     "q": "Teman bertanya \"How are you?\" Jawabanmu …",
+     "img": "😊",
+     "choices": [
+      "I am fine, thank you",
+      "Good night",
+      "Goodbye",
+      "My name is Made"
+     ],
+     "answer": 0,
+     "explain": "How are you? → I am fine, thank you."
+    },
+    {
+     "q": "Pulang sekolah, kamu berpisah dengan teman. Kamu berkata …",
+     "img": "👋",
+     "choices": [
+      "Goodbye",
+      "Hello",
+      "Good morning",
+      "How are you?"
+     ],
+     "answer": 0,
+     "explain": "Berpisah → Goodbye."
+    },
+    {
+     "q": "\"Good evening\" diucapkan saat …",
+     "choices": [
+      "bertemu di malam hari",
+      "mau tidur",
+      "pagi hari",
+      "siang hari"
+     ],
+     "answer": 0,
+     "explain": "Good evening = menyapa di malam hari.",
+     "choiceLang": "id"
+    },
+    {
+     "q": "\"Good night\" diucapkan saat …",
+     "choices": [
+      "mau tidur",
+      "bertemu di pagi hari",
+      "bertemu di siang hari",
+      "baru datang ke sekolah"
+     ],
+     "answer": 0,
+     "explain": "Good night = selamat tidur / pamit di malam hari.",
+     "choiceLang": "id"
+    }
+   ]
+  },
+  {
+   "id": "shape",
+   "icon": "🔺",
+   "color": "var(--c1)",
+   "title": "Bentuk",
+   "sub": "circle, triangle, square, rectangle",
+   "cards": [
+    {
+     "type": "rule",
+     "title": "Hitung sisinya!",
+     "rows": [
+      {
+       "shape": "circle",
+       "a": "0 sisi",
+       "b": "circle",
+       "c": "bulat"
+      },
+      {
+       "shape": "triangle",
+       "a": "3 sisi",
+       "b": "triangle",
+       "c": "TRI = tiga"
+      },
+      {
+       "shape": "square",
+       "a": "4 sisi SAMA panjang",
+       "b": "square",
+       "c": "persegi"
+      },
+      {
+       "shape": "rectangle",
+       "a": "4 sisi: 2 panjang, 2 pendek",
+       "b": "rectangle",
+       "c": "persegi panjang"
+      }
+     ],
+     "tip": "TRIangle → TRI = 3, seperti TRIcycle (sepeda roda tiga 🚲). Square kotaknya sama sisi. Rectangle kotaknya memanjang.",
+     "say": [
+      {
+       "text": "circle. triangle. square. rectangle.",
+       "lang": "en"
+      }
+     ]
+    },
+    {
+     "shape": "circle",
+     "en": "circle",
+     "id": "lingkaran",
+     "note": "Bulat, seperti jam 🕐 dan bola"
+    },
+    {
+     "shape": "triangle",
+     "en": "triangle",
+     "id": "segitiga",
+     "note": "3 sisi, seperti potongan pizza 🍕"
+    },
+    {
+     "shape": "square",
+     "en": "square",
+     "id": "persegi",
+     "note": "4 sisi sama panjang"
+    },
+    {
+     "shape": "rectangle",
+     "en": "rectangle",
+     "id": "persegi panjang",
+     "note": "4 sisi, 2 panjang dan 2 pendek, seperti buku 📘"
+    },
+    {
+     "pic": "⭐",
+     "en": "star",
+     "id": "bintang",
+     "note": "Punya 5 ujung"
+    },
+    {
+     "pic": "❤️",
+     "en": "heart",
+     "id": "hati",
+     "note": "Bentuk hati"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Bentuk ini dalam bahasa Inggris adalah …",
+     "vis": {
+      "shape": "triangle"
+     },
+     "choices": [
+      "triangle",
+      "square",
+      "rectangle",
+      "circle"
+     ],
+     "answer": 0,
+     "explain": "3 sisi → triangle."
+    },
+    {
+     "q": "Bentuk ini dalam bahasa Inggris adalah …",
+     "vis": {
+      "shape": "rectangle"
+     },
+     "choices": [
+      "rectangle",
+      "square",
+      "triangle",
+      "circle"
+     ],
+     "answer": 0,
+     "explain": "2 sisi panjang, 2 sisi pendek → rectangle."
+    },
+    {
+     "q": "Bentuk ini dalam bahasa Inggris adalah …",
+     "vis": {
+      "shape": "square"
+     },
+     "choices": [
+      "square",
+      "rectangle",
+      "triangle",
+      "circle"
+     ],
+     "answer": 0,
+     "explain": "4 sisi sama panjang → square."
+    },
+    {
+     "q": "Pilih gambar TRIANGLE!",
+     "sayEn": "triangle",
+     "choices": [
+      {
+       "shape": "triangle"
+      },
+      {
+       "shape": "square"
+      },
+      {
+       "shape": "rectangle"
+      },
+      {
+       "shape": "circle"
+      }
+     ],
+     "answer": 0,
+     "explain": "Triangle = segitiga, 3 sisi."
+    },
+    {
+     "q": "Pilih gambar RECTANGLE!",
+     "sayEn": "rectangle",
+     "choices": [
+      {
+       "shape": "rectangle"
+      },
+      {
+       "shape": "square"
+      },
+      {
+       "shape": "triangle"
+      },
+      {
+       "shape": "circle"
+      }
+     ],
+     "answer": 0,
+     "explain": "Rectangle = persegi panjang."
+    },
+    {
+     "q": "Pilih gambar SQUARE!",
+     "sayEn": "square",
+     "choices": [
+      {
+       "shape": "square"
+      },
+      {
+       "shape": "rectangle"
+      },
+      {
+       "shape": "triangle"
+      },
+      {
+       "shape": "circle"
+      }
+     ],
+     "answer": 0,
+     "explain": "Square = persegi, sisinya sama panjang."
+    },
+    {
+     "q": "Triangle punya berapa sisi?",
+     "choices": [
+      "3",
+      "4",
+      "0",
+      "5"
+     ],
+     "answer": 0,
+     "explain": "TRI = tiga.",
+     "choiceLang": "id"
+    },
+    {
+     "q": "Bentuk jam dinding 🕐 adalah …",
+     "img": "🕐",
+     "choices": [
+      "circle",
+      "square",
+      "triangle",
+      "rectangle"
+     ],
+     "answer": 0,
+     "explain": "Jam dinding bulat → circle."
+    },
+    {
+     "q": "Bentuk potongan pizza 🍕 adalah …",
+     "img": "🍕",
+     "choices": [
+      "triangle",
+      "circle",
+      "square",
+      "rectangle"
+     ],
+     "answer": 0,
+     "explain": "Pizza potong → triangle."
+    }
+   ]
+  },
+  {
+   "id": "size",
+   "icon": "⚽",
+   "color": "var(--c3)",
+   "title": "Ukuran",
+   "sub": "big & small",
+   "cards": [
+    {
+     "type": "rule",
+     "title": "Besar atau kecil?",
+     "rows": [
+      {
+       "pic": "⚽",
+       "size": "big",
+       "a": "Besar",
+       "b": "big",
+       "c": "bola besar"
+      },
+      {
+       "pic": "⚽",
+       "size": "small",
+       "a": "Kecil",
+       "b": "small",
+       "c": "bola kecil"
+      }
+     ],
+     "tip": "BIG = besar, buka tangan lebar-lebar 🙌. SMALL = kecil, jari dikuncupkan 🤏.",
+     "say": [
+      {
+       "text": "big. small.",
+       "lang": "en"
+      }
+     ]
+    },
+    {
+     "pic": "⚽",
+     "size": "big",
+     "en": "big",
+     "id": "besar",
+     "ex": "It is a big ball."
+    },
+    {
+     "pic": "⚽",
+     "size": "small",
+     "en": "small",
+     "id": "kecil",
+     "ex": "It is a small ball."
+    },
+    {
+     "pic": "🍎",
+     "size": "big",
+     "en": "big",
+     "id": "besar",
+     "ex": "It is a big apple."
+    },
+    {
+     "pic": "🍎",
+     "size": "small",
+     "en": "small",
+     "id": "kecil",
+     "ex": "It is a small apple."
+    },
+    {
+     "pic": "🐟",
+     "size": "big",
+     "en": "big",
+     "id": "besar",
+     "ex": "It is a big fish."
+    },
+    {
+     "pic": "🐟",
+     "size": "small",
+     "en": "small",
+     "id": "kecil",
+     "ex": "It is a small fish."
+    },
+    {
+     "pic": "🎈",
+     "size": "big",
+     "en": "big",
+     "id": "besar",
+     "ex": "It is a big balloon."
+    },
+    {
+     "pic": "🎈",
+     "size": "small",
+     "en": "small",
+     "id": "kecil",
+     "ex": "It is a small balloon."
+    }
+   ],
+   "quizMix": 5,
+   "quiz": [
+    {
+     "q": "Bola ini besar atau kecil? \"It is …\"",
+     "vis": {
+      "pic": "⚽",
+      "size": "big"
+     },
+     "choices": [
+      "big",
+      "small"
+     ],
+     "answer": 0,
+     "explain": "Besar = big."
+    },
+    {
+     "q": "Apel ini besar atau kecil? \"It is …\"",
+     "vis": {
+      "pic": "🍎",
+      "size": "small"
+     },
+     "choices": [
+      "small",
+      "big"
+     ],
+     "answer": 0,
+     "explain": "Kecil = small."
+    },
+    {
+     "q": "Pilih bola yang BIG!",
+     "sayEn": "big",
+     "choices": [
+      {
+       "pic": "⚽",
+       "size": "big"
+      },
+      {
+       "pic": "⚽",
+       "size": "small"
+      }
+     ],
+     "answer": 0,
+     "explain": "Big = besar."
+    },
+    {
+     "q": "Pilih apel yang SMALL!",
+     "sayEn": "small",
+     "choices": [
+      {
+       "pic": "🍎",
+       "size": "small"
+      },
+      {
+       "pic": "🍎",
+       "size": "big"
+      }
+     ],
+     "answer": 0,
+     "explain": "Small = kecil."
+    },
+    {
+     "q": "Pilih balon yang BIG!",
+     "sayEn": "big",
+     "choices": [
+      {
+       "pic": "🎈",
+       "size": "big"
+      },
+      {
+       "pic": "🎈",
+       "size": "small"
+      }
+     ],
+     "answer": 0,
+     "explain": "Big = besar."
+    },
+    {
+     "q": "\"Big\" artinya …",
+     "choices": [
+      "besar",
+      "kecil"
+     ],
+     "answer": 0,
+     "explain": "Big = besar.",
+     "choiceLang": "id"
+    },
+    {
+     "q": "\"Small\" artinya …",
+     "choices": [
+      "kecil",
+      "besar"
+     ],
+     "answer": 0,
+     "explain": "Small = kecil.",
+     "choiceLang": "id"
+    },
+    {
+     "q": "Lawan kata \"big\" adalah …",
+     "choices": [
+      "small",
+      "red",
+      "circle",
+      "good"
+     ],
+     "answer": 0,
+     "explain": "Big (besar) >< small (kecil)."
+    }
+   ]
+  },
+  {
+   "id": "color",
+   "icon": "🎨",
+   "color": "var(--c6)",
+   "title": "Warna",
+   "sub": "red, blue, yellow, green …",
+   "cards": [
+    {
+     "color": "#E53935",
+     "en": "red",
+     "id": "merah",
+     "note": "seperti apel 🍎"
+    },
+    {
+     "color": "#1E88E5",
+     "en": "blue",
+     "id": "biru",
+     "note": "seperti langit"
+    },
+    {
+     "color": "#FDD835",
+     "en": "yellow",
+     "id": "kuning",
+     "note": "seperti pisang 🍌"
+    },
+    {
+     "color": "#43A047",
+     "en": "green",
+     "id": "hijau",
+     "note": "seperti daun 🍃"
+    },
+    {
+     "color": "#FB8C00",
+     "en": "orange",
+     "id": "oranye / jingga",
+     "note": "seperti jeruk 🍊"
+    },
+    {
+     "color": "#EC407A",
+     "en": "pink",
+     "id": "merah muda",
+     "note": "seperti bunga 🌸"
+    },
+    {
+     "color": "#8E24AA",
+     "en": "purple",
+     "id": "ungu",
+     "note": "seperti anggur 🍇"
+    },
+    {
+     "color": "#6D4C41",
+     "en": "brown",
+     "id": "cokelat",
+     "note": "seperti cokelat 🍫"
+    },
+    {
+     "color": "#222222",
+     "en": "black",
+     "id": "hitam",
+     "note": "seperti rambut"
+    },
+    {
+     "color": "#FFFFFF",
+     "en": "white",
+     "id": "putih",
+     "note": "seperti awan ☁️"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Warna pisang 🍌 adalah …",
+     "img": "🍌",
+     "choices": [
+      "yellow",
+      "green",
+      "red",
+      "blue"
+     ],
+     "answer": 0,
+     "explain": "Kuning = yellow."
+    },
+    {
+     "q": "Warna daun 🍃 adalah …",
+     "img": "🍃",
+     "choices": [
+      "green",
+      "brown",
+      "yellow",
+      "pink"
+     ],
+     "answer": 0,
+     "explain": "Hijau = green."
+    },
+    {
+     "q": "Warna apel 🍎 adalah …",
+     "img": "🍎",
+     "choices": [
+      "red",
+      "orange",
+      "purple",
+      "black"
+     ],
+     "answer": 0,
+     "explain": "Merah = red."
+    },
+    {
+     "q": "Warna anggur 🍇 adalah …",
+     "img": "🍇",
+     "choices": [
+      "purple",
+      "pink",
+      "blue",
+      "brown"
+     ],
+     "answer": 0,
+     "explain": "Ungu = purple."
+    },
+    {
+     "q": "Warna awan ☁️ adalah …",
+     "img": "☁️",
+     "choices": [
+      "white",
+      "black",
+      "blue",
+      "yellow"
+     ],
+     "answer": 0,
+     "explain": "Putih = white."
+    }
+   ]
+  },
+  {
+   "id": "class",
+   "icon": "✏️",
+   "color": "var(--c2)",
+   "title": "Benda di Kelas",
+   "sub": "alat tulis & perabot",
+   "cards": [
+    {
+     "type": "rule",
+     "title": "Dua kelompok benda di kelas",
+     "rows": [
+      {
+       "pic": "✏️",
+       "a": "Alat tulis",
+       "b": "pencil, pen, eraser, ruler, crayon, book",
+       "c": "kecil, dipegang"
+      },
+      {
+       "pic": "🪑",
+       "a": "Perabot & benda besar",
+       "b": "chair, table, board, door, window, clock",
+       "c": "besar, ada di kelas"
+      }
+     ],
+     "tip": "Ketuk tiap kartu, dengarkan, lalu tirukan suaranya ya!",
+     "say": [
+      {
+       "text": "pencil, pen, eraser, ruler, crayon, book. chair, table, board, door, window, clock.",
+       "lang": "en"
+      }
+     ]
+    },
+    {
+     "pic": "✏️",
+     "en": "pencil",
+     "id": "pensil",
+     "group": "Alat tulis"
+    },
+    {
+     "pic": "🖊️",
+     "en": "pen",
+     "id": "pulpen",
+     "group": "Alat tulis"
+    },
+    {
+     "svg": "eraser",
+     "en": "eraser",
+     "id": "penghapus",
+     "group": "Alat tulis"
+    },
+    {
+     "pic": "📏",
+     "en": "ruler",
+     "id": "penggaris",
+     "group": "Alat tulis"
+    },
+    {
+     "pic": "🖍️",
+     "en": "crayon",
+     "id": "krayon",
+     "group": "Alat tulis"
+    },
+    {
+     "pic": "📘",
+     "en": "book",
+     "id": "buku",
+     "group": "Alat tulis"
+    },
+    {
+     "pic": "🎒",
+     "en": "bag",
+     "id": "tas",
+     "group": "Alat tulis"
+    },
+    {
+     "pic": "🪑",
+     "en": "chair",
+     "id": "kursi",
+     "group": "Perabot"
+    },
+    {
+     "svg": "table",
+     "en": "table",
+     "id": "meja",
+     "group": "Perabot"
+    },
+    {
+     "svg": "board",
+     "en": "board",
+     "id": "papan tulis",
+     "group": "Perabot"
+    },
+    {
+     "pic": "🚪",
+     "en": "door",
+     "id": "pintu",
+     "group": "Perabot"
+    },
+    {
+     "pic": "🪟",
+     "en": "window",
+     "id": "jendela",
+     "group": "Perabot"
+    },
+    {
+     "pic": "🕐",
+     "en": "clock",
+     "id": "jam dinding",
+     "group": "Perabot"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Benda untuk menghapus tulisan pensil adalah …",
+     "vis": {
+      "svg": "eraser"
+     },
+     "choices": [
+      "eraser",
+      "ruler",
+      "pencil",
+      "board"
+     ],
+     "answer": 0,
+     "explain": "Penghapus = eraser."
+    },
+    {
+     "q": "Kita duduk di atas …",
+     "img": "🪑",
+     "choices": [
+      "chair",
+      "table",
+      "door",
+      "bag"
+     ],
+     "answer": 0,
+     "explain": "Kursi = chair."
+    },
+    {
+     "q": "Guru menulis di …",
+     "vis": {
+      "svg": "board"
+     },
+     "choices": [
+      "board",
+      "window",
+      "book",
+      "clock"
+     ],
+     "answer": 0,
+     "explain": "Papan tulis = board."
+    },
+    {
+     "q": "Benda untuk menggaris lurus adalah …",
+     "img": "📏",
+     "choices": [
+      "ruler",
+      "eraser",
+      "crayon",
+      "pen"
+     ],
+     "answer": 0,
+     "explain": "Penggaris = ruler."
+    },
+    {
+     "q": "Bahasa Inggris dari \"meja\" adalah …",
+     "vis": {
+      "svg": "table"
+     },
+     "choices": [
+      "table",
+      "chair",
+      "door",
+      "window"
+     ],
+     "answer": 0,
+     "explain": "Meja = table."
+    },
+    {
+     "q": "Yang termasuk ALAT TULIS adalah …",
+     "choices": [
+      "pencil",
+      "door",
+      "window",
+      "chair"
+     ],
+     "answer": 0,
+     "explain": "Pencil (pensil) adalah alat tulis. Door, window, chair adalah perabot/benda besar."
+    },
+    {
+     "q": "Pilih gambar WINDOW!",
+     "sayEn": "window",
+     "choices": [
+      {
+       "pic": "🪟"
+      },
+      {
+       "pic": "🚪"
+      },
+      {
+       "pic": "🕐"
+      },
+      {
+       "pic": "🪑"
+      }
+     ],
+     "answer": 0,
+     "explain": "Window = jendela."
+    }
+   ]
+  },
+  {
+   "id": "tobe",
+   "icon": "👦",
+   "color": "var(--c4)",
+   "title": "I am · You are · He is · She is",
+   "sub": "am, is, are",
+   "cards": [
+    {
+     "type": "rule",
+     "title": "Tiga rumah: am · are · is",
+     "rows": [
+      {
+       "pic": "🙋",
+       "a": "I",
+       "b": "am",
+       "c": "aku → I am"
+      },
+      {
+       "pic": "👉",
+       "a": "You",
+       "b": "are",
+       "c": "kamu → You are"
+      },
+      {
+       "pic": "👦👧🐱",
+       "a": "He · She · It",
+       "b": "is",
+       "c": "dia → He is / She is / It is"
+      }
+     ],
+     "tip": "Lagu kecil: \"I am, you are, he is, she is, it is!\" 🎵 Ulangi 3 kali sambil tepuk tangan 👏",
+     "say": [
+      {
+       "text": "I am. You are. He is. She is. It is.",
+       "lang": "en"
+      }
+     ]
+    },
+    {
+     "pic": "🙋",
+     "en": "I am",
+     "id": "aku (adalah)",
+     "ex": "I am Komang."
+    },
+    {
+     "pic": "👉",
+     "en": "You are",
+     "id": "kamu (adalah)",
+     "ex": "You are my friend."
+    },
+    {
+     "pic": "👦",
+     "en": "He is",
+     "id": "dia (laki-laki)",
+     "ex": "He is Made. He is a boy."
+    },
+    {
+     "pic": "👧",
+     "en": "She is",
+     "id": "dia (perempuan)",
+     "ex": "She is Cici. She is a girl."
+    },
+    {
+     "pic": "🐱",
+     "en": "It is",
+     "id": "itu / dia (hewan, benda)",
+     "ex": "It is a cat."
+    },
+    {
+     "pic": "👨",
+     "en": "He is my father",
+     "id": "Dia ayahku",
+     "note": "Ayah laki-laki → He"
+    },
+    {
+     "pic": "👩",
+     "en": "She is my mother",
+     "id": "Dia ibuku",
+     "note": "Ibu perempuan → She"
+    }
+   ],
+   "quizMix": 5,
+   "quiz": [
+    {
+     "q": "Made anak laki-laki. \"… is a boy.\"",
+     "img": "👦",
+     "choices": [
+      "He",
+      "She",
+      "I",
+      "You"
+     ],
+     "answer": 0,
+     "explain": "Laki-laki → He."
+    },
+    {
+     "q": "Cici anak perempuan. \"… is a girl.\"",
+     "img": "👧",
+     "choices": [
+      "She",
+      "He",
+      "I",
+      "You"
+     ],
+     "answer": 0,
+     "explain": "Perempuan → She."
+    },
+    {
+     "q": "Lengkapi: \"I … Komang.\"",
+     "img": "🙋",
+     "choices": [
+      "am",
+      "is",
+      "are"
+     ],
+     "answer": 0,
+     "explain": "I → am."
+    },
+    {
+     "q": "Lengkapi: \"You … my friend.\"",
+     "img": "👉",
+     "choices": [
+      "are",
+      "am",
+      "is"
+     ],
+     "answer": 0,
+     "explain": "You → are."
+    },
+    {
+     "q": "Lengkapi: \"He … Made.\"",
+     "img": "👦",
+     "choices": [
+      "is",
+      "am",
+      "are"
+     ],
+     "answer": 0,
+     "explain": "He → is."
+    },
+    {
+     "q": "Lengkapi: \"She … my sister.\"",
+     "img": "👧",
+     "choices": [
+      "is",
+      "are",
+      "am"
+     ],
+     "answer": 0,
+     "explain": "She → is."
+    },
+    {
+     "q": "Lengkapi: \"It … a cat.\"",
+     "img": "🐱",
+     "choices": [
+      "is",
+      "am",
+      "are"
+     ],
+     "answer": 0,
+     "explain": "It → is."
+    },
+    {
+     "q": "Ayah adalah laki-laki. \"… is my father.\"",
+     "img": "👨",
+     "choices": [
+      "He",
+      "She",
+      "I",
+      "It"
+     ],
+     "answer": 0,
+     "explain": "Ayah → He."
+    },
+    {
+     "q": "Ibu adalah perempuan. \"… is my mother.\"",
+     "img": "👩",
+     "choices": [
+      "She",
+      "He",
+      "I",
+      "It"
+     ],
+     "answer": 0,
+     "explain": "Ibu → She."
+    },
+    {
+     "q": "Pilih kalimat yang BENAR!",
+     "choices": [
+      "She is a girl.",
+      "She are a girl.",
+      "She am a girl.",
+      "He is a girl."
+     ],
+     "answer": 0,
+     "explain": "She → is, dan girl = anak perempuan."
+    },
+    {
+     "q": "Pilih kalimat yang BENAR!",
+     "choices": [
+      "I am a boy.",
+      "I is a boy.",
+      "I are a boy.",
+      "She am a boy."
+     ],
+     "answer": 0,
+     "explain": "I → am."
+    }
+   ]
+  }
+ ]
+}

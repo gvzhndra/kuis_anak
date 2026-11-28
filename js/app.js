@@ -460,6 +460,8 @@
     });
   }
 
+  const learnBtn = d => d.lessons ? `<button class="learnbtn press" id="learn"><span>📖</span><div><b>Belajar Dulu</b><small>Materi seru + main cocokkan + mini kuis</small></div></button>` : "";
+
   function semesters() {
     stopTimer(); stopSpeak();
     const u = S.user, d = S.subject;
@@ -473,9 +475,11 @@
     };
     view(`${topbar(`${esc(d.icon)} ${esc(d.subject)}`)}
       <h1 class="title">Pilih semester</h1>
+      ${learnBtn(d)}
       <div class="sems">${card(1)}${card(2)}</div>
       <div class="chapters">${d.source ? `<b>Sumber:</b> ${esc(d.source)}` : ""}</div>`);
     on("#back", subjects);
+    on("#learn", () => LEARN.open(d, semesters));
     on("[data-sem]", e => { const sm = +e.currentTarget.dataset.sem; if (!chList(d, sm).length) return shake(e.currentTarget); S.sem = sm; chapters(); });
   }
 
@@ -493,6 +497,7 @@
     const open = bossUnlocked(u, d), boss = bossProg(u, d);
     view(`${topbar(`${esc(d.icon)} ${esc(d.subject)} · Smt ${S.sem || 1}`)}
       <h1 class="title">Pilih bab</h1>
+      ${learnBtn(d)}
       <div class="chaps">${cards}</div>
       <button class="chap press mix" data-ch="all"><div class="cn">🎲</div><div class="ct"><b>Campur semua bab</b><span>Latihan acak dari semua bab semester ${S.sem || 1}</span></div></button>
       <button class="boss press ${open ? "" : "locked"}" id="boss">
@@ -501,6 +506,7 @@
         <span>${open ? `Pilihan ganda + isian + uraian${boss ? ` · 🏆 ${boss.best}` : ""}` : `Lulus level Mudah (nilai ${CFG.unlockPercent}+) di semua bab · ${passed}/${total}`}</span></div></button>
       <div class="chapters">${d.source ? `<b>Sumber:</b> ${esc(d.source)}` : ""}</div>`);
     on("#back", semesters);
+    on("#learn", () => LEARN.open(d, chapters));
     on("[data-ch]", e => { const c = e.currentTarget.dataset.ch; S.ch = c === "all" ? "all" : +c; levels(); });
     on("#boss", e => open ? bossIntro() : shake(e.currentTarget));
   }
@@ -1024,6 +1030,10 @@
   // ================================================================ 🧮 Latihan Bersusun (js/bersusun.js)
   const DRILL = window.KUIS_DRILL ? window.KUIS_DRILL({ view, on, esc, shake, beep, confetti, topbar, S, saveProg, prog, store, ONLINE, enqueue, sendLive,
     back: () => subjects() }) : { open: () => alert("File js/bersusun.js belum dimuat.") };
+
+  // ================================================================ 📖 Belajar Dulu (js/belajar.js)
+  const LEARN = window.KUIS_BELAJAR ? window.KUIS_BELAJAR({ view, on, esc, shake, beep, confetti, topbar, S, saveProg, prog, store, ONLINE, enqueue, sendLive, speak, stopSpeak, shuffle })
+    : { open: () => alert("File js/belajar.js belum dimuat."), stop: () => {} };
 
   // ================================================================ mulai
   flushQueue();

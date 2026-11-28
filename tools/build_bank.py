@@ -102,7 +102,9 @@ for G, (CH, TOPIC) in GRADES.items():
 # ---- validasi
 tot = 0
 for f in sorted(glob.glob("data/kelas*/*.json")):
-    d = json.load(open(f, encoding="utf-8")); qs = d["questions"]; tot += len(qs); bad = []
+    d = json.load(open(f, encoding="utf-8"))
+    if "questions" not in d: continue  # mis. file materi Belajar Dulu
+    qs = d["questions"]; tot += len(qs); bad = []
     nch = len(d.get("chapters", []))
     for q in qs:
         t = q.get("type", "mc")

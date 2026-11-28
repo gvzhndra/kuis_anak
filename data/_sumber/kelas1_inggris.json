@@ -102,21 +102,6 @@
    "choiceLang": "id"
   },
   {
-   "level": 2,
-   "ch": 1,
-   "q": "Kucing di buku memperkenalkan diri: \"Hi, I am …\"",
-   "choices": [
-    "Kimi",
-    "Made",
-    "Cici",
-    "Joshua"
-   ],
-   "answer": 0,
-   "explain": "Kucing itu bernama Kimi. \"Hi, I am Kimi. Meow.\"",
-   "img": "🐱",
-   "imgSpeak": ""
-  },
-  {
    "level": 3,
    "ch": 1,
    "q": "Jawaban untuk \"What is your name?\" adalah …",

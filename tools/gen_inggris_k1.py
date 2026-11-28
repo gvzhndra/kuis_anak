@@ -26,7 +26,6 @@ M(1, 1, "Saat berpisah dengan teman, kita berkata …", "Goodbye", ["Good mornin
 M(2, 1, "Made bertanya, \"How are you?\" Jawaban yang tepat adalah …", "I am fine.", ["I am Made.", "Goodbye.", "Good evening."], "How are you? = Apa kabar? Jawab: I am fine / I am good / I am ok.")
 M(2, 1, "\"How are you?\" artinya …", "Apa kabar?", ["Siapa namamu?", "Selamat pagi.", "Sampai jumpa."], "How are you? = Apa kabar?", **ID)
 M(2, 1, "\"What is your name?\" artinya …", "Siapa namamu?", ["Apa kabar?", "Berapa umurmu?", "Di mana rumahmu?"], "What is your name? = Siapa namamu?", **ID)
-M(2, 1, "Kucing di buku memperkenalkan diri: \"Hi, I am …\"", "Kimi", ["Made", "Cici", "Joshua"], "Kucing itu bernama Kimi. \"Hi, I am Kimi. Meow.\"", "🐱")
 M(3, 1, "Jawaban untuk \"What is your name?\" adalah …", "My name is Joshua.", ["I am fine.", "Good morning.", "Your name is Joshua?"], "Jawab dengan: My name is … atau I am …")
 M(3, 1, "Joshua menunjuk Cici dan berkata \"… are Cici.\"", "You", ["I", "My", "Me"], "\"I am Joshua, you are Cici.\" You = kamu.")
 M(3, 1, "Bertemu guru di pagi hari, kita berkata …", "Good morning, Ma'am.", ["Goodbye, Ma'am.", "Good evening, Ma'am.", "I am Ma'am."], "Sapa guru dengan sopan: Good morning, Ma'am / Sir.")

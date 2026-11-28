@@ -59,6 +59,16 @@ Setelah memilih pelajaran, anak memilih **Semester 1** atau **Semester 2**. Seti
 - Matematika: soal dibuat otomatis per bab; bagian C Bos Final berisi **soal cerita** (kelas 3: dua langkah).
 - Soal isian & uraian juga muncul di latihan biasa (isian di level Sedang/Sulit, uraian maks. 2 di level Sulit).
 
+## 📖 Belajar Dulu (Bahasa Inggris kelas 1)
+
+Menu di layar semester/bab Bahasa Inggris kelas 1 untuk anak yang belum lancar membaca. Tiap topik punya 4 langkah:
+① **Kartu materi** (bergambar, ketuk untuk mendengar suara bahasa Inggris) → ② **Cocokkan** (ketuk gambar lalu ketuk kata, muncul garis)
+→ ③ **Dengar & pilih** gambar → ④ **Mini kuis** 5 soal (bintang tersimpan di progres akun dan terlihat di Pojok Orang Tua).
+
+Topik: Salam (Good morning … Good night) · Bentuk · Ukuran (big/small) · Warna · Benda di Kelas · I am / You are / He is / She is.
+Isi materi ada di `data/kelas1/belajar_bahasa_inggris.json` (ubah langsung, tidak perlu menjalankan skrip). Kode: `js/belajar.js`.
+Untuk menambah Belajar Dulu ke pelajaran lain, buat file materi serupa lalu isi `"lessons": "<nama file>"` di JSON pelajarannya.
+
 ## 🧮 Latihan Bersusun (kelas 3)
 Menu tersendiri di daftar pelajaran kelas 3. Anak mengisi kotak **satu per satu** seperti di kertas, dengan keypad angka:
 
@@ -83,6 +93,7 @@ js/config.js          ⚙️ PENGATURAN: URL Google Sheet, PIN, jumlah soal, tim
 js/app.js             logika aplikasi
 js/generators.js      pembuat soal Matematika otomatis
 js/bersusun.js        🧮 Latihan Bersusun (penjumlahan, pengurangan, perkalian, porogapit)
+js/belajar.js         📖 Belajar Dulu (kartu materi, cocokkan, dengar & pilih, mini kuis)
 data/kelas3/bersusun.json  ubin menu Latihan Bersusun
 data/kelas1/*.json    bank soal kelas 1
 data/kelas3/*.json    bank soal kelas 3
