@@ -406,11 +406,19 @@
   // ================================================================ PELAJARAN, BAB & LEVEL
   // Soal yang punya "ch" (nomor bab) → muncul menu per bab + 🐉 Bos Final.
   const hasChapters = d => !!(d && (d.chGenerators || (d.questions || []).some(q => q.ch)));
-  const chName = (d, ch) => ch === "all" ? "Campur semua bab" : ((d.chapters || [])[ch - 1] || `Bab ${ch}`);
-  const progKey = (d, ch) => ch ? `${d.key}#${ch}` : d.key;           // kunci progres per bab
-  const chList = d => (d.chapters || []).map((_, i) => i + 1);
+  const chName = (d, ch) => ch === "all" ? `Campur semua bab semester ${S.sem || 1}` : ((d.chapters || [])[ch - 1] || `Bab ${ch}`);
+  // Semester: "semesters": {"1": [1,2,3], "2": [4,5]} di file JSON. Tanpa itu → semua bab = semester 1.
+  const semChapters = (d, sem) => {
+    const all = (d.chapters || []).map((_, i) => i + 1);
+    if (d.semesters) return (d.semesters[sem] || []).filter(ch => all.includes(ch));
+    return sem === 1 ? all : [];
+  };
+  const chList = (d, sem) => semChapters(d, sem || S.sem || 1);
+  const semKey = (name, sem) => (sem || S.sem || 1) === 1 ? name : name + (sem || S.sem);   // "boss"/"all" (smt 1) · "boss2"/"all2" (smt 2)
+  const progKey = (d, ch) => !ch ? d.key : `${d.key}#${ch === "all" || ch === "boss" ? semKey(ch) : ch}`; // kunci progres per bab
   const chapterPassed = (u, d, ch) => ((prog(u, progKey(d, ch), 1) || {}).best || 0) >= CFG.unlockPercent;
-  const bossUnlocked = (u, d) => chList(d).every(ch => chapterPassed(u, d, ch));
+  const bossUnlocked = (u, d, sem) => { const l = chList(d, sem); return l.length > 0 && l.every(ch => chapterPassed(u, d, ch)); };
+  const bossProg = (u, d, sem) => prog(u, `${d.key}#${semKey("boss", sem)}`, 0);
   function subjectSummary(u, d) { // teks kecil di ubin pelajaran & Pojok Orang Tua
     if (d.type === "drill") {
       const done = ["add", "sub", "mul", "div"].filter(op => [1, 2, 3].some(l => prog(u, `${d.key}#${op}`, l))).length;
@@ -421,10 +429,11 @@
       if (!bests.length) return null;
       return `Level ${[1, 2, 3].filter(l => isUnlocked(u, d.key, l)).length} · terbaik ${Math.max(...bests.map(b => b.best))}`;
     }
-    const passed = chList(d).filter(ch => chapterPassed(u, d, ch)).length;
-    const boss = prog(u, progKey(d, "boss"), 0);
-    if (!passed && !boss) return null;
-    return boss ? `🐉 Bos Final ${boss.best}` : `Bab lulus ${passed}/${chList(d).length}`;
+    const parts = [1, 2].filter(sm => chList(d, sm).length).map(sm => {
+      const passed = chList(d, sm).filter(ch => chapterPassed(u, d, ch)).length, boss = bossProg(u, d, sm);
+      return boss ? `S${sm} 🐉${boss.best}` : passed ? `S${sm} bab ${passed}/${chList(d, sm).length}` : "";
+    }).filter(Boolean);
+    return parts.length ? parts.join(" · ") : null;
   }
 
   async function subjects() {
@@ -447,8 +456,27 @@
     on("[data-s]", e => {
       S.subject = cache[u.grade + "/" + e.currentTarget.dataset.s];
       if (S.subject.type === "drill") return DRILL.open();
-      if (hasChapters(S.subject)) chapters(); else { S.ch = null; levels(); }
+      if (hasChapters(S.subject)) semesters(); else { S.ch = null; levels(); }
     });
+  }
+
+  function semesters() {
+    stopTimer(); stopSpeak();
+    const u = S.user, d = S.subject;
+    const card = sm => {
+      const l = chList(d, sm);
+      if (!l.length) return `<button class="sem locked" data-sem="${sm}" aria-disabled="true"><div class="sn">${sm}</div><div><b>Semester ${sm}</b><span>Segera hadir</span></div></button>`;
+      const passed = l.filter(ch => chapterPassed(u, d, ch)).length, boss = bossProg(u, d, sm);
+      return `<button class="sem press" data-sem="${sm}"><div class="sn">${sm}</div><div><b>Semester ${sm}</b>
+        <span>${l.length} bab · lulus ${passed}/${l.length}${boss ? ` · 🐉 ${boss.best}` : ""}</span>
+        <small>${esc(l.map(ch => chName(d, ch).replace(/^(Bab|Unit|Chapter) [\d–-]+ ?/, "")).join(" · "))}</small></div></button>`;
+    };
+    view(`${topbar(`${esc(d.icon)} ${esc(d.subject)}`)}
+      <h1 class="title">Pilih semester</h1>
+      <div class="sems">${card(1)}${card(2)}</div>
+      <div class="chapters">${d.source ? `<b>Sumber:</b> ${esc(d.source)}` : ""}</div>`);
+    on("#back", subjects);
+    on("[data-sem]", e => { const sm = +e.currentTarget.dataset.sem; if (!chList(d, sm).length) return shake(e.currentTarget); S.sem = sm; chapters(); });
   }
 
   function chapters() {
@@ -462,17 +490,17 @@
         <div class="ct"><b>${esc(chName(d, ch))}</b><span>${dots(ch)} ${best ? `· terbaik ${best}` : ""}</span></div></button>`;
     }).join("");
     const passed = chList(d).filter(ch => chapterPassed(u, d, ch)).length, total = chList(d).length;
-    const open = bossUnlocked(u, d), boss = prog(u, progKey(d, "boss"), 0);
-    view(`${topbar(`${esc(d.icon)} ${esc(d.subject)}`)}
+    const open = bossUnlocked(u, d), boss = bossProg(u, d);
+    view(`${topbar(`${esc(d.icon)} ${esc(d.subject)} · Smt ${S.sem || 1}`)}
       <h1 class="title">Pilih bab</h1>
       <div class="chaps">${cards}</div>
-      <button class="chap press mix" data-ch="all"><div class="cn">🎲</div><div class="ct"><b>Campur semua bab</b><span>Latihan acak dari semua bab</span></div></button>
+      <button class="chap press mix" data-ch="all"><div class="cn">🎲</div><div class="ct"><b>Campur semua bab</b><span>Latihan acak dari semua bab semester ${S.sem || 1}</span></div></button>
       <button class="boss press ${open ? "" : "locked"}" id="boss">
         <div class="bi">${open ? "🐉" : "🔒"}</div>
-        <div><b>Bos Final · Ulangan Sumatif</b>
+        <div><b>Bos Final · Sumatif Semester ${S.sem || 1}</b>
         <span>${open ? `Pilihan ganda + isian + uraian${boss ? ` · 🏆 ${boss.best}` : ""}` : `Lulus level Mudah (nilai ${CFG.unlockPercent}+) di semua bab · ${passed}/${total}`}</span></div></button>
       <div class="chapters">${d.source ? `<b>Sumber:</b> ${esc(d.source)}` : ""}</div>`);
-    on("#back", subjects);
+    on("#back", semesters);
     on("[data-ch]", e => { const c = e.currentTarget.dataset.ch; S.ch = c === "all" ? "all" : +c; levels(); });
     on("#boss", e => open ? bossIntro() : shake(e.currentTarget));
   }
@@ -511,12 +539,12 @@
   const isMC = q => !q.type || q.type === "mc";
   function genList(d, ch, level) {
     if (d.chGenerators) {
-      const chs = ch && ch !== "all" ? [ch] : Object.keys(d.chGenerators);
+      const chs = ch && ch !== "all" ? [ch] : chList(d).map(String).filter(c => d.chGenerators[c]);
       return [].concat(...chs.map(c => ((d.chGenerators[c] || {})[level]) || []));
     }
     return ((d.generators || {})[level]) || [];
   }
-  function inChapter(q, ch) { return !ch || ch === "all" || q.ch === ch; }
+  function inChapter(q, ch) { return !ch || (ch === "all" ? chList(S.subject).includes(q.ch) : q.ch === ch); }
   function pickForLevel(d, level, n, ch) {
     // latihan biasa: pilihan ganda + isian (uraian khusus Bos Final & level Sulit)
     const pool = shuffle((d.questions || []).filter(q => q.level === level && inChapter(q, ch) && (q.type !== "uraian" || level === 3)));
@@ -557,7 +585,7 @@
     const qs = buildQuiz(d, level, n, S.ch).map(prepareChoices);
     if (!qs.length) { alert("Soal untuk level ini belum tersedia."); return; }
     const L = LEVELS.find(x => x.n === level);
-    S.quiz = { level, levelName: S.ch ? `${S.ch === "all" ? "Campur" : "Bab " + S.ch} · ${L.name}` : L.name, key: progKey(d, S.ch),
+    S.quiz = { level, levelName: S.ch ? `Smt ${S.sem || 1} · ${S.ch === "all" ? "Campur" : "Bab " + S.ch} · ${L.name}` : L.name, key: progKey(d, S.ch),
       qs, i: 0, answers: [], combo: 0, bestCombo: 0, start: Date.now(), timeLeft: ((CFG.timerMinutes || {})[u.grade] || 0) * 60 };
     if (S.quiz.timeLeft) startTimer();
     sendLive("bermain");
@@ -579,7 +607,9 @@
     return out;
   }
   function genFor(d, kind, count) { // soal otomatis untuk Bos Final (Matematika)
-    const names = (d.bossGenerators || {})[kind] || [], out = [];
+    // bossGeneratorsBySem: {"2": {A:[…],B:[…],C:[…]}} untuk semester 2; tanpa itu → bossGenerators (semester 1)
+    const bg = ((d.bossGeneratorsBySem || {})[S.sem || 1]) || ((S.sem || 1) === 1 ? d.bossGenerators : null) || {};
+    const names = bg[kind] || [], out = [];
     let guard = 0;
     while (out.length < count && names.length && guard++ < 300) {
       let q = makeGenerated(names[Math.floor(Math.random() * names.length)], kind === "A" ? 2 + (guard % 2) : 3);
@@ -595,7 +625,7 @@
     return out;
   }
   function buildBoss(d) {
-    const qs = d.questions || [];
+    const qs = (d.questions || []).filter(q => chList(d).includes(q.ch)); // hanya bab semester ini
     const mcPool = qs.filter(q => isMC(q) && q.level >= 2);
     let A = pickSpread(mcPool, bossCfg().A.n, d);
     if (A.length < bossCfg().A.n) A = A.concat(pickSpread(qs.filter(q => isMC(q) && q.level === 1), bossCfg().A.n - A.length, d));
@@ -615,7 +645,7 @@
       <div class="result bossintro">
         <div style="font-size:84px">🐉</div>
         <div class="big">Bos Final!</div>
-        <div class="score">Ulangan sumatif ${esc(d.subject)} · semua bab</div>
+        <div class="score">Sumatif Semester ${S.sem || 1} · ${esc(d.subject)} · semua bab semester ini</div>
         <div class="secs">
           <div><b>A</b> ${secName("A")}<span>${cnt("A")} soal × ${bossCfg().A.pts} poin</span></div>
           <div><b>B</b> ${secName("B")}<span>${cnt("B")} soal × ${bossCfg().B.pts} poin</span></div>
@@ -626,7 +656,7 @@
         <button class="btn green press" id="start">⚔️ Mulai melawan Bos!</button></div>`);
     on("#back", chapters);
     on("#start", () => {
-      S.quiz = { boss: true, level: 0, levelName: "🐉 Bos Final", key: progKey(d, "boss"), qs, i: 0, answers: [], combo: 0, bestCombo: 0, start: Date.now(), timeLeft: mins * 60 };
+      S.quiz = { boss: true, level: 0, levelName: `🐉 Sumatif Smt ${S.sem || 1}`, key: progKey(d, "boss"), qs, i: 0, answers: [], combo: 0, bestCombo: 0, start: Date.now(), timeLeft: mins * 60 };
       if (S.quiz.timeLeft) startTimer();
       sendLive("bermain");
       question();
@@ -942,7 +972,7 @@
       const rows = await Promise.all(keys.map(async key => {
         let d; try { d = await loadSubject(acc.grade, key); } catch (e) { return ""; }
         const hs = mine.filter(h => h.subjectKey === key);
-        const lvTxt = d.type === "drill" ? "bersusun" : hasChapters(d) ? (() => { const b = prog(acc, progKey(d, "boss"), 0); return `Bab ${chList(d).filter(ch => chapterPassed(acc, d, ch)).length}/${chList(d).length}${b ? " · 🐉" + b.best : ""}`; })() : `Lv${[1, 2, 3].filter(l => isUnlocked(acc, key, l)).length}`;
+        const lvTxt = d.type === "drill" ? "bersusun" : hasChapters(d) ? [1, 2].filter(sm => chList(d, sm).length).map(sm => { const b = bossProg(acc, d, sm); return `S${sm} ${chList(d, sm).filter(ch => chapterPassed(acc, d, ch)).length}/${chList(d, sm).length}${b ? "🐉" + b.best : ""}`; }).join(" ") : `Lv${[1, 2, 3].filter(l => isUnlocked(acc, key, l)).length}`;
         if (!hs.length) return `<div class="row"><span class="n">${esc(d.subject)}</span><span class="tr"></span><span class="v">belum</span></div>`;
         const recent = hs.slice(-3), avg = Math.round(recent.reduce((s, h) => s + Number(h.percent), 0) / recent.length);
         const color = avg >= 80 ? "var(--ok)" : avg >= 60 ? "var(--c5)" : "var(--bad)";

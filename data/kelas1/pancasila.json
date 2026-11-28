@@ -662,5 +662,12 @@
    "fromSource": true,
    "id": "k1-pancasila-044"
   }
- ]
+ ],
+ "semesters": {
+  "1": [
+   1,
+   2
+  ],
+  "2": []
+ }
 }

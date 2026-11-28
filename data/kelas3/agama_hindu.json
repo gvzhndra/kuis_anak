@@ -1138,5 +1138,13 @@
    "fromSource": true,
    "id": "k3-agama_hindu-075"
   }
- ]
+ ],
+ "semesters": {
+  "1": [
+   1,
+   2,
+   3
+  ],
+  "2": []
+ }
 }

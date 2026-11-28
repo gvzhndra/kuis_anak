@@ -7,7 +7,9 @@ CH3 = {
  "pancasila": ["Bab 1 Aku Anak Indonesia", "Bab 2 Aku Patuh Aturan"],
  "agama_hindu": ["Bab 1 Kitab Purana", "Bab 2 Tri Murti", "Bab 3 Tri Parartha"],
  "bahasa_bali": ["Bab 1 Pangastungkara, Kulawarga & Anggan Awak", "Bab 2 Wilangan & Wewaran", "Bab 3 Basa Alus (Sor Singgih)", "Bab 4 Aksara Bali & Angka Bali"],
- "bahasa_inggris": ["Chapter 1 My Self", "Chapter 2 My Family", "Chapter 3 My Family's Activities at Home"],
+ "bahasa_inggris": ["Bab 1 Food & Drinks: Like/Likes (Unit 1–2)", "Bab 2 Breakfast, Lunch & Dinner (Unit 3)", "Bab 3 Hobbies: Do You Like Swimming? (Unit 4)",
+                    "Bab 4 Days of the Week (Unit 5)", "Bab 5 Rooms at School (Unit 6)", "Bab 6 Where Is It? In/On/Under… (Unit 7)",
+                    "Bab 7 Activities at School (Unit 8)", "Bab 8 My Classroom Is Clean (Unit 9)", "Bab 9 Numbers 21–50 & There Are (Unit 10)"],
  "pjok": ["Bab 1 Gerakku Semakin Lincah", "Bab 2 Ayo, Bermain Strategi!"],
  "tik": ["Bab 1 Perangkat Komputer", "Bab 2 Keyboard, Mouse, File & Aplikasi", "Bab 3 Internet Sehat & Aman"],
 }
@@ -21,7 +23,8 @@ CH1 = {
  "pancasila": ["Bab 1 Aku dan Teman-Temanku", "Bab 2 Aku Patuh pada Aturan"],
  "agama_hindu": ["Bab 1 Cerita Ramayana", "Bab 2 Ciptaan Hyang Widhi Wasa"],
  "bahasa_bali": ["Bab 1 Pangastungkara & Kulawarga", "Bab 2 Wilangan (Angka)", "Bab 3 Anggan Awak, Warna & Wewalungan"],
- "bahasa_inggris": ["Unit 1 Greetings & Family", "Unit 2 Colors & Numbers", "Unit 3 Animals, Body & Things"],
+ "bahasa_inggris": ["Bab 1 Greetings & Names (Unit 1–3)", "Bab 2 Numbers & Things in the Classroom (Unit 4–5)", "Bab 3 Colors, Shapes & Sizes (Unit 6–7)",
+                    "Bab 4 I Have… & At Cici's Farm (Unit 8–9)", "Bab 5 He/She & Aisyah's Family (Unit 10–11)", "Bab 6 Fruits: Have/Has & Like/Likes (Unit 12–13)"],
  "pjok": ["Bab 1 Serunya Gerak di Tempat", "Bab 2 Asyiknya Gerak Berpindah Tempat", "Bab 3 Bergerak Menggunakan Benda"],
  "tik": ["Bab 1 Mengenal Komputer & Gawai", "Bab 2 Bagian-Bagian Komputer", "Bab 3 Mouse & Keyboard", "Bab 4 Aturan Memakai Komputer"],
 }
@@ -34,6 +37,13 @@ TOPIC1 = {
 GRADES = {1: (CH1, TOPIC1), 3: (CH3, TOPIC3)}
 # Materi yang BELUM diajarkan di sekolah → soal disimpan tetapi tidak dipakai ("skip": true).
 # Hapus baris di sini jika materinya sudah diajarkan, lalu jalankan ulang skrip ini.
+# Soal lama yang diganti seluruhnya oleh sumber baru (mis. dari buku yang baru diterima)
+RESET = {(1, "bahasa_inggris"), (3, "bahasa_inggris")}
+# Pembagian semester per pelajaran: nomor bab → semester. Tanpa entri di sini = semua bab semester 1.
+SEMESTERS = {
+ (1, "bahasa_inggris"): {"1": [1, 2, 3], "2": [4, 5, 6]},
+ (3, "bahasa_inggris"): {"1": [1, 2, 3, 4], "2": [5, 6, 7, 8, 9]},
+}
 SKIP = {(3, "bahasa_bali"): r"pangangge|\bulu\b|\bsuku\b|taleng|pepet"}
 TOPIC = TOPIC3
 
@@ -72,7 +82,7 @@ for G, (CH, TOPIC) in GRADES.items():
     for key, chapters in CH.items():
         f = f"data/kelas{G}/{key}.json"
         d = json.load(open(f, encoding="utf-8"))
-        old = [q for q in d["questions"] if not q.get("fromSource")]
+        old = [] if (G, key) in RESET else [q for q in d["questions"] if not q.get("fromSource")]
         for q in old: q["ch"] = ch_of(q.get("bab", ""))
         new = []
         for q in src.get(key, []):
@@ -83,6 +93,7 @@ for G, (CH, TOPIC) in GRADES.items():
             if pat and re.search(pat, text, re.I): q["skip"] = True
             else: q.pop("skip", None)
         d["chapters"] = chapters
+        d["semesters"] = SEMESTERS.get((G, key), {"1": list(range(1, len(chapters) + 1)), "2": []})
         d["questions"] = old + new
         for i, q in enumerate(d["questions"]): q["id"] = f"k{G}-{key}-{i+1:03d}"
         json.dump(d, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)

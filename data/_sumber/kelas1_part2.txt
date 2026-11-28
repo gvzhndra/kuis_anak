@@ -21,29 +21,6 @@ I|2|3|Bahasa Bali dari "merah" adalah …|barak|Merah = barak.
 I|3|3|Bahasa Bali dari "kaki" adalah …|batis|Kaki = batis.
 U|3|Sebutkan dua nama binatang dalam bahasa Bali!|Contoh: meong (kucing), cicing (anjing), siap (ayam), sampi (sapi), be (ikan), kedis (burung), bikul (tikus).|meong, cicing, siap, sampi, kedis
 
-@ bahasa_inggris
-M|1|1|"Good night" diucapkan saat …|mau tidur malam|bangun pagi|siang hari|makan|Good night = selamat malam (sebelum tidur).
-M|2|1|"Brother" artinya …|saudara laki-laki|saudara perempuan|ayah|kakek|Brother = saudara laki-laki.
-M|3|1|"Hello! My name is Rina." Rina sedang …|berkenalan|tidur|makan|menangis|My name is … = namaku …
-I|1|1|Bahasa Inggris dari "ayah" adalah …|father;dad;daddy|Ayah = father.
-I|2|1|Bahasa Inggris dari "terima kasih" adalah …|thank you;thanks;thankyou|Terima kasih = thank you.
-I|3|1|Lengkapi: "Good …" (selamat pagi)|morning|Good morning = selamat pagi.
-U|1|Perkenalkan namamu dalam bahasa Inggris!|Hello! My name is … (contoh: Hello! My name is Komang.)|hello, my name is
-M|1|2|"Black" artinya warna …|hitam|putih|merah|biru|Black = hitam.
-M|2|2|"Six" adalah angka …|6|5|7|9|Six = 6.
-M|3|2|"one + one = …"|two|three|one|four|1 + 1 = 2 = two.
-I|1|2|Bahasa Inggris dari angka 1 adalah …|one|1 = one.
-I|2|2|Bahasa Inggris dari warna merah adalah …|red|Merah = red.
-I|3|2|Bahasa Inggris dari angka 4 adalah …|four|4 = four.
-U|2|Hitung dalam bahasa Inggris dari 1 sampai 5!|one, two, three, four, five.|one, two, three, four, five
-M|1|3|"Fish" artinya …|ikan|kucing|burung|sapi|Fish = ikan 🐟.
-M|2|3|"Hand" artinya …|tangan|kaki|kepala|mata|Hand = tangan.
-M|3|3|"Apple" artinya …|apel|pisang|jeruk|mangga|Apple = apel 🍎.
-I|1|3|Bahasa Inggris dari "kucing" adalah …|cat|Kucing = cat.
-I|2|3|Bahasa Inggris dari "buku" adalah …|book|Buku = book.
-I|3|3|Bahasa Inggris dari "mata" adalah …|eye;eyes|Mata = eye.
-U|3|Sebutkan dua nama binatang dalam bahasa Inggris!|Contoh: cat (kucing), dog (anjing), bird (burung), fish (ikan), cow (sapi), duck (bebek).|cat, dog, bird, fish, cow
-
 @ pjok
 M|1|1|Gerak menekuk badan ke depan disebut …|membungkuk|berlari|melompat|merangkak|Membungkuk = gerak di tempat.
 M|2|1|Gerakan memutar pinggang ke kanan dan kiri disebut …|memilin|mengayun|melompat|berjalan|Memilin = memutar bagian tubuh.

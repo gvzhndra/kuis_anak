@@ -909,5 +909,12 @@
    "fromSource": true,
    "id": "k3-pjok-060"
   }
- ]
+ ],
+ "semesters": {
+  "1": [
+   1,
+   2
+  ],
+  "2": []
+ }
 }

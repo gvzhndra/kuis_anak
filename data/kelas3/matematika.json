@@ -323,5 +323,13 @@
  },
  "bossSectionNames": {
   "C": "Soal Cerita"
+ },
+ "semesters": {
+  "1": [
+   1,
+   2,
+   3
+  ],
+  "2": []
  }
 }

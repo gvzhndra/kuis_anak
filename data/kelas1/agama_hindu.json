@@ -666,5 +666,12 @@
    "fromSource": true,
    "id": "k1-agama_hindu-044"
   }
- ]
+ ],
+ "semesters": {
+  "1": [
+   1,
+   2
+  ],
+  "2": []
+ }
 }

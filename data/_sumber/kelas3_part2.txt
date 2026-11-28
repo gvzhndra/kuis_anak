@@ -92,53 +92,6 @@ I|3|3|Pangangge suara "taleng" memberi bunyi …|é;e|Taleng = é.
 U|3|Mengapa kita harus memakai basa alus kepada orang tua dan guru?|Untuk menunjukkan sikap hormat dan sopan santun kepada orang yang lebih tua atau dihormati, sesuai tata krama (sor singgih basa).|hormat, sopan, alus
 U|3|Sebutkan pangangge suara aksara Bali dan bunyinya (minimal 3)!|Ulu = i, suku = u, taleng = é, taleng tedong = o, pepet = ě.|ulu, suku, taleng, pepet
 
-@ bahasa_inggris
-M|1|1|"Hello, my name is Gani." Kata "name" artinya …|nama|umur|rumah|hobi|Name = nama.
-M|1|1|Bahasa Inggris dari "membaca" adalah …|reading|writing|singing|cooking|Reading = membaca.
-M|1|1|"I am nine years old." Artinya umurku …|sembilan tahun|delapan tahun|sepuluh tahun|tujuh tahun|Nine = sembilan.
-M|2|1|"What is your favorite activity?" artinya …|Apa kegiatan kesukaanmu?|Siapa namamu?|Kamu tinggal di mana?|Berapa umurmu?|Favorite activity = kegiatan kesukaan.
-M|2|1|"I like playing badminton." Kegiatan kesukaannya adalah …|bermain bulu tangkis|bermain sepak bola|berenang|menari|Badminton = bulu tangkis.
-M|2|1|"Nice to meet you." artinya …|Senang bertemu denganmu.|Sampai jumpa lagi.|Selamat pagi.|Terima kasih.|Diucapkan saat berkenalan.
-M|3|1|Jawaban untuk "When do you do your favorite activity?" adalah …|On Sunday.|I like drawing.|My name is Mita.|I am from Malang.|When = kapan, dijawab dengan waktu.
-M|3|1|Pilih kalimat perkenalan yang BENAR!|My name is Putu. I am eight years old.|My name Putu. I eight years old.|Name my is Putu.|I am name Putu.|Pola: My name is … / I am … years old.
-M|3|1|"I like singing and dancing." Artinya …|Aku suka bernyanyi dan menari.|Aku suka membaca dan menulis.|Aku tidak suka menyanyi.|Aku suka memasak.|Singing = bernyanyi, dancing = menari.
-I|2|1|Bahasa Inggris dari "menggambar" adalah …|drawing;draw|Drawing = menggambar.
-I|2|1|"How are you?" — "I am …, thank you." (baik)|fine;good;great|I am fine / good, thank you.
-I|3|1|Lengkapi: "My … is Bara." (namaku Bara)|name|My name is Bara.
-I|3|1|Bahasa Inggris dari angka 8 adalah …|eight|8 = eight.
-U|1|Perkenalkan dirimu dalam bahasa Inggris (nama, umur, kegiatan kesukaan)!|Hello! My name is Komang. I am eight years old. I like drawing. (Contoh — sesuaikan dengan dirimu.)|my name is, years old, I like
-U|1|Tuliskan dua kegiatan kesukaan dalam bahasa Inggris beserta artinya!|Contoh: reading (membaca), drawing (menggambar), singing (bernyanyi), dancing (menari), playing football (bermain sepak bola), swimming (berenang).|reading, drawing, singing, dancing, playing
-M|1|2|"Father" artinya …|ayah|ibu|kakek|paman|Father = ayah.
-M|1|2|"Grandfather" artinya …|kakek|nenek|ayah|kakak|Grandfather = kakek.
-M|1|2|"This is my family." artinya …|Ini keluargaku.|Ini rumahku.|Ini sekolahku.|Ini temanku.|Family = keluarga.
-M|2|2|"She is my little sister." artinya …|Dia adik perempuanku.|Dia kakak laki-lakiku.|Dia ibuku.|Dia nenekku.|Little sister = adik perempuan.
-M|2|2|"Where is Bara from?" — "He is from …"|Medan|eight years|reading|my father|Dijawab dengan nama tempat asal.
-M|2|2|Pipit punya adik kembar, Putra dan Putri. Kembar dalam bahasa Inggris adalah …|twins|parents|cousins|friends|Twins = kembar.
-M|3|2|Pilih kalimat yang BENAR!|He is my brother.|She is my brother.|He are my brother.|He my brother is.|Laki-laki → He is …
-M|3|2|"My mother is from Cianjur." Kalimat ini menjelaskan … ibu.|asal daerah|umur|hobi|pekerjaan|Is from … = berasal dari …
-M|3|2|Ayah dari ayah kita dalam bahasa Inggris disebut …|grandfather|uncle|brother|father|Ayahnya ayah = kakek = grandfather.
-I|2|2|Bahasa Inggris dari "ibu" adalah …|mother;mom;mum|Mother = ibu.
-I|2|2|Bahasa Inggris dari "kakak/adik laki-laki" adalah …|brother|Brother = saudara laki-laki.
-I|3|2|Lengkapi: "… is my mother." (Dia)|She|Untuk perempuan memakai She.
-I|3|2|"Where are you …?" — "I am from Bali."|from|Where are you from? = Dari mana asalmu?
-U|2|Perkenalkan dua anggota keluargamu dalam bahasa Inggris!|Contoh: This is my father. He is from Gianyar. This is my mother. She is from Denpasar.|This is my, he is, she is
-U|2|Terjemahkan ke bahasa Inggris: "Ini nenekku. Dia berasal dari Bali."|This is my grandmother. She is from Bali.|This is my grandmother, She is from Bali
-M|1|3|"Bathroom" artinya …|kamar mandi|kamar tidur|dapur|teras|Bathroom = kamar mandi.
-M|1|3|"Terrace" artinya …|teras|dapur|halaman belakang|ruang tamu|Terrace = teras.
-M|1|3|Bahasa Inggris dari "mencuci baju" adalah …|washing clothes|washing dishes|sweeping the floor|making the bed|Clothes = baju/pakaian.
-M|2|3|"I am mopping the floor." artinya …|Aku sedang mengepel lantai.|Aku sedang menyapu lantai.|Aku sedang mencuci piring.|Aku sedang tidur.|Mopping = mengepel.
-M|2|3|"He is gardening." artinya dia sedang …|berkebun|memasak|mandi|membaca|Gardening = berkebun.
-M|2|3|Ruangan untuk menerima tamu dan berkumpul keluarga adalah …|living room|bathroom|kitchen|backyard|Living room = ruang keluarga/tamu.
-M|3|3|"Where is your sister?" — "She is in the bedroom." Kakak/adik perempuannya ada di …|kamar tidur|dapur|kamar mandi|halaman|Bedroom = kamar tidur.
-M|3|3|Ibu sedang memasak di dapur. Dalam bahasa Inggris …|My mother is cooking in the kitchen.|My mother is cooking in the bedroom.|My father is cooking in the kitchen.|My mother is sweeping in the kitchen.|Cooking = memasak, kitchen = dapur.
-M|3|3|"What are they doing?" Kata "they" artinya …|mereka|dia perempuan|kami|kamu|They = mereka.
-I|2|3|Bahasa Inggris dari "dapur" adalah …|kitchen|Kitchen = dapur.
-I|2|3|Bahasa Inggris dari "kamar tidur" adalah …|bedroom|Bedroom = kamar tidur.
-I|3|3|Lengkapi: "She is … the dishes." (mencuci)|washing|Washing the dishes = mencuci piring.
-I|3|3|Bahasa Inggris dari "halaman belakang" adalah …|backyard|Backyard = halaman belakang.
-U|3|Sebutkan 4 ruangan di rumah dalam bahasa Inggris beserta artinya!|Living room (ruang tamu/keluarga), bedroom (kamar tidur), kitchen (dapur), bathroom (kamar mandi), terrace (teras), backyard (halaman belakang), garden (kebun).|living room, bedroom, kitchen, bathroom
-U|3|Tuliskan dalam bahasa Inggris: kegiatan yang kamu lakukan di rumah untuk membantu orang tua (2 kalimat)!|Contoh: I am sweeping the floor. I am making the bed. I am washing the dishes.|I am, sweeping, making the bed, washing
-
 @ pjok
 M|1|1|Gerak yang dilakukan tanpa berpindah tempat disebut gerak …|di tempat (nonlokomotor)|berpindah tempat|manipulatif|lari|Contoh: membungkuk, memutar, menekuk.
 M|1|1|Menangkap bola memakai …|kedua tangan|kepala|lutut|siku|Tangkap bola dengan kedua tangan.

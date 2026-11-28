@@ -1,0 +1,1857 @@
+{
+ "bahasa_inggris": [
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Bahasa Inggris dari makanan ini adalah …",
+   "choices": [
+    "rice",
+    "bread",
+    "noodle",
+    "milk"
+   ],
+   "answer": 0,
+   "explain": "Nasi = rice.",
+   "img": "🍚",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Bahasa Inggris dari makanan ini adalah …",
+   "choices": [
+    "fried chicken",
+    "fried rice",
+    "meatball",
+    "bread"
+   ],
+   "answer": 0,
+   "explain": "Ayam goreng = fried chicken.",
+   "img": "🍗",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Bahasa Inggris dari minuman ini adalah …",
+   "choices": [
+    "milk",
+    "tea",
+    "juice",
+    "coffee"
+   ],
+   "answer": 0,
+   "explain": "Susu = milk.",
+   "img": "🥛",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Bahasa Inggris dari makanan ini adalah …",
+   "choices": [
+    "ice cream",
+    "bread",
+    "banana",
+    "noodle"
+   ],
+   "answer": 0,
+   "explain": "Es krim = ice cream.",
+   "img": "🍦",
+   "imgSpeak": ""
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "\"Nasi goreng\" dalam bahasa Inggris adalah …",
+   "choices": [
+    "fried rice",
+    "fried chicken",
+    "rice cake",
+    "noodle"
+   ],
+   "answer": 0,
+   "explain": "Nasi goreng = fried rice."
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "\"Bakso\" dalam bahasa Inggris adalah …",
+   "choices": [
+    "meatball",
+    "meat bread",
+    "noodle",
+    "fried chicken"
+   ],
+   "answer": 0,
+   "explain": "Bakso = meatball."
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "\"I don't like rice.\" artinya …",
+   "choices": [
+    "Aku tidak suka nasi.",
+    "Aku suka nasi.",
+    "Dia tidak suka nasi.",
+    "Aku punya nasi."
+   ],
+   "answer": 0,
+   "explain": "Don't like = tidak suka.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "\"Do you like ice cream?\" — \"Yes, …\"",
+   "choices": [
+    "I like it.",
+    "I don't like it.",
+    "she likes it.",
+    "it is milk."
+   ],
+   "answer": 0,
+   "explain": "Jawaban setuju: Yes, I like it. Jawaban tidak: No, I don't like it."
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Made suka teh. Kalimat yang benar adalah …",
+   "choices": [
+    "Made likes tea.",
+    "Made like tea.",
+    "Made don't like tea.",
+    "Made is tea."
+   ],
+   "answer": 0,
+   "explain": "Made (dia) → likes. I/You → like."
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Cici tidak suka kopi. Kalimat yang benar adalah …",
+   "choices": [
+    "She doesn't like coffee.",
+    "She don't like coffee.",
+    "She likes coffee.",
+    "He doesn't like coffee."
+   ],
+   "answer": 0,
+   "explain": "Cici (perempuan) → She doesn't like …"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Pilih kalimat yang BENAR!",
+   "choices": [
+    "He likes noodle.",
+    "He like noodle.",
+    "He likes noodle is.",
+    "He don't likes noodle."
+   ],
+   "answer": 0,
+   "explain": "He/She likes …, I/You like …"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "\"Joshua doesn't like ice cream.\" artinya …",
+   "choices": [
+    "Joshua tidak suka es krim.",
+    "Joshua suka es krim.",
+    "Joshua punya es krim.",
+    "Joshua makan es krim."
+   ],
+   "answer": 0,
+   "explain": "Doesn't like = tidak suka (untuk dia).",
+   "choiceLang": "id"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"roti\" 🍞 adalah …",
+   "answer": "bread",
+   "accept": [],
+   "explain": "Roti = bread."
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"teh\" 🍵 adalah …",
+   "answer": "tea",
+   "accept": [],
+   "explain": "Teh = tea."
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "input",
+   "q": "Lengkapi: \"She … like rice.\" (tidak suka)",
+   "answer": "doesn't",
+   "accept": [
+    "does not",
+    "doesnt"
+   ],
+   "explain": "She doesn't like rice."
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Tuliskan makanan atau minuman yang kamu suka dan tidak suka (2 kalimat bahasa Inggris)!",
+   "answer": "Contoh: I like fried chicken. I don't like coffee.",
+   "keywords": [
+    "I like",
+    "I don't like"
+   ]
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Makan pagi dalam bahasa Inggris adalah …",
+   "choices": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "snack"
+   ],
+   "answer": 0,
+   "explain": "Breakfast = sarapan/makan pagi.",
+   "img": "🌅",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Makan siang dalam bahasa Inggris adalah …",
+   "choices": [
+    "lunch",
+    "breakfast",
+    "dinner",
+    "bread"
+   ],
+   "answer": 0,
+   "explain": "Lunch = makan siang.",
+   "img": "☀️",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Makan malam dalam bahasa Inggris adalah …",
+   "choices": [
+    "dinner",
+    "lunch",
+    "breakfast",
+    "drink"
+   ],
+   "answer": 0,
+   "explain": "Dinner = makan malam.",
+   "img": "🌙",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "\"Juice\" artinya …",
+   "choices": [
+    "jus",
+    "susu",
+    "teh",
+    "kopi"
+   ],
+   "answer": 0,
+   "explain": "Juice = jus 🧃.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "\"Joshua has breakfast.\" Joshua sedang …",
+   "choices": [
+    "sarapan",
+    "makan siang",
+    "makan malam",
+    "tidur"
+   ],
+   "answer": 0,
+   "explain": "Breakfast = sarapan.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Makan bersama di kantin sekolah pada siang hari disebut …",
+   "choices": [
+    "lunch",
+    "breakfast",
+    "dinner",
+    "bedtime"
+   ],
+   "answer": 0,
+   "explain": "They have lunch = mereka makan siang."
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "\"I have fried chicken for breakfast.\" artinya …",
+   "choices": [
+    "Aku sarapan ayam goreng.",
+    "Aku makan malam ayam goreng.",
+    "Aku tidak suka ayam goreng.",
+    "Aku membeli ayam goreng."
+   ],
+   "answer": 0,
+   "explain": "Have … for breakfast = sarapan dengan …",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Bahasa Inggris dari minuman ini adalah …",
+   "choices": [
+    "orange juice",
+    "milk",
+    "tea",
+    "coffee"
+   ],
+   "answer": 0,
+   "explain": "Jus jeruk = orange juice.",
+   "img": "🧃🍊",
+   "imgSpeak": ""
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Lengkapi: \"Joshua and his family … dinner.\"",
+   "choices": [
+    "have",
+    "has",
+    "is",
+    "likes"
+   ],
+   "answer": 0,
+   "explain": "Joshua and his family = mereka → have."
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Lengkapi: \"Cici … bread for breakfast.\"",
+   "choices": [
+    "has",
+    "have",
+    "are",
+    "like"
+   ],
+   "answer": 0,
+   "explain": "Cici (dia) → has."
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "\"What do you have for lunch?\" Jawaban yang tepat …",
+   "choices": [
+    "I have rice and fried chicken.",
+    "I like swimming.",
+    "It is Monday.",
+    "I am in the canteen."
+   ],
+   "answer": 0,
+   "explain": "Pertanyaan makanan → I have … for lunch."
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Urutan waktu makan yang benar adalah …",
+   "choices": [
+    "breakfast → lunch → dinner",
+    "dinner → lunch → breakfast",
+    "lunch → breakfast → dinner",
+    "breakfast → dinner → lunch"
+   ],
+   "answer": 0,
+   "explain": "Pagi (breakfast), siang (lunch), malam (dinner)."
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "type": "input",
+   "q": "Makan malam dalam bahasa Inggris adalah …",
+   "answer": "dinner",
+   "accept": [],
+   "explain": "Dinner = makan malam."
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "type": "input",
+   "q": "Makan pagi dalam bahasa Inggris adalah …",
+   "answer": "breakfast",
+   "accept": [],
+   "explain": "Breakfast = sarapan."
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "input",
+   "q": "Lengkapi: \"They … lunch in the canteen.\" (makan/punya)",
+   "answer": "have",
+   "accept": [],
+   "explain": "They have lunch."
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "uraian",
+   "q": "Apa yang kamu makan untuk sarapan? Jawab dengan kalimat bahasa Inggris!",
+   "answer": "Contoh: I have bread and milk for breakfast.",
+   "keywords": [
+    "I have",
+    "for breakfast"
+   ]
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "Kegiatan ini dalam bahasa Inggris adalah …",
+   "choices": [
+    "swimming",
+    "singing",
+    "reading",
+    "riding a bike"
+   ],
+   "answer": 0,
+   "explain": "Berenang = swimming.",
+   "img": "🏊",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "Kegiatan ini dalam bahasa Inggris adalah …",
+   "choices": [
+    "reading",
+    "writing",
+    "singing",
+    "swimming"
+   ],
+   "answer": 0,
+   "explain": "Membaca = reading.",
+   "img": "📖",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "Kegiatan ini dalam bahasa Inggris adalah …",
+   "choices": [
+    "singing",
+    "dancing",
+    "reading",
+    "studying"
+   ],
+   "answer": 0,
+   "explain": "Bernyanyi = singing.",
+   "img": "🎤",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "Kegiatan ini dalam bahasa Inggris adalah …",
+   "choices": [
+    "riding a bike",
+    "swimming",
+    "playing football",
+    "watching TV"
+   ],
+   "answer": 0,
+   "explain": "Bersepeda = riding a bike.",
+   "img": "🚲",
+   "imgSpeak": ""
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "\"Watching TV\" artinya …",
+   "choices": [
+    "menonton TV",
+    "membaca buku",
+    "bermain bola",
+    "belajar"
+   ],
+   "answer": 0,
+   "explain": "Watching = menonton.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "\"Do you like swimming?\" artinya …",
+   "choices": [
+    "Apakah kamu suka berenang?",
+    "Kamu suka berenang.",
+    "Di mana kamu berenang?",
+    "Kapan kamu berenang?"
+   ],
+   "answer": 0,
+   "explain": "Do you like …? = Apakah kamu suka …?",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "\"Do you like reading?\" — Jawaban YA yang tepat …",
+   "choices": [
+    "Yes, I do.",
+    "Yes, I am.",
+    "No, I don't.",
+    "Yes, she does."
+   ],
+   "answer": 0,
+   "explain": "Do you…? → Yes, I do / No, I don't."
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "\"Studying\" artinya …",
+   "choices": [
+    "belajar",
+    "bermain",
+    "tidur",
+    "makan"
+   ],
+   "answer": 0,
+   "explain": "Study = belajar.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "\"Does Made like swimming?\" — Jawaban YA yang tepat …",
+   "choices": [
+    "Yes, he does.",
+    "Yes, he is.",
+    "Yes, I do.",
+    "Yes, she does."
+   ],
+   "answer": 0,
+   "explain": "Does Made …? → Yes, he does / No, he doesn't."
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "Cici suka bernyanyi. Kalimat yang benar …",
+   "choices": [
+    "Cici likes singing.",
+    "Cici like singing.",
+    "Cici likes sing.",
+    "Cici is likes singing."
+   ],
+   "answer": 0,
+   "explain": "Cici (dia) → likes + kata kerja-ing."
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "Pertanyaan yang tepat untuk Aisyah adalah …",
+   "choices": [
+    "Does Aisyah like reading?",
+    "Do Aisyah like reading?",
+    "Does Aisyah likes reading?",
+    "Aisyah like reading?"
+   ],
+   "answer": 0,
+   "explain": "Untuk dia (he/she/nama orang) → Does … like …?"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "\"No, I don't.\" adalah jawaban untuk …",
+   "choices": [
+    "Do you like swimming?",
+    "Does she like swimming?",
+    "What is your name?",
+    "Where is the canteen?"
+   ],
+   "answer": 0,
+   "explain": "Do you…? → Yes, I do / No, I don't."
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"berenang\" adalah …",
+   "answer": "swimming",
+   "accept": [
+    "swim"
+   ],
+   "explain": "Berenang = swimming."
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"membaca\" adalah …",
+   "answer": "reading",
+   "accept": [
+    "read"
+   ],
+   "explain": "Membaca = reading."
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "input",
+   "q": "Lengkapi: \"… Joshua like singing?\" — \"Yes, he does.\"",
+   "answer": "Does",
+   "accept": [],
+   "explain": "Untuk dia → Does … ?"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "uraian",
+   "q": "Apa hobimu? Tulis 2 kalimat bahasa Inggris!",
+   "answer": "Contoh: I like swimming. I like riding a bike.",
+   "keywords": [
+    "I like",
+    "swimming",
+    "reading",
+    "singing",
+    "riding",
+    "playing"
+   ]
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "q": "Hari Senin dalam bahasa Inggris adalah …",
+   "choices": [
+    "Monday",
+    "Sunday",
+    "Tuesday",
+    "Friday"
+   ],
+   "answer": 0,
+   "explain": "Senin = Monday."
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "q": "Hari Minggu dalam bahasa Inggris adalah …",
+   "choices": [
+    "Sunday",
+    "Saturday",
+    "Monday",
+    "Thursday"
+   ],
+   "answer": 0,
+   "explain": "Minggu = Sunday."
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "q": "\"Friday\" adalah hari …",
+   "choices": [
+    "Jumat",
+    "Kamis",
+    "Sabtu",
+    "Rabu"
+   ],
+   "answer": 0,
+   "explain": "Friday = Jumat.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "q": "\"Wednesday\" adalah hari …",
+   "choices": [
+    "Rabu",
+    "Selasa",
+    "Kamis",
+    "Senin"
+   ],
+   "answer": 0,
+   "explain": "Wednesday = Rabu.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "q": "Hari sesudah Monday adalah …",
+   "choices": [
+    "Tuesday",
+    "Sunday",
+    "Wednesday",
+    "Thursday"
+   ],
+   "answer": 0,
+   "explain": "Monday → Tuesday."
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "q": "Hari sebelum Saturday adalah …",
+   "choices": [
+    "Friday",
+    "Sunday",
+    "Thursday",
+    "Monday"
+   ],
+   "answer": 0,
+   "explain": "Friday → Saturday."
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "q": "\"Thursday\" adalah hari …",
+   "choices": [
+    "Kamis",
+    "Selasa",
+    "Jumat",
+    "Rabu"
+   ],
+   "answer": 0,
+   "explain": "Thursday = Kamis.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "q": "\"I like riding a bike on Sunday.\" artinya …",
+   "choices": [
+    "Aku suka bersepeda pada hari Minggu.",
+    "Aku suka berenang hari Minggu.",
+    "Aku bersepeda hari Senin.",
+    "Aku tidak suka bersepeda."
+   ],
+   "answer": 0,
+   "explain": "On Sunday = pada hari Minggu.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "q": "\"What do you like doing on Saturday?\" Jawaban yang tepat …",
+   "choices": [
+    "I like swimming on Saturday.",
+    "It is Saturday.",
+    "I am nine years old.",
+    "Saturday is a day."
+   ],
+   "answer": 0,
+   "explain": "Jawab dengan: I like …-ing on …"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "q": "Urutan hari yang BENAR adalah …",
+   "choices": [
+    "Monday, Tuesday, Wednesday",
+    "Monday, Wednesday, Tuesday",
+    "Tuesday, Monday, Thursday",
+    "Sunday, Friday, Monday"
+   ],
+   "answer": 0,
+   "explain": "Monday – Tuesday – Wednesday – Thursday – Friday – Saturday – Sunday."
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "q": "Jumlah hari dalam seminggu ada … days.",
+   "choices": [
+    "seven",
+    "five",
+    "six",
+    "ten"
+   ],
+   "answer": 0,
+   "explain": "Ada 7 hari = seven days."
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "q": "Lengkapi: \"I like reading … Friday.\"",
+   "choices": [
+    "on",
+    "in",
+    "at",
+    "under"
+   ],
+   "answer": 0,
+   "explain": "Untuk hari memakai \"on\": on Friday."
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "type": "input",
+   "q": "Hari Sabtu dalam bahasa Inggris adalah …",
+   "answer": "Saturday",
+   "accept": [],
+   "explain": "Sabtu = Saturday."
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "type": "input",
+   "q": "Hari Selasa dalam bahasa Inggris adalah …",
+   "answer": "Tuesday",
+   "accept": [],
+   "explain": "Selasa = Tuesday."
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "type": "input",
+   "q": "Hari sesudah Wednesday adalah …",
+   "answer": "Thursday",
+   "accept": [],
+   "explain": "Wednesday → Thursday."
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "type": "uraian",
+   "q": "Tuliskan nama-nama hari dalam bahasa Inggris dari Senin sampai Minggu!",
+   "answer": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.",
+   "keywords": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+   ]
+  },
+  {
+   "level": 1,
+   "ch": 5,
+   "q": "Tempat membeli makanan di sekolah disebut …",
+   "choices": [
+    "canteen",
+    "library",
+    "office",
+    "classroom"
+   ],
+   "answer": 0,
+   "explain": "Canteen = kantin.",
+   "img": "🍱",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 5,
+   "q": "Tempat meminjam dan membaca buku disebut …",
+   "choices": [
+    "library",
+    "canteen",
+    "restroom",
+    "schoolyard"
+   ],
+   "answer": 0,
+   "explain": "Library = perpustakaan.",
+   "img": "📚",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 5,
+   "q": "\"Classroom\" artinya …",
+   "choices": [
+    "ruang kelas",
+    "kantor",
+    "kantin",
+    "toilet"
+   ],
+   "answer": 0,
+   "explain": "Classroom = ruang kelas.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 1,
+   "ch": 5,
+   "q": "\"Restroom\" artinya …",
+   "choices": [
+    "toilet / kamar kecil",
+    "ruang guru",
+    "perpustakaan",
+    "lapangan"
+   ],
+   "answer": 0,
+   "explain": "Restroom = toilet.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 5,
+   "q": "\"Prayer room\" artinya …",
+   "choices": [
+    "ruang ibadah",
+    "ruang kelas",
+    "kantor",
+    "kantin"
+   ],
+   "answer": 0,
+   "explain": "Prayer room = tempat ibadah/sembahyang.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 5,
+   "q": "Lapangan sekolah dalam bahasa Inggris adalah …",
+   "choices": [
+    "schoolyard",
+    "school bag",
+    "classroom",
+    "office"
+   ],
+   "answer": 0,
+   "explain": "Schoolyard = halaman/lapangan sekolah."
+  },
+  {
+   "level": 2,
+   "ch": 5,
+   "q": "Ruang kepala sekolah dan guru dalam bahasa Inggris adalah …",
+   "choices": [
+    "office",
+    "library",
+    "canteen",
+    "restroom"
+   ],
+   "answer": 0,
+   "explain": "Office = kantor."
+  },
+  {
+   "level": 2,
+   "ch": 5,
+   "q": "Ruang belajar komputer disebut …",
+   "choices": [
+    "computer laboratory",
+    "computer canteen",
+    "library",
+    "office"
+   ],
+   "answer": 0,
+   "explain": "Computer laboratory = laboratorium komputer."
+  },
+  {
+   "level": 3,
+   "ch": 5,
+   "q": "\"Is it the canteen?\" — (ya) Jawaban yang tepat …",
+   "choices": [
+    "Yes, it is.",
+    "Yes, I am.",
+    "Yes, I do.",
+    "Yes, she is."
+   ],
+   "answer": 0,
+   "explain": "Is it …? → Yes, it is / No, it isn't."
+  },
+  {
+   "level": 3,
+   "ch": 5,
+   "q": "\"Is it the library?\" — (bukan) Jawaban yang tepat …",
+   "choices": [
+    "No, it isn't.",
+    "No, I don't.",
+    "No, it is.",
+    "No, she isn't."
+   ],
+   "answer": 0,
+   "explain": "No, it isn't = bukan."
+  },
+  {
+   "level": 3,
+   "ch": 5,
+   "q": "Untuk menunjuk tempat yang DEKAT, kita memakai …",
+   "choices": [
+    "this",
+    "that",
+    "there",
+    "they"
+   ],
+   "answer": 0,
+   "explain": "This = ini (dekat), that = itu (jauh)."
+  },
+  {
+   "level": 3,
+   "ch": 5,
+   "q": "\"That is the office.\" artinya …",
+   "choices": [
+    "Itu kantor.",
+    "Ini kantor.",
+    "Apakah itu kantor?",
+    "Kantor itu bersih."
+   ],
+   "answer": 0,
+   "explain": "That = itu.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 1,
+   "ch": 5,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"kantin\" adalah …",
+   "answer": "canteen",
+   "accept": [],
+   "explain": "Kantin = canteen."
+  },
+  {
+   "level": 2,
+   "ch": 5,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"perpustakaan\" adalah …",
+   "answer": "library",
+   "accept": [],
+   "explain": "Perpustakaan = library."
+  },
+  {
+   "level": 3,
+   "ch": 5,
+   "type": "input",
+   "q": "Lengkapi: \"Is it the office?\" — \"Yes, it …\"",
+   "answer": "is",
+   "accept": [],
+   "explain": "Yes, it is."
+  },
+  {
+   "level": 3,
+   "ch": 5,
+   "type": "uraian",
+   "q": "Sebutkan 4 ruangan di sekolahmu dalam bahasa Inggris!",
+   "answer": "Contoh: classroom, canteen, library, office, restroom, prayer room, schoolyard, computer laboratory.",
+   "keywords": [
+    "classroom",
+    "canteen",
+    "library",
+    "office",
+    "restroom",
+    "schoolyard"
+   ]
+  },
+  {
+   "level": 1,
+   "ch": 6,
+   "q": "\"In\" artinya …",
+   "choices": [
+    "di dalam",
+    "di atas",
+    "di bawah",
+    "di belakang"
+   ],
+   "answer": 0,
+   "explain": "In = di dalam.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 1,
+   "ch": 6,
+   "q": "\"On\" artinya …",
+   "choices": [
+    "di atas (menempel)",
+    "di dalam",
+    "di samping",
+    "di depan"
+   ],
+   "answer": 0,
+   "explain": "On = di atas. Contoh: the book is on the table.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 1,
+   "ch": 6,
+   "q": "\"Under\" artinya …",
+   "choices": [
+    "di bawah",
+    "di atas",
+    "di antara",
+    "di dalam"
+   ],
+   "answer": 0,
+   "explain": "Under = di bawah.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 1,
+   "ch": 6,
+   "q": "\"Behind\" artinya …",
+   "choices": [
+    "di belakang",
+    "di depan",
+    "di samping",
+    "di bawah"
+   ],
+   "answer": 0,
+   "explain": "Behind = di belakang.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 6,
+   "q": "\"Beside\" artinya …",
+   "choices": [
+    "di samping",
+    "di belakang",
+    "di bawah",
+    "di antara"
+   ],
+   "answer": 0,
+   "explain": "Beside = di samping.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 6,
+   "q": "\"Between\" artinya …",
+   "choices": [
+    "di antara",
+    "di depan",
+    "di dalam",
+    "di atas"
+   ],
+   "answer": 0,
+   "explain": "Between = di antara (dua benda).",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 6,
+   "q": "\"In front of\" artinya …",
+   "choices": [
+    "di depan",
+    "di belakang",
+    "di samping",
+    "di bawah"
+   ],
+   "answer": 0,
+   "explain": "In front of = di depan.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 6,
+   "q": "\"Where is the library?\" artinya …",
+   "choices": [
+    "Di mana perpustakaan?",
+    "Apakah itu perpustakaan?",
+    "Perpustakaan itu besar.",
+    "Kapan ke perpustakaan?"
+   ],
+   "answer": 0,
+   "explain": "Where = di mana.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 3,
+   "ch": 6,
+   "q": "Kucing ada di bawah meja. Dalam bahasa Inggris …",
+   "choices": [
+    "The cat is under the table.",
+    "The cat is on the table.",
+    "The cat is in the table.",
+    "The cat is behind the table."
+   ],
+   "answer": 0,
+   "explain": "Di bawah = under.",
+   "img": "🐱",
+   "imgSpeak": ""
+  },
+  {
+   "level": 3,
+   "ch": 6,
+   "q": "Kantin ada di antara kantor dan perpustakaan. Dalam bahasa Inggris …",
+   "choices": [
+    "The canteen is between the office and the library.",
+    "The canteen is behind the office.",
+    "The canteen is under the library.",
+    "The canteen is in the office."
+   ],
+   "answer": 0,
+   "explain": "Di antara = between … and …"
+  },
+  {
+   "level": 3,
+   "ch": 6,
+   "q": "\"My class is behind the office.\" artinya …",
+   "choices": [
+    "Kelasku di belakang kantor.",
+    "Kelasku di depan kantor.",
+    "Kelasku di samping kantor.",
+    "Kelasku di dalam kantor."
+   ],
+   "answer": 0,
+   "explain": "Behind = di belakang.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 3,
+   "ch": 6,
+   "q": "Buku di atas meja. Lengkapi: \"The book is … the table.\"",
+   "choices": [
+    "on",
+    "under",
+    "between",
+    "behind"
+   ],
+   "answer": 0,
+   "explain": "Di atas = on."
+  },
+  {
+   "level": 1,
+   "ch": 6,
+   "type": "input",
+   "q": "\"Di bawah\" dalam bahasa Inggris adalah …",
+   "answer": "under",
+   "accept": [],
+   "explain": "Di bawah = under."
+  },
+  {
+   "level": 2,
+   "ch": 6,
+   "type": "input",
+   "q": "\"Di samping\" dalam bahasa Inggris adalah …",
+   "answer": "beside",
+   "accept": [
+    "next to"
+   ],
+   "explain": "Di samping = beside."
+  },
+  {
+   "level": 3,
+   "ch": 6,
+   "type": "input",
+   "q": "\"Di belakang\" dalam bahasa Inggris adalah …",
+   "answer": "behind",
+   "accept": [],
+   "explain": "Di belakang = behind."
+  },
+  {
+   "level": 3,
+   "ch": 6,
+   "type": "uraian",
+   "q": "Tulis letak kelasmu di sekolah dengan bahasa Inggris (contoh: behind, beside, in front of)!",
+   "answer": "Contoh: My class is beside the library. / My class is in front of the schoolyard.",
+   "keywords": [
+    "my class is",
+    "beside",
+    "behind",
+    "in front of",
+    "between"
+   ]
+  },
+  {
+   "level": 1,
+   "ch": 7,
+   "q": "\"Read\" artinya …",
+   "choices": [
+    "membaca",
+    "menulis",
+    "makan",
+    "minum"
+   ],
+   "answer": 0,
+   "explain": "Read = membaca.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 1,
+   "ch": 7,
+   "q": "\"Write\" artinya …",
+   "choices": [
+    "menulis",
+    "membaca",
+    "bermain",
+    "berdoa"
+   ],
+   "answer": 0,
+   "explain": "Write = menulis.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 1,
+   "ch": 7,
+   "q": "\"Eat\" artinya …",
+   "choices": [
+    "makan",
+    "minum",
+    "belajar",
+    "bermain"
+   ],
+   "answer": 0,
+   "explain": "Eat = makan.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 1,
+   "ch": 7,
+   "q": "\"Drink\" artinya …",
+   "choices": [
+    "minum",
+    "makan",
+    "menulis",
+    "mengajar"
+   ],
+   "answer": 0,
+   "explain": "Drink = minum.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 7,
+   "q": "\"Pray\" artinya …",
+   "choices": [
+    "berdoa / beribadah",
+    "bermain",
+    "belajar",
+    "membaca"
+   ],
+   "answer": 0,
+   "explain": "Pray = berdoa.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 7,
+   "q": "\"Teach\" artinya …",
+   "choices": [
+    "mengajar",
+    "belajar",
+    "menulis",
+    "makan"
+   ],
+   "answer": 0,
+   "explain": "Teach = mengajar. Teacher = guru.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 7,
+   "q": "Kita bermain bola di …",
+   "choices": [
+    "schoolyard",
+    "library",
+    "restroom",
+    "office"
+   ],
+   "answer": 0,
+   "explain": "We play in the schoolyard."
+  },
+  {
+   "level": 2,
+   "ch": 7,
+   "q": "\"I drink orange juice in the canteen.\" artinya …",
+   "choices": [
+    "Aku minum jus jeruk di kantin.",
+    "Aku makan jeruk di kelas.",
+    "Aku membeli jus di kantor.",
+    "Aku suka jus jeruk."
+   ],
+   "answer": 0,
+   "explain": "Drink = minum, canteen = kantin.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 3,
+   "ch": 7,
+   "q": "Lengkapi: \"We … in the prayer room.\"",
+   "choices": [
+    "pray",
+    "eat",
+    "play",
+    "swim"
+   ],
+   "answer": 0,
+   "explain": "Di ruang ibadah kita berdoa (pray)."
+  },
+  {
+   "level": 3,
+   "ch": 7,
+   "q": "Lengkapi: \"We … books in the library.\"",
+   "choices": [
+    "read",
+    "drink",
+    "pray",
+    "teach"
+   ],
+   "answer": 0,
+   "explain": "Di perpustakaan kita membaca (read)."
+  },
+  {
+   "level": 3,
+   "ch": 7,
+   "q": "Lengkapi: \"Mrs. Rina … English in the classroom.\" (mengajar)",
+   "choices": [
+    "teaches",
+    "teach",
+    "eats",
+    "studies"
+   ],
+   "answer": 0,
+   "explain": "Mrs. Rina (dia) → teaches."
+  },
+  {
+   "level": 3,
+   "ch": 7,
+   "q": "Pilih kalimat yang BENAR!",
+   "choices": [
+    "We eat in the canteen.",
+    "We eats in the canteen.",
+    "We eat in the restroom.",
+    "We eating in the canteen."
+   ],
+   "answer": 0,
+   "explain": "We + kata kerja dasar: we eat."
+  },
+  {
+   "level": 1,
+   "ch": 7,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"bermain\" adalah …",
+   "answer": "play",
+   "accept": [],
+   "explain": "Bermain = play."
+  },
+  {
+   "level": 2,
+   "ch": 7,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"belajar\" adalah …",
+   "answer": "study",
+   "accept": [],
+   "explain": "Belajar = study."
+  },
+  {
+   "level": 3,
+   "ch": 7,
+   "type": "input",
+   "q": "Lengkapi: \"I … orange juice in the canteen.\" (minum)",
+   "answer": "drink",
+   "accept": [],
+   "explain": "Minum = drink."
+  },
+  {
+   "level": 3,
+   "ch": 7,
+   "type": "uraian",
+   "q": "Tulis 2 kegiatanmu di sekolah dalam bahasa Inggris!",
+   "answer": "Contoh: I study in the classroom. I play in the schoolyard. I eat in the canteen.",
+   "keywords": [
+    "I study",
+    "I play",
+    "I eat",
+    "I read",
+    "I pray"
+   ]
+  },
+  {
+   "level": 1,
+   "ch": 8,
+   "q": "\"Clean\" artinya …",
+   "choices": [
+    "bersih",
+    "kotor",
+    "besar",
+    "sempit"
+   ],
+   "answer": 0,
+   "explain": "Clean = bersih.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 1,
+   "ch": 8,
+   "q": "\"Dirty\" artinya …",
+   "choices": [
+    "kotor",
+    "bersih",
+    "kecil",
+    "luas"
+   ],
+   "answer": 0,
+   "explain": "Dirty = kotor.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 1,
+   "ch": 8,
+   "q": "\"Big\" artinya …",
+   "choices": [
+    "besar",
+    "kecil",
+    "sempit",
+    "bersih"
+   ],
+   "answer": 0,
+   "explain": "Big = besar.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 1,
+   "ch": 8,
+   "q": "\"Small\" artinya …",
+   "choices": [
+    "kecil",
+    "besar",
+    "luas",
+    "kotor"
+   ],
+   "answer": 0,
+   "explain": "Small = kecil.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 8,
+   "q": "\"Narrow\" artinya …",
+   "choices": [
+    "sempit",
+    "luas",
+    "besar",
+    "bersih"
+   ],
+   "answer": 0,
+   "explain": "Narrow = sempit.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 8,
+   "q": "\"Wide\" artinya …",
+   "choices": [
+    "lebar / luas",
+    "sempit",
+    "kecil",
+    "kotor"
+   ],
+   "answer": 0,
+   "explain": "Wide = lebar/luas.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 8,
+   "q": "Lawan kata \"clean\" adalah …",
+   "choices": [
+    "dirty",
+    "large",
+    "big",
+    "wide"
+   ],
+   "answer": 0,
+   "explain": "Clean (bersih) >< dirty (kotor)."
+  },
+  {
+   "level": 2,
+   "ch": 8,
+   "q": "Lawan kata \"big\" adalah …",
+   "choices": [
+    "small",
+    "large",
+    "wide",
+    "clean"
+   ],
+   "answer": 0,
+   "explain": "Big (besar) >< small (kecil)."
+  },
+  {
+   "level": 3,
+   "ch": 8,
+   "q": "Lawan kata \"wide\" adalah …",
+   "choices": [
+    "narrow",
+    "large",
+    "big",
+    "clean"
+   ],
+   "answer": 0,
+   "explain": "Wide (luas) >< narrow (sempit)."
+  },
+  {
+   "level": 3,
+   "ch": 8,
+   "q": "\"My classroom is clean.\" artinya …",
+   "choices": [
+    "Kelasku bersih.",
+    "Kelasku kotor.",
+    "Kelasku besar.",
+    "Kelasku sempit."
+   ],
+   "answer": 0,
+   "explain": "Clean = bersih.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 3,
+   "ch": 8,
+   "q": "Lapangan sekolah sangat luas. Dalam bahasa Inggris …",
+   "choices": [
+    "The schoolyard is wide.",
+    "The schoolyard is narrow.",
+    "The schoolyard is dirty.",
+    "The schoolyard is small."
+   ],
+   "answer": 0,
+   "explain": "Luas = wide/large."
+  },
+  {
+   "level": 3,
+   "ch": 8,
+   "q": "\"Large\" memiliki arti yang mirip dengan …",
+   "choices": [
+    "big",
+    "small",
+    "narrow",
+    "dirty"
+   ],
+   "answer": 0,
+   "explain": "Large = besar/luas, mirip dengan big."
+  },
+  {
+   "level": 1,
+   "ch": 8,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"bersih\" adalah …",
+   "answer": "clean",
+   "accept": [],
+   "explain": "Bersih = clean."
+  },
+  {
+   "level": 2,
+   "ch": 8,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"kotor\" adalah …",
+   "answer": "dirty",
+   "accept": [],
+   "explain": "Kotor = dirty."
+  },
+  {
+   "level": 3,
+   "ch": 8,
+   "type": "input",
+   "q": "Lawan kata \"narrow\" adalah …",
+   "answer": "wide",
+   "accept": [
+    "large"
+   ],
+   "explain": "Narrow (sempit) >< wide (luas)."
+  },
+  {
+   "level": 3,
+   "ch": 8,
+   "type": "uraian",
+   "q": "Bagaimana keadaan kelasmu? Tulis 2 kalimat bahasa Inggris!",
+   "answer": "Contoh: My classroom is clean. My classroom is big.",
+   "keywords": [
+    "my classroom is",
+    "clean",
+    "big",
+    "small",
+    "large"
+   ]
+  },
+  {
+   "level": 1,
+   "ch": 9,
+   "q": "Angka 21 dalam bahasa Inggris adalah …",
+   "choices": [
+    "twenty-one",
+    "twelve",
+    "twenty-two",
+    "thirty-one"
+   ],
+   "answer": 0,
+   "explain": "21 = twenty-one."
+  },
+  {
+   "level": 1,
+   "ch": 9,
+   "q": "Angka 30 dalam bahasa Inggris adalah …",
+   "choices": [
+    "thirty",
+    "thirteen",
+    "twenty",
+    "forty"
+   ],
+   "answer": 0,
+   "explain": "30 = thirty."
+  },
+  {
+   "level": 1,
+   "ch": 9,
+   "q": "Angka 50 dalam bahasa Inggris adalah …",
+   "choices": [
+    "fifty",
+    "fifteen",
+    "forty",
+    "five"
+   ],
+   "answer": 0,
+   "explain": "50 = fifty."
+  },
+  {
+   "level": 1,
+   "ch": 9,
+   "q": "\"Forty\" adalah angka …",
+   "choices": [
+    "40",
+    "14",
+    "4",
+    "44"
+   ],
+   "answer": 0,
+   "explain": "Forty = 40.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 9,
+   "q": "\"Thirty-five\" adalah angka …",
+   "choices": [
+    "35",
+    "53",
+    "25",
+    "45"
+   ],
+   "answer": 0,
+   "explain": "Thirty-five = 35.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 9,
+   "q": "Angka 47 dalam bahasa Inggris adalah …",
+   "choices": [
+    "forty-seven",
+    "seventy-four",
+    "forty-six",
+    "fourteen-seven"
+   ],
+   "answer": 0,
+   "explain": "47 = forty-seven."
+  },
+  {
+   "level": 2,
+   "ch": 9,
+   "q": "Angka 22 dalam bahasa Inggris adalah …",
+   "choices": [
+    "twenty-two",
+    "twelve",
+    "twenty-one",
+    "thirty-two"
+   ],
+   "answer": 0,
+   "explain": "22 = twenty-two."
+  },
+  {
+   "level": 2,
+   "ch": 9,
+   "q": "\"There are twenty books on the shelf.\" Ada berapa buku?",
+   "choices": [
+    "20",
+    "12",
+    "2",
+    "30"
+   ],
+   "answer": 0,
+   "explain": "Twenty = 20.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 3,
+   "ch": 9,
+   "q": "twenty + ten = …",
+   "choices": [
+    "thirty",
+    "twenty-ten",
+    "forty",
+    "twelve"
+   ],
+   "answer": 0,
+   "explain": "20 + 10 = 30 = thirty."
+  },
+  {
+   "level": 3,
+   "ch": 9,
+   "q": "Ada 25 kursi di kelas. Dalam bahasa Inggris …",
+   "choices": [
+    "There are twenty-five chairs in the classroom.",
+    "There is twenty-five chairs in the classroom.",
+    "There are fifty-two chairs in the classroom.",
+    "There are twenty chairs in the classroom."
+   ],
+   "answer": 0,
+   "explain": "Lebih dari satu → there are …"
+  },
+  {
+   "level": 3,
+   "ch": 9,
+   "q": "Lengkapi: \"There … a clock on the wall.\" (satu jam)",
+   "choices": [
+    "is",
+    "are",
+    "am",
+    "be"
+   ],
+   "answer": 0,
+   "explain": "Satu benda → there is. Banyak → there are."
+  },
+  {
+   "level": 3,
+   "ch": 9,
+   "q": "\"Thirty-eight\" adalah angka …",
+   "choices": [
+    "38",
+    "83",
+    "28",
+    "48"
+   ],
+   "answer": 0,
+   "explain": "Thirty-eight = 38.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 1,
+   "ch": 9,
+   "type": "input",
+   "q": "Angka 40 dalam bahasa Inggris adalah …",
+   "answer": "forty",
+   "accept": [],
+   "explain": "40 = forty (tanpa huruf u)."
+  },
+  {
+   "level": 2,
+   "ch": 9,
+   "type": "input",
+   "q": "Tulis angka dari \"twenty-nine\" …",
+   "answer": "29",
+   "accept": [],
+   "explain": "Twenty-nine = 29."
+  },
+  {
+   "level": 3,
+   "ch": 9,
+   "type": "input",
+   "q": "Lengkapi: \"There … thirty pencils in the box.\"",
+   "answer": "are",
+   "accept": [],
+   "explain": "Banyak benda → there are."
+  },
+  {
+   "level": 3,
+   "ch": 9,
+   "type": "uraian",
+   "q": "Tulis 2 kalimat \"There are …\" tentang benda di kelasmu (pakai angka 21–50 dalam bahasa Inggris)!",
+   "answer": "Contoh: There are twenty-six students in my class. There are thirty chairs in the classroom.",
+   "keywords": [
+    "there are",
+    "twenty",
+    "thirty"
+   ]
+  }
+ ]
+}

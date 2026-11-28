@@ -1,0 +1,1280 @@
+{
+ "bahasa_inggris": [
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Salam di pagi hari adalah …",
+   "choices": [
+    "Good morning",
+    "Good evening",
+    "Goodbye",
+    "Good afternoon"
+   ],
+   "answer": 0,
+   "explain": "Good morning = selamat pagi.",
+   "img": "🌅",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Salam di siang/sore hari adalah …",
+   "choices": [
+    "Good afternoon",
+    "Good morning",
+    "Good evening",
+    "Goodbye"
+   ],
+   "answer": 0,
+   "explain": "Good afternoon = selamat siang/sore.",
+   "img": "☀️",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Salam di malam hari adalah …",
+   "choices": [
+    "Good evening",
+    "Good morning",
+    "Good afternoon",
+    "Hello"
+   ],
+   "answer": 0,
+   "explain": "Good evening = selamat malam.",
+   "img": "🌙",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Saat berpisah dengan teman, kita berkata …",
+   "choices": [
+    "Goodbye",
+    "Good morning",
+    "How are you?",
+    "I am fine"
+   ],
+   "answer": 0,
+   "explain": "Goodbye = selamat tinggal / sampai jumpa.",
+   "img": "👋",
+   "imgSpeak": ""
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Made bertanya, \"How are you?\" Jawaban yang tepat adalah …",
+   "choices": [
+    "I am fine.",
+    "I am Made.",
+    "Goodbye.",
+    "Good evening."
+   ],
+   "answer": 0,
+   "explain": "How are you? = Apa kabar? Jawab: I am fine / I am good / I am ok."
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "\"How are you?\" artinya …",
+   "choices": [
+    "Apa kabar?",
+    "Siapa namamu?",
+    "Selamat pagi.",
+    "Sampai jumpa."
+   ],
+   "answer": 0,
+   "explain": "How are you? = Apa kabar?",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "\"What is your name?\" artinya …",
+   "choices": [
+    "Siapa namamu?",
+    "Apa kabar?",
+    "Berapa umurmu?",
+    "Di mana rumahmu?"
+   ],
+   "answer": 0,
+   "explain": "What is your name? = Siapa namamu?",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Kucing di buku memperkenalkan diri: \"Hi, I am …\"",
+   "choices": [
+    "Kimi",
+    "Made",
+    "Cici",
+    "Joshua"
+   ],
+   "answer": 0,
+   "explain": "Kucing itu bernama Kimi. \"Hi, I am Kimi. Meow.\"",
+   "img": "🐱",
+   "imgSpeak": ""
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Jawaban untuk \"What is your name?\" adalah …",
+   "choices": [
+    "My name is Joshua.",
+    "I am fine.",
+    "Good morning.",
+    "Your name is Joshua?"
+   ],
+   "answer": 0,
+   "explain": "Jawab dengan: My name is … atau I am …"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Joshua menunjuk Cici dan berkata \"… are Cici.\"",
+   "choices": [
+    "You",
+    "I",
+    "My",
+    "Me"
+   ],
+   "answer": 0,
+   "explain": "\"I am Joshua, you are Cici.\" You = kamu."
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Bertemu guru di pagi hari, kita berkata …",
+   "choices": [
+    "Good morning, Ma'am.",
+    "Goodbye, Ma'am.",
+    "Good evening, Ma'am.",
+    "I am Ma'am."
+   ],
+   "answer": 0,
+   "explain": "Sapa guru dengan sopan: Good morning, Ma'am / Sir."
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Kalimat \"My name is Cici.\" artinya …",
+   "choices": [
+    "Namaku Cici.",
+    "Kamu Cici.",
+    "Apa kabar, Cici?",
+    "Selamat pagi, Cici."
+   ],
+   "answer": 0,
+   "explain": "My name is … = Namaku …",
+   "choiceLang": "id"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "type": "input",
+   "q": "Lengkapi: \"Good …\" (selamat pagi)",
+   "answer": "morning",
+   "accept": [],
+   "explain": "Good morning = selamat pagi."
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "Lengkapi: \"How are you?\" — \"I am …\" (baik)",
+   "answer": "fine",
+   "accept": [
+    "good",
+    "ok",
+    "okay"
+   ],
+   "explain": "I am fine / I am good / I am ok."
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "input",
+   "q": "Lengkapi: \"My … is Made.\" (namaku Made)",
+   "answer": "name",
+   "accept": [],
+   "explain": "My name is Made."
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Perkenalkan dirimu dalam bahasa Inggris!",
+   "answer": "Hello! My name is Komang. / Hi, I am Komang. (Gunakan namamu sendiri.)",
+   "keywords": [
+    "my name is",
+    "I am",
+    "hello"
+   ]
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Angka 1 dalam bahasa Inggris adalah …",
+   "choices": [
+    "one",
+    "two",
+    "three",
+    "four"
+   ],
+   "answer": 0,
+   "explain": "1 = one."
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Angka 3 dalam bahasa Inggris adalah …",
+   "choices": [
+    "three",
+    "one",
+    "two",
+    "four"
+   ],
+   "answer": 0,
+   "explain": "3 = three."
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Angka 5 dalam bahasa Inggris adalah …",
+   "choices": [
+    "five",
+    "one",
+    "two",
+    "three"
+   ],
+   "answer": 0,
+   "explain": "5 = five."
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Bahasa Inggris dari benda ini adalah …",
+   "choices": [
+    "book",
+    "bag",
+    "pencil",
+    "chair"
+   ],
+   "answer": 0,
+   "explain": "Buku = book.",
+   "img": "📘",
+   "imgSpeak": ""
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Bahasa Inggris dari benda ini adalah …",
+   "choices": [
+    "pencil",
+    "eraser",
+    "ruler",
+    "board"
+   ],
+   "answer": 0,
+   "explain": "Pensil = pencil.",
+   "img": "✏️",
+   "imgSpeak": ""
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Bahasa Inggris dari benda ini adalah …",
+   "choices": [
+    "ruler",
+    "pencil",
+    "clock",
+    "chair"
+   ],
+   "answer": 0,
+   "explain": "Penggaris = ruler.",
+   "img": "📏",
+   "imgSpeak": ""
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Bahasa Inggris dari benda ini adalah …",
+   "choices": [
+    "clock",
+    "board",
+    "bag",
+    "book"
+   ],
+   "answer": 0,
+   "explain": "Jam dinding = clock.",
+   "img": "🕐",
+   "imgSpeak": ""
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Angka 8 dalam bahasa Inggris adalah …",
+   "choices": [
+    "eight",
+    "seven",
+    "nine",
+    "six"
+   ],
+   "answer": 0,
+   "explain": "8 = eight."
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "\"Ten little pencils.\" Ada berapa pensil?",
+   "choices": [
+    "10",
+    "2",
+    "7",
+    "1"
+   ],
+   "answer": 0,
+   "explain": "Ten = 10.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Benda untuk menghapus tulisan pensil adalah …",
+   "choices": [
+    "eraser",
+    "ruler",
+    "clock",
+    "board"
+   ],
+   "answer": 0,
+   "explain": "Penghapus = eraser."
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "\"pencil case\" artinya …",
+   "choices": [
+    "kotak pensil",
+    "pensil warna",
+    "tas sekolah",
+    "papan tulis"
+   ],
+   "answer": 0,
+   "explain": "Pencil case = kotak pensil.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Hitung lalu pilih: ✏️✏️✏️✏️ = … pencils",
+   "choices": [
+    "four",
+    "three",
+    "five",
+    "six"
+   ],
+   "answer": 0,
+   "explain": "Ada 4 pensil = four pencils.",
+   "imgLang": "en"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "type": "input",
+   "q": "Angka 2 dalam bahasa Inggris adalah …",
+   "answer": "two",
+   "accept": [],
+   "explain": "2 = two."
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"tas\" adalah …",
+   "answer": "bag",
+   "accept": [],
+   "explain": "Tas = bag 🎒."
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"kursi\" adalah …",
+   "answer": "chair",
+   "accept": [],
+   "explain": "Kursi = chair 🪑."
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "uraian",
+   "q": "Sebutkan 3 benda di kelas dalam bahasa Inggris!",
+   "answer": "Contoh: book, pencil, eraser, ruler, bag, chair, board, clock, pencil case.",
+   "keywords": [
+    "book",
+    "pencil",
+    "eraser",
+    "ruler",
+    "bag",
+    "chair",
+    "board",
+    "clock"
+   ]
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "Warna ini dalam bahasa Inggris adalah …",
+   "choices": [
+    "red",
+    "blue",
+    "yellow",
+    "green"
+   ],
+   "answer": 0,
+   "explain": "🟥 = red.",
+   "img": "🟥",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "Warna ini dalam bahasa Inggris adalah …",
+   "choices": [
+    "blue",
+    "red",
+    "yellow",
+    "green"
+   ],
+   "answer": 0,
+   "explain": "🟦 = blue.",
+   "img": "🟦",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "Warna ini dalam bahasa Inggris adalah …",
+   "choices": [
+    "yellow",
+    "red",
+    "blue",
+    "green"
+   ],
+   "answer": 0,
+   "explain": "🟨 = yellow.",
+   "img": "🟨",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "Bentuk ini dalam bahasa Inggris adalah …",
+   "choices": [
+    "circle",
+    "square",
+    "triangle",
+    "star"
+   ],
+   "answer": 0,
+   "explain": "Lingkaran = circle.",
+   "img": "⚪",
+   "imgSpeak": ""
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "Warna ini dalam bahasa Inggris adalah …",
+   "choices": [
+    "purple",
+    "pink",
+    "brown",
+    "orange"
+   ],
+   "answer": 0,
+   "explain": "Ungu = purple.",
+   "img": "🟪",
+   "imgSpeak": ""
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "Warna ini dalam bahasa Inggris adalah …",
+   "choices": [
+    "brown",
+    "black",
+    "orange",
+    "green"
+   ],
+   "answer": 0,
+   "explain": "Cokelat = brown.",
+   "img": "🟫",
+   "imgSpeak": ""
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "Bentuk ini dalam bahasa Inggris adalah …",
+   "choices": [
+    "triangle",
+    "circle",
+    "square",
+    "rectangle"
+   ],
+   "answer": 0,
+   "explain": "Segitiga = triangle.",
+   "img": "🔺",
+   "imgSpeak": ""
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "Bentuk ini dalam bahasa Inggris adalah …",
+   "choices": [
+    "square",
+    "circle",
+    "triangle",
+    "heart"
+   ],
+   "answer": 0,
+   "explain": "Persegi = square.",
+   "img": "🟧",
+   "imgSpeak": ""
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "Gajah itu besar. Besar dalam bahasa Inggris adalah …",
+   "choices": [
+    "big",
+    "small",
+    "red",
+    "circle"
+   ],
+   "answer": 0,
+   "explain": "Big = besar, small = kecil.",
+   "img": "🐘",
+   "imgSpeak": ""
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "Semut itu kecil. Kecil dalam bahasa Inggris adalah …",
+   "choices": [
+    "small",
+    "big",
+    "square",
+    "pink"
+   ],
+   "answer": 0,
+   "explain": "Small = kecil.",
+   "img": "🐜",
+   "imgSpeak": ""
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "\"The door is square.\" Bentuk pintu adalah …",
+   "choices": [
+    "persegi",
+    "lingkaran",
+    "segitiga",
+    "bintang"
+   ],
+   "answer": 0,
+   "explain": "Square = persegi.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "\"It is a big circle.\" artinya …",
+   "choices": [
+    "Itu lingkaran besar.",
+    "Itu segitiga kecil.",
+    "Itu persegi besar.",
+    "Itu lingkaran kecil."
+   ],
+   "answer": 0,
+   "explain": "Big = besar, circle = lingkaran.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "type": "input",
+   "q": "Bahasa Inggris dari warna hijau 🟩 adalah …",
+   "answer": "green",
+   "accept": [],
+   "explain": "Hijau = green."
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "type": "input",
+   "q": "Bahasa Inggris dari warna putih ⬜ adalah …",
+   "answer": "white",
+   "accept": [],
+   "explain": "Putih = white."
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"segitiga\" adalah …",
+   "answer": "triangle",
+   "accept": [],
+   "explain": "Segitiga = triangle 🔺."
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "uraian",
+   "q": "Sebutkan 3 warna dan 2 bentuk dalam bahasa Inggris!",
+   "answer": "Warna: red, blue, yellow, green, black, white, pink, orange, brown, purple. Bentuk: circle, square, triangle.",
+   "keywords": [
+    "red",
+    "blue",
+    "yellow",
+    "green",
+    "circle",
+    "square",
+    "triangle"
+   ]
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "q": "Bahasa Inggris dari hewan ini adalah …",
+   "choices": [
+    "duck",
+    "cat",
+    "fish",
+    "bird"
+   ],
+   "answer": 0,
+   "explain": "Bebek = duck.",
+   "img": "🦆",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "q": "Bahasa Inggris dari hewan ini adalah …",
+   "choices": [
+    "rabbit",
+    "duck",
+    "chicken",
+    "cat"
+   ],
+   "answer": 0,
+   "explain": "Kelinci = rabbit.",
+   "img": "🐰",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "q": "Bahasa Inggris dari hewan ini adalah …",
+   "choices": [
+    "chicken",
+    "bird",
+    "duck",
+    "fish"
+   ],
+   "answer": 0,
+   "explain": "Ayam = chicken.",
+   "img": "🐔",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "q": "Bahasa Inggris dari hewan ini adalah …",
+   "choices": [
+    "fish",
+    "cat",
+    "rabbit",
+    "bird"
+   ],
+   "answer": 0,
+   "explain": "Ikan = fish.",
+   "img": "🐟",
+   "imgSpeak": ""
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "q": "\"I have a cat.\" artinya …",
+   "choices": [
+    "Aku punya kucing.",
+    "Aku suka kucing.",
+    "Itu kucing besar.",
+    "Dia punya kucing."
+   ],
+   "answer": 0,
+   "explain": "I have = aku punya.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "q": "\"I have seven pencils.\" Ada berapa pensil?",
+   "choices": [
+    "7",
+    "2",
+    "5",
+    "10"
+   ],
+   "answer": 0,
+   "explain": "Seven = 7.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "q": "Aku punya 3 tas. Dalam bahasa Inggris …",
+   "choices": [
+    "I have three bags.",
+    "I have two bags.",
+    "I have three books.",
+    "I like three bags."
+   ],
+   "answer": 0,
+   "explain": "Three = 3, bags = tas (lebih dari satu)."
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "q": "Bahasa Inggris dari hewan ini adalah …",
+   "choices": [
+    "bird",
+    "fish",
+    "duck",
+    "rabbit"
+   ],
+   "answer": 0,
+   "explain": "Burung = bird.",
+   "img": "🐦",
+   "imgSpeak": ""
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "q": "Kalimat yang BENAR adalah …",
+   "choices": [
+    "I have four erasers.",
+    "I has four erasers.",
+    "I have four eraser is.",
+    "Four I have erasers."
+   ],
+   "answer": 0,
+   "explain": "Pola: I have + jumlah + benda."
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "q": "Cici punya ladang dengan bebek, ayam, dan kelinci. Ladang dalam bahasa Inggris adalah …",
+   "choices": [
+    "farm",
+    "park",
+    "class",
+    "garden"
+   ],
+   "answer": 0,
+   "explain": "At Cici's farm = di ladang Cici."
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "q": "\"I have ten pencils.\" Angka ten adalah …",
+   "choices": [
+    "10",
+    "2",
+    "8",
+    "1"
+   ],
+   "answer": 0,
+   "explain": "Ten = 10.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "q": "Aku punya seekor kelinci. Dalam bahasa Inggris …",
+   "choices": [
+    "I have a rabbit.",
+    "I have a duck.",
+    "I am a rabbit.",
+    "I like a rabbit."
+   ],
+   "answer": 0,
+   "explain": "I have a … = aku punya seekor/sebuah …"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"kucing\" adalah …",
+   "answer": "cat",
+   "accept": [],
+   "explain": "Kucing = cat 🐱."
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "type": "input",
+   "q": "Lengkapi: \"I … two pencils.\" (punya)",
+   "answer": "have",
+   "accept": [],
+   "explain": "I have = aku punya."
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"bebek\" adalah …",
+   "answer": "duck",
+   "accept": [],
+   "explain": "Bebek = duck 🦆."
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "type": "uraian",
+   "q": "Tulis satu kalimat tentang hewan yang kamu punya atau inginkan, dengan \"I have …\"!",
+   "answer": "Contoh: I have a cat. / I have a fish. / I have two rabbits.",
+   "keywords": [
+    "I have",
+    "cat",
+    "fish",
+    "rabbit",
+    "bird",
+    "duck",
+    "chicken"
+   ]
+  },
+  {
+   "level": 1,
+   "ch": 5,
+   "q": "Made adalah anak laki-laki. Kita menyebutnya …",
+   "choices": [
+    "He",
+    "She",
+    "I",
+    "You"
+   ],
+   "answer": 0,
+   "explain": "Laki-laki → He. \"He is Made. He is a boy.\""
+  },
+  {
+   "level": 1,
+   "ch": 5,
+   "q": "Cici adalah anak perempuan. Kita menyebutnya …",
+   "choices": [
+    "She",
+    "He",
+    "I",
+    "We"
+   ],
+   "answer": 0,
+   "explain": "Perempuan → She. \"She is Cici. She is a girl.\""
+  },
+  {
+   "level": 1,
+   "ch": 5,
+   "q": "Bahasa Inggris dari \"ayah\" adalah …",
+   "choices": [
+    "father",
+    "mother",
+    "brother",
+    "sister"
+   ],
+   "answer": 0,
+   "explain": "Ayah = father.",
+   "img": "👨",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 5,
+   "q": "Bahasa Inggris dari \"ibu\" adalah …",
+   "choices": [
+    "mother",
+    "father",
+    "grandmother",
+    "sister"
+   ],
+   "answer": 0,
+   "explain": "Ibu = mother.",
+   "img": "👩",
+   "imgSpeak": ""
+  },
+  {
+   "level": 2,
+   "ch": 5,
+   "q": "\"She is a girl.\" artinya …",
+   "choices": [
+    "Dia anak perempuan.",
+    "Dia anak laki-laki.",
+    "Dia ibuku.",
+    "Aku anak perempuan."
+   ],
+   "answer": 0,
+   "explain": "Girl = anak perempuan, boy = anak laki-laki.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 5,
+   "q": "Bahasa Inggris dari \"nenek\" adalah …",
+   "choices": [
+    "grandmother",
+    "grandfather",
+    "mother",
+    "sister"
+   ],
+   "answer": 0,
+   "explain": "Nenek = grandmother.",
+   "img": "👵",
+   "imgSpeak": ""
+  },
+  {
+   "level": 2,
+   "ch": 5,
+   "q": "Bahasa Inggris dari \"kakek\" adalah …",
+   "choices": [
+    "grandfather",
+    "grandmother",
+    "father",
+    "brother"
+   ],
+   "answer": 0,
+   "explain": "Kakek = grandfather.",
+   "img": "👴",
+   "imgSpeak": ""
+  },
+  {
+   "level": 2,
+   "ch": 5,
+   "q": "\"This is my family.\" artinya …",
+   "choices": [
+    "Ini keluargaku.",
+    "Ini temanku.",
+    "Ini rumahku.",
+    "Ini sekolahku."
+   ],
+   "answer": 0,
+   "explain": "Family = keluarga.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 3,
+   "ch": 5,
+   "q": "Lengkapi: \"Joshua is a boy. … is my friend.\"",
+   "choices": [
+    "He",
+    "She",
+    "I",
+    "They"
+   ],
+   "answer": 0,
+   "explain": "Joshua laki-laki → He."
+  },
+  {
+   "level": 3,
+   "ch": 5,
+   "q": "Lengkapi: \"Aisyah is a girl. … is my friend.\"",
+   "choices": [
+    "She",
+    "He",
+    "I",
+    "We"
+   ],
+   "answer": 0,
+   "explain": "Aisyah perempuan → She."
+  },
+  {
+   "level": 3,
+   "ch": 5,
+   "q": "Saudara perempuan dalam bahasa Inggris adalah …",
+   "choices": [
+    "sister",
+    "brother",
+    "father",
+    "boy"
+   ],
+   "answer": 0,
+   "explain": "Sister = saudara perempuan, brother = saudara laki-laki."
+  },
+  {
+   "level": 3,
+   "ch": 5,
+   "q": "Pilih kalimat yang BENAR!",
+   "choices": [
+    "He is a boy.",
+    "She is a boy.",
+    "He is a girl.",
+    "He a boy is."
+   ],
+   "answer": 0,
+   "explain": "Laki-laki → He is a boy. Perempuan → She is a girl."
+  },
+  {
+   "level": 1,
+   "ch": 5,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"anak laki-laki\" adalah …",
+   "answer": "boy",
+   "accept": [],
+   "explain": "Boy = anak laki-laki."
+  },
+  {
+   "level": 2,
+   "ch": 5,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"anak perempuan\" adalah …",
+   "answer": "girl",
+   "accept": [],
+   "explain": "Girl = anak perempuan."
+  },
+  {
+   "level": 3,
+   "ch": 5,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"saudara laki-laki\" adalah …",
+   "answer": "brother",
+   "accept": [],
+   "explain": "Brother = saudara laki-laki."
+  },
+  {
+   "level": 3,
+   "ch": 5,
+   "type": "uraian",
+   "q": "Sebutkan anggota keluargamu dalam bahasa Inggris (minimal 3)!",
+   "answer": "father (ayah), mother (ibu), brother, sister, grandfather (kakek), grandmother (nenek).",
+   "keywords": [
+    "father",
+    "mother",
+    "brother",
+    "sister",
+    "grandfather",
+    "grandmother"
+   ]
+  },
+  {
+   "level": 1,
+   "ch": 6,
+   "q": "Bahasa Inggris dari buah ini adalah …",
+   "choices": [
+    "apple",
+    "orange",
+    "mango",
+    "banana"
+   ],
+   "answer": 0,
+   "explain": "Apel = apple.",
+   "img": "🍎",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 6,
+   "q": "Bahasa Inggris dari buah ini adalah …",
+   "choices": [
+    "banana",
+    "apple",
+    "watermelon",
+    "mango"
+   ],
+   "answer": 0,
+   "explain": "Pisang = banana.",
+   "img": "🍌",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 6,
+   "q": "Bahasa Inggris dari buah ini adalah …",
+   "choices": [
+    "watermelon",
+    "strawberry",
+    "orange",
+    "apple"
+   ],
+   "answer": 0,
+   "explain": "Semangka = watermelon.",
+   "img": "🍉",
+   "imgSpeak": ""
+  },
+  {
+   "level": 1,
+   "ch": 6,
+   "q": "Bahasa Inggris dari buah ini adalah …",
+   "choices": [
+    "strawberry",
+    "apple",
+    "mango",
+    "watermelon"
+   ],
+   "answer": 0,
+   "explain": "Stroberi = strawberry.",
+   "img": "🍓",
+   "imgSpeak": ""
+  },
+  {
+   "level": 2,
+   "ch": 6,
+   "q": "Bahasa Inggris dari buah ini adalah …",
+   "choices": [
+    "mango",
+    "orange",
+    "banana",
+    "apple"
+   ],
+   "answer": 0,
+   "explain": "Mangga = mango.",
+   "img": "🥭",
+   "imgSpeak": ""
+  },
+  {
+   "level": 2,
+   "ch": 6,
+   "q": "\"She has five apples.\" Ada berapa apel?",
+   "choices": [
+    "5",
+    "3",
+    "7",
+    "10"
+   ],
+   "answer": 0,
+   "explain": "Five = 5.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 6,
+   "q": "\"I like strawberry.\" artinya …",
+   "choices": [
+    "Aku suka stroberi.",
+    "Aku punya stroberi.",
+    "Dia suka stroberi.",
+    "Aku makan apel."
+   ],
+   "answer": 0,
+   "explain": "I like = aku suka.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 2,
+   "ch": 6,
+   "q": "\"He likes mango.\" artinya …",
+   "choices": [
+    "Dia (laki-laki) suka mangga.",
+    "Dia (perempuan) suka mangga.",
+    "Aku suka mangga.",
+    "Dia punya mangga."
+   ],
+   "answer": 0,
+   "explain": "He likes = dia (laki-laki) suka.",
+   "choiceLang": "id"
+  },
+  {
+   "level": 3,
+   "ch": 6,
+   "q": "Lengkapi: \"She … three mangoes.\" (punya)",
+   "choices": [
+    "has",
+    "have",
+    "is",
+    "like"
+   ],
+   "answer": 0,
+   "explain": "I/You have, He/She has."
+  },
+  {
+   "level": 3,
+   "ch": 6,
+   "q": "Lengkapi: \"I … ten strawberries.\" (punya)",
+   "choices": [
+    "have",
+    "has",
+    "likes",
+    "is"
+   ],
+   "answer": 0,
+   "explain": "I have, she/he has."
+  },
+  {
+   "level": 3,
+   "ch": 6,
+   "q": "Lengkapi: \"She … orange.\" (suka)",
+   "choices": [
+    "likes",
+    "like",
+    "have",
+    "has"
+   ],
+   "answer": 0,
+   "explain": "I/You like, He/She likes."
+  },
+  {
+   "level": 3,
+   "ch": 6,
+   "q": "Pilih kalimat yang BENAR!",
+   "choices": [
+    "He has seven apples.",
+    "He have seven apples.",
+    "He is seven apples.",
+    "He like seven apples."
+   ],
+   "answer": 0,
+   "explain": "He/She has … , He/She likes …"
+  },
+  {
+   "level": 1,
+   "ch": 6,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"jeruk\" 🍊 adalah …",
+   "answer": "orange",
+   "accept": [],
+   "explain": "Jeruk = orange."
+  },
+  {
+   "level": 2,
+   "ch": 6,
+   "type": "input",
+   "q": "Lengkapi: \"I … apple.\" (suka)",
+   "answer": "like",
+   "accept": [],
+   "explain": "I like apple. = Aku suka apel."
+  },
+  {
+   "level": 3,
+   "ch": 6,
+   "type": "input",
+   "q": "Lengkapi: \"Sister … five oranges.\" (punya)",
+   "answer": "has",
+   "accept": [],
+   "explain": "Sister = dia (perempuan) → has."
+  },
+  {
+   "level": 3,
+   "ch": 6,
+   "type": "uraian",
+   "q": "Buah apa yang kamu suka? Jawab dalam bahasa Inggris dengan \"I like …\"!",
+   "answer": "Contoh: I like mango. / I like apple and banana.",
+   "keywords": [
+    "I like",
+    "apple",
+    "banana",
+    "mango",
+    "orange",
+    "strawberry",
+    "watermelon"
+   ]
+  }
+ ]
+}

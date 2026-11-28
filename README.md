@@ -12,7 +12,7 @@ Dibuka di browser (tablet/HP/laptop), tanpa instal aplikasi.
 | 1 | Pendidikan Pancasila | Buku Siswa Kelas I · Bab 1–2 |
 | 1 | Agama Hindu | Buku Siswa Agama Hindu & Budi Pekerti Kelas I · Bab 1–2 |
 | 1 | Bahasa Bali | Materi umum muatan lokal (bukan dari SIBI) |
-| 1 | Bahasa Inggris | Materi umum (buku nasional baru mulai Kelas III) |
+| 1 | Bahasa Inggris | Buku Siswa *My Next Words Grade 1* · Smt 1: Unit 1–7 · Smt 2: Unit 8–13 |
 | 1 | PJOK | Buku Siswa PJOK Kelas I · Bab 1–3 |
 | 1 | TIK | Materi umum muatan sekolah (bukan mapel nasional SD) |
 | 3 | Matematika | Buku Siswa Matematika Kelas III · Bab 1–3 (soal otomatis + soal pilihan) |
@@ -21,7 +21,7 @@ Dibuka di browser (tablet/HP/laptop), tanpa instal aplikasi.
 | 3 | Pendidikan Pancasila | Buku Siswa Kelas III · Bab 1–2 |
 | 3 | Agama Hindu | Buku Siswa Agama Hindu & Budi Pekerti Kelas III · Bab 1–3 |
 | 3 | Bahasa Bali | Materi umum muatan lokal (bukan dari SIBI) · **Bab 4 Aksara Bali & Angka Bali** (hanacaraka, kata tanpa pangangge, angka ᭐–᭙) |
-| 3 | Bahasa Inggris | *English for Nusantara Kids* Kelas III · Chapter 1–3 (🔊 suara bahasa Inggris) |
+| 3 | Bahasa Inggris | *My Next Words Grade 3* (buku sekolah) · Smt 1: Unit 1–5 · Smt 2: Unit 6–10 (🔊 suara bahasa Inggris) |
 | 3 | PJOK | Buku Siswa PJOK Kelas III · Bab 1–2 |
 | 3 | TIK | Materi umum muatan sekolah (bukan mapel nasional SD) |
 
@@ -42,6 +42,12 @@ Buku PDF asli (dari buku.kemendikdasmen.go.id) ada di folder `buku/` — **tidak
   - 🔴 **Pantauan langsung**: siapa yang sedang main, pelajaran apa, soal ke berapa, berapa yang benar (diperbarui tiap 10 detik).
   - Nilai per pelajaran (rata-rata 3 kuis terakhir), level terbuka, bab yang perlu dilatih, riwayat terakhir.
   - ✏️ Ubah kelas anak (misalnya saat naik kelas), 🗑️ hapus akun dari perangkat ini.
+
+## Semester 1 & Semester 2
+Setelah memilih pelajaran, anak memilih **Semester 1** atau **Semester 2**. Setiap semester punya bab sendiri, 🎲 Campur, dan **🐉 Sumatif Semester** sendiri.
+- Saat ini Semester 2 sudah terisi untuk **Bahasa Inggris kelas 1 & 3**; pelajaran lain menampilkan "Segera hadir".
+- Pembagian bab per semester diatur di `tools/build_bank.py` → `SEMESTERS` (mis. `(1, "bahasa_inggris"): {"1": [1, 2, 3], "2": [4, 5, 6]}`), lalu jalankan `python3 tools/build_bank.py`.
+- Untuk Matematika, atur `"semesters"` langsung di `data/kelasN/matematika.json`.
 
 ## Menu per bab & 🐉 Bos Final (kelas 1 & 3)
 - Setiap pelajaran dibagi **per bab** (sesuai buku). Setiap bab punya level Mudah → Sedang → Sulit, plus 🎲 **Campur semua bab**.
@@ -114,9 +120,9 @@ Skrip ini memasukkan soal ke file JSON, memberi nomor bab, dan mengecek kesalaha
 Soal **pangangge suara** aksara Bali kelas 3 (ulu, suku, taleng, pepet) disimpan tetapi **tidak dipakai** karena belum diajarkan di sekolah.
 Jika sudah diajarkan: buka `tools/build_bank.py`, hapus baris `(3, "bahasa_bali")` di bagian `SKIP`, lalu jalankan `python3 tools/build_bank.py`.
 
-Soal aksara Bali dibuat oleh `tools/gen_aksara.py` (daftar kata ada di dalamnya). Setelah mengubahnya, jalankan:
+Soal Bahasa Inggris dibuat oleh `tools/gen_inggris_k1.py` dan `tools/gen_inggris_k3.py` (dari buku *My Next Words* Grade 1 & 3). Soal aksara Bali dibuat oleh `tools/gen_aksara.py` (daftar kata ada di dalamnya). Setelah mengubahnya, jalankan:
 ```bash
-python3 tools/gen_aksara.py && python3 tools/build_bank.py
+python3 tools/gen_aksara.py && python3 tools/gen_inggris_k1.py && python3 tools/gen_inggris_k3.py && python3 tools/build_bank.py
 ```
 
 ## Menjalankan di laptop

@@ -252,3 +252,13 @@ h2.sub small{font-size:13px;color:var(--muted);font-weight:600}
 .qimg.aksara{font-family:"Noto Sans Balinese",serif;font-size:64px;letter-spacing:8px;font-weight:400;line-height:1.5;background:var(--soft);border-radius:16px;padding:6px 10px}
 .opts3.aksara .opt3 span:last-child{font-family:"Noto Sans Balinese",serif;font-size:34px;font-weight:400;letter-spacing:4px;line-height:1.4}
 .rv .rq, .rv .re, .rv .ra{font-family:"Baloo 2",system-ui,sans-serif,"Noto Sans Balinese"}
+
+/* ---------- pilih semester ---------- */
+.sems{display:flex;flex-direction:column;gap:14px}
+.sem{display:flex;align-items:center;gap:16px;width:100%;text-align:left;border-radius:24px;padding:16px;color:#fff;background:linear-gradient(135deg,var(--c2),#3A86FF)}
+.sem + .sem{background:linear-gradient(135deg,var(--c3),#2FBF71)}
+.sem .sn{width:64px;height:64px;flex:none;border-radius:20px;background:rgba(255,255,255,.3);display:grid;place-items:center;font-size:36px;font-weight:800}
+.sem b{font-size:24px;display:block;line-height:1.1}
+.sem span{font-size:16px;font-weight:700;display:block}
+.sem small{font-size:13.5px;opacity:.95;display:block;line-height:1.25;margin-top:2px}
+.sem.locked{background:#C9CDD8!important;box-shadow:none;cursor:not-allowed}
