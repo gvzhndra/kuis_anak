@@ -3,8 +3,8 @@
  "icon": "📖",
  "source": "Buku Siswa Bahasa Indonesia: Kawan Seiring untuk SD/MI Kelas III (Edisi Revisi) · Bab 1–2",
  "chapters": [
-  "Bab 1 Kawan Seiring (teman baik, bersih-bersih, persahabatan, ide pokok)",
-  "Bab 2 Yuk, Berpendapat! (teks argumentasi, kosakata, perasaan, kamus)"
+  "Bab 1 Kawan Seiring",
+  "Bab 2 Yuk, Berpendapat!"
  ],
  "questions": [
   {
@@ -19,7 +19,8 @@
    ],
    "answer": 0,
    "explain": "Teman yang baik suka membantu.",
-   "id": "k3-bahasa_indonesia-001"
+   "id": "k3-bahasa_indonesia-001",
+   "ch": 1
   },
   {
    "level": 1,
@@ -33,7 +34,8 @@
    ],
    "answer": 0,
    "explain": "Kalimat tanya diakhiri tanda tanya (?).",
-   "id": "k3-bahasa_indonesia-002"
+   "id": "k3-bahasa_indonesia-002",
+   "ch": 1
   },
   {
    "level": 1,
@@ -47,7 +49,8 @@
    ],
    "answer": 0,
    "explain": "Huruf kapital dipakai di awal kalimat dan untuk nama orang/tempat.",
-   "id": "k3-bahasa_indonesia-003"
+   "id": "k3-bahasa_indonesia-003",
+   "ch": 1
   },
   {
    "level": 1,
@@ -61,7 +64,8 @@
    ],
    "answer": 0,
    "explain": "Sampah organik berasal dari alam, misalnya daun dan sisa makanan.",
-   "id": "k3-bahasa_indonesia-004"
+   "id": "k3-bahasa_indonesia-004",
+   "ch": 1
   },
   {
    "level": 1,
@@ -75,7 +79,8 @@
    ],
    "answer": 0,
    "explain": "Cuci tangan sebelum makan dan setelah bermain.",
-   "id": "k3-bahasa_indonesia-005"
+   "id": "k3-bahasa_indonesia-005",
+   "ch": 1
   },
   {
    "level": 1,
@@ -89,7 +94,8 @@
    ],
    "answer": 0,
    "explain": "Di mana = tempat, siapa = orang, kapan = waktu, berapa = jumlah.",
-   "id": "k3-bahasa_indonesia-006"
+   "id": "k3-bahasa_indonesia-006",
+   "ch": 2
   },
   {
    "level": 1,
@@ -103,7 +109,8 @@
    ],
    "answer": 0,
    "explain": "Kapan dipakai untuk menanyakan waktu.",
-   "id": "k3-bahasa_indonesia-007"
+   "id": "k3-bahasa_indonesia-007",
+   "ch": 2
   },
   {
    "level": 1,
@@ -117,7 +124,8 @@
    ],
    "answer": 0,
    "explain": "Mendapat hadiah membuat hati senang.",
-   "id": "k3-bahasa_indonesia-008"
+   "id": "k3-bahasa_indonesia-008",
+   "ch": 2
   },
   {
    "level": 2,
@@ -131,7 +139,8 @@
    ],
    "answer": 0,
    "explain": "Ide pokok adalah gagasan utama paragraf.",
-   "id": "k3-bahasa_indonesia-009"
+   "id": "k3-bahasa_indonesia-009",
+   "ch": 1
   },
   {
    "level": 2,
@@ -146,7 +155,8 @@
    ],
    "answer": 0,
    "explain": "Kalimat pertama adalah kalimat utama, kalimat lain menjelaskannya.",
-   "id": "k3-bahasa_indonesia-010"
+   "id": "k3-bahasa_indonesia-010",
+   "ch": 1
   },
   {
    "level": 2,
@@ -160,7 +170,8 @@
    ],
    "answer": 0,
    "explain": "Teman yang baik membuat kita tidak merasa kesepian.",
-   "id": "k3-bahasa_indonesia-011"
+   "id": "k3-bahasa_indonesia-011",
+   "ch": 1
   },
   {
    "level": 2,
@@ -174,7 +185,8 @@
    ],
    "answer": 0,
    "explain": "Gemar artinya suka. Contoh: Aku gemar membaca.",
-   "id": "k3-bahasa_indonesia-012"
+   "id": "k3-bahasa_indonesia-012",
+   "ch": 2
   },
   {
    "level": 2,
@@ -188,7 +200,8 @@
    ],
    "answer": 0,
    "explain": "Rajin >< malas.",
-   "id": "k3-bahasa_indonesia-013"
+   "id": "k3-bahasa_indonesia-013",
+   "ch": 2
   },
   {
    "level": 2,
@@ -202,7 +215,8 @@
    ],
    "answer": 0,
    "explain": "Kamus diurutkan menurut abjad: a, b, c, …",
-   "id": "k3-bahasa_indonesia-014"
+   "id": "k3-bahasa_indonesia-014",
+   "ch": 2
   },
   {
    "level": 2,
@@ -216,7 +230,8 @@
    ],
    "answer": 0,
    "explain": "Pendapat biasanya diawali \"menurutku\" atau \"aku setuju\".",
-   "id": "k3-bahasa_indonesia-015"
+   "id": "k3-bahasa_indonesia-015",
+   "ch": 2
   },
   {
    "level": 2,
@@ -230,7 +245,8 @@
    ],
    "answer": 0,
    "explain": "Kalimat perintah meminta orang melakukan sesuatu, diakhiri tanda seru (!).",
-   "id": "k3-bahasa_indonesia-016"
+   "id": "k3-bahasa_indonesia-016",
+   "ch": 1
   },
   {
    "level": 3,
@@ -244,7 +260,8 @@
    ],
    "answer": 0,
    "explain": "Teks argumentasi berisi pendapat dan alasan yang mendukungnya.",
-   "id": "k3-bahasa_indonesia-017"
+   "id": "k3-bahasa_indonesia-017",
+   "ch": 2
   },
   {
    "level": 3,
@@ -259,7 +276,8 @@
    ],
    "answer": 0,
    "explain": "Sarapan memberi tenaga agar kita bisa belajar dengan baik.",
-   "id": "k3-bahasa_indonesia-018"
+   "id": "k3-bahasa_indonesia-018",
+   "ch": 2
   },
   {
    "level": 3,
@@ -274,7 +292,8 @@
    ],
    "answer": 0,
    "explain": "Kalimat terakhir: \"Mereka saling menolong.\"",
-   "id": "k3-bahasa_indonesia-019"
+   "id": "k3-bahasa_indonesia-019",
+   "ch": 1
   },
   {
    "level": 3,
@@ -289,7 +308,8 @@
    ],
    "answer": 0,
    "explain": "Pesannya: sahabat yang baik saling membantu.",
-   "id": "k3-bahasa_indonesia-020"
+   "id": "k3-bahasa_indonesia-020",
+   "ch": 1
   },
   {
    "level": 3,
@@ -303,7 +323,8 @@
    ],
    "answer": 0,
    "explain": "Makna sebenarnya: tidak kotor, seperti lantai yang bersih.",
-   "id": "k3-bahasa_indonesia-021"
+   "id": "k3-bahasa_indonesia-021",
+   "ch": 2
   },
   {
    "level": 3,
@@ -317,7 +338,8 @@
    ],
    "answer": 0,
    "explain": "Semua diawali \"bu\", jadi bandingkan huruf ketiga: k, l, n, r. Huruf k paling awal, jadi urutannya buku, bulan, bunga, burung.",
-   "id": "k3-bahasa_indonesia-022"
+   "id": "k3-bahasa_indonesia-022",
+   "ch": 2
   },
   {
    "level": 3,
@@ -331,7 +353,8 @@
    ],
    "answer": 0,
    "explain": "Awal kalimat dan nama tempat (Bali) memakai huruf kapital.",
-   "id": "k3-bahasa_indonesia-023"
+   "id": "k3-bahasa_indonesia-023",
+   "ch": 1
   },
   {
    "level": 3,
@@ -345,7 +368,8 @@
    ],
    "answer": 0,
    "explain": "Bekerja sama membersihkan kelas = gotong royong.",
-   "id": "k3-bahasa_indonesia-024"
+   "id": "k3-bahasa_indonesia-024",
+   "ch": 1
   },
   {
    "level": 1,
@@ -359,7 +383,8 @@
    ],
    "answer": 0,
    "explain": "Siapa dipakai untuk menanyakan orang.",
-   "id": "k3-bahasa_indonesia-025"
+   "id": "k3-bahasa_indonesia-025",
+   "ch": 2
   },
   {
    "level": 1,
@@ -373,7 +398,8 @@
    ],
    "answer": 0,
    "explain": "Kebersihan adalah tanggung jawab kita bersama.",
-   "id": "k3-bahasa_indonesia-026"
+   "id": "k3-bahasa_indonesia-026",
+   "ch": 1
   },
   {
    "level": 2,
@@ -387,7 +413,8 @@
    ],
    "answer": 0,
    "explain": "Pintar = pandai (sinonim).",
-   "id": "k3-bahasa_indonesia-027"
+   "id": "k3-bahasa_indonesia-027",
+   "ch": 2
   },
   {
    "level": 2,
@@ -401,7 +428,8 @@
    ],
    "answer": 0,
    "explain": "Lingkungan bersih membuat tubuh sehat.",
-   "id": "k3-bahasa_indonesia-028"
+   "id": "k3-bahasa_indonesia-028",
+   "ch": 1
   },
   {
    "level": 3,
@@ -415,7 +443,8 @@
    ],
    "answer": 0,
    "explain": "Menangis karena kehilangan menunjukkan perasaan sedih.",
-   "id": "k3-bahasa_indonesia-029"
+   "id": "k3-bahasa_indonesia-029",
+   "ch": 2
   },
   {
    "level": 3,
@@ -430,7 +459,467 @@
    "answer": 0,
    "explain": "Kalimat terakhir menyimpulkan isi paragraf, itulah ide pokoknya.",
    "img": "Adi menyapu lantai. Ibu mencuci piring. Kakak menyiram bunga. Seluruh keluarga Adi bergotong royong membersihkan rumah.",
-   "id": "k3-bahasa_indonesia-030"
+   "id": "k3-bahasa_indonesia-030",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Kalimat yang diawali huruf kapital dengan benar adalah …",
+   "choices": [
+    "Ayu pergi ke pasar.",
+    "ayu pergi ke pasar.",
+    "Ayu Pergi Ke Pasar.",
+    "ayu Pergi ke pasar."
+   ],
+   "answer": 0,
+   "explain": "Huruf kapital dipakai di awal kalimat dan nama orang.",
+   "bab": "Bab 1 Kawan Seiring",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-031"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Tanda baca di akhir kalimat berita adalah …",
+   "choices": [
+    "titik ( . )",
+    "tanda tanya ( ? )",
+    "tanda seru ( ! )",
+    "koma ( , )"
+   ],
+   "answer": 0,
+   "explain": "Kalimat berita memberi tahu sesuatu dan diakhiri titik.",
+   "bab": "Bab 1 Kawan Seiring",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-032"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Kalimat tanya yang benar adalah …",
+   "choices": [
+    "Kapan kamu berlibur?",
+    "Kapan kamu berlibur.",
+    "kapan kamu berlibur!",
+    "Kapan, kamu berlibur"
+   ],
+   "answer": 0,
+   "explain": "Kalimat tanya diawali huruf kapital dan diakhiri tanda tanya.",
+   "bab": "Bab 1 Kawan Seiring",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-033"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Sampah plastik, kaleng, dan botol kaca termasuk sampah …",
+   "choices": [
+    "anorganik",
+    "organik",
+    "daun",
+    "makanan"
+   ],
+   "answer": 0,
+   "explain": "Sampah anorganik sulit terurai, misalnya plastik, kaleng, dan kaca.",
+   "bab": "Bab 1 Kawan Seiring",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-034"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Bacalah!\nAmel selalu meminjamkan buku kepada temannya yang lupa membawa buku.\nSifat Amel adalah …",
+   "choices": [
+    "suka menolong",
+    "pelit",
+    "sombong",
+    "pemalas"
+   ],
+   "answer": 0,
+   "explain": "Meminjamkan buku kepada teman adalah sikap suka menolong.",
+   "bab": "Bab 1 Kawan Seiring",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-035"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Bacalah!\nSetiap Sabtu, warga desa membersihkan selokan bersama-sama. Selokan menjadi lancar dan desa terbebas dari banjir.\nIde pokok paragraf tersebut adalah …",
+   "choices": [
+    "Warga membersihkan selokan bersama-sama.",
+    "Desa terbebas dari banjir.",
+    "Hari Sabtu hari libur.",
+    "Selokan itu panjang."
+   ],
+   "answer": 0,
+   "explain": "Ide pokok biasanya ada di kalimat pertama (kalimat utama).",
+   "bab": "Bab 1 Kawan Seiring",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-036"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Kalimat yang memakai huruf kapital dengan BENAR seluruhnya adalah …",
+   "choices": [
+    "Pada hari Minggu, Rina berlibur ke Ubud.",
+    "pada hari minggu, Rina berlibur ke ubud.",
+    "Pada Hari minggu, rina berlibur ke Ubud.",
+    "Pada hari Minggu, rina Berlibur ke ubud."
+   ],
+   "answer": 0,
+   "explain": "Kapital: awal kalimat, nama hari (Minggu), nama orang (Rina), nama tempat (Ubud).",
+   "bab": "Bab 1 Kawan Seiring",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-037"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Bacalah!\nLiburan kemarin aku ke rumah Nenek di desa. Di sana aku memberi makan ayam, memetik sayur, dan bermain di sawah.\nKalimat yang TIDAK sesuai dengan cerita adalah …",
+   "choices": [
+    "Aku berlibur ke rumah Nenek di kota.",
+    "Aku memberi makan ayam.",
+    "Aku bermain di sawah.",
+    "Aku memetik sayur."
+   ],
+   "answer": 0,
+   "explain": "Di cerita, rumah Nenek ada di desa, bukan di kota.",
+   "bab": "Bab 1 Kawan Seiring",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-038"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Sahabat sejati adalah teman yang …",
+   "choices": [
+    "ada saat senang dan susah",
+    "hanya datang saat butuh",
+    "suka mengejek",
+    "suka berbohong"
+   ],
+   "answer": 0,
+   "explain": "Sahabat sejati menemani kita dalam keadaan apa pun.",
+   "bab": "Bab 1 Kawan Seiring",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-039"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "Ide pokok adalah … utama dari sebuah paragraf. (gagasan/pikiran)",
+   "answer": "gagasan",
+   "accept": [
+    "pikiran",
+    "gagasan utama",
+    "pikiran utama"
+   ],
+   "explain": "Ide pokok = gagasan utama atau pikiran utama paragraf.",
+   "bab": "Bab 1 Kawan Seiring",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-040"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "Huruf kapital digunakan pada awal …",
+   "answer": "kalimat",
+   "accept": [
+    "awal kalimat"
+   ],
+   "explain": "Setiap kalimat diawali huruf kapital.",
+   "bab": "Bab 1 Kawan Seiring",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-041"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "input",
+   "q": "Sampah yang berasal dari bahan alami, seperti daun dan sisa makanan, disebut sampah …",
+   "answer": "organik",
+   "accept": [],
+   "explain": "Sampah organik mudah membusuk dan bisa dijadikan kompos.",
+   "bab": "Bab 1 Kawan Seiring",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-042"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "input",
+   "q": "Kalimat yang berisi perintah diakhiri tanda …",
+   "answer": "seru",
+   "accept": [
+    "tanda seru",
+    "!"
+   ],
+   "explain": "Kalimat perintah diakhiri tanda seru (!).",
+   "bab": "Bab 1 Kawan Seiring",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-043"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Sebutkan dua contoh sikap teman yang baik!",
+   "answer": "Contoh sikap teman yang baik: suka menolong, mau berbagi, tidak mengejek, saling memaafkan, dan menemani saat susah.",
+   "keywords": [
+    "menolong",
+    "berbagi",
+    "memaafkan",
+    "tidak mengejek"
+   ],
+   "bab": "Bab 1 Kawan Seiring",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-044"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Mengapa kita harus menjaga kebersihan lingkungan? Tuliskan alasanmu!",
+   "answer": "Agar lingkungan sehat dan nyaman, tidak menjadi sarang penyakit/kuman, dan tidak terjadi banjir karena sampah.",
+   "keywords": [
+    "sehat",
+    "penyakit",
+    "nyaman",
+    "banjir"
+   ],
+   "bab": "Bab 1 Kawan Seiring",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-045"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Kalimat yang menunjukkan perasaan SENANG adalah …",
+   "choices": [
+    "Hore, aku juara kelas!",
+    "Aku kehilangan pensil.",
+    "Kucingku sakit.",
+    "Aku takut gelap."
+   ],
+   "answer": 0,
+   "explain": "\"Hore\" menunjukkan perasaan gembira.",
+   "bab": "Bab 2 Yuk, Berpendapat!",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-046"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Lawan kata \"bersih\" adalah …",
+   "choices": [
+    "kotor",
+    "rapi",
+    "indah",
+    "wangi"
+   ],
+   "answer": 0,
+   "explain": "Bersih >< kotor.",
+   "bab": "Bab 2 Yuk, Berpendapat!",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-047"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Kata tanya untuk menanyakan alasan adalah …",
+   "choices": [
+    "mengapa",
+    "siapa",
+    "kapan",
+    "di mana"
+   ],
+   "answer": 0,
+   "explain": "Mengapa dipakai untuk menanyakan sebab atau alasan.",
+   "bab": "Bab 2 Yuk, Berpendapat!",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-048"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Kalimat yang berisi pendapat adalah …",
+   "choices": [
+    "Aku setuju jika kelas dihias dengan tanaman.",
+    "Kelas kami ada di lantai dua.",
+    "Ada 25 siswa di kelasku.",
+    "Bu guru memakai baju batik."
+   ],
+   "answer": 0,
+   "explain": "Pendapat berisi pikiran atau sikap kita, sering memakai \"aku setuju\" atau \"menurutku\".",
+   "bab": "Bab 2 Yuk, Berpendapat!",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-049"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Susunan kata sesuai abjad (kamus) adalah …",
+   "choices": [
+    "daun, kaki, pohon, sapu",
+    "kaki, daun, sapu, pohon",
+    "pohon, sapu, daun, kaki",
+    "sapu, pohon, kaki, daun"
+   ],
+   "answer": 0,
+   "explain": "Urutan abjad: d, k, p, s.",
+   "bab": "Bab 2 Yuk, Berpendapat!",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-050"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Persamaan kata \"gembira\" adalah …",
+   "choices": [
+    "senang",
+    "sedih",
+    "marah",
+    "takut"
+   ],
+   "answer": 0,
+   "explain": "Gembira = senang.",
+   "bab": "Bab 2 Yuk, Berpendapat!",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-051"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Pendapat: \"Siswa sebaiknya membawa botol minum sendiri.\"\nAlasan yang paling tepat adalah …",
+   "choices": [
+    "Agar mengurangi sampah botol plastik.",
+    "Agar tas menjadi berat.",
+    "Agar bisa pamer botol baru.",
+    "Agar tidak perlu minum."
+   ],
+   "answer": 0,
+   "explain": "Alasan harus mendukung pendapat dan masuk akal.",
+   "bab": "Bab 2 Yuk, Berpendapat!",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-052"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Saat menyampaikan pendapat di depan kelas, sikap yang benar adalah …",
+   "choices": [
+    "berbicara jelas dan sopan",
+    "berteriak keras",
+    "memotong pembicaraan teman",
+    "berbicara sambil bermain"
+   ],
+   "answer": 0,
+   "explain": "Sampaikan pendapat dengan jelas, sopan, dan intonasi yang tepat.",
+   "bab": "Bab 2 Yuk, Berpendapat!",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-053"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Dalam kamus, kata \"sapu\" terletak SETELAH kata …",
+   "choices": [
+    "sabun",
+    "sepatu",
+    "sikat",
+    "susu"
+   ],
+   "answer": 0,
+   "explain": "Bandingkan huruf kedua: sa-b sebelum sa-p. Jadi sabun → sapu.",
+   "bab": "Bab 2 Yuk, Berpendapat!",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-054"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "type": "input",
+   "q": "Teks yang berisi pendapat disertai alasan disebut teks …",
+   "answer": "argumentasi",
+   "accept": [],
+   "explain": "Teks argumentasi berisi pendapat dan alasan.",
+   "bab": "Bab 2 Yuk, Berpendapat!",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-055"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "type": "input",
+   "q": "Kata tanya untuk menanyakan tempat adalah …",
+   "answer": "di mana",
+   "accept": [
+    "dimana"
+   ],
+   "explain": "Di mana = menanyakan tempat.",
+   "bab": "Bab 2 Yuk, Berpendapat!",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-056"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "input",
+   "q": "Lawan kata \"rajin\" adalah …",
+   "answer": "malas",
+   "accept": [],
+   "explain": "Rajin >< malas.",
+   "bab": "Bab 2 Yuk, Berpendapat!",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-057"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "input",
+   "q": "Buku yang berisi daftar kata beserta artinya, disusun menurut abjad, disebut …",
+   "answer": "kamus",
+   "accept": [],
+   "explain": "Kamus disusun berdasarkan urutan abjad.",
+   "bab": "Bab 2 Yuk, Berpendapat!",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-058"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "uraian",
+   "q": "Tuliskan pendapatmu tentang membuang sampah di sungai, beserta alasannya!",
+   "answer": "Aku tidak setuju membuang sampah di sungai, karena sungai menjadi kotor, airnya tercemar, ikan bisa mati, dan dapat menyebabkan banjir.",
+   "keywords": [
+    "tidak setuju",
+    "kotor",
+    "banjir",
+    "tercemar"
+   ],
+   "bab": "Bab 2 Yuk, Berpendapat!",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-059"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "uraian",
+   "q": "Bagaimana perasaanmu jika temanmu sakit? Apa yang akan kamu lakukan?",
+   "answer": "Aku merasa sedih/khawatir. Aku akan menjenguknya, mendoakannya, atau mengantarkan catatan pelajaran.",
+   "keywords": [
+    "sedih",
+    "menjenguk",
+    "mendoakan",
+    "membantu"
+   ],
+   "bab": "Bab 2 Yuk, Berpendapat!",
+   "fromSource": true,
+   "id": "k3-bahasa_indonesia-060"
   }
  ]
 }

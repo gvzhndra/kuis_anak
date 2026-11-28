@@ -19,7 +19,8 @@
    ],
    "answer": 0,
    "explain": "Saat berkenalan, kita menyebutkan nama kita sendiri.",
-   "id": "k1-pancasila-001"
+   "id": "k1-pancasila-001",
+   "ch": 1
   },
   {
    "level": 1,
@@ -34,7 +35,8 @@
    ],
    "answer": 0,
    "explain": "Berkenalan dengan ramah: tersenyum dan berjabat tangan.",
-   "id": "k1-pancasila-002"
+   "id": "k1-pancasila-002",
+   "ch": 1
   },
   {
    "level": 1,
@@ -48,7 +50,8 @@
    ],
    "answer": 0,
    "explain": "Kegemaran (hobi) setiap anak bisa berbeda. Kita saling menghargai.",
-   "id": "k1-pancasila-003"
+   "id": "k1-pancasila-003",
+   "ch": 1
   },
   {
    "level": 1,
@@ -62,7 +65,8 @@
    ],
    "answer": 0,
    "explain": "Bermain bersama harus bergantian agar semua senang.",
-   "id": "k1-pancasila-004"
+   "id": "k1-pancasila-004",
+   "ch": 1
   },
   {
    "level": 1,
@@ -77,7 +81,8 @@
    ],
    "answer": 0,
    "explain": "Merapikan tempat tidur adalah aturan baik di rumah.",
-   "id": "k1-pancasila-005"
+   "id": "k1-pancasila-005",
+   "ch": 2
   },
   {
    "level": 1,
@@ -92,7 +97,8 @@
    ],
    "answer": 0,
    "explain": "Buang sampah di tempat sampah agar rumah dan lingkungan bersih.",
-   "id": "k1-pancasila-006"
+   "id": "k1-pancasila-006",
+   "ch": 2
   },
   {
    "level": 1,
@@ -107,7 +113,8 @@
    ],
    "answer": 0,
    "explain": "Simpan sepatu di rak sepatu agar rapi.",
-   "id": "k1-pancasila-007"
+   "id": "k1-pancasila-007",
+   "ch": 2
   },
   {
    "level": 1,
@@ -121,7 +128,8 @@
    ],
    "answer": 0,
    "explain": "Anak yang baik mendengarkan nasihat ayah dan ibu.",
-   "id": "k1-pancasila-008"
+   "id": "k1-pancasila-008",
+   "ch": 2
   },
   {
    "level": 2,
@@ -135,7 +143,8 @@
    ],
    "answer": 0,
    "explain": "Perbedaan itu indah. Kita tetap berteman dengan semua teman.",
-   "id": "k1-pancasila-009"
+   "id": "k1-pancasila-009",
+   "ch": 1
   },
   {
    "level": 2,
@@ -149,7 +158,8 @@
    ],
    "answer": 0,
    "explain": "Menang atau kalah, tetap gembira dan sportif.",
-   "id": "k1-pancasila-010"
+   "id": "k1-pancasila-010",
+   "ch": 1
   },
   {
    "level": 2,
@@ -163,7 +173,8 @@
    ],
    "answer": 0,
    "explain": "Aturan main membuat permainan tertib dan adil.",
-   "id": "k1-pancasila-011"
+   "id": "k1-pancasila-011",
+   "ch": 1
   },
   {
    "level": 2,
@@ -177,7 +188,8 @@
    ],
    "answer": 0,
    "explain": "Bermain dengan jujur, tidak curang.",
-   "id": "k1-pancasila-012"
+   "id": "k1-pancasila-012",
+   "ch": 1
   },
   {
    "level": 2,
@@ -191,7 +203,8 @@
    ],
    "answer": 0,
    "explain": "Aturan dibuat agar rumah tertib dan nyaman.",
-   "id": "k1-pancasila-013"
+   "id": "k1-pancasila-013",
+   "ch": 2
   },
   {
    "level": 2,
@@ -205,7 +218,8 @@
    ],
    "answer": 0,
    "explain": "Menggosok gigi sebelum tidur menjaga gigi tetap sehat.",
-   "id": "k1-pancasila-014"
+   "id": "k1-pancasila-014",
+   "ch": 2
   },
   {
    "level": 2,
@@ -219,7 +233,8 @@
    ],
    "answer": 0,
    "explain": "Rapikan mainan setelah dipakai.",
-   "id": "k1-pancasila-015"
+   "id": "k1-pancasila-015",
+   "ch": 2
   },
   {
    "level": 2,
@@ -233,7 +248,8 @@
    ],
    "answer": 0,
    "explain": "Gotong royong artinya bekerja sama membantu satu sama lain.",
-   "id": "k1-pancasila-016"
+   "id": "k1-pancasila-016",
+   "ch": 2
   },
   {
    "level": 3,
@@ -247,7 +263,8 @@
    ],
    "answer": 0,
    "explain": "Jika berbuat salah, kita meminta maaf.",
-   "id": "k1-pancasila-017"
+   "id": "k1-pancasila-017",
+   "ch": 1
   },
   {
    "level": 3,
@@ -261,7 +278,8 @@
    ],
    "answer": 0,
    "explain": "Ajak teman baru berkenalan dan bermain bersama.",
-   "id": "k1-pancasila-018"
+   "id": "k1-pancasila-018",
+   "ch": 1
   },
   {
    "level": 3,
@@ -275,7 +293,8 @@
    ],
    "answer": 0,
    "explain": "Antre dan tunggu giliran dengan sabar.",
-   "id": "k1-pancasila-019"
+   "id": "k1-pancasila-019",
+   "ch": 1
   },
   {
    "level": 3,
@@ -289,7 +308,8 @@
    ],
    "answer": 0,
    "explain": "Anak yang patuh segera melaksanakan nasihat orang tua.",
-   "id": "k1-pancasila-020"
+   "id": "k1-pancasila-020",
+   "ch": 2
   },
   {
    "level": 3,
@@ -303,7 +323,8 @@
    ],
    "answer": 0,
    "explain": "Aturan di rumah dibuat oleh orang tua dan ditaati seluruh keluarga.",
-   "id": "k1-pancasila-021"
+   "id": "k1-pancasila-021",
+   "ch": 2
   },
   {
    "level": 3,
@@ -317,7 +338,8 @@
    ],
    "answer": 0,
    "explain": "Menyiram tanaman membuat lingkungan hijau dan asri.",
-   "id": "k1-pancasila-022"
+   "id": "k1-pancasila-022",
+   "ch": 2
   },
   {
    "level": 3,
@@ -331,7 +353,8 @@
    ],
    "answer": 0,
    "explain": "Aturan membuat hidup tertib, aman, dan nyaman.",
-   "id": "k1-pancasila-023"
+   "id": "k1-pancasila-023",
+   "ch": 2
   },
   {
    "level": 1,
@@ -345,7 +368,8 @@
    ],
    "answer": 0,
    "explain": "Ciri fisik setiap orang berbeda. Kita saling menghargai.",
-   "id": "k1-pancasila-024"
+   "id": "k1-pancasila-024",
+   "ch": 1
   },
   {
    "level": 1,
@@ -359,7 +383,8 @@
    ],
    "answer": 0,
    "explain": "Berdoa sebelum makan adalah kebiasaan baik di rumah.",
-   "id": "k1-pancasila-025"
+   "id": "k1-pancasila-025",
+   "ch": 2
   },
   {
    "level": 2,
@@ -373,7 +398,8 @@
    ],
    "answer": 0,
    "explain": "Setiap anak boleh punya hobi berbeda.",
-   "id": "k1-pancasila-026"
+   "id": "k1-pancasila-026",
+   "ch": 1
   },
   {
    "level": 2,
@@ -387,7 +413,8 @@
    ],
    "answer": 0,
    "explain": "Aturan membuat keluarga tertib dan nyaman.",
-   "id": "k1-pancasila-027"
+   "id": "k1-pancasila-027",
+   "ch": 2
   },
   {
    "level": 3,
@@ -401,7 +428,8 @@
    ],
    "answer": 0,
    "explain": "Teman yang baik saling menolong.",
-   "id": "k1-pancasila-028"
+   "id": "k1-pancasila-028",
+   "ch": 1
   },
   {
    "level": 3,
@@ -415,7 +443,8 @@
    ],
    "answer": 0,
    "explain": "Anak yang patuh menuruti nasihat orang tua.",
-   "id": "k1-pancasila-029"
+   "id": "k1-pancasila-029",
+   "ch": 2
   },
   {
    "level": 3,
@@ -429,7 +458,209 @@
    ],
    "answer": 0,
    "explain": "Lingkungan bersih membuat badan sehat dan hati senang.",
-   "id": "k1-pancasila-030"
+   "id": "k1-pancasila-030",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Nama panggilan kita digunakan saat …",
+   "choices": [
+    "berkenalan",
+    "tidur",
+    "makan",
+    "mandi"
+   ],
+   "answer": 0,
+   "explain": "Sebutkan nama saat berkenalan.",
+   "bab": "Bab 1 Aku dan Teman-Temanku",
+   "fromSource": true,
+   "id": "k1-pancasila-031"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Ciri-ciri tubuh setiap teman …",
+   "choices": [
+    "berbeda-beda",
+    "sama semua",
+    "tidak ada",
+    "jelek"
+   ],
+   "answer": 0,
+   "explain": "Setiap orang unik dan berbeda.",
+   "bab": "Bab 1 Aku dan Teman-Temanku",
+   "fromSource": true,
+   "id": "k1-pancasila-032"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Rina suka menyanyi. Doni suka menggambar. Itu adalah …",
+   "choices": [
+    "kegemaran (hobi)",
+    "aturan",
+    "tugas",
+    "hukuman"
+   ],
+   "answer": 0,
+   "explain": "Kegemaran = hobi.",
+   "bab": "Bab 1 Aku dan Teman-Temanku",
+   "fromSource": true,
+   "id": "k1-pancasila-033"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "type": "input",
+   "q": "Saat bermain bersama, kita harus … (bergantian)",
+   "answer": "bergantian",
+   "accept": [
+    "antre"
+   ],
+   "explain": "Bermain bergantian agar semua senang.",
+   "bab": "Bab 1 Aku dan Teman-Temanku",
+   "fromSource": true,
+   "id": "k1-pancasila-034"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "Kegemaran disebut juga …",
+   "answer": "hobi",
+   "accept": [],
+   "explain": "Kegemaran = hobi.",
+   "bab": "Bab 1 Aku dan Teman-Temanku",
+   "fromSource": true,
+   "id": "k1-pancasila-035"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "input",
+   "q": "Kalau berbuat salah kepada teman, kita meminta …",
+   "answer": "maaf",
+   "accept": [],
+   "explain": "Minta maaf jika berbuat salah.",
+   "bab": "Bab 1 Aku dan Teman-Temanku",
+   "fromSource": true,
+   "id": "k1-pancasila-036"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Sebutkan nama dan kegemaranmu!",
+   "answer": "Contoh: Namaku Komang. Kegemaranku menggambar.",
+   "keywords": [
+    "nama",
+    "kegemaran",
+    "suka"
+   ],
+   "bab": "Bab 1 Aku dan Teman-Temanku",
+   "fromSource": true,
+   "id": "k1-pancasila-037"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Aturan di rumah dibuat oleh …",
+   "choices": [
+    "orang tua",
+    "teman",
+    "tetangga",
+    "guru les"
+   ],
+   "answer": 0,
+   "explain": "Orang tua membuat aturan di rumah.",
+   "bab": "Bab 2 Aku Patuh pada Aturan",
+   "fromSource": true,
+   "id": "k1-pancasila-038"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Setelah makan, piring kotor diletakkan di …",
+   "choices": [
+    "tempat cuci piring",
+    "kamar tidur",
+    "bawah meja",
+    "halaman"
+   ],
+   "answer": 0,
+   "explain": "Rapikan piring setelah makan.",
+   "bab": "Bab 2 Aku Patuh pada Aturan",
+   "fromSource": true,
+   "id": "k1-pancasila-039"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Contoh menaati aturan di rumah adalah …",
+   "choices": [
+    "tidur tepat waktu",
+    "main gawai sampai larut malam",
+    "membuang sampah sembarangan",
+    "tidak mandi"
+   ],
+   "answer": 0,
+   "explain": "Tidur tepat waktu adalah aturan baik.",
+   "bab": "Bab 2 Aku Patuh pada Aturan",
+   "fromSource": true,
+   "id": "k1-pancasila-040"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "type": "input",
+   "q": "Sampah dibuang ke tempat …",
+   "answer": "sampah",
+   "accept": [],
+   "explain": "Buang sampah di tempat sampah.",
+   "bab": "Bab 2 Aku Patuh pada Aturan",
+   "fromSource": true,
+   "id": "k1-pancasila-041"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "type": "input",
+   "q": "Bangun tidur, kita merapikan tempat …",
+   "answer": "tidur",
+   "accept": [],
+   "explain": "Rapikan tempat tidur setelah bangun.",
+   "bab": "Bab 2 Aku Patuh pada Aturan",
+   "fromSource": true,
+   "id": "k1-pancasila-042"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "input",
+   "q": "Membersihkan lingkungan bersama-sama disebut gotong …",
+   "answer": "royong",
+   "accept": [],
+   "explain": "Gotong royong = bekerja sama.",
+   "bab": "Bab 2 Aku Patuh pada Aturan",
+   "fromSource": true,
+   "id": "k1-pancasila-043"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "uraian",
+   "q": "Sebutkan dua aturan di rumahmu!",
+   "answer": "Contoh: bangun pagi, merapikan tempat tidur, membuang sampah di tempat sampah, belajar setiap malam, tidur tepat waktu.",
+   "keywords": [
+    "bangun pagi",
+    "merapikan",
+    "sampah",
+    "belajar"
+   ],
+   "bab": "Bab 2 Aku Patuh pada Aturan",
+   "fromSource": true,
+   "id": "k1-pancasila-044"
   }
  ]
 }

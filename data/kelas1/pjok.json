@@ -1,0 +1,787 @@
+{
+ "subject": "PJOK",
+ "icon": "⚽",
+ "source": "Buku Siswa Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SD/MI Kelas I (Kemendikdasmen) · Bab 1–3",
+ "chapters": [
+  "Bab 1 Serunya Gerak di Tempat",
+  "Bab 2 Asyiknya Gerak Berpindah Tempat",
+  "Bab 3 Bergerak Menggunakan Benda"
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "bab": "Bab 2 Gerak Berpindah Tempat",
+   "q": "Gerak melangkahkan kedua kaki secara bergantian disebut …",
+   "img": "🚶",
+   "choices": [
+    "berjalan",
+    "melompat",
+    "berguling",
+    "duduk"
+   ],
+   "answer": 0,
+   "explain": "Berjalan = melangkahkan kedua kaki bergantian.",
+   "id": "k1-pjok-001",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "bab": "Bab 2 Gerak Berpindah Tempat",
+   "q": "Jika ada lubang di depan, kita harus …",
+   "choices": [
+    "melompatinya",
+    "tidur",
+    "duduk diam",
+    "menutup mata"
+   ],
+   "answer": 0,
+   "explain": "Kita bisa melompati lubang agar tidak jatuh.",
+   "id": "k1-pjok-002",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "bab": "Bab 3 Bergerak Menggunakan Benda",
+   "q": "Saat bermain sepak bola, bola biasanya …",
+   "img": "⚽",
+   "choices": [
+    "ditendang",
+    "dimakan",
+    "dipeluk saja",
+    "disembunyikan"
+   ],
+   "answer": 0,
+   "explain": "Sepak bola: bola ditendang dan digiring dengan kaki.",
+   "id": "k1-pjok-003",
+   "ch": 3
+  },
+  {
+   "level": 1,
+   "bab": "Bab 3 Bergerak Menggunakan Benda",
+   "q": "Menangkap bola besar sebaiknya menggunakan …",
+   "choices": [
+    "kedua tangan",
+    "satu jari",
+    "kepala",
+    "punggung"
+   ],
+   "answer": 0,
+   "explain": "Tangkap bola dengan kedua tangan, lalu tarik ke arah dada.",
+   "id": "k1-pjok-004",
+   "ch": 3
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Gerak di Tempat",
+   "q": "Sebelum berolahraga, kita melakukan …",
+   "choices": [
+    "peregangan (pemanasan)",
+    "tidur siang",
+    "makan banyak",
+    "menonton TV"
+   ],
+   "answer": 0,
+   "explain": "Peregangan menyiapkan otot agar tidak cedera.",
+   "id": "k1-pjok-005",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "bab": "Bab 2 Gerak Berpindah Tempat",
+   "q": "Saat terlambat ke sekolah, kita bergerak lebih cepat dengan …",
+   "img": "🏃",
+   "choices": [
+    "berlari",
+    "duduk",
+    "berbaring",
+    "berdiri diam"
+   ],
+   "answer": 0,
+   "explain": "Berlari lebih cepat daripada berjalan.",
+   "id": "k1-pjok-006",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Gerak di Tempat",
+   "q": "Saat bergerak menirukan pohon tertiup angin, kaki kita …",
+   "img": "🌳💨",
+   "imgSpeak": "",
+   "choices": [
+    "tetap di tempat",
+    "berlari jauh",
+    "melompat ke kolam",
+    "berjalan ke kelas"
+   ],
+   "answer": 0,
+   "explain": "Menirukan pohon adalah gerak di tempat. Kaki tidak berpindah.",
+   "id": "k1-pjok-007",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "bab": "Bab 3 Bergerak Menggunakan Benda",
+   "q": "Memukul balon ke atas menggunakan …",
+   "img": "🎈",
+   "choices": [
+    "tangan",
+    "hidung",
+    "lutut saja",
+    "mata"
+   ],
+   "answer": 0,
+   "explain": "Pukul balon ke atas dengan telapak tangan, jangan sampai jatuh ke lantai.",
+   "id": "k1-pjok-008",
+   "ch": 3
+  },
+  {
+   "level": 1,
+   "bab": "Bab 2 Gerak Berpindah Tempat",
+   "q": "Bayi bergerak dengan tangan dan lutut. Gerakan ini disebut …",
+   "img": "👶",
+   "choices": [
+    "merangkak",
+    "melompat",
+    "berlari",
+    "menendang"
+   ],
+   "answer": 0,
+   "explain": "Sebelum bisa berjalan, bayi belajar merangkak.",
+   "id": "k1-pjok-009",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Gerak di Tempat",
+   "q": "Saat berolahraga sebaiknya memakai …",
+   "choices": [
+    "pakaian olahraga & sepatu",
+    "baju pesta",
+    "sandal jepit",
+    "jas hujan"
+   ],
+   "answer": 0,
+   "explain": "Pakaian olahraga membuat kita nyaman dan aman bergerak.",
+   "id": "k1-pjok-010",
+   "ch": 1
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Gerak di Tempat",
+   "q": "Yang termasuk gerak DI TEMPAT adalah …",
+   "choices": [
+    "membungkuk",
+    "berlari",
+    "melompat jauh",
+    "berjalan"
+   ],
+   "answer": 0,
+   "explain": "Gerak di tempat: membungkuk, menekuk, memilin, mengayun. Kaki tidak berpindah.",
+   "id": "k1-pjok-011",
+   "ch": 1
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Gerak di Tempat",
+   "q": "Saat gerak memilin (memutar badan ke kanan dan kiri), bagian tubuh yang digerakkan adalah …",
+   "choices": [
+    "pinggang",
+    "telinga",
+    "hidung",
+    "jari kaki"
+   ],
+   "answer": 0,
+   "explain": "Memilin = memutar pinggang ke kanan dan ke kiri.",
+   "id": "k1-pjok-012",
+   "ch": 1
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Gerak di Tempat",
+   "q": "Bagian tubuh yang digerakkan saat mengayun adalah …",
+   "choices": [
+    "lengan dan kaki",
+    "mata",
+    "rambut",
+    "gigi"
+   ],
+   "answer": 0,
+   "explain": "Mengayun: lengan atau kaki digerakkan maju-mundur.",
+   "id": "k1-pjok-013",
+   "ch": 1
+  },
+  {
+   "level": 2,
+   "bab": "Bab 2 Gerak Berpindah Tempat",
+   "q": "Gerak berpindah tempat disebut juga gerak …",
+   "choices": [
+    "lokomotor",
+    "diam",
+    "tidur",
+    "manipulatif"
+   ],
+   "answer": 0,
+   "explain": "Gerak lokomotor = gerak berpindah tempat: berjalan, berlari, melompat.",
+   "id": "k1-pjok-014",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Bab 2 Gerak Berpindah Tempat",
+   "q": "Hewan yang berjalan menyamping dengan kaki dan tangan adalah …",
+   "img": "🦀",
+   "choices": [
+    "kepiting",
+    "burung",
+    "ikan",
+    "ular"
+   ],
+   "answer": 0,
+   "explain": "Di buku kita menirukan kepiting berjalan.",
+   "id": "k1-pjok-015",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Bab 3 Bergerak Menggunakan Benda",
+   "q": "Gerak menggunakan benda seperti bola disebut gerak …",
+   "choices": [
+    "manipulatif",
+    "lokomotor",
+    "tidur",
+    "diam"
+   ],
+   "answer": 0,
+   "explain": "Melempar, menangkap, memukul, menendang bola = gerak manipulatif.",
+   "id": "k1-pjok-016",
+   "ch": 3
+  },
+  {
+   "level": 2,
+   "bab": "Bab 3 Bergerak Menggunakan Benda",
+   "q": "Saat menangkap bola, mata melihat ke arah …",
+   "choices": [
+    "datangnya bola",
+    "langit",
+    "teman lain",
+    "sepatu"
+   ],
+   "answer": 0,
+   "explain": "Pandangan mata ke arah datangnya bola agar bisa menangkap.",
+   "id": "k1-pjok-017",
+   "ch": 3
+  },
+  {
+   "level": 2,
+   "bab": "Bab 3 Bergerak Menggunakan Benda",
+   "q": "Melempar bola bisa menggunakan …",
+   "choices": [
+    "satu atau dua tangan",
+    "kaki saja",
+    "kepala saja",
+    "mata"
+   ],
+   "answer": 0,
+   "explain": "Gerak melempar bola dapat memakai satu atau dua tangan.",
+   "id": "k1-pjok-018",
+   "ch": 3
+  },
+  {
+   "level": 2,
+   "bab": "Bab 2 Gerak Berpindah Tempat",
+   "q": "Gerakan seperti botol yang menggelinding di matras disebut …",
+   "choices": [
+    "berguling",
+    "melompat",
+    "menendang",
+    "melempar"
+   ],
+   "answer": 0,
+   "explain": "Berguling: tubuh bergerak menggelinding di atas matras.",
+   "id": "k1-pjok-019",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Gerak di Tempat",
+   "q": "Bentuk tubuh saat badan ditekuk ke depan disebut …",
+   "choices": [
+    "membungkuk",
+    "melompat",
+    "berlari",
+    "merangkak"
+   ],
+   "answer": 0,
+   "explain": "Membungkuk: badan ditekuk ke depan, kaki tetap di tempat.",
+   "id": "k1-pjok-020",
+   "ch": 1
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1–3",
+   "q": "Pasangan yang BENAR adalah …",
+   "choices": [
+    "berlari – gerak berpindah tempat",
+    "menendang – gerak di tempat",
+    "membungkuk – gerak berpindah tempat",
+    "memilin – gerak menggunakan benda"
+   ],
+   "answer": 0,
+   "explain": "Berlari = berpindah tempat. Menendang = pakai benda. Membungkuk & memilin = di tempat.",
+   "id": "k1-pjok-021",
+   "ch": 1
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1 Gerak di Tempat",
+   "q": "Menirukan pesawat terbang: salah satu kaki diayun ke belakang, badan membungkuk, dan kedua lengan …",
+   "img": "✈️",
+   "imgSpeak": "",
+   "choices": [
+    "direntangkan",
+    "dimasukkan saku",
+    "dilipat di dada",
+    "diangkat ke kepala"
+   ],
+   "answer": 0,
+   "explain": "Kedua lengan direntangkan seperti sayap pesawat.",
+   "id": "k1-pjok-022",
+   "ch": 1
+  },
+  {
+   "level": 3,
+   "bab": "Bab 2 Gerak Berpindah Tempat",
+   "q": "Saat guling depan, dagu harus …",
+   "choices": [
+    "menempel di dada",
+    "mendongak ke atas",
+    "menyentuh matras",
+    "ditarik ke belakang"
+   ],
+   "answer": 0,
+   "explain": "Dagu menempel di dada agar leher aman saat berguling.",
+   "id": "k1-pjok-023",
+   "ch": 2
+  },
+  {
+   "level": 3,
+   "bab": "Bab 3 Bergerak Menggunakan Benda",
+   "q": "Cara menangkap bola yang benar adalah …",
+   "choices": [
+    "tangan menghadap bola, lalu tarik ke dada",
+    "menutup mata",
+    "membelakangi bola",
+    "tangan di saku"
+   ],
+   "answer": 0,
+   "explain": "Kedua tangan menghadap bola, tangkap, lalu tarik bola ke arah dada.",
+   "id": "k1-pjok-024",
+   "ch": 3
+  },
+  {
+   "level": 3,
+   "bab": "Bab 3 Bergerak Menggunakan Benda",
+   "q": "Latihan menendang bola sebaiknya dimulai dari jarak …",
+   "choices": [
+    "dekat, lalu makin jauh",
+    "sangat jauh",
+    "di jalan raya",
+    "sambil berlari ke kolam"
+   ],
+   "answer": 0,
+   "explain": "Mulai dari jarak dekat. Perpanjang jarak jika sudah mahir.",
+   "id": "k1-pjok-025",
+   "ch": 3
+  },
+  {
+   "level": 3,
+   "bab": "Bab 2 Gerak Berpindah Tempat",
+   "q": "Menirukan tentara berlari bersama, kita memakai aba-aba …",
+   "choices": [
+    "kiri… kanan… kiri… kanan…",
+    "satu tambah satu",
+    "siap makan",
+    "diam semua"
+   ],
+   "answer": 0,
+   "explain": "Aba-aba kiri-kanan membuat langkah teratur dan kompak.",
+   "id": "k1-pjok-026",
+   "ch": 2
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1 Gerak di Tempat",
+   "q": "Peregangan dilakukan sambil menghitung …",
+   "choices": [
+    "satu sampai delapan",
+    "satu sampai seratus",
+    "huruf A sampai Z",
+    "tidak menghitung"
+   ],
+   "answer": 0,
+   "explain": "Di buku, setiap gerakan peregangan dilakukan dengan hitungan 1–8.",
+   "id": "k1-pjok-027",
+   "ch": 1
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1–3",
+   "q": "Manfaat bergerak dan berolahraga adalah …",
+   "choices": [
+    "badan sehat dan kuat",
+    "badan cepat sakit",
+    "mudah lelah",
+    "malas belajar"
+   ],
+   "answer": 0,
+   "explain": "Bergerak aktif membuat tubuh sehat, kuat, dan bugar.",
+   "id": "k1-pjok-028",
+   "ch": 1
+  },
+  {
+   "level": 3,
+   "bab": "Bab 2 Gerak Berpindah Tempat",
+   "q": "Menirukan kereta api bersama teman, tangan kita …",
+   "img": "🚂",
+   "imgSpeak": "",
+   "choices": [
+    "memegang punggung teman di depan",
+    "memegang bola",
+    "di dalam saku",
+    "menutup telinga"
+   ],
+   "answer": 0,
+   "explain": "Pegang punggung teman di depan dan jangan sampai lepas.",
+   "id": "k1-pjok-029",
+   "ch": 2
+  },
+  {
+   "level": 3,
+   "bab": "Bab 3 Bergerak Menggunakan Benda",
+   "q": "Saat bermain lempar tangkap bersama teman, sikap yang baik adalah …",
+   "choices": [
+    "bergantian & berhati-hati",
+    "melempar ke kepala teman",
+    "merebut bola",
+    "marah jika gagal"
+   ],
+   "answer": 0,
+   "explain": "Bermain bergantian dan hati-hati agar semua aman dan senang.",
+   "id": "k1-pjok-030",
+   "ch": 3
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Gerak menekuk badan ke depan disebut …",
+   "choices": [
+    "membungkuk",
+    "berlari",
+    "melompat",
+    "merangkak"
+   ],
+   "answer": 0,
+   "explain": "Membungkuk = gerak di tempat.",
+   "bab": "Bab 1 Serunya Gerak di Tempat",
+   "fromSource": true,
+   "id": "k1-pjok-031"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Gerakan memutar pinggang ke kanan dan kiri disebut …",
+   "choices": [
+    "memilin",
+    "mengayun",
+    "melompat",
+    "berjalan"
+   ],
+   "answer": 0,
+   "explain": "Memilin = memutar bagian tubuh.",
+   "bab": "Bab 1 Serunya Gerak di Tempat",
+   "fromSource": true,
+   "id": "k1-pjok-032"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Gerak di tempat artinya bergerak tanpa …",
+   "choices": [
+    "berpindah tempat",
+    "bernapas",
+    "berpikir",
+    "tersenyum"
+   ],
+   "answer": 0,
+   "explain": "Kaki tetap di tempat.",
+   "bab": "Bab 1 Serunya Gerak di Tempat",
+   "fromSource": true,
+   "id": "k1-pjok-033"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "type": "input",
+   "q": "Sebelum berolahraga, kita melakukan …",
+   "answer": "pemanasan",
+   "accept": [
+    "peregangan"
+   ],
+   "explain": "Pemanasan menyiapkan otot.",
+   "bab": "Bab 1 Serunya Gerak di Tempat",
+   "fromSource": true,
+   "id": "k1-pjok-034"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "Menggerakkan lengan maju-mundur disebut meng…",
+   "answer": "ayun",
+   "accept": [
+    "mengayun"
+   ],
+   "explain": "Mengayun = maju-mundur.",
+   "bab": "Bab 1 Serunya Gerak di Tempat",
+   "fromSource": true,
+   "id": "k1-pjok-035"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "input",
+   "q": "Peregangan dilakukan sambil menghitung 1 sampai … (tulis angka)",
+   "answer": "8",
+   "accept": [
+    "delapan"
+   ],
+   "explain": "Hitungan 1–8.",
+   "bab": "Bab 1 Serunya Gerak di Tempat",
+   "fromSource": true,
+   "id": "k1-pjok-036"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Sebutkan dua contoh gerak di tempat!",
+   "answer": "Membungkuk, menekuk, memilin (memutar pinggang), mengayun lengan, meliuk.",
+   "keywords": [
+    "membungkuk",
+    "menekuk",
+    "memilin",
+    "mengayun"
+   ],
+   "bab": "Bab 1 Serunya Gerak di Tempat",
+   "fromSource": true,
+   "id": "k1-pjok-037"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Kita pergi ke sekolah dengan …",
+   "choices": [
+    "berjalan",
+    "berguling",
+    "merangkak",
+    "terbang"
+   ],
+   "answer": 0,
+   "explain": "Berjalan = gerak berpindah tempat.",
+   "bab": "Bab 2 Asyiknya Gerak Berpindah Tempat",
+   "fromSource": true,
+   "id": "k1-pjok-038"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Gerak berpindah tempat disebut gerak …",
+   "choices": [
+    "lokomotor",
+    "manipulatif",
+    "di tempat",
+    "diam"
+   ],
+   "answer": 0,
+   "explain": "Lokomotor = berpindah tempat.",
+   "bab": "Bab 2 Asyiknya Gerak Berpindah Tempat",
+   "fromSource": true,
+   "id": "k1-pjok-039"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Saat guling depan, kita memakai …",
+   "choices": [
+    "matras",
+    "meja",
+    "kursi",
+    "sepeda"
+   ],
+   "answer": 0,
+   "explain": "Guling depan dilakukan di atas matras agar aman.",
+   "bab": "Bab 2 Asyiknya Gerak Berpindah Tempat",
+   "fromSource": true,
+   "id": "k1-pjok-040"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "type": "input",
+   "q": "Jika ada lubang di depan, kita me…",
+   "answer": "lompat",
+   "accept": [
+    "melompat",
+    "lompati",
+    "melompatinya"
+   ],
+   "explain": "Melompati lubang.",
+   "bab": "Bab 2 Asyiknya Gerak Berpindah Tempat",
+   "fromSource": true,
+   "id": "k1-pjok-041"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "type": "input",
+   "q": "Berjalan lebih cepat disebut ber…",
+   "answer": "lari",
+   "accept": [
+    "berlari"
+   ],
+   "explain": "Berlari lebih cepat dari berjalan.",
+   "bab": "Bab 2 Asyiknya Gerak Berpindah Tempat",
+   "fromSource": true,
+   "id": "k1-pjok-042"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "input",
+   "q": "Bayi bergerak dengan tangan dan lutut. Gerakan ini disebut me…",
+   "answer": "rangkak",
+   "accept": [
+    "merangkak"
+   ],
+   "explain": "Merangkak.",
+   "bab": "Bab 2 Asyiknya Gerak Berpindah Tempat",
+   "fromSource": true,
+   "id": "k1-pjok-043"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "uraian",
+   "q": "Sebutkan dua contoh gerak berpindah tempat!",
+   "answer": "Berjalan, berlari, melompat, merangkak, berguling.",
+   "keywords": [
+    "berjalan",
+    "berlari",
+    "melompat",
+    "merangkak"
+   ],
+   "bab": "Bab 2 Asyiknya Gerak Berpindah Tempat",
+   "fromSource": true,
+   "id": "k1-pjok-044"
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "Bola ditendang menggunakan …",
+   "choices": [
+    "kaki",
+    "tangan",
+    "kepala",
+    "siku"
+   ],
+   "answer": 0,
+   "explain": "Menendang memakai kaki.",
+   "bab": "Bab 3 Bergerak Menggunakan Benda",
+   "fromSource": true,
+   "id": "k1-pjok-045"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "Memukul balon ke atas menggunakan …",
+   "choices": [
+    "telapak tangan",
+    "kaki",
+    "lutut",
+    "kepala"
+   ],
+   "answer": 0,
+   "explain": "Pukul balon dengan telapak tangan.",
+   "bab": "Bab 3 Bergerak Menggunakan Benda",
+   "fromSource": true,
+   "id": "k1-pjok-046"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "Gerak menggunakan benda disebut gerak …",
+   "choices": [
+    "manipulatif",
+    "lokomotor",
+    "di tempat",
+    "tidur"
+   ],
+   "answer": 0,
+   "explain": "Melempar, menangkap, menendang = manipulatif.",
+   "bab": "Bab 3 Bergerak Menggunakan Benda",
+   "fromSource": true,
+   "id": "k1-pjok-047"
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "type": "input",
+   "q": "Bola ditangkap dengan kedua …",
+   "answer": "tangan",
+   "accept": [],
+   "explain": "Tangkap bola dengan kedua tangan.",
+   "bab": "Bab 3 Bergerak Menggunakan Benda",
+   "fromSource": true,
+   "id": "k1-pjok-048"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "type": "input",
+   "q": "Bola dilempar dengan … tangan atau dua tangan.",
+   "answer": "satu",
+   "accept": [],
+   "explain": "Melempar bisa satu atau dua tangan.",
+   "bab": "Bab 3 Bergerak Menggunakan Benda",
+   "fromSource": true,
+   "id": "k1-pjok-049"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "input",
+   "q": "Bermain sepak bola: bola ditendang ke arah …",
+   "answer": "gawang",
+   "accept": [],
+   "explain": "Bola ditendang ke gawang.",
+   "bab": "Bab 3 Bergerak Menggunakan Benda",
+   "fromSource": true,
+   "id": "k1-pjok-050"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "uraian",
+   "q": "Sebutkan dua gerakan memakai bola!",
+   "answer": "Melempar, menangkap, menendang, memukul, menggiring bola.",
+   "keywords": [
+    "melempar",
+    "menangkap",
+    "menendang"
+   ],
+   "bab": "Bab 3 Bergerak Menggunakan Benda",
+   "fromSource": true,
+   "id": "k1-pjok-051"
+  }
+ ]
+}

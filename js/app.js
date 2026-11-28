@@ -129,7 +129,7 @@
     const u = S.user, z = S.quiz;
     api("live", Object.assign({
       username: u.username, hash: u.hash, status,
-      subject: S.subject ? S.subject.subject : "", level: z ? (LEVELS.find(L => L.n === z.level) || {}).name : "",
+      subject: S.subject ? S.subject.subject : "", level: z ? z.levelName : "",
       index: z ? z.i + 1 : 0, total: z ? z.qs.length : 0, correct: z ? z.answers.filter(a => a && a.ok).length : 0
     }, extra || {}), 8000).catch(() => {});
   }
@@ -142,6 +142,7 @@
     const res = await fetch(`data/kelas${grade}/${key}.json`, { cache: "no-cache" });
     if (!res.ok) throw new Error(`Gagal memuat data/kelas${grade}/${key}.json`);
     const data = await res.json();
+    data.questions = (data.questions || []).filter(q => !q.skip); // materi yang belum diajarkan
     data.key = key; cache[id] = data;
     return data;
   }
@@ -169,23 +170,35 @@
       });
     } catch (e) { /* tanpa suara */ }
   }
-  let idVoice = null;
+  const voices = { id: null, en: null };
   function pickVoice() {
     if (!("speechSynthesis" in window)) return;
     const vs = speechSynthesis.getVoices();
-    idVoice = vs.find(v => /^id/i.test(v.lang)) || vs.find(v => /indones/i.test(v.name)) || null;
+    voices.id = vs.find(v => /^id/i.test(v.lang)) || vs.find(v => /indones/i.test(v.name)) || null;
+    voices.en = vs.find(v => /^en[-_]US/i.test(v.lang)) || vs.find(v => /^en/i.test(v.lang)) || null;
   }
   if ("speechSynthesis" in window) { pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
-  function speak(text, btn) {
+  function cleanSpeech(text, lang) {
+    let t = String(text).replace(/[\u{1F000}-\u{1FAFF}\u{2600}-\u{27BF}\u{FE0F}\u{200D}\u{1B00}-\u{1B7F}]/gu, " "); // emoji & aksara Bali tidak dibaca
+    if (lang === "en") return t.replace(/\.\.\.+|…|_+/g, " blank ");
+    return t.replace(/\.\.\.+|…/g, " titik-titik ").replace(/×/g, " kali ").replace(/(\d)\s*[:÷]\s*(\d)/g, "$1 dibagi $2")
+      .replace(/(\d)\s*[-−]\s*(\d)/g, "$1 kurang $2").replace(/\+/g, " tambah ").replace(/=/g, " sama dengan ").replace(/_+/g, " titik-titik ");
+  }
+  // parts: [{ text, lang: "id" | "en" }] — dibacakan berurutan, tiap bagian dengan suaranya sendiri
+  function speak(parts, btn) {
     if (!("speechSynthesis" in window)) { alert("Perangkat ini belum mendukung suara."); return; }
     speechSynthesis.cancel();
-    const clean = text.replace(/[\u{1F000}-\u{1FAFF}\u{2600}-\u{27BF}\u{FE0F}\u{200D}]/gu, " ")
-      .replace(/\.\.\.+|…/g, " titik-titik ").replace(/×/g, " kali ").replace(/(\d)\s*[:÷]\s*(\d)/g, "$1 dibagi $2")
-      .replace(/(\d)\s*[-−]\s*(\d)/g, "$1 kurang $2").replace(/\+/g, " tambah ").replace(/=/g, " sama dengan ").replace(/_+/g, " titik-titik ");
-    const u = new SpeechSynthesisUtterance(clean);
-    u.lang = "id-ID"; if (idVoice) u.voice = idVoice; u.rate = 0.9;
-    if (btn) { btn.classList.add("on"); u.onend = u.onerror = () => btn.classList.remove("on"); }
-    speechSynthesis.speak(u);
+    if (typeof parts === "string") parts = [{ text: parts, lang: "id" }];
+    parts = parts.filter(p => p.text && String(p.text).trim());
+    if (btn) btn.classList.add("on");
+    parts.forEach((p, i) => {
+      const u = new SpeechSynthesisUtterance(cleanSpeech(p.text, p.lang));
+      u.lang = p.lang === "en" ? "en-US" : "id-ID";
+      const v = voices[p.lang === "en" ? "en" : "id"]; if (v) u.voice = v;
+      u.rate = p.lang === "en" ? 0.85 : 0.9;
+      if (btn && i === parts.length - 1) u.onend = u.onerror = () => btn.classList.remove("on");
+      speechSynthesis.speak(u);
+    });
   }
   function stopSpeak() { if ("speechSynthesis" in window) speechSynthesis.cancel(); }
   function confetti() {
@@ -390,7 +403,30 @@
     stepName();
   }
 
-  // ================================================================ PELAJARAN & LEVEL
+  // ================================================================ PELAJARAN, BAB & LEVEL
+  // Soal yang punya "ch" (nomor bab) → muncul menu per bab + 🐉 Bos Final.
+  const hasChapters = d => !!(d && (d.chGenerators || (d.questions || []).some(q => q.ch)));
+  const chName = (d, ch) => ch === "all" ? "Campur semua bab" : ((d.chapters || [])[ch - 1] || `Bab ${ch}`);
+  const progKey = (d, ch) => ch ? `${d.key}#${ch}` : d.key;           // kunci progres per bab
+  const chList = d => (d.chapters || []).map((_, i) => i + 1);
+  const chapterPassed = (u, d, ch) => ((prog(u, progKey(d, ch), 1) || {}).best || 0) >= CFG.unlockPercent;
+  const bossUnlocked = (u, d) => chList(d).every(ch => chapterPassed(u, d, ch));
+  function subjectSummary(u, d) { // teks kecil di ubin pelajaran & Pojok Orang Tua
+    if (d.type === "drill") {
+      const done = ["add", "sub", "mul", "div"].filter(op => [1, 2, 3].some(l => prog(u, `${d.key}#${op}`, l))).length;
+      return done ? `${done}/4 jenis dicoba` : null;
+    }
+    if (!hasChapters(d)) {
+      const bests = [1, 2, 3].map(l => prog(u, d.key, l)).filter(Boolean);
+      if (!bests.length) return null;
+      return `Level ${[1, 2, 3].filter(l => isUnlocked(u, d.key, l)).length} · terbaik ${Math.max(...bests.map(b => b.best))}`;
+    }
+    const passed = chList(d).filter(ch => chapterPassed(u, d, ch)).length;
+    const boss = prog(u, progKey(d, "boss"), 0);
+    if (!passed && !boss) return null;
+    return boss ? `🐉 Bos Final ${boss.best}` : `Bab lulus ${passed}/${chList(d).length}`;
+  }
+
   async function subjects() {
     stopTimer(); stopSpeak();
     const u = S.user, list = CFG.subjects[u.grade] || [];
@@ -403,35 +439,64 @@
     if (S.user !== u) return;
     document.getElementById("tiles").innerHTML = datas.map((d, i) => {
       if (d.error) return `<div class="tile" style="background:#C9CDD8"><div class="ic">⚠️</div><div class="t">${esc(d.key)}</div><div class="s">Data belum ada</div></div>`;
-      const bests = [1, 2, 3].map(l => prog(u, d.key, l)).filter(Boolean);
-      const top = bests.length ? Math.max(...bests.map(b => b.best)) : null;
-      const lv = [1, 2, 3].filter(l => isUnlocked(u, d.key, l)).length;
+      const sum = subjectSummary(u, d);
       return `<button class="tile press" data-s="${esc(d.key)}" style="background:${TILE_COLORS[i % TILE_COLORS.length]}">
         <div class="ic">${esc(d.icon)}</div><div class="t">${esc(d.subject)}</div>
-        <div class="s">${top == null ? "Belum dicoba" : `Level ${lv} · terbaik ${top}`}</div></button>`;
+        <div class="s">${sum ? esc(sum) : "Belum dicoba"}</div></button>`;
     }).join("");
-    on("[data-s]", e => { S.subject = cache[u.grade + "/" + e.currentTarget.dataset.s]; levels(); });
+    on("[data-s]", e => {
+      S.subject = cache[u.grade + "/" + e.currentTarget.dataset.s];
+      if (S.subject.type === "drill") return DRILL.open();
+      if (hasChapters(S.subject)) chapters(); else { S.ch = null; levels(); }
+    });
+  }
+
+  function chapters() {
+    stopTimer(); stopSpeak();
+    const u = S.user, d = S.subject;
+    const dots = ch => [1, 2, 3].map(l => { const p = prog(u, progKey(d, ch), l); return p && p.best >= CFG.unlockPercent ? "⭐" : "☆"; }).join("");
+    const cards = chList(d).map(ch => {
+      const best = Math.max(0, ...[1, 2, 3].map(l => (prog(u, progKey(d, ch), l) || {}).best || 0));
+      return `<button class="chap press" data-ch="${ch}">
+        <div class="cn">${ch}</div>
+        <div class="ct"><b>${esc(chName(d, ch))}</b><span>${dots(ch)} ${best ? `· terbaik ${best}` : ""}</span></div></button>`;
+    }).join("");
+    const passed = chList(d).filter(ch => chapterPassed(u, d, ch)).length, total = chList(d).length;
+    const open = bossUnlocked(u, d), boss = prog(u, progKey(d, "boss"), 0);
+    view(`${topbar(`${esc(d.icon)} ${esc(d.subject)}`)}
+      <h1 class="title">Pilih bab</h1>
+      <div class="chaps">${cards}</div>
+      <button class="chap press mix" data-ch="all"><div class="cn">🎲</div><div class="ct"><b>Campur semua bab</b><span>Latihan acak dari semua bab</span></div></button>
+      <button class="boss press ${open ? "" : "locked"}" id="boss">
+        <div class="bi">${open ? "🐉" : "🔒"}</div>
+        <div><b>Bos Final · Ulangan Sumatif</b>
+        <span>${open ? `Pilihan ganda + isian + uraian${boss ? ` · 🏆 ${boss.best}` : ""}` : `Lulus level Mudah (nilai ${CFG.unlockPercent}+) di semua bab · ${passed}/${total}`}</span></div></button>
+      <div class="chapters">${d.source ? `<b>Sumber:</b> ${esc(d.source)}` : ""}</div>`);
+    on("#back", subjects);
+    on("[data-ch]", e => { const c = e.currentTarget.dataset.ch; S.ch = c === "all" ? "all" : +c; levels(); });
+    on("#boss", e => open ? bossIntro() : shake(e.currentTarget));
   }
 
   function levels() {
     stopTimer(); stopSpeak();
-    const u = S.user, d = S.subject;
+    const u = S.user, d = S.subject, key = progKey(d, S.ch);
     const cards = LEVELS.map(L => {
-      const open = isUnlocked(u, d.key, L.n), p = prog(u, d.key, L.n);
+      const open = isUnlocked(u, key, L.n), p = prog(u, key, L.n);
       const lockMsg = open ? "" : L.n === 0 ? `Buka dengan nilai ${CFG.unlockPercent}+ di Mudah` : `Dapat nilai ${CFG.unlockPercent}+ di ${LEVELS[L.n - 2].name}`;
       return `<button class="lvl press ${open ? "" : "locked"}" data-l="${L.n}" style="background:${L.color}">
         <div class="stars">${open ? L.stars : "🔒"}</div>
         <div><div class="nm">${L.name}</div><div class="ds">${open ? L.desc : lockMsg}</div></div>
         ${p ? `<div class="best">🏆 ${p.best}</div>` : ""}</button>`;
     }).join("");
+    const chap = S.ch ? `<p class="note" style="margin:-8px 0 12px;font-size:17px"><b>${S.ch === "all" ? "🎲" : "Bab " + S.ch}</b> · ${esc(chName(d, S.ch))}</p>` : "";
     view(`${topbar(`${esc(d.icon)} ${esc(d.subject)}`)}
-      <h1 class="title">Pilih level</h1>
+      <h1 class="title">Pilih level</h1>${chap}
       <div class="levels">${cards}</div>
-      <div class="chapters"><b>Materi:</b> ${esc((d.chapters || []).join(" · "))}${d.source ? `<br><b>Sumber:</b> ${esc(d.source)}` : ""}</div>`);
-    on("#back", subjects);
+      ${S.ch ? "" : `<div class="chapters"><b>Materi:</b> ${esc((d.chapters || []).join(" · "))}${d.source ? `<br><b>Sumber:</b> ${esc(d.source)}` : ""}</div>`}`);
+    on("#back", () => S.ch ? chapters() : subjects());
     on("[data-l]", e => {
       const l = +e.currentTarget.dataset.l;
-      if (!isUnlocked(u, d.key, l)) return shake(e.currentTarget);
+      if (!isUnlocked(u, key, l)) return shake(e.currentTarget);
       startQuiz(l);
     });
   }
@@ -443,11 +508,28 @@
     q.id = q.id || `gen-${fnName}`; q.level = level; q.generated = true;
     return q;
   }
-  function pickForLevel(d, level, n) {
-    const pool = shuffle((d.questions || []).filter(q => q.level === level));
-    const gens = ((d.generators || {})[level]) || [];
+  const isMC = q => !q.type || q.type === "mc";
+  function genList(d, ch, level) {
+    if (d.chGenerators) {
+      const chs = ch && ch !== "all" ? [ch] : Object.keys(d.chGenerators);
+      return [].concat(...chs.map(c => ((d.chGenerators[c] || {})[level]) || []));
+    }
+    return ((d.generators || {})[level]) || [];
+  }
+  function inChapter(q, ch) { return !ch || ch === "all" || q.ch === ch; }
+  function pickForLevel(d, level, n, ch) {
+    // latihan biasa: pilihan ganda + isian (uraian khusus Bos Final & level Sulit)
+    const pool = shuffle((d.questions || []).filter(q => q.level === level && inChapter(q, ch) && (q.type !== "uraian" || level === 3)));
+    const gens = genList(d, ch, level);
     const genCount = gens.length ? Math.min(n, Math.max(Math.round(n * (d.generatedShare ?? 0.5)), n - pool.length)) : 0;
-    const out = pool.slice(0, n - genCount);
+    // batasi uraian maksimal 2 per kuis agar tidak terlalu lama
+    const out = []; let essays = 0;
+    // soal bab ini terlalu sedikit di level ini → tambah dari level terdekat di bab yang sama
+    if (ch && ch !== "all" && pool.length < n - genCount) {
+      const near = [level === 1 ? 2 : level === 3 ? 2 : 1, level === 2 ? 3 : level === 1 ? 3 : 1];
+      near.forEach(l => pool.push(...shuffle((d.questions || []).filter(q => q.level === l && inChapter(q, ch) && q.type !== "uraian"))));
+    }
+    for (const q of pool) { if (out.length >= n - genCount) break; if (q.type === "uraian") { if (essays >= 2) continue; essays++; } out.push(q); }
     let guard = 0;
     while (out.length < n && guard++ < 200) {
       const q = gens.length ? makeGenerated(gens[Math.floor(Math.random() * gens.length)], level) : null;
@@ -456,13 +538,13 @@
     }
     return shuffle(out);
   }
-  function buildQuiz(d, level, n) {
-    if (level !== 0) return pickForLevel(d, level, n);
+  function buildQuiz(d, level, n, ch) {
+    if (level !== 0) return pickForLevel(d, level, n, ch);
     const a = Math.round(n * 0.3), b = Math.round(n * 0.4), c = n - a - b;
-    return [...pickForLevel(d, 1, a), ...pickForLevel(d, 2, b), ...pickForLevel(d, 3, c)];
+    return [...pickForLevel(d, 1, a, ch), ...pickForLevel(d, 2, b, ch), ...pickForLevel(d, 3, c, ch)];
   }
   function prepareChoices(q) {
-    if (q.type === "input") return q;
+    if (!isMC(q)) return q;
     const idx = q.choices.map((c, i) => i);
     // soal otomatis sudah mengatur urutan pilihannya sendiri (angka diurutkan agar mudah dibaca)
     const order = q.noShuffle || q.generated ? idx : shuffle(idx);
@@ -472,13 +554,85 @@
   function startQuiz(level) {
     const u = S.user, d = S.subject;
     const n = (CFG.questionsPerQuiz || {})[u.grade] || 10;
-    const qs = buildQuiz(d, level, n).map(prepareChoices);
+    const qs = buildQuiz(d, level, n, S.ch).map(prepareChoices);
     if (!qs.length) { alert("Soal untuk level ini belum tersedia."); return; }
-    S.quiz = { level, qs, i: 0, answers: [], combo: 0, bestCombo: 0, start: Date.now(), timeLeft: ((CFG.timerMinutes || {})[u.grade] || 0) * 60 };
+    const L = LEVELS.find(x => x.n === level);
+    S.quiz = { level, levelName: S.ch ? `${S.ch === "all" ? "Campur" : "Bab " + S.ch} · ${L.name}` : L.name, key: progKey(d, S.ch),
+      qs, i: 0, answers: [], combo: 0, bestCombo: 0, start: Date.now(), timeLeft: ((CFG.timerMinutes || {})[u.grade] || 0) * 60 };
     if (S.quiz.timeLeft) startTimer();
     sendLive("bermain");
     question();
   }
+
+  // ---------------------------------------------------------------- 🐉 Bos Final (ulangan sumatif)
+  // Susunan Bos Final per kelas (kelas 1–2 lebih ringan)
+  const BOSS_LAYOUT = {
+    small: { A: { n: 10, pts: 1, name: "Pilihan Ganda" }, B: { n: 5, pts: 2, name: "Isian Singkat" }, C: { n: 2, pts: 3, name: "Uraian" } },
+    big:   { A: { n: 12, pts: 1, name: "Pilihan Ganda" }, B: { n: 5, pts: 2, name: "Isian Singkat" }, C: { n: 3, pts: 3, name: "Uraian" } }
+  };
+  const bossCfg = () => BOSS_LAYOUT[S.user && S.user.grade <= 2 ? "small" : "big"];
+  const secName = s => ((S.subject && S.subject.bossSectionNames) || {})[s] || bossCfg()[s].name;
+  function pickSpread(list, n, d) { // ambil merata dari tiap bab
+    const by = {}; shuffle(list).forEach(q => { (by[q.ch || 0] = by[q.ch || 0] || []).push(q); });
+    const keys = Object.keys(by), out = [];
+    while (out.length < n && keys.some(k => by[k].length)) keys.forEach(k => { if (out.length < n && by[k].length) out.push(by[k].shift()); });
+    return out;
+  }
+  function genFor(d, kind, count) { // soal otomatis untuk Bos Final (Matematika)
+    const names = (d.bossGenerators || {})[kind] || [], out = [];
+    let guard = 0;
+    while (out.length < count && names.length && guard++ < 300) {
+      let q = makeGenerated(names[Math.floor(Math.random() * names.length)], kind === "A" ? 2 + (guard % 2) : 3);
+      if (!q) break;
+      if (kind !== "A" && q.type !== "input") { // ubah pilihan ganda angka → isian
+        const ans = q.choices[q.answer];
+        if (!/^[\d.]+$/.test(ans)) continue;
+        q = Object.assign({}, q, { type: "input", answer: ans.replace(/\./g, ""), choices: undefined });
+      }
+      if (kind === "A" && q.type === "input") continue;
+      if (!out.some(o => o.q === q.q && o.img === q.img)) out.push(q);
+    }
+    return out;
+  }
+  function buildBoss(d) {
+    const qs = d.questions || [];
+    const mcPool = qs.filter(q => isMC(q) && q.level >= 2);
+    let A = pickSpread(mcPool, bossCfg().A.n, d);
+    if (A.length < bossCfg().A.n) A = A.concat(pickSpread(qs.filter(q => isMC(q) && q.level === 1), bossCfg().A.n - A.length, d));
+    A = A.concat(genFor(d, "A", bossCfg().A.n - A.length));
+    let B = pickSpread(qs.filter(q => q.type === "input"), bossCfg().B.n, d);
+    B = B.concat(genFor(d, "B", bossCfg().B.n - B.length));
+    let C = pickSpread(qs.filter(q => q.type === "uraian"), bossCfg().C.n, d);
+    C = C.concat(genFor(d, "C", bossCfg().C.n - C.length));
+    const tag = (arr, s) => arr.map(q => Object.assign(prepareChoices(q), { section: s, points: bossCfg()[s].pts }));
+    return [...tag(shuffle(A), "A"), ...tag(B, "B"), ...tag(C, "C")];
+  }
+  function bossIntro() {
+    const u = S.user, d = S.subject, mins = (CFG.bossMinutes || {})[u.grade] || 0;
+    const qs = buildBoss(d);
+    const cnt = s => qs.filter(q => q.section === s).length;
+    view(`${topbar(`${esc(d.icon)} ${esc(d.subject)}`)}
+      <div class="result bossintro">
+        <div style="font-size:84px">🐉</div>
+        <div class="big">Bos Final!</div>
+        <div class="score">Ulangan sumatif ${esc(d.subject)} · semua bab</div>
+        <div class="secs">
+          <div><b>A</b> ${secName("A")}<span>${cnt("A")} soal × ${bossCfg().A.pts} poin</span></div>
+          <div><b>B</b> ${secName("B")}<span>${cnt("B")} soal × ${bossCfg().B.pts} poin</span></div>
+          <div><b>C</b> ${secName("C")}<span>${cnt("C")} soal × ${bossCfg().C.pts} poin</span></div>
+        </div>
+        <p class="note" style="font-size:16px">${mins ? `⏱ Waktu ${mins} menit. ` : ""}Tidak ada penjelasan sampai selesai — seperti ulangan sungguhan. Uraian dinilai sendiri dengan kunci jawaban di akhir.</p>
+        <div class="spacer"></div>
+        <button class="btn green press" id="start">⚔️ Mulai melawan Bos!</button></div>`);
+    on("#back", chapters);
+    on("#start", () => {
+      S.quiz = { boss: true, level: 0, levelName: "🐉 Bos Final", key: progKey(d, "boss"), qs, i: 0, answers: [], combo: 0, bestCombo: 0, start: Date.now(), timeLeft: mins * 60 };
+      if (S.quiz.timeLeft) startTimer();
+      sendLive("bermain");
+      question();
+    });
+  }
+
   function startTimer() {
     stopTimer();
     S.timer = setInterval(() => {
@@ -486,7 +640,7 @@
       z.timeLeft--;
       const el = document.getElementById("timer");
       if (el) el.textContent = "⏱ " + fmtTime(z.timeLeft);
-      if (z.timeLeft <= 0) { stopTimer(); finish(true); }
+      if (z.timeLeft <= 0) { stopTimer(); z.boss ? bossGrade(true) : finish(true); }
     }, 1000);
   }
   function stopTimer() { if (S.timer) clearInterval(S.timer); S.timer = null; }
@@ -497,95 +651,179 @@
     const kind = q.imgType || (/[a-zA-Z]{3,}/.test(q.img) ? (q.img.length > 60 ? "passage" : "text") : "");
     return `<div class="qimg ${kind}">${esc(q.img)}</div>`;
   }
+  const isNumAns = q => /^-?[\d.,]+$/.test(String(q.answer));
 
   function question() {
     stopSpeak();
     const u = S.user, z = S.quiz, q = z.qs[z.i], g1 = u.grade <= 2;
     let opts;
     if (q.type === "input") {
-      opts = `<form class="inputrow" id="inform"><input id="inp" inputmode="numeric" autocomplete="off" placeholder="Jawaban…" aria-label="Jawaban"><button type="submit">OK</button></form>`;
+      opts = `<form class="inputrow" id="inform"><input id="inp" ${isNumAns(q) ? 'inputmode="numeric"' : 'autocapitalize="off"'} autocomplete="off" spellcheck="false" placeholder="Ketik jawaban…" aria-label="Jawaban"><button type="submit">OK</button></form>`;
+    } else if (q.type === "uraian") {
+      opts = `<form id="essay">${g1 ? `<p class="note" style="font-size:16px">💬 Sebutkan jawabanmu dulu ke Ayah/Ibu, lalu ketik singkat di sini.</p>` : ""}<textarea id="ess" class="essay" rows="${g1 ? 3 : 5}" placeholder="${g1 ? "Ketik jawabanmu…" : "Tulis jawabanmu dengan kalimat lengkap…"}" aria-label="Jawaban uraian"></textarea>
+        <button class="btn green press" type="submit" style="margin-top:10px">✍️ Selesai menulis</button></form>`;
     } else if (g1) {
       const short = q.choices.every(c => String(c).length <= 3);
       opts = `<div class="opts">${q.choices.map((c, i) => `<button class="opt press o${i} ${short ? "short" : ""}" data-i="${i}"><span class="l">${LETTERS[i]}</span>${esc(c)}</button>`).join("")}</div>`;
     } else {
-      opts = `<div class="opts3">${q.choices.map((c, i) => `<button class="opt3" data-i="${i}"><span class="l">${LETTERS[i]}</span><span>${esc(c)}</span></button>`).join("")}</div>`;
+      opts = `<div class="opts3 ${q.choiceAksara ? "aksara" : ""}">${q.choices.map((c, i) => `<button class="opt3" data-i="${i}"><span class="l">${LETTERS[i]}</span><span>${esc(c)}</span></button>`).join("")}</div>`;
     }
+    const tagType = q.type === "input" ? "✏️ Isian" : q.type === "uraian" ? "📝 Uraian" : "";
+    const pill = z.boss ? `🐉 Bagian ${q.section} · ${z.i + 1}/${z.qs.length}` : `${esc(S.subject.icon)} Soal ${z.i + 1} dari ${z.qs.length} <small>${q.level ? "⭐".repeat(q.level) : ""}</small>`;
     view(`
       <div class="top"><button class="iconbtn" id="quit" aria-label="Keluar">✕</button>
-        <div class="pill">${esc(S.subject.icon)} Soal ${z.i + 1} dari ${z.qs.length} <small>${q.level ? "⭐".repeat(q.level) : ""}</small></div>
+        <div class="pill">${pill}</div>
         ${z.timeLeft ? `<div class="pill" id="timer">⏱ ${fmtTime(z.timeLeft)}</div>` : ""}</div>
-      <div class="bar"><i style="width:${(z.i / z.qs.length) * 100}%"></i></div>
+      <div class="bar ${z.boss ? "bossbar" : ""}"><i style="width:${(z.i / z.qs.length) * 100}%"></i></div>
+      ${z.boss && (z.i === 0 || z.qs[z.i - 1].section !== q.section) ? `<div class="sechead">Bagian ${q.section} · ${secName(q.section)} <small>(${bossCfg()[q.section].pts} poin/soal)</small></div>` : ""}
       <div class="qcard"><button class="speak" id="speak" aria-label="Bacakan soal">🔊</button>
+        ${tagType ? `<div class="qtype">${tagType}</div>` : ""}
         <div class="q">${esc(q.q)}</div>${imgBlock(q)}</div>
       ${opts}
-      <div class="combo" id="combo">${z.combo >= 2 ? `🔥 ${z.combo} benar berturut-turut!` : ""}</div>
+      <div class="combo" id="combo">${!z.boss && z.combo >= 2 ? `🔥 ${z.combo} benar berturut-turut!` : ""}</div>
       <div id="after"></div>`, g1 ? "g1" : "g3");
     requestAnimationFrame(() => { const b = app.querySelector(".bar i"); if (b) b.style.width = ((z.i + 1) / z.qs.length) * 100 + "%"; });
 
-    on("#quit", () => { if (confirm("Keluar dari kuis? Nilai tidak disimpan.")) { stopTimer(); sendLive("keluar"); levels(); } });
+    on("#quit", () => { if (confirm("Keluar dari kuis? Nilai tidak disimpan.")) { stopTimer(); sendLive("keluar"); z.boss ? chapters() : levels(); } });
     on("#speak", e => {
-      const parts = [q.q, q.imgSpeak != null ? q.imgSpeak : (q.img && /[a-zA-Z]/.test(q.img) ? q.img : "")];
-      if (q.type !== "input") parts.push(q.choices.map((c, i) => `${LETTERS[i]}. ${c}`).join(". "));
-      speak(parts.filter(Boolean).join(". "), e.currentTarget);
+      // Pelajaran berbahasa asing (mis. "lang": "en" di file JSON): pilihan & gambar dibaca dengan suara bahasa itu.
+      // Per soal bisa diatur: "qLang" (bahasa pertanyaan), "imgLang", "choiceLang".
+      const L = S.subject.lang || "id";
+      const parts = [{ text: q.q, lang: q.qLang || "id" },
+        { text: q.imgSpeak != null ? q.imgSpeak : (q.img && /[a-zA-Z]/.test(q.img) ? q.img : ""), lang: q.imgLang || L }];
+      if (isMC(q)) q.choices.forEach((c, i) => parts.push({ text: `${LETTERS[i]}.`, lang: "id" }, { text: q.choiceLang === "none" ? "" : c, lang: q.choiceLang || L }));
+      speak(parts, e.currentTarget);
     });
     on("[data-i]", e => answer(+e.currentTarget.dataset.i));
     const f = document.getElementById("inform");
     if (f) { f.addEventListener("submit", ev => { ev.preventDefault(); const v = document.getElementById("inp").value.trim(); if (v) answer(v); }); setTimeout(() => document.getElementById("inp").focus(), 50); }
+    const ef = document.getElementById("essay");
+    if (ef) ef.addEventListener("submit", ev => {
+      ev.preventDefault();
+      const v = document.getElementById("ess").value.trim();
+      if (v.length < 3) return shake(document.getElementById("ess"));
+      answer(v);
+    });
   }
 
-  const norm = s => String(s).toLowerCase().replace(/\s+/g, "").replace(/\./g, "").replace(/,/g, ".");
+  // isian: abaikan huruf besar, tanda baca, spasi berlebih, titik ribuan
+  const norm = s => String(s).toLowerCase().normalize("NFKD").replace(/[̀-ͯ]/g, "")
+    .replace(/(\d)\.(?=\d{3}\b)/g, "$1").replace(/,/g, ".").replace(/[^a-z0-9.\s-]/g, " ").replace(/\s+/g, " ").trim().replace(/\.$/, "");
+  const kwFound = (text, kw) => norm(text).includes(norm(kw));
+
   function answer(choice) {
     const z = S.quiz, q = z.qs[z.i];
     if (z.answers[z.i]) return;
     stopSpeak();
+    if (q.type === "uraian") return essayCheck(choice);
     let ok, given, correctText;
     if (q.type === "input") {
       ok = [q.answer].concat(q.accept || []).map(norm).includes(norm(choice)); given = choice; correctText = q.answer;
-      const inp = document.getElementById("inp"); inp.classList.add(ok ? "ok" : "bad"); inp.disabled = true;
+      const inp = document.getElementById("inp"); inp.disabled = true;
       app.querySelector(".inputrow button").disabled = true;
+      if (!z.boss) inp.classList.add(ok ? "ok" : "bad");
     } else {
       ok = choice === q.answer; given = q.choices[choice]; correctText = q.choices[q.answer];
       app.querySelectorAll("[data-i]").forEach(b => {
         const i = +b.dataset.i; b.disabled = true;
+        if (z.boss) { b.classList.add(i === choice ? "picked" : "dim"); return; }
         if (i === q.answer) { b.classList.add("ok", "pop"); if (b.classList.contains("opt3")) b.insertAdjacentHTML("beforeend", `<span class="tag" style="color:var(--ok)">✓ Jawaban benar</span>`); }
         else if (i === choice) { b.classList.add("bad", "shake"); if (b.classList.contains("opt3")) b.insertAdjacentHTML("beforeend", `<span class="tag" style="color:var(--bad)">✗ Pilihanmu</span>`); }
         else b.classList.add("dim");
       });
     }
-    z.answers[z.i] = { ok, given, correct: correctText, q };
+    z.answers[z.i] = { ok, score: ok ? 1 : 0, given, correct: correctText, q };
+    sendLive("bermain");
+    if (z.boss) return setTimeout(nextQ, 350); // Bos Final: tanpa umpan balik, langsung soal berikutnya
     z.combo = ok ? z.combo + 1 : 0; z.bestCombo = Math.max(z.bestCombo, z.combo);
     beep(ok);
-    sendLive("bermain");
     const praise = ["Benar! Hebat! 🎉", "Betul sekali! 🌟", "Pintar! 👏", "Mantap! 💯", "Keren! 🚀"];
     const oops = ["Hampir! Coba lihat lagi ya 💪", "Belum tepat, tidak apa-apa! 🌱", "Ayo, kita pelajari bersama 📚"];
     const title = ok ? praise[Math.floor(Math.random() * praise.length)] : oops[Math.floor(Math.random() * oops.length)];
     const body = (!ok && q.type === "input" ? `Jawaban yang benar: ${correctText}\n` : "") + (q.explain || (ok ? "" : `Jawaban yang benar: ${correctText}`));
-    const last = z.i === z.qs.length - 1;
     document.getElementById("combo").textContent = z.combo >= 2 ? `🔥 ${z.combo} benar berturut-turut!` : "";
-    document.getElementById("after").innerHTML = `
-      <div class="fb ${ok ? "good" : ""}"><h4>${title}</h4>${body ? `<p>${esc(body)}</p>` : ""}</div>
-      <button class="next" id="next">${last ? "Lihat hasil 🏁" : "Lanjut →"}</button>`;
-    on("#next", () => { if (last) finish(false); else { z.i++; question(); } });
+    showNext(`<div class="fb ${ok ? "good" : ""}"><h4>${title}</h4>${body ? `<p>${esc(body)}</p>` : ""}</div>`);
     if (ok && z.combo > 0 && z.combo % 5 === 0) confetti();
+  }
+  function showNext(html) {
+    const z = S.quiz, last = z.i === z.qs.length - 1;
+    document.getElementById("after").innerHTML = `${html}<button class="next" id="next">${last ? "Lihat hasil 🏁" : "Lanjut →"}</button>`;
+    on("#next", nextQ);
     document.getElementById("next").scrollIntoView({ behavior: "smooth", block: "end" });
+  }
+  function nextQ() {
+    const z = S.quiz;
+    if (z.i < z.qs.length - 1) { z.i++; return question(); }
+    z.boss ? bossGrade(false) : finish(false);
+  }
+
+  // uraian: tampilkan kunci + kata penting, lalu anak menilai sendiri
+  function essayBox(q, text) {
+    const kws = q.keywords || [];
+    return `<div class="fb essaykey"><h4>🔑 Kunci jawaban</h4><p>${esc(q.answer)}</p>
+      ${kws.length ? `<div class="kws">${kws.map(k => `<span class="${kwFound(text, k) ? "hit" : ""}">${kwFound(text, k) ? "✓ " : ""}${esc(k)}</span>`).join("")}</div>
+      <p class="note" style="margin-top:6px">Kata penting yang hijau sudah ada di jawabanmu.</p>` : ""}</div>
+      <p class="note" style="font-size:17px;font-weight:700;color:var(--ink)">Bandingkan jawabanmu. Bagaimana nilainya?</p>
+      <div class="selfgrade">
+        <button class="press g1" data-sg="1">✅ Tepat</button>
+        <button class="press g2" data-sg="0.5">🟡 Kurang lengkap</button>
+        <button class="press g3" data-sg="0">❌ Belum</button></div>`;
+  }
+  function essayCheck(text) {
+    const z = S.quiz, q = z.qs[z.i];
+    document.getElementById("ess").disabled = true;
+    app.querySelector("#essay button").remove();
+    z.answers[z.i] = { pending: true, given: text, q };
+    if (z.boss) { z.answers[z.i] = { ok: false, score: null, given: text, q }; sendLive("bermain"); return nextQ(); } // dinilai di akhir
+    document.getElementById("after").innerHTML = essayBox(q, text);
+    on("[data-sg]", e => {
+      const sc = +e.currentTarget.dataset.sg;
+      z.answers[z.i] = { ok: sc === 1, score: sc, given: text, correct: q.answer, q };
+      sendLive("bermain"); beep(sc > 0);
+      showNext("");
+    });
+    document.getElementById("after").scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+
+  // Bos Final: setelah semua dijawab → nilai uraian satu per satu, lalu hasil
+  function bossGrade(timeUp) {
+    stopTimer();
+    const z = S.quiz;
+    z.timeUp = z.timeUp || timeUp;
+    const idx = z.qs.findIndex((q, i) => q.type === "uraian" && z.answers[i] && z.answers[i].score == null);
+    if (idx < 0) return finish(z.timeUp);
+    const q = z.qs[idx], a = z.answers[idx];
+    view(`${topbar("🐉 Menilai uraian")}
+      <h1 class="title">Nilai jawaban uraianmu</h1>
+      <div class="qcard"><div class="qtype">📝 Uraian · ${bossCfg().C.pts} poin</div><div class="q" style="padding-right:0">${esc(q.q)}</div>${imgBlock(q)}</div>
+      <div class="rv"><b>Jawabanmu:</b><div class="re" style="font-size:17px;color:var(--ink)">${esc(a.given)}</div></div>
+      ${essayBox(q, a.given)}`);
+    on("#back", () => {});
+    on("[data-sg]", e => { const sc = +e.currentTarget.dataset.sg; z.answers[idx] = Object.assign(a, { ok: sc === 1, score: sc, correct: q.answer }); bossGrade(z.timeUp); });
   }
 
   function finish(timeUp) {
     stopTimer(); stopSpeak();
     const u = S.user, d = S.subject, z = S.quiz;
+    const pts = q => q.points || 1;
+    const totalPts = z.qs.reduce((s, q) => s + pts(q), 0);
+    const earned = z.qs.reduce((s, q, i) => s + pts(q) * ((z.answers[i] && z.answers[i].score) || 0), 0);
     const total = z.qs.length, right = z.answers.filter(a => a && a.ok).length;
-    const pct = Math.round((right / total) * 100);
-    const wasLocked = [2, 3, 0].filter(l => !isUnlocked(u, d.key, l));
-    saveProg(u, d.key, z.level, pct);
-    const nowOpen = wasLocked.filter(l => isUnlocked(u, d.key, l));
+    const pct = Math.round((earned / totalPts) * 100);
+    const lockKeys = z.boss ? [] : [2, 3, 0];
+    const wasLocked = lockKeys.filter(l => !isUnlocked(u, z.key, l));
+    const bossWasLocked = S.ch && S.ch !== "all" ? !bossUnlocked(u, d) : false;
+    saveProg(u, z.key, z.level, pct);
+    const nowOpen = wasLocked.filter(l => isUnlocked(u, z.key, l)).map(l => LEVELS.find(L => L.n === l).name);
+    if (bossWasLocked && bossUnlocked(u, d)) nowOpen.push("🐉 Bos Final");
     const st = starsFor(pct);
     const wrong = z.qs.map((q, i) => ({ q, a: z.answers[i] })).filter(x => !x.a || !x.a.ok);
 
     const record = {
       timestamp: new Date().toISOString(), username: u.username, name: u.name, grade: u.grade,
-      subject: d.subject, subjectKey: d.key, level: LEVELS.find(L => L.n === z.level).name,
+      subject: d.subject, subjectKey: d.key, level: z.levelName,
       score: right, total, percent: pct, durationSec: Math.round((Date.now() - z.start) / 1000), bestCombo: z.bestCombo,
-      wrong: wrong.map(x => ({ id: x.q.id, bab: x.q.bab || "", q: x.q.q.slice(0, 120) }))
+      wrong: wrong.map(x => ({ id: x.q.id, bab: x.q.bab || (x.q.ch ? chName(d, x.q.ch) : ""), q: x.q.q.slice(0, 120) }))
     };
     const hist = store.get("history", []); hist.push(record); store.set("history", hist.slice(-500));
     if (ONLINE) {
@@ -594,35 +832,46 @@
       sendLive("selesai", { correct: right, index: total });
     }
 
-    const msg = pct >= 90 ? `Luar biasa, ${u.name}!` : pct >= 70 ? `Hebat, ${u.name}!` : pct >= 40 ? `Bagus, terus berlatih ya!` : `Semangat! Coba lagi yuk!`;
+    const secRows = z.boss ? ["A", "B", "C"].map(s => {
+      const idx = z.qs.map((q, i) => i).filter(i => z.qs[i].section === s);
+      if (!idx.length) return "";
+      const e = idx.reduce((t, i) => t + pts(z.qs[i]) * ((z.answers[i] && z.answers[i].score) || 0), 0), t = idx.reduce((t2, i) => t2 + pts(z.qs[i]), 0);
+      return `<div><b>${s}</b> ${secName(s)}<span>${+e.toFixed(1)} / ${t} poin</span></div>`;
+    }).join("") : "";
+    const msg = z.boss ? (pct >= 80 ? `Bos dikalahkan! 🏆` : pct >= 60 ? `Hampir menang, ${u.name}!` : `Bos masih kuat. Latihan lagi, ya!`)
+      : pct >= 90 ? `Luar biasa, ${u.name}!` : pct >= 70 ? `Hebat, ${u.name}!` : pct >= 40 ? `Bagus, terus berlatih ya!` : `Semangat! Coba lagi yuk!`;
     view(`<div class="result">
       ${timeUp ? `<div class="pill" style="align-self:center">⏰ Waktu habis!</div>` : ""}
+      ${z.boss ? `<div style="font-size:70px">${pct >= 80 ? "🏆" : "🐉"}</div>` : ""}
       <div class="bigstars">${[1, 2, 3].map(i => `<span class="${i <= st ? "" : "off"}">⭐</span>`).join("")}</div>
       <div class="big">${esc(msg)}</div>
-      <div class="score"><b>${right}</b> dari ${total} soal benar · nilai ${pct}</div>
+      <div class="score">${z.boss ? `Nilai ulangan` : `<b>${right}</b> dari ${total} soal benar ·`} nilai <b>${pct}</b></div>
+      ${secRows ? `<div class="secs">${secRows}</div>` : ""}
       ${z.bestCombo >= 3 ? `<div class="score">🔥 Rekor beruntun: ${z.bestCombo}</div>` : ""}
-      ${nowOpen.length ? `<div class="unlock">🔓 Level baru terbuka: ${nowOpen.map(l => LEVELS.find(L => L.n === l).name).join(", ")}!</div>` : ""}
+      ${nowOpen.length ? `<div class="unlock">🔓 Terbuka: ${esc(nowOpen.join(", "))}!</div>` : ""}
       <div class="spacer"></div>
-      ${wrong.length ? `<button class="btn white press" id="review">🔍 Lihat yang salah (${wrong.length})</button>` : ""}
-      <button class="btn green press" id="again">🔁 Main lagi (soal diacak)</button>
-      <button class="btn blue press" id="other">📚 Pilih level / pelajaran lain</button>
+      ${wrong.length ? `<button class="btn white press" id="review">🔍 ${z.boss ? "Pembahasan" : "Lihat yang salah"} (${wrong.length})</button>` : ""}
+      <button class="btn green press" id="again">🔁 ${z.boss ? "Lawan Bos lagi" : "Main lagi (soal diacak)"}</button>
+      <button class="btn blue press" id="other">📚 ${S.ch || z.boss ? "Pilih bab / level lain" : "Pilih level / pelajaran lain"}</button>
     </div>`);
     if (st >= 2) confetti();
     S.lastWrong = wrong;
     on("#review", review);
-    on("#again", () => startQuiz(z.level));
-    on("#other", levels);
+    on("#again", () => z.boss ? bossIntro() : startQuiz(z.level));
+    on("#other", () => z.boss ? chapters() : levels());
   }
 
   function review() {
+    const z = S.quiz;
+    const corr = q => q.type === "input" || q.type === "uraian" ? q.answer : q.choices[q.answer];
     const items = S.lastWrong.map(x => `
-      <div class="rv"><div class="rq">${esc(x.q.q)}</div>${x.q.img ? `<div class="re">${esc(x.q.img)}</div>` : ""}
-        <div class="ra">${x.a ? `<span class="x">✗ Jawabanmu: ${esc(x.a.given)}</span><br>` : `<span class="x">✗ Belum dijawab</span><br>`}
-        <span class="v">✓ Jawaban benar: ${esc(x.q.type === "input" ? x.q.answer : x.q.choices[x.q.answer])}</span></div>
+      <div class="rv"><div class="rq">${x.q.type === "uraian" ? "📝 " : x.q.type === "input" ? "✏️ " : ""}${esc(x.q.q)}</div>${x.q.img ? `<div class="re">${esc(x.q.img)}</div>` : ""}
+        <div class="ra">${x.a ? `<span class="x">${x.q.type === "uraian" && x.a.score === 0.5 ? "🟡" : "✗"} Jawabanmu: ${esc(x.a.given)}</span><br>` : `<span class="x">✗ Belum dijawab</span><br>`}
+        <span class="v">✓ ${x.q.type === "uraian" ? "Kunci" : "Jawaban benar"}: ${esc(corr(x.q))}</span></div>
         ${x.q.explain ? `<div class="re">💡 ${esc(x.q.explain)}</div>` : ""}</div>`).join("");
     view(`${topbar("🔍 Yang perlu dipelajari")}${items}<button class="btn green press" id="again">🔁 Coba lagi</button>`);
-    on("#back", levels);
-    on("#again", () => startQuiz(S.quiz.level));
+    on("#back", () => z.boss ? chapters() : levels());
+    on("#again", () => z.boss ? bossIntro() : startQuiz(z.level));
   }
 
   // ================================================================ POJOK ORANG TUA
@@ -693,11 +942,11 @@
       const rows = await Promise.all(keys.map(async key => {
         let d; try { d = await loadSubject(acc.grade, key); } catch (e) { return ""; }
         const hs = mine.filter(h => h.subjectKey === key);
-        const lv = [1, 2, 3].filter(l => isUnlocked(acc, key, l)).length;
+        const lvTxt = d.type === "drill" ? "bersusun" : hasChapters(d) ? (() => { const b = prog(acc, progKey(d, "boss"), 0); return `Bab ${chList(d).filter(ch => chapterPassed(acc, d, ch)).length}/${chList(d).length}${b ? " · 🐉" + b.best : ""}`; })() : `Lv${[1, 2, 3].filter(l => isUnlocked(acc, key, l)).length}`;
         if (!hs.length) return `<div class="row"><span class="n">${esc(d.subject)}</span><span class="tr"></span><span class="v">belum</span></div>`;
         const recent = hs.slice(-3), avg = Math.round(recent.reduce((s, h) => s + Number(h.percent), 0) / recent.length);
         const color = avg >= 80 ? "var(--ok)" : avg >= 60 ? "var(--c5)" : "var(--bad)";
-        return `<div class="row"><span class="n">${esc(d.subject)}</span><span class="tr"><i style="width:${avg}%;background:${color}"></i></span><span class="v">${avg} · Lv${lv} · ${hs.length}x</span></div>`;
+        return `<div class="row"><span class="n">${esc(d.subject)}</span><span class="tr"><i style="width:${avg}%;background:${color}"></i></span><span class="v">${avg} · ${lvTxt} · ${hs.length}x</span></div>`;
       }));
       const babCount = {};
       mine.slice(-30).forEach(h => (h.wrong || []).forEach(x => { if (x.bab) { const k = `${h.subject}: ${x.bab}`; babCount[k] = (babCount[k] || 0) + 1; } }));
@@ -741,6 +990,10 @@
       }, (CFG.liveRefreshSeconds || 10) * 1000);
     }
   }
+
+  // ================================================================ 🧮 Latihan Bersusun (js/bersusun.js)
+  const DRILL = window.KUIS_DRILL ? window.KUIS_DRILL({ view, on, esc, shake, beep, confetti, topbar, S, saveProg, prog, store, ONLINE, enqueue, sendLive,
+    back: () => subjects() }) : { open: () => alert("File js/bersusun.js belum dimuat.") };
 
   // ================================================================ mulai
   flushQueue();

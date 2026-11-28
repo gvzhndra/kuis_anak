@@ -1,0 +1,219 @@
+@ agama_hindu
+M|1|1|Kitab Purana berisi cerita tentang …|para dewa, raja, dan rsi masa lampau|resep masakan|permainan anak|berita hari ini|Purana = kisah masa lampau yang mengandung ajaran agama.
+M|1|1|Kitab Purana pelengkap Mahapurana disebut …|Upapurana|Mahapurana|Itihasa|Weda|Upapurana adalah pelengkap Mahapurana.
+M|1|1|Ibu Dhruwa bernama …|Suniti|Sita|Kunti|Anjani|Dhruwa adalah putra Raja Uttanapada dan Suniti.
+M|2|1|Rajasika Purana menguraikan tentang Dewa …|Brahma|Wisnu|Siwa|Indra|Rajasika Purana berkaitan dengan penciptaan dan Dewa Brahma.
+M|2|1|Tamasika Purana menguraikan pemujaan kepada Dewa …|Siwa|Brahma|Wisnu|Surya|Tamasika = Siwa, Sattwika = Wisnu, Rajasika = Brahma.
+M|2|1|Dhruwa ditempatkan oleh Dewa Wisnu di …|tengah langit|dasar laut|puncak gunung|dalam istana|Semua bintang berputar mengelilingi Dhruwa.
+M|3|1|Dalam kisah Lingga, Dewa Brahma berubah menjadi … untuk mencari puncak Lingga.|angsa putih|babi hutan|garuda|naga|Brahma menjadi angsa putih, Wisnu menjadi babi hutan.
+M|3|1|Rara Jonggrang meminta Bandung Bandawasa membuat … arca dalam satu malam.|seribu|seratus|sepuluh|lima ratus|Syaratnya seribu arca dan dua sumur dalam satu malam.
+M|3|1|Nama Bali berasal dari kata "Wali" yang artinya …|persembahan / korban suci|pulau dewata|gunung tinggi|laut biru|Rsi Markandya menamakan pulau ini Wali, artinya persembahan.
+I|2|1|Jumlah kitab Mahapurana ada …|18;delapan belas|Ada 18 kitab Mahapurana.
+I|2|1|Kisah Dhruwa terdapat dalam kitab … Purana.|Wisnu|Kisah Dhruwa ada dalam Wisnu Purana.
+I|3|1|Rsi yang membangun Pura Besakih adalah Rsi …|Markandya;Markandhya;Markandeya|Rsi Markandya datang dari Gunung Raung.
+I|3|1|Pura yang dibangun di tempat Rsi Markandya menanam Panca Datu bernama Pura …|Basukian|Di tempat Panca Datu ditanam didirikan Pura Basukian.
+U|1|Apa manfaat mempelajari kitab Purana? Sebutkan dua!|Membangkitkan sraddha dan bhakti kepada Hyang Widhi, memudahkan memahami dan mengamalkan ajaran agama, dan mewujudkan sifat-sifat baik dalam diri.|sraddha, bhakti, ajaran agama, sifat baik
+U|1|Sifat apa yang dapat kita teladani dari Dhruwa? Jelaskan!|Dhruwa pemberani (pergi ke hutan sendirian), mandiri, tekun memuja Dewa Wisnu, dan percaya pada hukum karmaphala.|pemberani, mandiri, tekun
+M|1|2|Dewa Siwa disimbolkan dengan …|angin|api|air|tanah|Brahma = api, Wisnu = air, Siwa = angin.
+M|1|2|Hyang Widhi sebagai pencipta disebut Dewa …|Brahma|Wisnu|Siwa|Indra|Brahma bertugas mencipta.
+M|1|2|Dewi Saraswati dikenal sebagai dewi …|ilmu pengetahuan|padi|kematian|hujan|Saraswati adalah dewi ilmu pengetahuan, sakti Dewa Brahma.
+M|2|2|Dewa Brahma disebut Catur Muka, artinya …|dewa bermuka empat|dewa bermata tiga|dewa berlengan dua|dewa bersayap|Catur = empat, muka = wajah.
+M|2|2|Dewi Sri dikenal sebagai dewi …|kemakmuran dan kesuburan (padi)|ilmu pengetahuan|perang|angin|Dewi Sri digambarkan sebagai dewi padi.
+M|2|2|Sakti adalah …|kekuatan dalam bentuk dewi pendamping Tri Murti|senjata para dewa|kendaraan para dewa|tempat suci|Sakti = kekuatan feminin penyeimbang Dewa Tri Murti.
+M|3|2|Melebur (pralina) oleh Dewa Siwa bertujuan untuk …|menjaga keharmonisan alam|merusak alam|membuat manusia takut|menghukum dewa lain|Melebur bukan merusak, tetapi menjaga keseimbangan.
+M|3|2|Walaupun disebut Brahma, Wisnu, dan Siwa, sesungguhnya Hyang Widhi adalah …|satu (tunggal)|tiga orang berbeda|banyak sekali|tidak ada|Hyang Widhi tunggal, disebut berbeda sesuai fungsinya.
+M|3|2|Contoh sikap bhakti kepada Tri Murti adalah …|rajin sembahyang & menjaga alam|merusak tanaman|malas belajar|membuang sampah di pura|Sujud bhakti diwujudkan dengan sembahyang dan menjaga ciptaan-Nya.
+I|2|2|Tri Murti artinya tiga … Hyang Widhi Wasa.|perwujudan|Tri = tiga, Murti = perwujudan.
+I|2|2|Hyang Widhi sebagai pemelihara disebut Dewa …|Wisnu|Wisnu memelihara alam semesta.
+I|3|2|Sakti Dewa Siwa adalah Dewi …|Parwati;Uma;Durga|Dewi Parwati juga disebut Dewi Uma dan Dewi Durga.
+I|3|2|Dewa Siwa disebut Tri Netra, artinya dewa yang memiliki tiga …|mata|Tri = tiga, netra = mata.
+U|2|Sebutkan bagian-bagian Tri Murti beserta tugasnya!|Dewa Brahma sebagai pencipta, Dewa Wisnu sebagai pemelihara, dan Dewa Siwa sebagai pelebur (pralina).|Brahma, Wisnu, Siwa, pencipta, pemelihara, pelebur
+U|2|Sebutkan sakti dari masing-masing Dewa Tri Murti!|Sakti Dewa Brahma: Dewi Saraswati. Sakti Dewa Wisnu: Dewi Sri/Laksmi. Sakti Dewa Siwa: Dewi Parwati (Uma/Durga).|Saraswati, Sri, Laksmi, Parwati
+M|1|3|Memberi bantuan kepada orang lain dengan tulus termasuk …|punia|asih|bhakti|tapa|Punia = suka memberi bantuan.
+M|1|3|Hormat kepada guru dan orang tua termasuk …|bhakti|punia|asih|yadnya|Bhakti = perilaku hormat.
+M|1|3|Menyayangi hewan peliharaan termasuk …|asih|punia|bhakti|karma|Asih = kasih sayang kepada semua makhluk.
+M|2|3|Kata "Parartha" dalam Tri Parartha artinya …|kebahagiaan|kekuatan|kekayaan|kesedihan|Tri Parartha = tiga perilaku untuk mewujudkan kebahagiaan.
+M|2|3|Contoh perilaku punia di sekolah adalah …|meminjamkan pensil kepada teman|mengejek teman|menyembunyikan tas teman|berbohong kepada guru|Membantu teman yang membutuhkan adalah punia.
+M|2|3|Mengucapkan salam panganjali kepada guru adalah wujud …|bhakti|asih|punia|tapa|Salam panganjali menunjukkan hormat (bhakti).
+M|3|3|Memberi bantuan sebaiknya dilakukan dengan …|tulus ikhlas tanpa mengharap balasan|meminta imbalan|terpaksa|pamer kepada teman|Punia dilakukan dengan tulus ikhlas.
+M|3|3|Jika semua orang melaksanakan Tri Parartha, maka kehidupan menjadi …|rukun dan bahagia|penuh pertengkaran|sepi|kacau|Tri Parartha membawa keharmonisan hidup.
+M|3|3|Pernyataan yang BENAR adalah …|Bantuan bisa berupa tenaga, pikiran, atau barang.|Bantuan hanya boleh berupa uang.|Punia artinya perilaku hormat.|Asih hanya untuk manusia saja.|Punia bisa berupa uang, barang, tenaga, atau pikiran.
+I|2|3|Tri Parartha terdiri atas asih, punia, dan …|bhakti|Tri Parartha: asih, punia, bhakti.
+I|2|3|Perilaku kasih sayang kepada semua makhluk disebut …|asih|Asih = saling mengasihi.
+I|3|3|Tri dalam Tri Parartha artinya …|tiga|Tri = tiga.
+I|3|3|Suka memberi bantuan kepada orang yang membutuhkan disebut …|punia|Punia = memberi dengan tulus.
+U|3|Sebutkan bagian-bagian Tri Parartha dan berikan satu contoh perilaku untuk masing-masing!|Asih: menyayangi hewan/teman. Punia: menyumbang untuk korban bencana atau meminjamkan alat tulis. Bhakti: hormat kepada orang tua, guru, dan sembahyang kepada Hyang Widhi.|asih, punia, bhakti
+U|3|Mengapa kita harus berbhakti kepada orang tua? Bagaimana caranya?|Karena orang tua merawat, menyayangi, dan membesarkan kita. Caranya: menuruti nasihat, membantu pekerjaan rumah, berbicara sopan, dan belajar dengan rajin.|merawat, menuruti, membantu, sopan
+
+@ bahasa_bali
+M|1|1|Salam pembuka umat Hindu adalah …|Om Swastyastu|Om Shanti Shanti Shanti Om|Rahajeng wengi|Suksma|Om Swastyastu = semoga selamat atas karunia Hyang Widhi.
+M|1|1|"Meme" artinya …|ibu|ayah|nenek|kakak|Meme = ibu, bapa = ayah.
+M|1|1|"Cunguh" artinya …|hidung|mata|telinga|mulut|Cunguh = hidung.
+M|2|1|"Dadong" artinya …|nenek|kakek|ibu|adik|Dadong = nenek, pekak = kakek.
+M|2|1|"Batis" artinya …|kaki|tangan|kepala|perut|Batis = kaki.
+M|2|1|"Rahajeng wengi" artinya …|selamat malam|selamat pagi|selamat siang|selamat jalan|Wengi = malam.
+M|3|1|"Kuping" dan "mata" adalah bagian dari …|anggan awak (anggota tubuh)|wewalungan (binatang)|wewaran (hari)|wilangan (angka)|Kuping = telinga, mata = mata. Keduanya anggota tubuh.
+M|3|1|Kakak perempuanmu dipanggil …|mbok|beli|adi|bapa|Mbok = kakak perempuan, beli = kakak laki-laki.
+M|3|1|Saat bertemu guru di pagi hari, kita mengucapkan …|Om Swastyastu, rahajeng semeng|Om Shanti Shanti Shanti Om|Rahajeng wengi|Sampun|Salam pembuka lalu selamat pagi (rahajeng semeng).
+I|2|1|Bahasa Bali dari "ayah" adalah …|bapa;aji;bapak|Ayah = bapa (atau aji).
+I|2|1|Bahasa Bali dari "terima kasih" adalah …|suksma;matur suksma|Suksma = terima kasih.
+I|3|1|Bahasa Bali dari "adik" adalah …|adi|Adi = adik.
+I|3|1|"Rahajeng semeng" artinya selamat …|pagi|Semeng = pagi.
+U|1|Tuliskan nama anggota keluarga dalam bahasa Bali (minimal 4)!|Bapa (ayah), meme (ibu), pekak (kakek), dadong (nenek), beli (kakak laki-laki), mbok (kakak perempuan), adi (adik).|bapa, meme, pekak, dadong, beli, mbok, adi
+U|1|Tuliskan salam pembuka dan salam penutup umat Hindu, serta kapan dipakai!|Salam pembuka: Om Swastyastu, dipakai saat bertemu atau memulai kegiatan. Salam penutup: Om Shanti Shanti Shanti Om, dipakai saat mengakhiri kegiatan atau berpisah.|Om Swastyastu, Om Shanti, pembuka, penutup
+M|1|2|Angka 5 dalam bahasa Bali adalah …|lima|nem|papat|pitu|5 = lima.
+M|1|2|Hari Selasa dalam bahasa Bali adalah …|Anggara|Soma|Buda|Sukra|Anggara = Selasa.
+M|1|2|Angka 8 dalam bahasa Bali adalah …|kutus|sia|pitu|nem|8 = kutus.
+M|2|2|telu + papat = …|pitu|nem|kutus|lima|3 + 4 = 7 → pitu.
+M|2|2|Hari sesudah Buda adalah …|Wraspati|Anggara|Soma|Redite|Buda (Rabu) → Wraspati (Kamis).
+M|2|2|Hari sebelum Redite adalah …|Saniscara|Soma|Sukra|Buda|Saniscara (Sabtu) → Redite (Minggu).
+M|3|2|sia − nem = …|telu|dua|papat|lima|9 − 6 = 3 → telu.
+M|3|2|Jumlah hari dalam satu minggu (Sapta Wara) ada …|pitu|lima|nem|kutus|Sapta Wara = 7 hari: Redite sampai Saniscara.
+M|3|2|Jika hari ini Sukra, besok adalah …|Saniscara|Redite|Wraspati|Soma|Sukra (Jumat) → Saniscara (Sabtu).
+I|2|2|Angka 10 dalam bahasa Bali adalah …|dasa;adasa|10 = dasa.
+I|2|2|Hari Senin dalam bahasa Bali adalah …|Soma|Soma = Senin.
+I|3|2|Hari Kamis dalam bahasa Bali adalah …|Wraspati;Wrespati|Wraspati = Kamis.
+I|3|2|dua + dua = … (tulis dalam bahasa Bali)|papat|2 + 2 = 4 → papat.
+U|2|Tuliskan nama-nama hari (Sapta Wara) dalam bahasa Bali secara urut!|Redite (Minggu), Soma (Senin), Anggara (Selasa), Buda (Rabu), Wraspati (Kamis), Sukra (Jumat), Saniscara (Sabtu).|Redite, Soma, Anggara, Buda, Wraspati, Sukra, Saniscara
+U|2|Tuliskan angka 1 sampai 10 dalam bahasa Bali!|besik, dua, telu, papat, lima, nem, pitu, kutus, sia, dasa.|besik, telu, papat, nem, pitu, kutus, sia, dasa
+M|1|3|Kepada guru, kita sebaiknya berbicara dengan basa …|alus|kasar|campuran|asing|Basa alus dipakai kepada orang yang dihormati.
+M|1|3|"Nggih" artinya …|ya|tidak|nanti|sudah|Nggih = ya (alus).
+M|1|3|Pangangge suara "ulu" memberi bunyi …|i|u|é|o|Ulu = i.
+M|2|3|"Tiang" artinya …|saya|kamu|dia|mereka|Tiang = saya (basa alus).
+M|2|3|"Sampun" artinya …|sudah|belum|ya|tidak|Sampun = sudah (alus).
+M|2|3|Pangangge suara "pepet" memberi bunyi …|e (seperti "e" pada kata "emas")|i|u|o|Pepet = ě.
+M|3|3|Ba + suku dibaca …|bu|bi|be|bo|Suku memberi bunyi u, jadi ba + suku = bu.
+M|3|3|Ka + ulu dibaca …|ki|ku|ke|ko|Ulu memberi bunyi i, jadi ka + ulu = ki.
+M|3|3|Pangangge suara untuk bunyi "o" adalah …|taleng tedong|ulu|suku|pepet|Taleng tedong = o.
+I|2|3|Pangangge suara "suku" memberi bunyi …|u|Suku = u.
+I|2|3|"Nggih" artinya …|ya|Nggih = ya.
+I|3|3|Bahasa Bali alus dari "saya" adalah …|tiang|Tiang = saya (alus).
+I|3|3|Pangangge suara "taleng" memberi bunyi …|é;e|Taleng = é.
+U|3|Mengapa kita harus memakai basa alus kepada orang tua dan guru?|Untuk menunjukkan sikap hormat dan sopan santun kepada orang yang lebih tua atau dihormati, sesuai tata krama (sor singgih basa).|hormat, sopan, alus
+U|3|Sebutkan pangangge suara aksara Bali dan bunyinya (minimal 3)!|Ulu = i, suku = u, taleng = é, taleng tedong = o, pepet = ě.|ulu, suku, taleng, pepet
+
+@ bahasa_inggris
+M|1|1|"Hello, my name is Gani." Kata "name" artinya …|nama|umur|rumah|hobi|Name = nama.
+M|1|1|Bahasa Inggris dari "membaca" adalah …|reading|writing|singing|cooking|Reading = membaca.
+M|1|1|"I am nine years old." Artinya umurku …|sembilan tahun|delapan tahun|sepuluh tahun|tujuh tahun|Nine = sembilan.
+M|2|1|"What is your favorite activity?" artinya …|Apa kegiatan kesukaanmu?|Siapa namamu?|Kamu tinggal di mana?|Berapa umurmu?|Favorite activity = kegiatan kesukaan.
+M|2|1|"I like playing badminton." Kegiatan kesukaannya adalah …|bermain bulu tangkis|bermain sepak bola|berenang|menari|Badminton = bulu tangkis.
+M|2|1|"Nice to meet you." artinya …|Senang bertemu denganmu.|Sampai jumpa lagi.|Selamat pagi.|Terima kasih.|Diucapkan saat berkenalan.
+M|3|1|Jawaban untuk "When do you do your favorite activity?" adalah …|On Sunday.|I like drawing.|My name is Mita.|I am from Malang.|When = kapan, dijawab dengan waktu.
+M|3|1|Pilih kalimat perkenalan yang BENAR!|My name is Putu. I am eight years old.|My name Putu. I eight years old.|Name my is Putu.|I am name Putu.|Pola: My name is … / I am … years old.
+M|3|1|"I like singing and dancing." Artinya …|Aku suka bernyanyi dan menari.|Aku suka membaca dan menulis.|Aku tidak suka menyanyi.|Aku suka memasak.|Singing = bernyanyi, dancing = menari.
+I|2|1|Bahasa Inggris dari "menggambar" adalah …|drawing;draw|Drawing = menggambar.
+I|2|1|"How are you?" — "I am …, thank you." (baik)|fine;good;great|I am fine / good, thank you.
+I|3|1|Lengkapi: "My … is Bara." (namaku Bara)|name|My name is Bara.
+I|3|1|Bahasa Inggris dari angka 8 adalah …|eight|8 = eight.
+U|1|Perkenalkan dirimu dalam bahasa Inggris (nama, umur, kegiatan kesukaan)!|Hello! My name is Komang. I am eight years old. I like drawing. (Contoh — sesuaikan dengan dirimu.)|my name is, years old, I like
+U|1|Tuliskan dua kegiatan kesukaan dalam bahasa Inggris beserta artinya!|Contoh: reading (membaca), drawing (menggambar), singing (bernyanyi), dancing (menari), playing football (bermain sepak bola), swimming (berenang).|reading, drawing, singing, dancing, playing
+M|1|2|"Father" artinya …|ayah|ibu|kakek|paman|Father = ayah.
+M|1|2|"Grandfather" artinya …|kakek|nenek|ayah|kakak|Grandfather = kakek.
+M|1|2|"This is my family." artinya …|Ini keluargaku.|Ini rumahku.|Ini sekolahku.|Ini temanku.|Family = keluarga.
+M|2|2|"She is my little sister." artinya …|Dia adik perempuanku.|Dia kakak laki-lakiku.|Dia ibuku.|Dia nenekku.|Little sister = adik perempuan.
+M|2|2|"Where is Bara from?" — "He is from …"|Medan|eight years|reading|my father|Dijawab dengan nama tempat asal.
+M|2|2|Pipit punya adik kembar, Putra dan Putri. Kembar dalam bahasa Inggris adalah …|twins|parents|cousins|friends|Twins = kembar.
+M|3|2|Pilih kalimat yang BENAR!|He is my brother.|She is my brother.|He are my brother.|He my brother is.|Laki-laki → He is …
+M|3|2|"My mother is from Cianjur." Kalimat ini menjelaskan … ibu.|asal daerah|umur|hobi|pekerjaan|Is from … = berasal dari …
+M|3|2|Ayah dari ayah kita dalam bahasa Inggris disebut …|grandfather|uncle|brother|father|Ayahnya ayah = kakek = grandfather.
+I|2|2|Bahasa Inggris dari "ibu" adalah …|mother;mom;mum|Mother = ibu.
+I|2|2|Bahasa Inggris dari "kakak/adik laki-laki" adalah …|brother|Brother = saudara laki-laki.
+I|3|2|Lengkapi: "… is my mother." (Dia)|She|Untuk perempuan memakai She.
+I|3|2|"Where are you …?" — "I am from Bali."|from|Where are you from? = Dari mana asalmu?
+U|2|Perkenalkan dua anggota keluargamu dalam bahasa Inggris!|Contoh: This is my father. He is from Gianyar. This is my mother. She is from Denpasar.|This is my, he is, she is
+U|2|Terjemahkan ke bahasa Inggris: "Ini nenekku. Dia berasal dari Bali."|This is my grandmother. She is from Bali.|This is my grandmother, She is from Bali
+M|1|3|"Bathroom" artinya …|kamar mandi|kamar tidur|dapur|teras|Bathroom = kamar mandi.
+M|1|3|"Terrace" artinya …|teras|dapur|halaman belakang|ruang tamu|Terrace = teras.
+M|1|3|Bahasa Inggris dari "mencuci baju" adalah …|washing clothes|washing dishes|sweeping the floor|making the bed|Clothes = baju/pakaian.
+M|2|3|"I am mopping the floor." artinya …|Aku sedang mengepel lantai.|Aku sedang menyapu lantai.|Aku sedang mencuci piring.|Aku sedang tidur.|Mopping = mengepel.
+M|2|3|"He is gardening." artinya dia sedang …|berkebun|memasak|mandi|membaca|Gardening = berkebun.
+M|2|3|Ruangan untuk menerima tamu dan berkumpul keluarga adalah …|living room|bathroom|kitchen|backyard|Living room = ruang keluarga/tamu.
+M|3|3|"Where is your sister?" — "She is in the bedroom." Kakak/adik perempuannya ada di …|kamar tidur|dapur|kamar mandi|halaman|Bedroom = kamar tidur.
+M|3|3|Ibu sedang memasak di dapur. Dalam bahasa Inggris …|My mother is cooking in the kitchen.|My mother is cooking in the bedroom.|My father is cooking in the kitchen.|My mother is sweeping in the kitchen.|Cooking = memasak, kitchen = dapur.
+M|3|3|"What are they doing?" Kata "they" artinya …|mereka|dia perempuan|kami|kamu|They = mereka.
+I|2|3|Bahasa Inggris dari "dapur" adalah …|kitchen|Kitchen = dapur.
+I|2|3|Bahasa Inggris dari "kamar tidur" adalah …|bedroom|Bedroom = kamar tidur.
+I|3|3|Lengkapi: "She is … the dishes." (mencuci)|washing|Washing the dishes = mencuci piring.
+I|3|3|Bahasa Inggris dari "halaman belakang" adalah …|backyard|Backyard = halaman belakang.
+U|3|Sebutkan 4 ruangan di rumah dalam bahasa Inggris beserta artinya!|Living room (ruang tamu/keluarga), bedroom (kamar tidur), kitchen (dapur), bathroom (kamar mandi), terrace (teras), backyard (halaman belakang), garden (kebun).|living room, bedroom, kitchen, bathroom
+U|3|Tuliskan dalam bahasa Inggris: kegiatan yang kamu lakukan di rumah untuk membantu orang tua (2 kalimat)!|Contoh: I am sweeping the floor. I am making the bed. I am washing the dishes.|I am, sweeping, making the bed, washing
+
+@ pjok
+M|1|1|Gerak yang dilakukan tanpa berpindah tempat disebut gerak …|di tempat (nonlokomotor)|berpindah tempat|manipulatif|lari|Contoh: membungkuk, memutar, menekuk.
+M|1|1|Menangkap bola memakai …|kedua tangan|kepala|lutut|siku|Tangkap bola dengan kedua tangan.
+M|1|1|Melompat, berjalan, dan berlari termasuk gerak …|berpindah tempat|di tempat|diam|tidur|Gerak lokomotor memindahkan tubuh.
+M|2|1|Permainan Si Jago Tangkap melatih kemampuan …|melempar dan menangkap|berenang|menari|bernyanyi|Si Jago Tangkap memakai gerak melempar dan menangkap.
+M|2|1|Saat melakukan pose pohon dalam yoga, kita berdiri dengan …|satu kaki|dua tangan|kepala|lutut|Pose pohon melatih keseimbangan.
+M|2|1|Estafet Bola Naga termasuk permainan gerak …|menggunakan benda|di tempat|tanpa alat|tidur|Estafet bola memakai benda (bola).
+M|3|1|Jejak Si Lincah dan Si Jago Lompat melatih gerak …|berpindah tempat|di tempat|menggunakan benda|pernapasan|Berlari dan melompat = gerak berpindah tempat.
+M|3|1|Agar tidak cedera saat berolahraga, kita harus …|melakukan pemanasan lebih dulu|langsung berlari kencang|makan banyak sebelum lari|memakai sandal licin|Pemanasan menyiapkan otot dan sendi.
+M|3|1|Setelah berolahraga, sebaiknya kita …|pendinginan dan minum air putih|langsung tidur|minum soda|makan permen banyak|Pendinginan dan minum air membantu tubuh pulih.
+I|2|1|Gerak menggunakan benda disebut gerak …|manipulatif|Melempar, menangkap, menendang = manipulatif.
+I|2|1|Gerak berpindah tempat disebut gerak …|lokomotor|Lokomotor = berpindah tempat.
+I|3|1|Melempar dan menangkap bola melatih kerja sama mata dan …|tangan|Koordinasi mata dan tangan.
+I|3|1|Gerakan sebelum berolahraga untuk menyiapkan otot disebut …|pemanasan;peregangan|Pemanasan mencegah cedera.
+U|1|Sebutkan tiga jenis gerak dasar dan masing-masing satu contohnya!|Gerak berpindah tempat (lokomotor): berlari/melompat. Gerak di tempat (nonlokomotor): membungkuk/memutar badan. Gerak menggunakan benda (manipulatif): melempar/menangkap bola.|berpindah tempat, di tempat, menggunakan benda
+U|1|Apa manfaat bergerak dan berolahraga bagi tubuh?|Membuat tubuh sehat, otot kuat, seimbang, lincah, tidak mudah lelah, dan membantu aktivitas sehari-hari.|sehat, kuat, seimbang, lincah
+M|1|2|Dalam permainan, tim yang berusaha merebut atau mencetak poin disebut tim …|penyerang|penjaga|penonton|cadangan|Penyerang menyerang, penjaga bertahan.
+M|1|2|Bermain dengan jujur dan tidak curang disebut …|sportif|egois|sombong|malas|Sportif = jujur dan menaati aturan.
+M|1|2|Permainan Pecah Piring dimainkan secara …|berkelompok (tim)|sendirian|sambil tidur|di dalam kelas saja|Pecah Piring adalah permainan beregu.
+M|2|2|Bergerak zig-zag saat berlari termasuk …|strategi gerak|aturan main|pemanasan|pendinginan|Strategi gerak = cara bergerak cerdik.
+M|2|2|Jika tim kalah, sikap yang benar adalah …|memberi selamat kepada pemenang|merusak alat|menangis keras|menyalahkan wasit|Menerima kekalahan dan menghargai lawan.
+M|2|2|Aturan main dibuat sebelum bermain agar …|semua pemain bermain adil|ada yang curang|permainan kacau|cepat bosan|Aturan membuat permainan adil dan rukun.
+M|3|2|Rafi berlari cepat tanpa rencana dan tertangkap lawan. Yang sebaiknya ia lakukan adalah …|berdiskusi membuat strategi bersama tim|berhenti bermain|marah kepada teman|berlari lebih cepat tanpa melihat|Bergerak cerdik lebih baik daripada asal cepat.
+M|3|2|Dalam permainan Serbu Benteng, kerja sama tim penting karena …|tim bisa saling membantu menyerang dan bertahan|setiap pemain bermain sendiri|tidak ada aturan|semua pemain diam|Tim yang kompak lebih mudah menang.
+M|3|2|Contoh sikap menghargai teman saat bermain adalah …|menyemangati teman yang gagal|mengejek teman yang lambat|tidak mau mengoper bola|mendorong lawan|Saling menyemangati membuat tim kompak.
+I|2|2|Cara cerdik bergerak agar menang disebut … gerak.|strategi|Strategi gerak, misalnya zig-zag atau mengatur kecepatan.
+I|2|2|Tim yang berusaha mencegah lawan mencetak poin disebut tim …|penjaga;bertahan|Tim penjaga bertahan.
+I|3|2|Sikap jujur, menaati aturan, dan menerima kekalahan disebut sikap …|sportif|Sportif adalah sikap terpuji dalam olahraga.
+I|3|2|Bekerja bersama-sama dalam tim disebut kerja …|sama|Kerja sama tim membuat permainan menyenangkan.
+U|2|Mengapa strategi diperlukan dalam permainan? Berikan contoh strategi!|Agar tim bisa bermain cerdik, aman, dan lebih mudah menang. Contoh: berlari zig-zag, mengatur kecepatan, membagi tugas penyerang dan penjaga, mengatur arah lemparan.|cerdik, menang, zig-zag, membagi tugas
+U|2|Bagaimana sikapmu jika timmu kalah dalam permainan?|Menerima kekalahan dengan lapang dada, memberi selamat kepada tim lawan, tidak menyalahkan teman, dan berlatih lagi agar lebih baik.|menerima, selamat, tidak menyalahkan, berlatih
+
+@ tik
+M|1|1|Perangkat untuk memasukkan suara ke komputer adalah …|mikrofon|speaker|monitor|printer|Mikrofon = perangkat input suara.
+M|1|1|Perangkat untuk memindai (scan) dokumen ke komputer adalah …|scanner|speaker|printer|monitor|Scanner memasukkan gambar dokumen ke komputer.
+M|1|1|Layar komputer disebut juga …|monitor|mouse|keyboard|CPU|Monitor menampilkan gambar dan tulisan.
+M|2|1|Bagian komputer yang menjadi "otak" untuk memproses data adalah …|CPU|speaker|mouse|kabel|CPU memproses semua perintah.
+M|2|1|Hasil dari printer berupa …|kertas cetakan|suara|gambar di layar|file di flashdisk|Printer adalah perangkat output.
+M|2|1|Webcam termasuk perangkat …|input|output|penyimpanan|listrik|Webcam memasukkan gambar/video ke komputer.
+M|3|1|Kelompok yang SEMUANYA perangkat output adalah …|monitor, printer, speaker|keyboard, mouse, scanner|mikrofon, webcam, mouse|keyboard, monitor, mouse|Output menampilkan atau mengeluarkan hasil.
+M|3|1|Flashdisk termasuk perangkat …|penyimpanan|input|output|jaringan|Flashdisk dipakai untuk menyimpan file.
+M|3|1|Proyektor yang menampilkan gambar ke layar besar termasuk perangkat …|output|input|penyimpanan|pengetik|Proyektor menampilkan hasil → output.
+I|2|1|Perangkat untuk mengetik huruf adalah …|keyboard;papan ketik|Keyboard = papan ketik.
+I|2|1|Perangkat untuk mencetak ke kertas adalah …|printer|Printer mencetak dokumen.
+I|3|1|Perangkat yang memasukkan data ke komputer disebut perangkat …|input;masukan|Contoh: keyboard, mouse, mikrofon.
+I|3|1|Perangkat yang mengeluarkan hasil dari komputer disebut perangkat …|output;keluaran|Contoh: monitor, printer, speaker.
+U|1|Sebutkan dua perangkat input dan dua perangkat output beserta fungsinya!|Input: keyboard (mengetik), mouse (menggerakkan kursor), mikrofon (memasukkan suara). Output: monitor (menampilkan gambar), printer (mencetak), speaker (mengeluarkan suara).|input, output, keyboard, monitor, printer
+U|1|Apa perbedaan perangkat input dan output?|Perangkat input memasukkan data atau perintah ke komputer, sedangkan perangkat output mengeluarkan atau menampilkan hasil dari komputer.|memasukkan, mengeluarkan, menampilkan
+M|1|2|Tombol untuk keluar atau membatalkan biasanya …|Esc|Enter|Spasi|Shift|Esc = escape (keluar).
+M|1|2|Menggulir halaman ke atas dan bawah memakai … pada mouse.|roda (scroll)|tombol kanan saja|kabel|lampu|Roda mouse untuk scroll.
+M|1|2|File gambar yang dibuat di Paint dapat disimpan dengan menu …|Save|Delete|Close|Exit|Save = simpan.
+M|2|2|Tombol pintas untuk menyimpan file adalah …|Ctrl + S|Ctrl + P|Alt + F4|Shift + A|Ctrl + S = Save (simpan).
+M|2|2|Tampilan awal Windows yang berisi ikon-ikon disebut …|desktop|folder|printer|keyboard|Desktop = layar utama komputer.
+M|2|2|Untuk mengganti nama file, kita memilih menu …|Rename|Delete|Print|Copy|Rename = ganti nama.
+M|3|2|Tombol pintas untuk menyalin (copy) adalah …|Ctrl + C|Ctrl + V|Ctrl + Z|Ctrl + S|Ctrl + C = copy, Ctrl + V = paste.
+M|3|2|Tombol pintas untuk membatalkan langkah terakhir (undo) adalah …|Ctrl + Z|Ctrl + C|Ctrl + P|Ctrl + A|Ctrl + Z = undo.
+M|3|2|Program pengolah kata digunakan untuk …|mengetik dokumen/cerita|menggambar|mendengar musik|menelepon|Contoh: Microsoft Word atau Google Docs.
+I|2|2|Tombol untuk membuat baris baru adalah …|enter|Enter membuat baris baru.
+I|2|2|Tempat file yang dihapus sementara disebut Recycle …|Bin|Recycle Bin = tempat sampah komputer.
+I|3|2|Tombol pintas untuk menempel (paste) adalah Ctrl + …|V|Ctrl + V = paste.
+I|3|2|Program untuk menggambar sederhana di Windows bernama …|Paint;ms paint;microsoft paint|Paint dipakai untuk menggambar.
+U|2|Tuliskan langkah-langkah menyimpan gambar di program Paint!|Klik menu File → pilih Save (atau tekan Ctrl + S) → ketik nama file → pilih folder tempat menyimpan → klik Save.|File, Save, nama file, folder
+U|2|Apa fungsi folder di komputer? Berikan contoh!|Folder berfungsi untuk menyimpan dan mengelompokkan file agar rapi dan mudah dicari. Contoh: folder "Tugas Sekolah" berisi file tugas, folder "Foto" berisi gambar.|menyimpan, mengelompokkan, rapi, mudah dicari
+M|1|3|Internet dapat dipakai untuk …|mencari informasi pelajaran|berbohong|mencuri data|mengejek teman|Gunakan internet untuk hal yang baik.
+M|1|3|Sebelum membuka internet, anak-anak sebaiknya …|izin dan didampingi orang tua|diam-diam|tengah malam|memakai akun orang lain|Orang tua membantu memilih konten yang aman.
+M|1|3|Situs untuk mencari informasi di internet, contohnya …|Google|Paint|Kalkulator|Printer|Google adalah mesin pencari.
+M|2|3|Mengejek atau mengancam orang lain di internet disebut …|perundungan siber (cyberbullying)|belajar daring|mengunduh|mengetik|Cyberbullying adalah perbuatan buruk.
+M|2|3|Kata sandi yang baik adalah …|sulit ditebak & dirahasiakan|nama sendiri saja|123456|dibagikan ke teman|Kata sandi harus rahasia dan sulit ditebak.
+M|2|3|Terlalu lama bermain internet dapat menyebabkan …|mata lelah & lupa belajar|badan makin kuat|nilai makin bagus|mata makin tajam|Batasi waktu memakai gawai.
+M|3|3|Kamu menemukan berita aneh di internet. Sikap yang benar adalah …|bertanya kepada orang tua/guru sebelum percaya|langsung membagikannya|percaya begitu saja|mengirim ke semua grup|Belum tentu benar (bisa hoaks). Cek dulu.
+M|3|3|Orang asing di internet meminta foto dan alamat rumahmu. Sebaiknya …|menolak dan melapor ke orang tua|mengirimnya|membalas dengan nomor HP|menyimpan rahasia|Jangan berikan data pribadi kepada orang asing.
+M|3|3|Berita bohong yang tersebar di internet disebut …|hoaks|fakta|dongeng|pengumuman|Hoaks = berita bohong.
+I|2|3|Berita bohong disebut …|hoaks;hoax|Jangan ikut menyebarkan hoaks.
+I|2|3|Kata sandi disebut juga …|password|Password harus dirahasiakan.
+I|3|3|Situs untuk mencari informasi di internet disebut mesin …|pencari|Contoh mesin pencari: Google.
+I|3|3|Perundungan di internet disebut cyber…|bullying;bully|Cyberbullying = perundungan siber.
+U|3|Tuliskan tiga aturan aman menggunakan internet!|Tidak membagikan data pribadi (alamat, nomor HP, kata sandi), minta izin/didampingi orang tua, tidak berbicara dengan orang asing, tidak menyebarkan hoaks, dan membatasi waktu bermain.|data pribadi, orang tua, orang asing, hoaks
+U|3|Apa yang harus kamu lakukan jika temanmu diejek di grup chat?|Tidak ikut mengejek, membela atau menghibur teman, dan melaporkannya kepada guru atau orang tua.|tidak ikut, membela, melapor, guru

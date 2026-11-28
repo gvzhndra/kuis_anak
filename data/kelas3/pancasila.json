@@ -19,7 +19,8 @@
    ],
    "answer": 0,
    "explain": "Identitas diri: nama, tempat/tanggal lahir, alamat, nama orang tua, dll.",
-   "id": "k3-pancasila-001"
+   "id": "k3-pancasila-001",
+   "ch": 1
   },
   {
    "level": 1,
@@ -34,7 +35,8 @@
    ],
    "answer": 0,
    "explain": "Kita adalah anak Indonesia.",
-   "id": "k3-pancasila-002"
+   "id": "k3-pancasila-002",
+   "ch": 1
   },
   {
    "level": 1,
@@ -48,7 +50,8 @@
    ],
    "answer": 0,
    "explain": "NKRI = Negara Kesatuan Republik Indonesia.",
-   "id": "k3-pancasila-003"
+   "id": "k3-pancasila-003",
+   "ch": 1
   },
   {
    "level": 1,
@@ -62,7 +65,8 @@
    ],
    "answer": 0,
    "explain": "Datang tepat waktu adalah salah satu tata tertib sekolah.",
-   "id": "k3-pancasila-004"
+   "id": "k3-pancasila-004",
+   "ch": 2
   },
   {
    "level": 1,
@@ -76,7 +80,8 @@
    ],
    "answer": 0,
    "explain": "Melanggar aturan akan mendapat sanksi atau hukuman.",
-   "id": "k3-pancasila-005"
+   "id": "k3-pancasila-005",
+   "ch": 2
   },
   {
    "level": 1,
@@ -90,7 +95,8 @@
    ],
    "answer": 0,
    "explain": "Kewajiban anak: belajar, membantu orang tua, menjaga kebersihan.",
-   "id": "k3-pancasila-006"
+   "id": "k3-pancasila-006",
+   "ch": 2
   },
   {
    "level": 1,
@@ -104,7 +110,8 @@
    ],
    "answer": 0,
    "explain": "Hak = yang kita terima, misalnya mendapat pelajaran.",
-   "id": "k3-pancasila-007"
+   "id": "k3-pancasila-007",
+   "ch": 2
   },
   {
    "level": 1,
@@ -118,7 +125,8 @@
    ],
    "answer": 0,
    "explain": "Bhinneka Tunggal Ika artinya berbeda-beda tetapi tetap satu.",
-   "id": "k3-pancasila-008"
+   "id": "k3-pancasila-008",
+   "ch": 1
   },
   {
    "level": 2,
@@ -132,7 +140,8 @@
    ],
    "answer": 0,
    "explain": "Beberapa KK → RT. Beberapa RT → RW.",
-   "id": "k3-pancasila-009"
+   "id": "k3-pancasila-009",
+   "ch": 1
   },
   {
    "level": 2,
@@ -146,7 +155,8 @@
    ],
    "answer": 0,
    "explain": "Beberapa RT membentuk RW, dipimpin Ketua RW.",
-   "id": "k3-pancasila-010"
+   "id": "k3-pancasila-010",
+   "ch": 1
   },
   {
    "level": 2,
@@ -160,7 +170,8 @@
    ],
    "answer": 0,
    "explain": "RT → RW → desa/kelurahan → kecamatan → kabupaten/kota → provinsi → negara.",
-   "id": "k3-pancasila-011"
+   "id": "k3-pancasila-011",
+   "ch": 1
   },
   {
    "level": 2,
@@ -174,7 +185,8 @@
    ],
    "answer": 0,
    "explain": "Bhinneka Tunggal Ika = berbeda-beda tetapi tetap satu jua.",
-   "id": "k3-pancasila-012"
+   "id": "k3-pancasila-012",
+   "ch": 1
   },
   {
    "level": 2,
@@ -188,7 +200,8 @@
    ],
    "answer": 0,
    "explain": "Hak = yang kita terima. Kewajiban = yang harus kita lakukan.",
-   "id": "k3-pancasila-013"
+   "id": "k3-pancasila-013",
+   "ch": 2
   },
   {
    "level": 2,
@@ -202,7 +215,8 @@
    ],
    "answer": 0,
    "explain": "Kewajiban harus dilaksanakan dengan penuh tanggung jawab.",
-   "id": "k3-pancasila-014"
+   "id": "k3-pancasila-014",
+   "ch": 2
   },
   {
    "level": 2,
@@ -216,7 +230,8 @@
    ],
    "answer": 0,
    "explain": "Aturan tidak tertulis berasal dari kebiasaan, seperti memberi salam.",
-   "id": "k3-pancasila-015"
+   "id": "k3-pancasila-015",
+   "ch": 2
   },
   {
    "level": 2,
@@ -230,7 +245,8 @@
    ],
    "answer": 0,
    "explain": "Kesepakatan kelas dibuat bersama oleh guru dan siswa.",
-   "id": "k3-pancasila-016"
+   "id": "k3-pancasila-016",
+   "ch": 2
   },
   {
    "level": 3,
@@ -244,7 +260,8 @@
    ],
    "answer": 0,
    "explain": "Kita boleh meminta hak jika kewajiban sudah dilakukan dengan baik.",
-   "id": "k3-pancasila-017"
+   "id": "k3-pancasila-017",
+   "ch": 2
   },
   {
    "level": 3,
@@ -258,7 +275,8 @@
    ],
    "answer": 0,
    "explain": "Kerjakan kewajiban dulu, baru menikmati hak.",
-   "id": "k3-pancasila-018"
+   "id": "k3-pancasila-018",
+   "ch": 2
   },
   {
    "level": 3,
@@ -272,7 +290,8 @@
    ],
    "answer": 0,
    "explain": "Sila ke-5: Keadilan sosial bagi seluruh rakyat Indonesia.",
-   "id": "k3-pancasila-019"
+   "id": "k3-pancasila-019",
+   "ch": 2
   },
   {
    "level": 3,
@@ -286,7 +305,8 @@
    ],
    "answer": 0,
    "explain": "Tidak melaksanakan kewajiban merugikan semua.",
-   "id": "k3-pancasila-020"
+   "id": "k3-pancasila-020",
+   "ch": 2
   },
   {
    "level": 3,
@@ -300,7 +320,8 @@
    ],
    "answer": 0,
    "explain": "Desa dipimpin kepala desa (di Bali: perbekel), kelurahan dipimpin lurah.",
-   "id": "k3-pancasila-021"
+   "id": "k3-pancasila-021",
+   "ch": 1
   },
   {
    "level": 3,
@@ -314,7 +335,8 @@
    ],
    "answer": 0,
    "explain": "Kecamatan dipimpin camat, kabupaten dipimpin bupati.",
-   "id": "k3-pancasila-022"
+   "id": "k3-pancasila-022",
+   "ch": 1
   },
   {
    "level": 3,
@@ -328,7 +350,8 @@
    ],
    "answer": 0,
    "explain": "Kita menghargai keberagaman sesuai semboyan Bhinneka Tunggal Ika.",
-   "id": "k3-pancasila-023"
+   "id": "k3-pancasila-023",
+   "ch": 1
   },
   {
    "level": 3,
@@ -342,7 +365,8 @@
    ],
    "answer": 0,
    "explain": "Pura Besakih ada di Kabupaten Karangasem, Provinsi Bali.",
-   "id": "k3-pancasila-024"
+   "id": "k3-pancasila-024",
+   "ch": 1
   },
   {
    "level": 1,
@@ -356,7 +380,8 @@
    ],
    "answer": 0,
    "explain": "Lambang negara kita adalah Garuda Pancasila.",
-   "id": "k3-pancasila-025"
+   "id": "k3-pancasila-025",
+   "ch": 1
   },
   {
    "level": 1,
@@ -370,7 +395,8 @@
    ],
    "answer": 0,
    "explain": "Mengikuti pelajaran dengan tertib adalah kewajiban siswa.",
-   "id": "k3-pancasila-026"
+   "id": "k3-pancasila-026",
+   "ch": 2
   },
   {
    "level": 2,
@@ -384,7 +410,8 @@
    ],
    "answer": 0,
    "explain": "Rukun Tetangga dipimpin Ketua RT.",
-   "id": "k3-pancasila-027"
+   "id": "k3-pancasila-027",
+   "ch": 1
   },
   {
    "level": 2,
@@ -398,7 +425,8 @@
    ],
    "answer": 0,
    "explain": "Hak = yang kita terima, seperti kasih sayang dan perlindungan.",
-   "id": "k3-pancasila-028"
+   "id": "k3-pancasila-028",
+   "ch": 2
   },
   {
    "level": 3,
@@ -412,7 +440,8 @@
    ],
    "answer": 0,
    "explain": "Kabupaten dipimpin bupati, kota dipimpin wali kota.",
-   "id": "k3-pancasila-029"
+   "id": "k3-pancasila-029",
+   "ch": 1
   },
   {
    "level": 3,
@@ -426,7 +455,456 @@
    ],
    "answer": 0,
    "explain": "Saat upacara, siswa harus tertib sesuai tata tertib sekolah.",
-   "id": "k3-pancasila-030"
+   "id": "k3-pancasila-030",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Nama, alamat, dan tanggal lahir termasuk …",
+   "choices": [
+    "identitas diri",
+    "hobi",
+    "cita-cita",
+    "denah"
+   ],
+   "answer": 0,
+   "explain": "Identitas diri menunjukkan siapa kita.",
+   "bab": "Bab 1 Aku Anak Indonesia",
+   "fromSource": true,
+   "id": "k3-pancasila-031"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Indonesia terdiri atas banyak suku. Contohnya suku …",
+   "choices": [
+    "Bali",
+    "Eropa",
+    "Jepang",
+    "Arab Saudi"
+   ],
+   "answer": 0,
+   "explain": "Suku Bali adalah salah satu suku bangsa di Indonesia.",
+   "bab": "Bab 1 Aku Anak Indonesia",
+   "fromSource": true,
+   "id": "k3-pancasila-032"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Gambar yang menunjukkan letak ruangan atau rumah disebut …",
+   "choices": [
+    "denah",
+    "foto",
+    "lukisan",
+    "komik"
+   ],
+   "answer": 0,
+   "explain": "Denah menunjukkan letak ruangan atau tempat.",
+   "bab": "Bab 1 Aku Anak Indonesia",
+   "fromSource": true,
+   "id": "k3-pancasila-033"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Gabungan beberapa RW membentuk …",
+   "choices": [
+    "desa/kelurahan",
+    "provinsi",
+    "negara",
+    "RT"
+   ],
+   "answer": 0,
+   "explain": "KK → RT → RW → desa/kelurahan.",
+   "bab": "Bab 1 Aku Anak Indonesia",
+   "fromSource": true,
+   "id": "k3-pancasila-034"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Gabungan beberapa desa/kelurahan membentuk …",
+   "choices": [
+    "kecamatan",
+    "RT",
+    "RW",
+    "keluarga"
+   ],
+   "answer": 0,
+   "explain": "Desa/kelurahan → kecamatan → kabupaten/kota → provinsi.",
+   "bab": "Bab 1 Aku Anak Indonesia",
+   "fromSource": true,
+   "id": "k3-pancasila-035"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Provinsi dipimpin oleh …",
+   "choices": [
+    "gubernur",
+    "bupati",
+    "camat",
+    "lurah"
+   ],
+   "answer": 0,
+   "explain": "Gubernur memimpin provinsi.",
+   "bab": "Bab 1 Aku Anak Indonesia",
+   "fromSource": true,
+   "id": "k3-pancasila-036"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Rumah Adi ada di RT 03 RW 10. Artinya rumah Adi juga bagian dari …",
+   "choices": [
+    "kecamatan, kabupaten, provinsi, dan NKRI",
+    "negara lain",
+    "hanya RT saja",
+    "tidak bagian dari NKRI"
+   ],
+   "answer": 0,
+   "explain": "Setiap alamat di Indonesia adalah bagian dari NKRI.",
+   "bab": "Bab 1 Aku Anak Indonesia",
+   "fromSource": true,
+   "id": "k3-pancasila-037"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Bahasa persatuan bangsa Indonesia adalah …",
+   "choices": [
+    "bahasa Indonesia",
+    "bahasa Bali",
+    "bahasa Jawa",
+    "bahasa Inggris"
+   ],
+   "answer": 0,
+   "explain": "Bahasa Indonesia mempersatukan suku-suku yang berbeda bahasa daerah.",
+   "bab": "Bab 1 Aku Anak Indonesia",
+   "fromSource": true,
+   "id": "k3-pancasila-038"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Teman sekelas berbeda agama sedang berdoa. Sikapmu …",
+   "choices": [
+    "menghormati dan tidak mengganggu",
+    "mengajaknya bermain",
+    "menertawakan",
+    "membuat suara keras"
+   ],
+   "answer": 0,
+   "explain": "Menghormati teman yang beribadah adalah wujud toleransi.",
+   "bab": "Bab 1 Aku Anak Indonesia",
+   "fromSource": true,
+   "id": "k3-pancasila-039"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "Kepanjangan NKRI adalah Negara Kesatuan Republik …",
+   "answer": "Indonesia",
+   "accept": [],
+   "explain": "NKRI = Negara Kesatuan Republik Indonesia.",
+   "bab": "Bab 1 Aku Anak Indonesia",
+   "fromSource": true,
+   "id": "k3-pancasila-040"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "Kecamatan dipimpin oleh seorang …",
+   "answer": "camat",
+   "accept": [],
+   "explain": "Camat memimpin kecamatan.",
+   "bab": "Bab 1 Aku Anak Indonesia",
+   "fromSource": true,
+   "id": "k3-pancasila-041"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "input",
+   "q": "Semboyan bangsa Indonesia adalah Bhinneka Tunggal …",
+   "answer": "Ika",
+   "accept": [],
+   "explain": "Bhinneka Tunggal Ika = berbeda-beda tetapi tetap satu.",
+   "bab": "Bab 1 Aku Anak Indonesia",
+   "fromSource": true,
+   "id": "k3-pancasila-042"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "input",
+   "q": "Kumpulan beberapa kepala keluarga dalam satu lingkungan membentuk Rukun …",
+   "answer": "Tetangga",
+   "accept": [
+    "RT"
+   ],
+   "explain": "Beberapa KK membentuk Rukun Tetangga (RT).",
+   "bab": "Bab 1 Aku Anak Indonesia",
+   "fromSource": true,
+   "id": "k3-pancasila-043"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Tuliskan identitas dirimu (minimal nama, tempat/tanggal lahir, dan alamat)!",
+   "answer": "Contoh: Nama saya Komang Ayu, lahir di Denpasar, 5 Mei 2018. Alamat saya Jalan Melati No. 3, Desa ..., Kecamatan ..., Kabupaten ..., Provinsi Bali.",
+   "keywords": [
+    "nama",
+    "lahir",
+    "alamat"
+   ],
+   "bab": "Bab 1 Aku Anak Indonesia",
+   "fromSource": true,
+   "id": "k3-pancasila-044"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Bagaimana sikapmu terhadap teman yang berbeda suku, agama, atau bahasa?",
+   "answer": "Tetap berteman dengan baik, saling menghormati, tidak mengejek perbedaan, dan bekerja sama, sesuai semboyan Bhinneka Tunggal Ika.",
+   "keywords": [
+    "menghormati",
+    "berteman",
+    "tidak mengejek",
+    "Bhinneka Tunggal Ika"
+   ],
+   "bab": "Bab 1 Aku Anak Indonesia",
+   "fromSource": true,
+   "id": "k3-pancasila-045"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Aturan di sekolah yang ditulis disebut …",
+   "choices": [
+    "tata tertib",
+    "dongeng",
+    "puisi",
+    "lagu"
+   ],
+   "answer": 0,
+   "explain": "Tata tertib sekolah adalah aturan tertulis.",
+   "bab": "Bab 2 Aku Patuh Aturan",
+   "fromSource": true,
+   "id": "k3-pancasila-046"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Contoh kewajiban di sekolah adalah …",
+   "choices": [
+    "mengerjakan tugas dari guru",
+    "mendapat pelajaran",
+    "bermain di kantin",
+    "memakai fasilitas sekolah"
+   ],
+   "answer": 0,
+   "explain": "Kewajiban = yang harus kita lakukan.",
+   "bab": "Bab 2 Aku Patuh Aturan",
+   "fromSource": true,
+   "id": "k3-pancasila-047"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Contoh hak anak di rumah adalah …",
+   "choices": [
+    "mendapat makanan dan kasih sayang",
+    "menyapu lantai",
+    "mencuci piring",
+    "membersihkan kamar"
+   ],
+   "answer": 0,
+   "explain": "Hak = yang kita terima.",
+   "bab": "Bab 2 Aku Patuh Aturan",
+   "fromSource": true,
+   "id": "k3-pancasila-048"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Jika semua siswa menaati aturan kelas, maka kelas menjadi …",
+   "choices": [
+    "tertib dan nyaman",
+    "ramai dan kotor",
+    "berantakan",
+    "membosankan"
+   ],
+   "answer": 0,
+   "explain": "Aturan membuat suasana tertib dan nyaman.",
+   "bab": "Bab 2 Aku Patuh Aturan",
+   "fromSource": true,
+   "id": "k3-pancasila-049"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Siswa yang datang terlambat berkali-kali mendapat teguran. Teguran itu disebut …",
+   "choices": [
+    "sanksi",
+    "hadiah",
+    "pujian",
+    "hak"
+   ],
+   "answer": 0,
+   "explain": "Sanksi diberikan kepada yang melanggar aturan.",
+   "bab": "Bab 2 Aku Patuh Aturan",
+   "fromSource": true,
+   "id": "k3-pancasila-050"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Kesepakatan kelas sebaiknya dibuat dengan cara …",
+   "choices": [
+    "musyawarah bersama",
+    "ditentukan satu orang",
+    "diam-diam",
+    "undian"
+   ],
+   "answer": 0,
+   "explain": "Musyawarah membuat kesepakatan adil untuk semua.",
+   "bab": "Bab 2 Aku Patuh Aturan",
+   "fromSource": true,
+   "id": "k3-pancasila-051"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Budi meminta uang jajan tambahan, tetapi belum mengerjakan PR. Sikap yang benar adalah …",
+   "choices": [
+    "mengerjakan PR dulu, baru meminta hak",
+    "marah karena tidak diberi",
+    "mengambil uang diam-diam",
+    "menyuruh adik mengerjakan PR"
+   ],
+   "answer": 0,
+   "explain": "Kewajiban dilaksanakan dulu, baru meminta hak.",
+   "bab": "Bab 2 Aku Patuh Aturan",
+   "fromSource": true,
+   "id": "k3-pancasila-052"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Contoh aturan tidak tertulis di sekolah adalah …",
+   "choices": [
+    "mengucapkan salam kepada guru",
+    "jadwal pelajaran",
+    "tata tertib di papan",
+    "jadwal piket"
+   ],
+   "answer": 0,
+   "explain": "Aturan tidak tertulis berasal dari kebiasaan baik.",
+   "bab": "Bab 2 Aku Patuh Aturan",
+   "fromSource": true,
+   "id": "k3-pancasila-053"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Hak dan kewajiban yang seimbang membuat hidup …",
+   "choices": [
+    "adil dan rukun",
+    "selalu bertengkar",
+    "tidak teratur",
+    "sepi"
+   ],
+   "answer": 0,
+   "explain": "Hak dan kewajiban harus seimbang agar adil.",
+   "bab": "Bab 2 Aku Patuh Aturan",
+   "fromSource": true,
+   "id": "k3-pancasila-054"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "type": "input",
+   "q": "Sesuatu yang harus kita lakukan disebut …",
+   "answer": "kewajiban",
+   "accept": [],
+   "explain": "Kewajiban = yang harus dilakukan.",
+   "bab": "Bab 2 Aku Patuh Aturan",
+   "fromSource": true,
+   "id": "k3-pancasila-055"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "type": "input",
+   "q": "Sesuatu yang seharusnya kita terima disebut …",
+   "answer": "hak",
+   "accept": [],
+   "explain": "Hak = yang kita terima.",
+   "bab": "Bab 2 Aku Patuh Aturan",
+   "fromSource": true,
+   "id": "k3-pancasila-056"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "input",
+   "q": "Hukuman bagi yang melanggar aturan disebut …",
+   "answer": "sanksi",
+   "accept": [],
+   "explain": "Sanksi membuat orang jera melanggar aturan.",
+   "bab": "Bab 2 Aku Patuh Aturan",
+   "fromSource": true,
+   "id": "k3-pancasila-057"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "input",
+   "q": "Aturan yang disepakati bersama oleh guru dan siswa di kelas disebut … kelas.",
+   "answer": "kesepakatan",
+   "accept": [],
+   "explain": "Kesepakatan kelas dibuat bersama.",
+   "bab": "Bab 2 Aku Patuh Aturan",
+   "fromSource": true,
+   "id": "k3-pancasila-058"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "uraian",
+   "q": "Sebutkan dua contoh hak dan dua contoh kewajiban siswa di sekolah!",
+   "answer": "Hak: mendapat pelajaran, memakai fasilitas sekolah, mendapat perlakuan yang adil. Kewajiban: menaati tata tertib, mengerjakan tugas, menjaga kebersihan, datang tepat waktu.",
+   "keywords": [
+    "hak",
+    "kewajiban",
+    "pelajaran",
+    "tata tertib"
+   ],
+   "bab": "Bab 2 Aku Patuh Aturan",
+   "fromSource": true,
+   "id": "k3-pancasila-059"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "uraian",
+   "q": "Apa akibatnya jika siswa tidak menaati aturan di sekolah?",
+   "answer": "Sekolah menjadi tidak tertib dan tidak nyaman, kegiatan belajar terganggu, dan siswa yang melanggar akan mendapat sanksi.",
+   "keywords": [
+    "tidak tertib",
+    "terganggu",
+    "sanksi"
+   ],
+   "bab": "Bab 2 Aku Patuh Aturan",
+   "fromSource": true,
+   "id": "k3-pancasila-060"
   }
  ]
 }

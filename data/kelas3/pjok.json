@@ -1,0 +1,913 @@
+{
+ "subject": "PJOK",
+ "icon": "⚽",
+ "source": "Buku Siswa Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SD/MI Kelas III (Kemendikdasmen) · Bab 1–2",
+ "chapters": [
+  "Bab 1 Gerakku Semakin Lincah",
+  "Bab 2 Ayo, Bermain Strategi!"
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "q": "Sebelum beraktivitas olahraga, kita melakukan …",
+   "choices": [
+    "peregangan",
+    "tidur",
+    "makan besar",
+    "bermain gawai"
+   ],
+   "answer": 0,
+   "explain": "Peregangan menyiapkan otot agar tidak cedera.",
+   "id": "k3-pjok-001",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "q": "Contoh gerak berpindah tempat adalah …",
+   "choices": [
+    "berlari",
+    "membungkuk",
+    "memutar pinggang",
+    "menekuk lutut"
+   ],
+   "answer": 0,
+   "explain": "Berlari, berjalan, melompat = gerak berpindah tempat.",
+   "id": "k3-pjok-002",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "q": "Contoh gerak menggunakan benda adalah …",
+   "choices": [
+    "melempar bola",
+    "berjalan",
+    "berdiri",
+    "melompat"
+   ],
+   "answer": 0,
+   "explain": "Melempar, menangkap, dan menendang bola memakai benda.",
+   "id": "k3-pjok-003",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "q": "Melempar dan menangkap bola melatih kerja sama antara …",
+   "choices": [
+    "mata dan tangan",
+    "kaki dan lutut",
+    "telinga dan hidung",
+    "lutut dan tangan"
+   ],
+   "answer": 0,
+   "explain": "Mata melihat bola, tangan menangkap atau melempar.",
+   "id": "k3-pjok-004",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "q": "Saat kalah dalam permainan, sikap kita adalah …",
+   "choices": [
+    "menerima kekalahan",
+    "marah-marah",
+    "menyalahkan teman",
+    "keluar dari permainan"
+   ],
+   "answer": 0,
+   "explain": "Menerima kekalahan dengan lapang dada adalah sikap sportif.",
+   "id": "k3-pjok-005",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "q": "Agar tim menang, anggota tim harus …",
+   "choices": [
+    "bekerja sama",
+    "bermain sendiri-sendiri",
+    "bertengkar",
+    "diam saja"
+   ],
+   "answer": 0,
+   "explain": "Tim yang kompak dan bekerja sama lebih mudah menang.",
+   "id": "k3-pjok-006",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "q": "Gerak di tempat yang melatih keseimbangan dengan berdiri satu kaki, seperti pose pohon, ada pada permainan …",
+   "img": "🧘",
+   "choices": [
+    "Yoga Ceria",
+    "Estafet Bola Naga",
+    "Pecah Piring",
+    "Tangkap Aku"
+   ],
+   "answer": 0,
+   "explain": "Pada Yoga Ceria, pose pohon melatih keseimbangan.",
+   "id": "k3-pjok-007",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "q": "Bermain dengan jujur dan menaati aturan disebut sikap …",
+   "choices": [
+    "sportif",
+    "curang",
+    "sombong",
+    "malas"
+   ],
+   "answer": 0,
+   "explain": "Sportif = jujur, menaati aturan, dan menghargai lawan.",
+   "id": "k3-pjok-008",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "q": "Bergerak membuat otot tubuh menjadi …",
+   "choices": [
+    "kuat",
+    "lemah",
+    "sakit",
+    "kaku"
+   ],
+   "answer": 0,
+   "explain": "Bergerak aktif membuat otot kuat dan tubuh sehat.",
+   "id": "k3-pjok-009",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "q": "Gerak menangkap dan melempar juga berguna di rumah, misalnya untuk …",
+   "choices": [
+    "membantu orang tua merapikan barang",
+    "bertengkar",
+    "merusak barang",
+    "tidur siang"
+   ],
+   "answer": 0,
+   "explain": "Gerak bermanfaat untuk aktivitas sehari-hari seperti membantu orang tua.",
+   "id": "k3-pjok-010",
+   "ch": 1
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "q": "Gerak di tempat disebut juga gerak …",
+   "choices": [
+    "nonlokomotor",
+    "lokomotor",
+    "manipulatif",
+    "akuatik"
+   ],
+   "answer": 0,
+   "explain": "Lokomotor = berpindah tempat, nonlokomotor = di tempat, manipulatif = memakai benda.",
+   "id": "k3-pjok-011",
+   "ch": 1
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "q": "Gerak menggunakan benda disebut juga gerak …",
+   "choices": [
+    "manipulatif",
+    "lokomotor",
+    "nonlokomotor",
+    "pemanasan"
+   ],
+   "answer": 0,
+   "explain": "Gerak manipulatif: melempar, menangkap, menendang, menghentikan bola.",
+   "id": "k3-pjok-012",
+   "ch": 1
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "q": "Manfaat gerak di tempat, seperti yoga, adalah tubuh menjadi …",
+   "choices": [
+    "lebih seimbang",
+    "mudah jatuh",
+    "lemas",
+    "malas"
+   ],
+   "answer": 0,
+   "explain": "Gerak di tempat melatih keseimbangan dan kelenturan.",
+   "id": "k3-pjok-013",
+   "ch": 1
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "q": "Saat akan menendang bola, posisi kaki tumpu sebaiknya …",
+   "choices": [
+    "di samping bola dan seimbang",
+    "membelakangi bola",
+    "duduk di tanah",
+    "jauh di belakang"
+   ],
+   "answer": 0,
+   "explain": "Kaki tumpu di samping bola agar tendangan seimbang dan terarah.",
+   "id": "k3-pjok-014",
+   "ch": 1
+  },
+  {
+   "level": 2,
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "q": "Cara cerdik bergerak agar menang dalam permainan disebut …",
+   "choices": [
+    "strategi gerak",
+    "pemanasan",
+    "pendinginan",
+    "istirahat"
+   ],
+   "answer": 0,
+   "explain": "Strategi gerak: bergerak cerdik, misalnya zig-zag atau mengatur kecepatan.",
+   "id": "k3-pjok-015",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "q": "Contoh strategi gerak agar tidak mudah tertangkap lawan adalah …",
+   "choices": [
+    "berlari zig-zag",
+    "berdiri diam",
+    "berjalan pelan",
+    "duduk"
+   ],
+   "answer": 0,
+   "explain": "Gerak zig-zag membuat lawan sulit menangkap.",
+   "id": "k3-pjok-016",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "q": "Tim yang berusaha mencetak poin disebut tim …",
+   "choices": [
+    "penyerang",
+    "penjaga",
+    "penonton",
+    "wasit"
+   ],
+   "answer": 0,
+   "explain": "Tim penyerang berusaha mencetak poin, tim penjaga bertahan.",
+   "id": "k3-pjok-017",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "q": "Aturan permainan dibuat agar …",
+   "choices": [
+    "permainan adil dan rukun",
+    "ada yang curang",
+    "permainan cepat selesai",
+    "semua bertengkar"
+   ],
+   "answer": 0,
+   "explain": "Aturan membuat permainan adil, aman, dan menyenangkan.",
+   "id": "k3-pjok-018",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "q": "Agar lemparan bola tepat sasaran, kita harus …",
+   "choices": [
+    "melihat arah sasaran",
+    "menutup mata",
+    "membelakangi teman",
+    "melempar sekuat-kuatnya ke atas"
+   ],
+   "answer": 0,
+   "explain": "Lihat sasaran agar bola tidak salah arah.",
+   "id": "k3-pjok-019",
+   "ch": 1
+  },
+  {
+   "level": 2,
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "q": "Sebelum bermain, Rafi dan Ayu berdiskusi dulu. Tujuannya untuk …",
+   "choices": [
+    "menyusun strategi",
+    "bertengkar",
+    "membuang waktu",
+    "menghindari bermain"
+   ],
+   "answer": 0,
+   "explain": "Diskusi membantu tim membuat strategi agar bermain lebih baik.",
+   "id": "k3-pjok-020",
+   "ch": 2
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "q": "Kelompok yang SEMUANYA gerak berpindah tempat adalah …",
+   "choices": [
+    "berjalan, berlari, melompat",
+    "melempar, menangkap, menendang",
+    "membungkuk, memutar, menekuk",
+    "berlari, melempar, membungkuk"
+   ],
+   "answer": 0,
+   "explain": "Berjalan, berlari, dan melompat memindahkan tubuh dari satu tempat ke tempat lain.",
+   "id": "k3-pjok-021",
+   "ch": 1
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "q": "Menendang lalu menghentikan bola termasuk gerak …",
+   "choices": [
+    "manipulatif",
+    "lokomotor",
+    "nonlokomotor",
+    "pendinginan"
+   ],
+   "answer": 0,
+   "explain": "Gerak dengan menggunakan benda (bola) = manipulatif.",
+   "id": "k3-pjok-022",
+   "ch": 1
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "q": "Saat bermain Lava Panas dan Jembatan Angin Bergoyang, kemampuan yang dilatih adalah …",
+   "choices": [
+    "keseimbangan",
+    "kecepatan mengetik",
+    "menghafal",
+    "bernyanyi"
+   ],
+   "answer": 0,
+   "explain": "Permainan gerak di tempat melatih keseimbangan tubuh.",
+   "id": "k3-pjok-023",
+   "ch": 1
+  },
+  {
+   "level": 3,
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "q": "Tim Ayu kalah karena asal main tanpa rencana. Pelajaran yang bisa diambil adalah …",
+   "choices": [
+    "perlu strategi & kerja sama",
+    "harus curang",
+    "lebih baik tidak main",
+    "salahkan teman"
+   ],
+   "answer": 0,
+   "explain": "Bergerak cerdik dan bekerja sama lebih baik daripada asal cepat.",
+   "id": "k3-pjok-024",
+   "ch": 2
+  },
+  {
+   "level": 3,
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "q": "Dalam permainan lempar target, strategi yang tepat adalah …",
+   "choices": [
+    "mengatur kekuatan & arah lemparan",
+    "melempar sambil menutup mata",
+    "melempar ke penonton",
+    "tidak melempar"
+   ],
+   "answer": 0,
+   "explain": "Atur kekuatan dan arah lemparan agar bola masuk target.",
+   "id": "k3-pjok-025",
+   "ch": 2
+  },
+  {
+   "level": 3,
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "q": "Dalam estafet lari zig-zag, agar gulungan kertas tidak jatuh saat diserahkan, pelari sebaiknya …",
+   "choices": [
+    "memperlambat langkah saat menyerahkan",
+    "melempar dari jauh",
+    "berlari makin kencang",
+    "menjatuhkannya"
+   ],
+   "answer": 0,
+   "explain": "Memperlambat langkah sedikit membuat serah terima lebih aman.",
+   "id": "k3-pjok-026",
+   "ch": 2
+  },
+  {
+   "level": 3,
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "q": "Teman setim melakukan kesalahan sehingga tim kehilangan poin. Sikap yang tepat adalah …",
+   "choices": [
+    "menyemangatinya",
+    "memarahinya",
+    "mengejeknya",
+    "mengeluarkannya dari tim"
+   ],
+   "answer": 0,
+   "explain": "Menghargai teman dan saling menyemangati membuat tim kompak.",
+   "id": "k3-pjok-027",
+   "ch": 2
+  },
+  {
+   "level": 3,
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "q": "Tugas tim penjaga dalam permainan menyerang dan bertahan adalah …",
+   "choices": [
+    "mencegah lawan mencetak poin",
+    "mencetak poin sebanyaknya",
+    "menjadi wasit",
+    "beristirahat"
+   ],
+   "answer": 0,
+   "explain": "Tim penjaga bertahan agar lawan tidak mencetak poin.",
+   "id": "k3-pjok-028",
+   "ch": 2
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "q": "Saat berdiri di dalam simpai dan melempar bola ke pasangan, bola dapat dilempar dengan arah …",
+   "choices": [
+    "mendatar dan melambung",
+    "ke belakang saja",
+    "ke tanah saja",
+    "ke atas kepala sendiri"
+   ],
+   "answer": 0,
+   "explain": "Lempar bola mendatar atau melambung ke arah pasangan.",
+   "id": "k3-pjok-029",
+   "ch": 1
+  },
+  {
+   "level": 3,
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "q": "Gerak membuat tubuh tetap aktif sehingga kita …",
+   "choices": [
+    "bisa bergerak tanpa mudah lelah",
+    "cepat lelah",
+    "sering sakit",
+    "tidak bisa tidur"
+   ],
+   "answer": 0,
+   "explain": "Tubuh yang aktif bergerak menjadi lebih kuat dan bugar.",
+   "id": "k3-pjok-030",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Gerak yang dilakukan tanpa berpindah tempat disebut gerak …",
+   "choices": [
+    "di tempat (nonlokomotor)",
+    "berpindah tempat",
+    "manipulatif",
+    "lari"
+   ],
+   "answer": 0,
+   "explain": "Contoh: membungkuk, memutar, menekuk.",
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "fromSource": true,
+   "id": "k3-pjok-031"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Menangkap bola memakai …",
+   "choices": [
+    "kedua tangan",
+    "kepala",
+    "lutut",
+    "siku"
+   ],
+   "answer": 0,
+   "explain": "Tangkap bola dengan kedua tangan.",
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "fromSource": true,
+   "id": "k3-pjok-032"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Melompat, berjalan, dan berlari termasuk gerak …",
+   "choices": [
+    "berpindah tempat",
+    "di tempat",
+    "diam",
+    "tidur"
+   ],
+   "answer": 0,
+   "explain": "Gerak lokomotor memindahkan tubuh.",
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "fromSource": true,
+   "id": "k3-pjok-033"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Permainan Si Jago Tangkap melatih kemampuan …",
+   "choices": [
+    "melempar dan menangkap",
+    "berenang",
+    "menari",
+    "bernyanyi"
+   ],
+   "answer": 0,
+   "explain": "Si Jago Tangkap memakai gerak melempar dan menangkap.",
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "fromSource": true,
+   "id": "k3-pjok-034"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Saat melakukan pose pohon dalam yoga, kita berdiri dengan …",
+   "choices": [
+    "satu kaki",
+    "dua tangan",
+    "kepala",
+    "lutut"
+   ],
+   "answer": 0,
+   "explain": "Pose pohon melatih keseimbangan.",
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "fromSource": true,
+   "id": "k3-pjok-035"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Estafet Bola Naga termasuk permainan gerak …",
+   "choices": [
+    "menggunakan benda",
+    "di tempat",
+    "tanpa alat",
+    "tidur"
+   ],
+   "answer": 0,
+   "explain": "Estafet bola memakai benda (bola).",
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "fromSource": true,
+   "id": "k3-pjok-036"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Jejak Si Lincah dan Si Jago Lompat melatih gerak …",
+   "choices": [
+    "berpindah tempat",
+    "di tempat",
+    "menggunakan benda",
+    "pernapasan"
+   ],
+   "answer": 0,
+   "explain": "Berlari dan melompat = gerak berpindah tempat.",
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "fromSource": true,
+   "id": "k3-pjok-037"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Agar tidak cedera saat berolahraga, kita harus …",
+   "choices": [
+    "melakukan pemanasan lebih dulu",
+    "langsung berlari kencang",
+    "makan banyak sebelum lari",
+    "memakai sandal licin"
+   ],
+   "answer": 0,
+   "explain": "Pemanasan menyiapkan otot dan sendi.",
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "fromSource": true,
+   "id": "k3-pjok-038"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Setelah berolahraga, sebaiknya kita …",
+   "choices": [
+    "pendinginan dan minum air putih",
+    "langsung tidur",
+    "minum soda",
+    "makan permen banyak"
+   ],
+   "answer": 0,
+   "explain": "Pendinginan dan minum air membantu tubuh pulih.",
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "fromSource": true,
+   "id": "k3-pjok-039"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "Gerak menggunakan benda disebut gerak …",
+   "answer": "manipulatif",
+   "accept": [],
+   "explain": "Melempar, menangkap, menendang = manipulatif.",
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "fromSource": true,
+   "id": "k3-pjok-040"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "Gerak berpindah tempat disebut gerak …",
+   "answer": "lokomotor",
+   "accept": [],
+   "explain": "Lokomotor = berpindah tempat.",
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "fromSource": true,
+   "id": "k3-pjok-041"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "input",
+   "q": "Melempar dan menangkap bola melatih kerja sama mata dan …",
+   "answer": "tangan",
+   "accept": [],
+   "explain": "Koordinasi mata dan tangan.",
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "fromSource": true,
+   "id": "k3-pjok-042"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "input",
+   "q": "Gerakan sebelum berolahraga untuk menyiapkan otot disebut …",
+   "answer": "pemanasan",
+   "accept": [
+    "peregangan"
+   ],
+   "explain": "Pemanasan mencegah cedera.",
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "fromSource": true,
+   "id": "k3-pjok-043"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Sebutkan tiga jenis gerak dasar dan masing-masing satu contohnya!",
+   "answer": "Gerak berpindah tempat (lokomotor): berlari/melompat. Gerak di tempat (nonlokomotor): membungkuk/memutar badan. Gerak menggunakan benda (manipulatif): melempar/menangkap bola.",
+   "keywords": [
+    "berpindah tempat",
+    "di tempat",
+    "menggunakan benda"
+   ],
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "fromSource": true,
+   "id": "k3-pjok-044"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Apa manfaat bergerak dan berolahraga bagi tubuh?",
+   "answer": "Membuat tubuh sehat, otot kuat, seimbang, lincah, tidak mudah lelah, dan membantu aktivitas sehari-hari.",
+   "keywords": [
+    "sehat",
+    "kuat",
+    "seimbang",
+    "lincah"
+   ],
+   "bab": "Bab 1 Gerakku Semakin Lincah",
+   "fromSource": true,
+   "id": "k3-pjok-045"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Dalam permainan, tim yang berusaha merebut atau mencetak poin disebut tim …",
+   "choices": [
+    "penyerang",
+    "penjaga",
+    "penonton",
+    "cadangan"
+   ],
+   "answer": 0,
+   "explain": "Penyerang menyerang, penjaga bertahan.",
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "fromSource": true,
+   "id": "k3-pjok-046"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Bermain dengan jujur dan tidak curang disebut …",
+   "choices": [
+    "sportif",
+    "egois",
+    "sombong",
+    "malas"
+   ],
+   "answer": 0,
+   "explain": "Sportif = jujur dan menaati aturan.",
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "fromSource": true,
+   "id": "k3-pjok-047"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Permainan Pecah Piring dimainkan secara …",
+   "choices": [
+    "berkelompok (tim)",
+    "sendirian",
+    "sambil tidur",
+    "di dalam kelas saja"
+   ],
+   "answer": 0,
+   "explain": "Pecah Piring adalah permainan beregu.",
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "fromSource": true,
+   "id": "k3-pjok-048"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Bergerak zig-zag saat berlari termasuk …",
+   "choices": [
+    "strategi gerak",
+    "aturan main",
+    "pemanasan",
+    "pendinginan"
+   ],
+   "answer": 0,
+   "explain": "Strategi gerak = cara bergerak cerdik.",
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "fromSource": true,
+   "id": "k3-pjok-049"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Jika tim kalah, sikap yang benar adalah …",
+   "choices": [
+    "memberi selamat kepada pemenang",
+    "merusak alat",
+    "menangis keras",
+    "menyalahkan wasit"
+   ],
+   "answer": 0,
+   "explain": "Menerima kekalahan dan menghargai lawan.",
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "fromSource": true,
+   "id": "k3-pjok-050"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Aturan main dibuat sebelum bermain agar …",
+   "choices": [
+    "semua pemain bermain adil",
+    "ada yang curang",
+    "permainan kacau",
+    "cepat bosan"
+   ],
+   "answer": 0,
+   "explain": "Aturan membuat permainan adil dan rukun.",
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "fromSource": true,
+   "id": "k3-pjok-051"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Rafi berlari cepat tanpa rencana dan tertangkap lawan. Yang sebaiknya ia lakukan adalah …",
+   "choices": [
+    "berdiskusi membuat strategi bersama tim",
+    "berhenti bermain",
+    "marah kepada teman",
+    "berlari lebih cepat tanpa melihat"
+   ],
+   "answer": 0,
+   "explain": "Bergerak cerdik lebih baik daripada asal cepat.",
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "fromSource": true,
+   "id": "k3-pjok-052"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Dalam permainan Serbu Benteng, kerja sama tim penting karena …",
+   "choices": [
+    "tim bisa saling membantu menyerang dan bertahan",
+    "setiap pemain bermain sendiri",
+    "tidak ada aturan",
+    "semua pemain diam"
+   ],
+   "answer": 0,
+   "explain": "Tim yang kompak lebih mudah menang.",
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "fromSource": true,
+   "id": "k3-pjok-053"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Contoh sikap menghargai teman saat bermain adalah …",
+   "choices": [
+    "menyemangati teman yang gagal",
+    "mengejek teman yang lambat",
+    "tidak mau mengoper bola",
+    "mendorong lawan"
+   ],
+   "answer": 0,
+   "explain": "Saling menyemangati membuat tim kompak.",
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "fromSource": true,
+   "id": "k3-pjok-054"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "type": "input",
+   "q": "Cara cerdik bergerak agar menang disebut … gerak.",
+   "answer": "strategi",
+   "accept": [],
+   "explain": "Strategi gerak, misalnya zig-zag atau mengatur kecepatan.",
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "fromSource": true,
+   "id": "k3-pjok-055"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "type": "input",
+   "q": "Tim yang berusaha mencegah lawan mencetak poin disebut tim …",
+   "answer": "penjaga",
+   "accept": [
+    "bertahan"
+   ],
+   "explain": "Tim penjaga bertahan.",
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "fromSource": true,
+   "id": "k3-pjok-056"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "input",
+   "q": "Sikap jujur, menaati aturan, dan menerima kekalahan disebut sikap …",
+   "answer": "sportif",
+   "accept": [],
+   "explain": "Sportif adalah sikap terpuji dalam olahraga.",
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "fromSource": true,
+   "id": "k3-pjok-057"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "input",
+   "q": "Bekerja bersama-sama dalam tim disebut kerja …",
+   "answer": "sama",
+   "accept": [],
+   "explain": "Kerja sama tim membuat permainan menyenangkan.",
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "fromSource": true,
+   "id": "k3-pjok-058"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "uraian",
+   "q": "Mengapa strategi diperlukan dalam permainan? Berikan contoh strategi!",
+   "answer": "Agar tim bisa bermain cerdik, aman, dan lebih mudah menang. Contoh: berlari zig-zag, mengatur kecepatan, membagi tugas penyerang dan penjaga, mengatur arah lemparan.",
+   "keywords": [
+    "cerdik",
+    "menang",
+    "zig-zag",
+    "membagi tugas"
+   ],
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "fromSource": true,
+   "id": "k3-pjok-059"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "uraian",
+   "q": "Bagaimana sikapmu jika timmu kalah dalam permainan?",
+   "answer": "Menerima kekalahan dengan lapang dada, memberi selamat kepada tim lawan, tidak menyalahkan teman, dan berlatih lagi agar lebih baik.",
+   "keywords": [
+    "menerima",
+    "selamat",
+    "tidak menyalahkan",
+    "berlatih"
+   ],
+   "bab": "Bab 2 Ayo, Bermain Strategi!",
+   "fromSource": true,
+   "id": "k3-pjok-060"
+  }
+ ]
+}

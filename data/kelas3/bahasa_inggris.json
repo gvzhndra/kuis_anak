@@ -1,0 +1,1180 @@
+{
+ "subject": "Bahasa Inggris",
+ "icon": "🇬🇧",
+ "lang": "en",
+ "source": "Buku Siswa Bahasa Inggris: English for Nusantara Kids untuk SD/MI Kelas III (Kemendikdasmen) · Chapter 1–3",
+ "chapters": [
+  "Chapter 1 My Self",
+  "Chapter 2 My Family",
+  "Chapter 3 My Family's Activities at Home"
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "bab": "Chapter 1 My Self",
+   "q": "\"What is your name?\" artinya …",
+   "img": "What is your name?",
+   "imgLang": "en",
+   "choiceLang": "id",
+   "choices": [
+    "Siapa namamu?",
+    "Berapa umurmu?",
+    "Dari mana asalmu?",
+    "Apa kabar?"
+   ],
+   "answer": 0,
+   "explain": "What is your name? = Siapa namamu? Jawab: My name is …",
+   "id": "k3-bahasa_inggris-001",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "bab": "Chapter 1 My Self",
+   "q": "Jawaban yang tepat untuk \"How are you?\" adalah …",
+   "choices": [
+    "I am good, thank you.",
+    "My name is Bara.",
+    "I am from Bali.",
+    "I like singing."
+   ],
+   "answer": 0,
+   "explain": "How are you? = Apa kabar? Jawab: I am good / I am fine.",
+   "id": "k3-bahasa_inggris-002",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "bab": "Chapter 1 My Favorite Activity",
+   "q": "\"I like drawing.\" artinya aku suka …",
+   "img": "I like drawing.",
+   "imgLang": "en",
+   "choiceLang": "id",
+   "choices": [
+    "menggambar",
+    "menari",
+    "bernyanyi",
+    "berenang"
+   ],
+   "answer": 0,
+   "explain": "Drawing = menggambar 🎨.",
+   "id": "k3-bahasa_inggris-003",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "bab": "Chapter 1 My Favorite Activity",
+   "q": "Bahasa Inggris dari \"menari\" adalah …",
+   "img": "💃",
+   "imgSpeak": "",
+   "choices": [
+    "dancing",
+    "singing",
+    "reading",
+    "cooking"
+   ],
+   "answer": 0,
+   "explain": "Menari = dancing.",
+   "id": "k3-bahasa_inggris-004",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "bab": "Chapter 2 My Family",
+   "q": "Bahasa Inggris dari \"ayah\" adalah …",
+   "choices": [
+    "father",
+    "mother",
+    "brother",
+    "sister"
+   ],
+   "answer": 0,
+   "explain": "Father = ayah, mother = ibu.",
+   "id": "k3-bahasa_inggris-005",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "bab": "Chapter 2 My Family",
+   "q": "\"Grandmother\" artinya …",
+   "img": "grandmother",
+   "imgLang": "en",
+   "choiceLang": "id",
+   "choices": [
+    "nenek",
+    "kakek",
+    "bibi",
+    "ibu"
+   ],
+   "answer": 0,
+   "explain": "Grandmother = nenek, grandfather = kakek.",
+   "id": "k3-bahasa_inggris-006",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "bab": "Chapter 2 My Family",
+   "q": "Saudara laki-laki dalam bahasa Inggris adalah …",
+   "choices": [
+    "brother",
+    "sister",
+    "father",
+    "uncle"
+   ],
+   "answer": 0,
+   "explain": "Brother = saudara laki-laki. Sister = saudara perempuan.",
+   "id": "k3-bahasa_inggris-007",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "bab": "Chapter 3 Parts of My House",
+   "q": "Ruangan untuk memasak dalam bahasa Inggris adalah …",
+   "img": "🍳",
+   "imgSpeak": "",
+   "choices": [
+    "kitchen",
+    "bedroom",
+    "bathroom",
+    "garden"
+   ],
+   "answer": 0,
+   "explain": "Kitchen = dapur.",
+   "id": "k3-bahasa_inggris-008",
+   "ch": 3
+  },
+  {
+   "level": 1,
+   "bab": "Chapter 3 Parts of My House",
+   "q": "Ruangan untuk tidur dalam bahasa Inggris adalah …",
+   "img": "🛏️",
+   "imgSpeak": "",
+   "choices": [
+    "bedroom",
+    "kitchen",
+    "living room",
+    "terrace"
+   ],
+   "answer": 0,
+   "explain": "Bedroom = kamar tidur.",
+   "id": "k3-bahasa_inggris-009",
+   "ch": 3
+  },
+  {
+   "level": 1,
+   "bab": "Chapter 1 My Self",
+   "q": "\"How old are you?\" artinya …",
+   "img": "How old are you?",
+   "imgLang": "en",
+   "choiceLang": "id",
+   "choices": [
+    "Berapa umurmu?",
+    "Siapa namamu?",
+    "Di mana rumahmu?",
+    "Apa hobimu?"
+   ],
+   "answer": 0,
+   "explain": "How old are you? = Berapa umurmu? Jawab: I am eight years old.",
+   "id": "k3-bahasa_inggris-010",
+   "ch": 1
+  },
+  {
+   "level": 2,
+   "bab": "Chapter 1 My Self",
+   "q": "Jawaban yang tepat untuk \"How old are you?\" adalah …",
+   "choices": [
+    "I am eight years old.",
+    "I am fine.",
+    "My name is Mita.",
+    "I am in the kitchen."
+   ],
+   "answer": 0,
+   "explain": "Umur dijawab dengan: I am … years old.",
+   "id": "k3-bahasa_inggris-011",
+   "ch": 1
+  },
+  {
+   "level": 2,
+   "bab": "Chapter 1 My Favorite Activity",
+   "q": "Jawaban yang tepat untuk \"What is your favorite activity?\" adalah …",
+   "choices": [
+    "I like playing badminton.",
+    "I am from Malang.",
+    "She is my mother.",
+    "I am nine years old."
+   ],
+   "answer": 0,
+   "explain": "Favorite activity = kegiatan kesukaan. Jawab: I like …",
+   "id": "k3-bahasa_inggris-012",
+   "ch": 1
+  },
+  {
+   "level": 2,
+   "bab": "Chapter 2 My Family’s Origins",
+   "q": "\"Where are you from?\" artinya …",
+   "img": "Where are you from?",
+   "imgLang": "en",
+   "choiceLang": "id",
+   "choices": [
+    "Dari mana asalmu?",
+    "Ke mana kamu pergi?",
+    "Siapa ayahmu?",
+    "Kapan kamu datang?"
+   ],
+   "answer": 0,
+   "explain": "Where are you from? = Dari mana asalmu? Jawab: I am from Bali.",
+   "id": "k3-bahasa_inggris-013",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Chapter 2 My Family",
+   "q": "Lengkapi kalimat: \"… is my mother.\"",
+   "imgLang": "en",
+   "choices": [
+    "She",
+    "He",
+    "It",
+    "They"
+   ],
+   "answer": 0,
+   "explain": "Untuk perempuan memakai She. Untuk laki-laki memakai He.",
+   "id": "k3-bahasa_inggris-014",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Chapter 2 My Family",
+   "q": "Lengkapi kalimat: \"… is my father.\"",
+   "choices": [
+    "He",
+    "She",
+    "We",
+    "They"
+   ],
+   "answer": 0,
+   "explain": "Ayah laki-laki, jadi memakai He.",
+   "id": "k3-bahasa_inggris-015",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Chapter 2 My Family",
+   "q": "\"Are you twins?\" artinya …",
+   "img": "Are you twins?",
+   "imgLang": "en",
+   "choiceLang": "id",
+   "choices": [
+    "Apakah kalian kembar?",
+    "Apakah kalian lapar?",
+    "Apakah kalian kakak beradik?",
+    "Apakah kalian siap?"
+   ],
+   "answer": 0,
+   "explain": "Twins = kembar.",
+   "id": "k3-bahasa_inggris-016",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Chapter 3 Activities at Home",
+   "q": "\"She is washing the dishes.\" artinya dia sedang …",
+   "img": "She is washing the dishes.",
+   "imgLang": "en",
+   "choiceLang": "id",
+   "choices": [
+    "mencuci piring",
+    "mencuci baju",
+    "menyapu lantai",
+    "memasak nasi"
+   ],
+   "answer": 0,
+   "explain": "Washing the dishes = mencuci piring 🍽️.",
+   "id": "k3-bahasa_inggris-017",
+   "ch": 3
+  },
+  {
+   "level": 2,
+   "bab": "Chapter 3 Activities at Home",
+   "q": "Bahasa Inggris dari \"menyapu lantai\" adalah …",
+   "img": "🧹",
+   "imgSpeak": "",
+   "choices": [
+    "sweeping the floor",
+    "mopping the floor",
+    "making the bed",
+    "washing clothes"
+   ],
+   "answer": 0,
+   "explain": "Menyapu = sweeping. Mengepel = mopping.",
+   "id": "k3-bahasa_inggris-018",
+   "ch": 3
+  },
+  {
+   "level": 2,
+   "bab": "Chapter 3 Parts of My House",
+   "q": "\"Living room\" artinya …",
+   "img": "living room",
+   "imgLang": "en",
+   "choiceLang": "id",
+   "choices": [
+    "ruang keluarga/tamu",
+    "kamar mandi",
+    "dapur",
+    "halaman belakang"
+   ],
+   "answer": 0,
+   "explain": "Living room = ruang keluarga atau ruang tamu.",
+   "id": "k3-bahasa_inggris-019",
+   "ch": 3
+  },
+  {
+   "level": 2,
+   "bab": "Chapter 3 Parts of My House",
+   "q": "Ruangan untuk mandi dalam bahasa Inggris adalah …",
+   "img": "🛁",
+   "imgSpeak": "",
+   "choices": [
+    "bathroom",
+    "bedroom",
+    "kitchen",
+    "backyard"
+   ],
+   "answer": 0,
+   "explain": "Bathroom = kamar mandi.",
+   "id": "k3-bahasa_inggris-020",
+   "ch": 3
+  },
+  {
+   "level": 3,
+   "bab": "Chapter 1 My Self",
+   "q": "Pertanyaan yang tepat untuk jawaban \"My name is Pipit.\" adalah …",
+   "choices": [
+    "What is your name?",
+    "How old are you?",
+    "Where are you from?",
+    "How are you?"
+   ],
+   "answer": 0,
+   "explain": "My name is … menjawab pertanyaan What is your name?",
+   "id": "k3-bahasa_inggris-021",
+   "ch": 1
+  },
+  {
+   "level": 3,
+   "bab": "Chapter 1 My Favorite Activity",
+   "q": "Pilih kalimat yang BENAR!",
+   "choices": [
+    "I like singing.",
+    "I likes singing.",
+    "I like sing.",
+    "I liking singing."
+   ],
+   "answer": 0,
+   "explain": "Pola yang benar: I like + kata kerja-ing. Contoh: I like singing.",
+   "id": "k3-bahasa_inggris-022",
+   "ch": 1
+  },
+  {
+   "level": 3,
+   "bab": "Chapter 2 My Family’s Origins",
+   "q": "Bara berasal dari Medan. Kalimat yang tepat adalah …",
+   "choices": [
+    "He is from Medan.",
+    "She is from Medan.",
+    "He is in Medan school.",
+    "I am from Bara."
+   ],
+   "answer": 0,
+   "explain": "Bara laki-laki → He. Asal daerah → is from …",
+   "id": "k3-bahasa_inggris-023",
+   "ch": 2
+  },
+  {
+   "level": 3,
+   "bab": "Chapter 2 My Family",
+   "q": "Adik perempuan dalam bahasa Inggris adalah …",
+   "choices": [
+    "little sister",
+    "big brother",
+    "little brother",
+    "grandmother"
+   ],
+   "answer": 0,
+   "explain": "Little sister = adik perempuan. Little brother = adik laki-laki.",
+   "id": "k3-bahasa_inggris-024",
+   "ch": 2
+  },
+  {
+   "level": 3,
+   "bab": "Chapter 3 Activities at Home",
+   "q": "\"What is he doing?\" Jawaban yang tepat adalah …",
+   "img": "👨‍🌾🌱",
+   "imgSpeak": "",
+   "choices": [
+    "He is gardening.",
+    "She is gardening.",
+    "He is from garden.",
+    "I am gardening."
+   ],
+   "answer": 0,
+   "explain": "What is he doing? = Apa yang sedang dia (laki-laki) lakukan? Jawab: He is …-ing.",
+   "id": "k3-bahasa_inggris-025",
+   "ch": 3
+  },
+  {
+   "level": 3,
+   "bab": "Chapter 3 Activities at Home",
+   "q": "\"I am making the bed.\" artinya aku sedang …",
+   "img": "I am making the bed.",
+   "imgLang": "en",
+   "choiceLang": "id",
+   "choices": [
+    "merapikan tempat tidur",
+    "membuat tempat tidur baru",
+    "tidur di kasur",
+    "membeli kasur"
+   ],
+   "answer": 0,
+   "explain": "Making the bed = merapikan tempat tidur.",
+   "id": "k3-bahasa_inggris-026",
+   "ch": 3
+  },
+  {
+   "level": 3,
+   "bab": "Chapter 3 Parts of My House",
+   "q": "Ayah sedang minum kopi di halaman belakang. Dalam bahasa Inggris …",
+   "choices": [
+    "He is drinking coffee in the backyard.",
+    "She is drinking coffee in the kitchen.",
+    "He is sweeping in the bedroom.",
+    "He is from the backyard."
+   ],
+   "answer": 0,
+   "explain": "Backyard = halaman belakang. Ayah → He.",
+   "id": "k3-bahasa_inggris-027",
+   "ch": 3
+  },
+  {
+   "level": 3,
+   "bab": "Chapter 3 Parts of My House",
+   "q": "\"Where is your mother?\" — \"She is in the …\" (Ibu sedang memasak)",
+   "choices": [
+    "kitchen",
+    "bedroom",
+    "bathroom",
+    "terrace"
+   ],
+   "answer": 0,
+   "explain": "Memasak dilakukan di dapur = kitchen.",
+   "id": "k3-bahasa_inggris-028",
+   "ch": 3
+  },
+  {
+   "level": 3,
+   "bab": "Chapter 3 Activities at Home",
+   "q": "Pilih kalimat yang BENAR!",
+   "choices": [
+    "She is mopping the floor.",
+    "She are mopping the floor.",
+    "She is mop the floor.",
+    "She mopping the floor."
+   ],
+   "answer": 0,
+   "explain": "Pola: She/He is + kata kerja-ing.",
+   "id": "k3-bahasa_inggris-029",
+   "ch": 3
+  },
+  {
+   "level": 3,
+   "bab": "Chapter 2 My Family",
+   "q": "Ayah dan ibu kita dalam bahasa Inggris disebut …",
+   "choices": [
+    "parents",
+    "twins",
+    "grandparents",
+    "brothers"
+   ],
+   "answer": 0,
+   "explain": "Parents = orang tua (ayah dan ibu).",
+   "id": "k3-bahasa_inggris-030",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "\"Hello, my name is Gani.\" Kata \"name\" artinya …",
+   "choices": [
+    "nama",
+    "umur",
+    "rumah",
+    "hobi"
+   ],
+   "answer": 0,
+   "explain": "Name = nama.",
+   "bab": "Chapter 1 My Self",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-031"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Bahasa Inggris dari \"membaca\" adalah …",
+   "choices": [
+    "reading",
+    "writing",
+    "singing",
+    "cooking"
+   ],
+   "answer": 0,
+   "explain": "Reading = membaca.",
+   "bab": "Chapter 1 My Self",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-032"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "\"I am nine years old.\" Artinya umurku …",
+   "choices": [
+    "sembilan tahun",
+    "delapan tahun",
+    "sepuluh tahun",
+    "tujuh tahun"
+   ],
+   "answer": 0,
+   "explain": "Nine = sembilan.",
+   "bab": "Chapter 1 My Self",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-033"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "\"What is your favorite activity?\" artinya …",
+   "choices": [
+    "Apa kegiatan kesukaanmu?",
+    "Siapa namamu?",
+    "Kamu tinggal di mana?",
+    "Berapa umurmu?"
+   ],
+   "answer": 0,
+   "explain": "Favorite activity = kegiatan kesukaan.",
+   "bab": "Chapter 1 My Self",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-034"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "\"I like playing badminton.\" Kegiatan kesukaannya adalah …",
+   "choices": [
+    "bermain bulu tangkis",
+    "bermain sepak bola",
+    "berenang",
+    "menari"
+   ],
+   "answer": 0,
+   "explain": "Badminton = bulu tangkis.",
+   "bab": "Chapter 1 My Self",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-035"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "\"Nice to meet you.\" artinya …",
+   "choices": [
+    "Senang bertemu denganmu.",
+    "Sampai jumpa lagi.",
+    "Selamat pagi.",
+    "Terima kasih."
+   ],
+   "answer": 0,
+   "explain": "Diucapkan saat berkenalan.",
+   "bab": "Chapter 1 My Self",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-036"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Jawaban untuk \"When do you do your favorite activity?\" adalah …",
+   "choices": [
+    "On Sunday.",
+    "I like drawing.",
+    "My name is Mita.",
+    "I am from Malang."
+   ],
+   "answer": 0,
+   "explain": "When = kapan, dijawab dengan waktu.",
+   "bab": "Chapter 1 My Self",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-037"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Pilih kalimat perkenalan yang BENAR!",
+   "choices": [
+    "My name is Putu. I am eight years old.",
+    "My name Putu. I eight years old.",
+    "Name my is Putu.",
+    "I am name Putu."
+   ],
+   "answer": 0,
+   "explain": "Pola: My name is … / I am … years old.",
+   "bab": "Chapter 1 My Self",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-038"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "\"I like singing and dancing.\" Artinya …",
+   "choices": [
+    "Aku suka bernyanyi dan menari.",
+    "Aku suka membaca dan menulis.",
+    "Aku tidak suka menyanyi.",
+    "Aku suka memasak."
+   ],
+   "answer": 0,
+   "explain": "Singing = bernyanyi, dancing = menari.",
+   "bab": "Chapter 1 My Self",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-039"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"menggambar\" adalah …",
+   "answer": "drawing",
+   "accept": [
+    "draw"
+   ],
+   "explain": "Drawing = menggambar.",
+   "bab": "Chapter 1 My Self",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-040"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "\"How are you?\" — \"I am …, thank you.\" (baik)",
+   "answer": "fine",
+   "accept": [
+    "good",
+    "great"
+   ],
+   "explain": "I am fine / good, thank you.",
+   "bab": "Chapter 1 My Self",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-041"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "input",
+   "q": "Lengkapi: \"My … is Bara.\" (namaku Bara)",
+   "answer": "name",
+   "accept": [],
+   "explain": "My name is Bara.",
+   "bab": "Chapter 1 My Self",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-042"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "input",
+   "q": "Bahasa Inggris dari angka 8 adalah …",
+   "answer": "eight",
+   "accept": [],
+   "explain": "8 = eight.",
+   "bab": "Chapter 1 My Self",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-043"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Perkenalkan dirimu dalam bahasa Inggris (nama, umur, kegiatan kesukaan)!",
+   "answer": "Hello! My name is Komang. I am eight years old. I like drawing. (Contoh — sesuaikan dengan dirimu.)",
+   "keywords": [
+    "my name is",
+    "years old",
+    "I like"
+   ],
+   "bab": "Chapter 1 My Self",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-044"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Tuliskan dua kegiatan kesukaan dalam bahasa Inggris beserta artinya!",
+   "answer": "Contoh: reading (membaca), drawing (menggambar), singing (bernyanyi), dancing (menari), playing football (bermain sepak bola), swimming (berenang).",
+   "keywords": [
+    "reading",
+    "drawing",
+    "singing",
+    "dancing",
+    "playing"
+   ],
+   "bab": "Chapter 1 My Self",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-045"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "\"Father\" artinya …",
+   "choices": [
+    "ayah",
+    "ibu",
+    "kakek",
+    "paman"
+   ],
+   "answer": 0,
+   "explain": "Father = ayah.",
+   "bab": "Chapter 2 My Family",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-046"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "\"Grandfather\" artinya …",
+   "choices": [
+    "kakek",
+    "nenek",
+    "ayah",
+    "kakak"
+   ],
+   "answer": 0,
+   "explain": "Grandfather = kakek.",
+   "bab": "Chapter 2 My Family",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-047"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "\"This is my family.\" artinya …",
+   "choices": [
+    "Ini keluargaku.",
+    "Ini rumahku.",
+    "Ini sekolahku.",
+    "Ini temanku."
+   ],
+   "answer": 0,
+   "explain": "Family = keluarga.",
+   "bab": "Chapter 2 My Family",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-048"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "\"She is my little sister.\" artinya …",
+   "choices": [
+    "Dia adik perempuanku.",
+    "Dia kakak laki-lakiku.",
+    "Dia ibuku.",
+    "Dia nenekku."
+   ],
+   "answer": 0,
+   "explain": "Little sister = adik perempuan.",
+   "bab": "Chapter 2 My Family",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-049"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "\"Where is Bara from?\" — \"He is from …\"",
+   "choices": [
+    "Medan",
+    "eight years",
+    "reading",
+    "my father"
+   ],
+   "answer": 0,
+   "explain": "Dijawab dengan nama tempat asal.",
+   "bab": "Chapter 2 My Family",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-050"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Pipit punya adik kembar, Putra dan Putri. Kembar dalam bahasa Inggris adalah …",
+   "choices": [
+    "twins",
+    "parents",
+    "cousins",
+    "friends"
+   ],
+   "answer": 0,
+   "explain": "Twins = kembar.",
+   "bab": "Chapter 2 My Family",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-051"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Pilih kalimat yang BENAR!",
+   "choices": [
+    "He is my brother.",
+    "She is my brother.",
+    "He are my brother.",
+    "He my brother is."
+   ],
+   "answer": 0,
+   "explain": "Laki-laki → He is …",
+   "bab": "Chapter 2 My Family",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-052"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "\"My mother is from Cianjur.\" Kalimat ini menjelaskan … ibu.",
+   "choices": [
+    "asal daerah",
+    "umur",
+    "hobi",
+    "pekerjaan"
+   ],
+   "answer": 0,
+   "explain": "Is from … = berasal dari …",
+   "bab": "Chapter 2 My Family",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-053"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Ayah dari ayah kita dalam bahasa Inggris disebut …",
+   "choices": [
+    "grandfather",
+    "uncle",
+    "brother",
+    "father"
+   ],
+   "answer": 0,
+   "explain": "Ayahnya ayah = kakek = grandfather.",
+   "bab": "Chapter 2 My Family",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-054"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"ibu\" adalah …",
+   "answer": "mother",
+   "accept": [
+    "mom",
+    "mum"
+   ],
+   "explain": "Mother = ibu.",
+   "bab": "Chapter 2 My Family",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-055"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"kakak/adik laki-laki\" adalah …",
+   "answer": "brother",
+   "accept": [],
+   "explain": "Brother = saudara laki-laki.",
+   "bab": "Chapter 2 My Family",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-056"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "input",
+   "q": "Lengkapi: \"… is my mother.\" (Dia)",
+   "answer": "She",
+   "accept": [],
+   "explain": "Untuk perempuan memakai She.",
+   "bab": "Chapter 2 My Family",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-057"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "input",
+   "q": "\"Where are you …?\" — \"I am from Bali.\"",
+   "answer": "from",
+   "accept": [],
+   "explain": "Where are you from? = Dari mana asalmu?",
+   "bab": "Chapter 2 My Family",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-058"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "uraian",
+   "q": "Perkenalkan dua anggota keluargamu dalam bahasa Inggris!",
+   "answer": "Contoh: This is my father. He is from Gianyar. This is my mother. She is from Denpasar.",
+   "keywords": [
+    "This is my",
+    "he is",
+    "she is"
+   ],
+   "bab": "Chapter 2 My Family",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-059"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "uraian",
+   "q": "Terjemahkan ke bahasa Inggris: \"Ini nenekku. Dia berasal dari Bali.\"",
+   "answer": "This is my grandmother. She is from Bali.",
+   "keywords": [
+    "This is my grandmother",
+    "She is from Bali"
+   ],
+   "bab": "Chapter 2 My Family",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-060"
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "\"Bathroom\" artinya …",
+   "choices": [
+    "kamar mandi",
+    "kamar tidur",
+    "dapur",
+    "teras"
+   ],
+   "answer": 0,
+   "explain": "Bathroom = kamar mandi.",
+   "bab": "Chapter 3 My Family's Activities at Home",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-061"
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "\"Terrace\" artinya …",
+   "choices": [
+    "teras",
+    "dapur",
+    "halaman belakang",
+    "ruang tamu"
+   ],
+   "answer": 0,
+   "explain": "Terrace = teras.",
+   "bab": "Chapter 3 My Family's Activities at Home",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-062"
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "Bahasa Inggris dari \"mencuci baju\" adalah …",
+   "choices": [
+    "washing clothes",
+    "washing dishes",
+    "sweeping the floor",
+    "making the bed"
+   ],
+   "answer": 0,
+   "explain": "Clothes = baju/pakaian.",
+   "bab": "Chapter 3 My Family's Activities at Home",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-063"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "\"I am mopping the floor.\" artinya …",
+   "choices": [
+    "Aku sedang mengepel lantai.",
+    "Aku sedang menyapu lantai.",
+    "Aku sedang mencuci piring.",
+    "Aku sedang tidur."
+   ],
+   "answer": 0,
+   "explain": "Mopping = mengepel.",
+   "bab": "Chapter 3 My Family's Activities at Home",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-064"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "\"He is gardening.\" artinya dia sedang …",
+   "choices": [
+    "berkebun",
+    "memasak",
+    "mandi",
+    "membaca"
+   ],
+   "answer": 0,
+   "explain": "Gardening = berkebun.",
+   "bab": "Chapter 3 My Family's Activities at Home",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-065"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "Ruangan untuk menerima tamu dan berkumpul keluarga adalah …",
+   "choices": [
+    "living room",
+    "bathroom",
+    "kitchen",
+    "backyard"
+   ],
+   "answer": 0,
+   "explain": "Living room = ruang keluarga/tamu.",
+   "bab": "Chapter 3 My Family's Activities at Home",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-066"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "\"Where is your sister?\" — \"She is in the bedroom.\" Kakak/adik perempuannya ada di …",
+   "choices": [
+    "kamar tidur",
+    "dapur",
+    "kamar mandi",
+    "halaman"
+   ],
+   "answer": 0,
+   "explain": "Bedroom = kamar tidur.",
+   "bab": "Chapter 3 My Family's Activities at Home",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-067"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "Ibu sedang memasak di dapur. Dalam bahasa Inggris …",
+   "choices": [
+    "My mother is cooking in the kitchen.",
+    "My mother is cooking in the bedroom.",
+    "My father is cooking in the kitchen.",
+    "My mother is sweeping in the kitchen."
+   ],
+   "answer": 0,
+   "explain": "Cooking = memasak, kitchen = dapur.",
+   "bab": "Chapter 3 My Family's Activities at Home",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-068"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "\"What are they doing?\" Kata \"they\" artinya …",
+   "choices": [
+    "mereka",
+    "dia perempuan",
+    "kami",
+    "kamu"
+   ],
+   "answer": 0,
+   "explain": "They = mereka.",
+   "bab": "Chapter 3 My Family's Activities at Home",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-069"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"dapur\" adalah …",
+   "answer": "kitchen",
+   "accept": [],
+   "explain": "Kitchen = dapur.",
+   "bab": "Chapter 3 My Family's Activities at Home",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-070"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"kamar tidur\" adalah …",
+   "answer": "bedroom",
+   "accept": [],
+   "explain": "Bedroom = kamar tidur.",
+   "bab": "Chapter 3 My Family's Activities at Home",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-071"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "input",
+   "q": "Lengkapi: \"She is … the dishes.\" (mencuci)",
+   "answer": "washing",
+   "accept": [],
+   "explain": "Washing the dishes = mencuci piring.",
+   "bab": "Chapter 3 My Family's Activities at Home",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-072"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"halaman belakang\" adalah …",
+   "answer": "backyard",
+   "accept": [],
+   "explain": "Backyard = halaman belakang.",
+   "bab": "Chapter 3 My Family's Activities at Home",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-073"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "uraian",
+   "q": "Sebutkan 4 ruangan di rumah dalam bahasa Inggris beserta artinya!",
+   "answer": "Living room (ruang tamu/keluarga), bedroom (kamar tidur), kitchen (dapur), bathroom (kamar mandi), terrace (teras), backyard (halaman belakang), garden (kebun).",
+   "keywords": [
+    "living room",
+    "bedroom",
+    "kitchen",
+    "bathroom"
+   ],
+   "bab": "Chapter 3 My Family's Activities at Home",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-074"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "uraian",
+   "q": "Tuliskan dalam bahasa Inggris: kegiatan yang kamu lakukan di rumah untuk membantu orang tua (2 kalimat)!",
+   "answer": "Contoh: I am sweeping the floor. I am making the bed. I am washing the dishes.",
+   "keywords": [
+    "I am",
+    "sweeping",
+    "making the bed",
+    "washing"
+   ],
+   "bab": "Chapter 3 My Family's Activities at Home",
+   "fromSource": true,
+   "id": "k3-bahasa_inggris-075"
+  }
+ ]
+}

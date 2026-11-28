@@ -20,7 +20,8 @@
    ],
    "answer": 0,
    "explain": "Pura = masa lampau, ana = mengatakan. Purana = cerita masa lampau.",
-   "id": "k3-agama_hindu-001"
+   "id": "k3-agama_hindu-001",
+   "ch": 1
   },
   {
    "level": 1,
@@ -34,7 +35,8 @@
    ],
    "answer": 0,
    "explain": "Weda adalah sumber pokok ajaran Hindu.",
-   "id": "k3-agama_hindu-002"
+   "id": "k3-agama_hindu-002",
+   "ch": 1
   },
   {
    "level": 1,
@@ -48,7 +50,8 @@
    ],
    "answer": 0,
    "explain": "Tri = tiga, Murti = perwujudan.",
-   "id": "k3-agama_hindu-003"
+   "id": "k3-agama_hindu-003",
+   "ch": 2
   },
   {
    "level": 1,
@@ -62,7 +65,8 @@
    ],
    "answer": 0,
    "explain": "Brahma = pencipta, Wisnu = pemelihara, Siwa = pelebur.",
-   "id": "k3-agama_hindu-004"
+   "id": "k3-agama_hindu-004",
+   "ch": 2
   },
   {
    "level": 1,
@@ -76,7 +80,8 @@
    ],
    "answer": 0,
    "explain": "Dewa Wisnu memelihara alam semesta.",
-   "id": "k3-agama_hindu-005"
+   "id": "k3-agama_hindu-005",
+   "ch": 2
   },
   {
    "level": 1,
@@ -90,7 +95,8 @@
    ],
    "answer": 0,
    "explain": "Dewa Siwa melebur (mempralina) untuk menjaga keharmonisan.",
-   "id": "k3-agama_hindu-006"
+   "id": "k3-agama_hindu-006",
+   "ch": 2
   },
   {
    "level": 1,
@@ -104,7 +110,8 @@
    ],
    "answer": 0,
    "explain": "Tri Parartha: asih, punia, dan bhakti.",
-   "id": "k3-agama_hindu-007"
+   "id": "k3-agama_hindu-007",
+   "ch": 3
   },
   {
    "level": 1,
@@ -118,7 +125,8 @@
    ],
    "answer": 0,
    "explain": "Asih = kasih sayang kepada semua makhluk.",
-   "id": "k3-agama_hindu-008"
+   "id": "k3-agama_hindu-008",
+   "ch": 3
   },
   {
    "level": 2,
@@ -132,7 +140,8 @@
    ],
    "answer": 0,
    "explain": "Mahapurana = Purana utama, Upapurana = pelengkap.",
-   "id": "k3-agama_hindu-009"
+   "id": "k3-agama_hindu-009",
+   "ch": 1
   },
   {
    "level": 2,
@@ -146,7 +155,8 @@
    ],
    "answer": 0,
    "explain": "Ada 18 kitab Mahapurana.",
-   "id": "k3-agama_hindu-010"
+   "id": "k3-agama_hindu-010",
+   "ch": 1
   },
   {
    "level": 2,
@@ -160,7 +170,8 @@
    ],
    "answer": 0,
    "explain": "Sattwika = Wisnu, Rajasika = Brahma, Tamasika = Siwa.",
-   "id": "k3-agama_hindu-011"
+   "id": "k3-agama_hindu-011",
+   "ch": 1
   },
   {
    "level": 2,
@@ -174,7 +185,8 @@
    ],
    "answer": 0,
    "explain": "Kisah Dhruwa ada dalam Wisnu Purana.",
-   "id": "k3-agama_hindu-012"
+   "id": "k3-agama_hindu-012",
+   "ch": 1
   },
   {
    "level": 2,
@@ -188,7 +200,8 @@
    ],
    "answer": 0,
    "explain": "Dewi Saraswati, dewi ilmu pengetahuan.",
-   "id": "k3-agama_hindu-013"
+   "id": "k3-agama_hindu-013",
+   "ch": 2
   },
   {
    "level": 2,
@@ -202,7 +215,8 @@
    ],
    "answer": 0,
    "explain": "Dewi Sri/Laksmi, dewi kemakmuran dan kesuburan.",
-   "id": "k3-agama_hindu-014"
+   "id": "k3-agama_hindu-014",
+   "ch": 2
   },
   {
    "level": 2,
@@ -216,7 +230,8 @@
    ],
    "answer": 0,
    "explain": "Brahma = api, Wisnu = air, Siwa = angin.",
-   "id": "k3-agama_hindu-015"
+   "id": "k3-agama_hindu-015",
+   "ch": 2
   },
   {
    "level": 2,
@@ -230,7 +245,8 @@
    ],
    "answer": 0,
    "explain": "Punia = memberi bantuan dengan tulus ikhlas.",
-   "id": "k3-agama_hindu-016"
+   "id": "k3-agama_hindu-016",
+   "ch": 3
   },
   {
    "level": 2,
@@ -244,7 +260,8 @@
    ],
    "answer": 0,
    "explain": "Tri = tiga, parartha = kebahagiaan.",
-   "id": "k3-agama_hindu-017"
+   "id": "k3-agama_hindu-017",
+   "ch": 3
   },
   {
    "level": 3,
@@ -258,7 +275,8 @@
    ],
    "answer": 0,
    "explain": "Dhruwa tekun bertapa dan berani pergi ke hutan sendirian.",
-   "id": "k3-agama_hindu-018"
+   "id": "k3-agama_hindu-018",
+   "ch": 1
   },
   {
    "level": 3,
@@ -272,7 +290,8 @@
    ],
    "answer": 0,
    "explain": "Rsi Markandya datang dari Gunung Raung, Jawa Timur.",
-   "id": "k3-agama_hindu-019"
+   "id": "k3-agama_hindu-019",
+   "ch": 1
   },
   {
    "level": 3,
@@ -286,7 +305,8 @@
    ],
    "answer": 0,
    "explain": "Panca Datu: emas, perak, tembaga, perunggu, besi.",
-   "id": "k3-agama_hindu-020"
+   "id": "k3-agama_hindu-020",
+   "ch": 1
   },
   {
    "level": 3,
@@ -300,7 +320,8 @@
    ],
    "answer": 0,
    "explain": "Gunung Tohlangkir diberi nama Gunung Agung.",
-   "id": "k3-agama_hindu-021"
+   "id": "k3-agama_hindu-021",
+   "ch": 1
   },
   {
    "level": 3,
@@ -314,7 +335,8 @@
    ],
    "answer": 0,
    "explain": "Purana membangkitkan sikap sraddha dan bhakti kepada Hyang Widhi.",
-   "id": "k3-agama_hindu-022"
+   "id": "k3-agama_hindu-022",
+   "ch": 1
   },
   {
    "level": 3,
@@ -328,7 +350,8 @@
    ],
    "answer": 0,
    "explain": "Tri Netra = tiga mata. Brahma disebut Catur Muka (empat muka).",
-   "id": "k3-agama_hindu-023"
+   "id": "k3-agama_hindu-023",
+   "ch": 2
   },
   {
    "level": 3,
@@ -342,7 +365,8 @@
    ],
    "answer": 0,
    "explain": "Dewi Parwati juga disebut Dewi Uma dan Dewi Durga.",
-   "id": "k3-agama_hindu-024"
+   "id": "k3-agama_hindu-024",
+   "ch": 2
   },
   {
    "level": 3,
@@ -356,7 +380,8 @@
    ],
    "answer": 0,
    "explain": "Bhakti = perilaku hormat kepada orang tua, guru, pemerintah, dan Hyang Widhi.",
-   "id": "k3-agama_hindu-025"
+   "id": "k3-agama_hindu-025",
+   "ch": 3
   },
   {
    "level": 3,
@@ -370,7 +395,8 @@
    ],
    "answer": 0,
    "explain": "Menyayangi binatang = asih (kasih sayang kepada semua makhluk).",
-   "id": "k3-agama_hindu-026"
+   "id": "k3-agama_hindu-026",
+   "ch": 3
   },
   {
    "level": 3,
@@ -384,7 +410,8 @@
    ],
    "answer": 0,
    "explain": "Punia = memberi bantuan dengan tulus ikhlas.",
-   "id": "k3-agama_hindu-027"
+   "id": "k3-agama_hindu-027",
+   "ch": 3
   },
   {
    "level": 1,
@@ -398,7 +425,8 @@
    ],
    "answer": 0,
    "explain": "Bhakti = hormat kepada orang tua, guru, pemerintah, dan Hyang Widhi.",
-   "id": "k3-agama_hindu-028"
+   "id": "k3-agama_hindu-028",
+   "ch": 3
   },
   {
    "level": 1,
@@ -412,7 +440,8 @@
    ],
    "answer": 0,
    "explain": "Tri Murti: Brahma, Wisnu, Siwa.",
-   "id": "k3-agama_hindu-029"
+   "id": "k3-agama_hindu-029",
+   "ch": 2
   },
   {
    "level": 2,
@@ -426,7 +455,688 @@
    ],
    "answer": 0,
    "explain": "Air memiliki kekuatan memelihara, seperti Dewa Wisnu.",
-   "id": "k3-agama_hindu-030"
+   "id": "k3-agama_hindu-030",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Kitab Purana berisi cerita tentang …",
+   "choices": [
+    "para dewa, raja, dan rsi masa lampau",
+    "resep masakan",
+    "permainan anak",
+    "berita hari ini"
+   ],
+   "answer": 0,
+   "explain": "Purana = kisah masa lampau yang mengandung ajaran agama.",
+   "bab": "Bab 1 Kitab Purana",
+   "fromSource": true,
+   "id": "k3-agama_hindu-031"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Kitab Purana pelengkap Mahapurana disebut …",
+   "choices": [
+    "Upapurana",
+    "Mahapurana",
+    "Itihasa",
+    "Weda"
+   ],
+   "answer": 0,
+   "explain": "Upapurana adalah pelengkap Mahapurana.",
+   "bab": "Bab 1 Kitab Purana",
+   "fromSource": true,
+   "id": "k3-agama_hindu-032"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Ibu Dhruwa bernama …",
+   "choices": [
+    "Suniti",
+    "Sita",
+    "Kunti",
+    "Anjani"
+   ],
+   "answer": 0,
+   "explain": "Dhruwa adalah putra Raja Uttanapada dan Suniti.",
+   "bab": "Bab 1 Kitab Purana",
+   "fromSource": true,
+   "id": "k3-agama_hindu-033"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Rajasika Purana menguraikan tentang Dewa …",
+   "choices": [
+    "Brahma",
+    "Wisnu",
+    "Siwa",
+    "Indra"
+   ],
+   "answer": 0,
+   "explain": "Rajasika Purana berkaitan dengan penciptaan dan Dewa Brahma.",
+   "bab": "Bab 1 Kitab Purana",
+   "fromSource": true,
+   "id": "k3-agama_hindu-034"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Tamasika Purana menguraikan pemujaan kepada Dewa …",
+   "choices": [
+    "Siwa",
+    "Brahma",
+    "Wisnu",
+    "Surya"
+   ],
+   "answer": 0,
+   "explain": "Tamasika = Siwa, Sattwika = Wisnu, Rajasika = Brahma.",
+   "bab": "Bab 1 Kitab Purana",
+   "fromSource": true,
+   "id": "k3-agama_hindu-035"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Dhruwa ditempatkan oleh Dewa Wisnu di …",
+   "choices": [
+    "tengah langit",
+    "dasar laut",
+    "puncak gunung",
+    "dalam istana"
+   ],
+   "answer": 0,
+   "explain": "Semua bintang berputar mengelilingi Dhruwa.",
+   "bab": "Bab 1 Kitab Purana",
+   "fromSource": true,
+   "id": "k3-agama_hindu-036"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Dalam kisah Lingga, Dewa Brahma berubah menjadi … untuk mencari puncak Lingga.",
+   "choices": [
+    "angsa putih",
+    "babi hutan",
+    "garuda",
+    "naga"
+   ],
+   "answer": 0,
+   "explain": "Brahma menjadi angsa putih, Wisnu menjadi babi hutan.",
+   "bab": "Bab 1 Kitab Purana",
+   "fromSource": true,
+   "id": "k3-agama_hindu-037"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Rara Jonggrang meminta Bandung Bandawasa membuat … arca dalam satu malam.",
+   "choices": [
+    "seribu",
+    "seratus",
+    "sepuluh",
+    "lima ratus"
+   ],
+   "answer": 0,
+   "explain": "Syaratnya seribu arca dan dua sumur dalam satu malam.",
+   "bab": "Bab 1 Kitab Purana",
+   "fromSource": true,
+   "id": "k3-agama_hindu-038"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Nama Bali berasal dari kata \"Wali\" yang artinya …",
+   "choices": [
+    "persembahan / korban suci",
+    "pulau dewata",
+    "gunung tinggi",
+    "laut biru"
+   ],
+   "answer": 0,
+   "explain": "Rsi Markandya menamakan pulau ini Wali, artinya persembahan.",
+   "bab": "Bab 1 Kitab Purana",
+   "fromSource": true,
+   "id": "k3-agama_hindu-039"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "Jumlah kitab Mahapurana ada …",
+   "answer": "18",
+   "accept": [
+    "delapan belas"
+   ],
+   "explain": "Ada 18 kitab Mahapurana.",
+   "bab": "Bab 1 Kitab Purana",
+   "fromSource": true,
+   "id": "k3-agama_hindu-040"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "Kisah Dhruwa terdapat dalam kitab … Purana.",
+   "answer": "Wisnu",
+   "accept": [],
+   "explain": "Kisah Dhruwa ada dalam Wisnu Purana.",
+   "bab": "Bab 1 Kitab Purana",
+   "fromSource": true,
+   "id": "k3-agama_hindu-041"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "input",
+   "q": "Rsi yang membangun Pura Besakih adalah Rsi …",
+   "answer": "Markandya",
+   "accept": [
+    "Markandhya",
+    "Markandeya"
+   ],
+   "explain": "Rsi Markandya datang dari Gunung Raung.",
+   "bab": "Bab 1 Kitab Purana",
+   "fromSource": true,
+   "id": "k3-agama_hindu-042"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "input",
+   "q": "Pura yang dibangun di tempat Rsi Markandya menanam Panca Datu bernama Pura …",
+   "answer": "Basukian",
+   "accept": [],
+   "explain": "Di tempat Panca Datu ditanam didirikan Pura Basukian.",
+   "bab": "Bab 1 Kitab Purana",
+   "fromSource": true,
+   "id": "k3-agama_hindu-043"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Apa manfaat mempelajari kitab Purana? Sebutkan dua!",
+   "answer": "Membangkitkan sraddha dan bhakti kepada Hyang Widhi, memudahkan memahami dan mengamalkan ajaran agama, dan mewujudkan sifat-sifat baik dalam diri.",
+   "keywords": [
+    "sraddha",
+    "bhakti",
+    "ajaran agama",
+    "sifat baik"
+   ],
+   "bab": "Bab 1 Kitab Purana",
+   "fromSource": true,
+   "id": "k3-agama_hindu-044"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Sifat apa yang dapat kita teladani dari Dhruwa? Jelaskan!",
+   "answer": "Dhruwa pemberani (pergi ke hutan sendirian), mandiri, tekun memuja Dewa Wisnu, dan percaya pada hukum karmaphala.",
+   "keywords": [
+    "pemberani",
+    "mandiri",
+    "tekun"
+   ],
+   "bab": "Bab 1 Kitab Purana",
+   "fromSource": true,
+   "id": "k3-agama_hindu-045"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Dewa Siwa disimbolkan dengan …",
+   "choices": [
+    "angin",
+    "api",
+    "air",
+    "tanah"
+   ],
+   "answer": 0,
+   "explain": "Brahma = api, Wisnu = air, Siwa = angin.",
+   "bab": "Bab 2 Tri Murti",
+   "fromSource": true,
+   "id": "k3-agama_hindu-046"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Hyang Widhi sebagai pencipta disebut Dewa …",
+   "choices": [
+    "Brahma",
+    "Wisnu",
+    "Siwa",
+    "Indra"
+   ],
+   "answer": 0,
+   "explain": "Brahma bertugas mencipta.",
+   "bab": "Bab 2 Tri Murti",
+   "fromSource": true,
+   "id": "k3-agama_hindu-047"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Dewi Saraswati dikenal sebagai dewi …",
+   "choices": [
+    "ilmu pengetahuan",
+    "padi",
+    "kematian",
+    "hujan"
+   ],
+   "answer": 0,
+   "explain": "Saraswati adalah dewi ilmu pengetahuan, sakti Dewa Brahma.",
+   "bab": "Bab 2 Tri Murti",
+   "fromSource": true,
+   "id": "k3-agama_hindu-048"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Dewa Brahma disebut Catur Muka, artinya …",
+   "choices": [
+    "dewa bermuka empat",
+    "dewa bermata tiga",
+    "dewa berlengan dua",
+    "dewa bersayap"
+   ],
+   "answer": 0,
+   "explain": "Catur = empat, muka = wajah.",
+   "bab": "Bab 2 Tri Murti",
+   "fromSource": true,
+   "id": "k3-agama_hindu-049"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Dewi Sri dikenal sebagai dewi …",
+   "choices": [
+    "kemakmuran dan kesuburan (padi)",
+    "ilmu pengetahuan",
+    "perang",
+    "angin"
+   ],
+   "answer": 0,
+   "explain": "Dewi Sri digambarkan sebagai dewi padi.",
+   "bab": "Bab 2 Tri Murti",
+   "fromSource": true,
+   "id": "k3-agama_hindu-050"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Sakti adalah …",
+   "choices": [
+    "kekuatan dalam bentuk dewi pendamping Tri Murti",
+    "senjata para dewa",
+    "kendaraan para dewa",
+    "tempat suci"
+   ],
+   "answer": 0,
+   "explain": "Sakti = kekuatan feminin penyeimbang Dewa Tri Murti.",
+   "bab": "Bab 2 Tri Murti",
+   "fromSource": true,
+   "id": "k3-agama_hindu-051"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Melebur (pralina) oleh Dewa Siwa bertujuan untuk …",
+   "choices": [
+    "menjaga keharmonisan alam",
+    "merusak alam",
+    "membuat manusia takut",
+    "menghukum dewa lain"
+   ],
+   "answer": 0,
+   "explain": "Melebur bukan merusak, tetapi menjaga keseimbangan.",
+   "bab": "Bab 2 Tri Murti",
+   "fromSource": true,
+   "id": "k3-agama_hindu-052"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Walaupun disebut Brahma, Wisnu, dan Siwa, sesungguhnya Hyang Widhi adalah …",
+   "choices": [
+    "satu (tunggal)",
+    "tiga orang berbeda",
+    "banyak sekali",
+    "tidak ada"
+   ],
+   "answer": 0,
+   "explain": "Hyang Widhi tunggal, disebut berbeda sesuai fungsinya.",
+   "bab": "Bab 2 Tri Murti",
+   "fromSource": true,
+   "id": "k3-agama_hindu-053"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Contoh sikap bhakti kepada Tri Murti adalah …",
+   "choices": [
+    "rajin sembahyang & menjaga alam",
+    "merusak tanaman",
+    "malas belajar",
+    "membuang sampah di pura"
+   ],
+   "answer": 0,
+   "explain": "Sujud bhakti diwujudkan dengan sembahyang dan menjaga ciptaan-Nya.",
+   "bab": "Bab 2 Tri Murti",
+   "fromSource": true,
+   "id": "k3-agama_hindu-054"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "type": "input",
+   "q": "Tri Murti artinya tiga … Hyang Widhi Wasa.",
+   "answer": "perwujudan",
+   "accept": [],
+   "explain": "Tri = tiga, Murti = perwujudan.",
+   "bab": "Bab 2 Tri Murti",
+   "fromSource": true,
+   "id": "k3-agama_hindu-055"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "type": "input",
+   "q": "Hyang Widhi sebagai pemelihara disebut Dewa …",
+   "answer": "Wisnu",
+   "accept": [],
+   "explain": "Wisnu memelihara alam semesta.",
+   "bab": "Bab 2 Tri Murti",
+   "fromSource": true,
+   "id": "k3-agama_hindu-056"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "input",
+   "q": "Sakti Dewa Siwa adalah Dewi …",
+   "answer": "Parwati",
+   "accept": [
+    "Uma",
+    "Durga"
+   ],
+   "explain": "Dewi Parwati juga disebut Dewi Uma dan Dewi Durga.",
+   "bab": "Bab 2 Tri Murti",
+   "fromSource": true,
+   "id": "k3-agama_hindu-057"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "input",
+   "q": "Dewa Siwa disebut Tri Netra, artinya dewa yang memiliki tiga …",
+   "answer": "mata",
+   "accept": [],
+   "explain": "Tri = tiga, netra = mata.",
+   "bab": "Bab 2 Tri Murti",
+   "fromSource": true,
+   "id": "k3-agama_hindu-058"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "uraian",
+   "q": "Sebutkan bagian-bagian Tri Murti beserta tugasnya!",
+   "answer": "Dewa Brahma sebagai pencipta, Dewa Wisnu sebagai pemelihara, dan Dewa Siwa sebagai pelebur (pralina).",
+   "keywords": [
+    "Brahma",
+    "Wisnu",
+    "Siwa",
+    "pencipta",
+    "pemelihara",
+    "pelebur"
+   ],
+   "bab": "Bab 2 Tri Murti",
+   "fromSource": true,
+   "id": "k3-agama_hindu-059"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "uraian",
+   "q": "Sebutkan sakti dari masing-masing Dewa Tri Murti!",
+   "answer": "Sakti Dewa Brahma: Dewi Saraswati. Sakti Dewa Wisnu: Dewi Sri/Laksmi. Sakti Dewa Siwa: Dewi Parwati (Uma/Durga).",
+   "keywords": [
+    "Saraswati",
+    "Sri",
+    "Laksmi",
+    "Parwati"
+   ],
+   "bab": "Bab 2 Tri Murti",
+   "fromSource": true,
+   "id": "k3-agama_hindu-060"
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "Memberi bantuan kepada orang lain dengan tulus termasuk …",
+   "choices": [
+    "punia",
+    "asih",
+    "bhakti",
+    "tapa"
+   ],
+   "answer": 0,
+   "explain": "Punia = suka memberi bantuan.",
+   "bab": "Bab 3 Tri Parartha",
+   "fromSource": true,
+   "id": "k3-agama_hindu-061"
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "Hormat kepada guru dan orang tua termasuk …",
+   "choices": [
+    "bhakti",
+    "punia",
+    "asih",
+    "yadnya"
+   ],
+   "answer": 0,
+   "explain": "Bhakti = perilaku hormat.",
+   "bab": "Bab 3 Tri Parartha",
+   "fromSource": true,
+   "id": "k3-agama_hindu-062"
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "Menyayangi hewan peliharaan termasuk …",
+   "choices": [
+    "asih",
+    "punia",
+    "bhakti",
+    "karma"
+   ],
+   "answer": 0,
+   "explain": "Asih = kasih sayang kepada semua makhluk.",
+   "bab": "Bab 3 Tri Parartha",
+   "fromSource": true,
+   "id": "k3-agama_hindu-063"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "Kata \"Parartha\" dalam Tri Parartha artinya …",
+   "choices": [
+    "kebahagiaan",
+    "kekuatan",
+    "kekayaan",
+    "kesedihan"
+   ],
+   "answer": 0,
+   "explain": "Tri Parartha = tiga perilaku untuk mewujudkan kebahagiaan.",
+   "bab": "Bab 3 Tri Parartha",
+   "fromSource": true,
+   "id": "k3-agama_hindu-064"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "Contoh perilaku punia di sekolah adalah …",
+   "choices": [
+    "meminjamkan pensil kepada teman",
+    "mengejek teman",
+    "menyembunyikan tas teman",
+    "berbohong kepada guru"
+   ],
+   "answer": 0,
+   "explain": "Membantu teman yang membutuhkan adalah punia.",
+   "bab": "Bab 3 Tri Parartha",
+   "fromSource": true,
+   "id": "k3-agama_hindu-065"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "Mengucapkan salam panganjali kepada guru adalah wujud …",
+   "choices": [
+    "bhakti",
+    "asih",
+    "punia",
+    "tapa"
+   ],
+   "answer": 0,
+   "explain": "Salam panganjali menunjukkan hormat (bhakti).",
+   "bab": "Bab 3 Tri Parartha",
+   "fromSource": true,
+   "id": "k3-agama_hindu-066"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "Memberi bantuan sebaiknya dilakukan dengan …",
+   "choices": [
+    "tulus ikhlas tanpa mengharap balasan",
+    "meminta imbalan",
+    "terpaksa",
+    "pamer kepada teman"
+   ],
+   "answer": 0,
+   "explain": "Punia dilakukan dengan tulus ikhlas.",
+   "bab": "Bab 3 Tri Parartha",
+   "fromSource": true,
+   "id": "k3-agama_hindu-067"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "Jika semua orang melaksanakan Tri Parartha, maka kehidupan menjadi …",
+   "choices": [
+    "rukun dan bahagia",
+    "penuh pertengkaran",
+    "sepi",
+    "kacau"
+   ],
+   "answer": 0,
+   "explain": "Tri Parartha membawa keharmonisan hidup.",
+   "bab": "Bab 3 Tri Parartha",
+   "fromSource": true,
+   "id": "k3-agama_hindu-068"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "Pernyataan yang BENAR adalah …",
+   "choices": [
+    "Bantuan bisa berupa tenaga, pikiran, atau barang.",
+    "Bantuan hanya boleh berupa uang.",
+    "Punia artinya perilaku hormat.",
+    "Asih hanya untuk manusia saja."
+   ],
+   "answer": 0,
+   "explain": "Punia bisa berupa uang, barang, tenaga, atau pikiran.",
+   "bab": "Bab 3 Tri Parartha",
+   "fromSource": true,
+   "id": "k3-agama_hindu-069"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "type": "input",
+   "q": "Tri Parartha terdiri atas asih, punia, dan …",
+   "answer": "bhakti",
+   "accept": [],
+   "explain": "Tri Parartha: asih, punia, bhakti.",
+   "bab": "Bab 3 Tri Parartha",
+   "fromSource": true,
+   "id": "k3-agama_hindu-070"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "type": "input",
+   "q": "Perilaku kasih sayang kepada semua makhluk disebut …",
+   "answer": "asih",
+   "accept": [],
+   "explain": "Asih = saling mengasihi.",
+   "bab": "Bab 3 Tri Parartha",
+   "fromSource": true,
+   "id": "k3-agama_hindu-071"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "input",
+   "q": "Tri dalam Tri Parartha artinya …",
+   "answer": "tiga",
+   "accept": [],
+   "explain": "Tri = tiga.",
+   "bab": "Bab 3 Tri Parartha",
+   "fromSource": true,
+   "id": "k3-agama_hindu-072"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "input",
+   "q": "Suka memberi bantuan kepada orang yang membutuhkan disebut …",
+   "answer": "punia",
+   "accept": [],
+   "explain": "Punia = memberi dengan tulus.",
+   "bab": "Bab 3 Tri Parartha",
+   "fromSource": true,
+   "id": "k3-agama_hindu-073"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "uraian",
+   "q": "Sebutkan bagian-bagian Tri Parartha dan berikan satu contoh perilaku untuk masing-masing!",
+   "answer": "Asih: menyayangi hewan/teman. Punia: menyumbang untuk korban bencana atau meminjamkan alat tulis. Bhakti: hormat kepada orang tua, guru, dan sembahyang kepada Hyang Widhi.",
+   "keywords": [
+    "asih",
+    "punia",
+    "bhakti"
+   ],
+   "bab": "Bab 3 Tri Parartha",
+   "fromSource": true,
+   "id": "k3-agama_hindu-074"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "uraian",
+   "q": "Mengapa kita harus berbhakti kepada orang tua? Bagaimana caranya?",
+   "answer": "Karena orang tua merawat, menyayangi, dan membesarkan kita. Caranya: menuruti nasihat, membantu pekerjaan rumah, berbicara sopan, dan belajar dengan rajin.",
+   "keywords": [
+    "merawat",
+    "menuruti",
+    "membantu",
+    "sopan"
+   ],
+   "bab": "Bab 3 Tri Parartha",
+   "fromSource": true,
+   "id": "k3-agama_hindu-075"
   }
  ]
 }

@@ -1,0 +1,131 @@
+# Format:
+#   M|level|bab|pertanyaan|jawaban benar|salah 1|salah 2|salah 3|penjelasan     → pilihan ganda
+#   I|level|bab|pertanyaan|jawaban;variasi lain yang diterima|penjelasan        → isian singkat
+#   U|bab|pertanyaan|kunci jawaban|kata penting 1, kata penting 2, …             → uraian
+#   \n di dalam teks = baris baru. Baris diawali # diabaikan.
+
+@ bahasa_indonesia
+M|1|1|Kalimat yang diawali huruf kapital dengan benar adalah …|Ayu pergi ke pasar.|ayu pergi ke pasar.|Ayu Pergi Ke Pasar.|ayu Pergi ke pasar.|Huruf kapital dipakai di awal kalimat dan nama orang.
+M|1|1|Tanda baca di akhir kalimat berita adalah …|titik ( . )|tanda tanya ( ? )|tanda seru ( ! )|koma ( , )|Kalimat berita memberi tahu sesuatu dan diakhiri titik.
+M|1|1|Kalimat tanya yang benar adalah …|Kapan kamu berlibur?|Kapan kamu berlibur.|kapan kamu berlibur!|Kapan, kamu berlibur|Kalimat tanya diawali huruf kapital dan diakhiri tanda tanya.
+M|2|1|Sampah plastik, kaleng, dan botol kaca termasuk sampah …|anorganik|organik|daun|makanan|Sampah anorganik sulit terurai, misalnya plastik, kaleng, dan kaca.
+M|2|1|Bacalah!\nAmel selalu meminjamkan buku kepada temannya yang lupa membawa buku.\nSifat Amel adalah …|suka menolong|pelit|sombong|pemalas|Meminjamkan buku kepada teman adalah sikap suka menolong.
+M|2|1|Bacalah!\nSetiap Sabtu, warga desa membersihkan selokan bersama-sama. Selokan menjadi lancar dan desa terbebas dari banjir.\nIde pokok paragraf tersebut adalah …|Warga membersihkan selokan bersama-sama.|Desa terbebas dari banjir.|Hari Sabtu hari libur.|Selokan itu panjang.|Ide pokok biasanya ada di kalimat pertama (kalimat utama).
+M|3|1|Kalimat yang memakai huruf kapital dengan BENAR seluruhnya adalah …|Pada hari Minggu, Rina berlibur ke Ubud.|pada hari minggu, Rina berlibur ke ubud.|Pada Hari minggu, rina berlibur ke Ubud.|Pada hari Minggu, rina Berlibur ke ubud.|Kapital: awal kalimat, nama hari (Minggu), nama orang (Rina), nama tempat (Ubud).
+M|3|1|Bacalah!\nLiburan kemarin aku ke rumah Nenek di desa. Di sana aku memberi makan ayam, memetik sayur, dan bermain di sawah.\nKalimat yang TIDAK sesuai dengan cerita adalah …|Aku berlibur ke rumah Nenek di kota.|Aku memberi makan ayam.|Aku bermain di sawah.|Aku memetik sayur.|Di cerita, rumah Nenek ada di desa, bukan di kota.
+M|3|1|Sahabat sejati adalah teman yang …|ada saat senang dan susah|hanya datang saat butuh|suka mengejek|suka berbohong|Sahabat sejati menemani kita dalam keadaan apa pun.
+I|2|1|Ide pokok adalah … utama dari sebuah paragraf. (gagasan/pikiran)|gagasan;pikiran;gagasan utama;pikiran utama|Ide pokok = gagasan utama atau pikiran utama paragraf.
+I|2|1|Huruf kapital digunakan pada awal …|kalimat;awal kalimat|Setiap kalimat diawali huruf kapital.
+I|3|1|Sampah yang berasal dari bahan alami, seperti daun dan sisa makanan, disebut sampah …|organik|Sampah organik mudah membusuk dan bisa dijadikan kompos.
+I|3|1|Kalimat yang berisi perintah diakhiri tanda …|seru;tanda seru;!|Kalimat perintah diakhiri tanda seru (!).
+U|1|Sebutkan dua contoh sikap teman yang baik!|Contoh sikap teman yang baik: suka menolong, mau berbagi, tidak mengejek, saling memaafkan, dan menemani saat susah.|menolong, berbagi, memaafkan, tidak mengejek
+U|1|Mengapa kita harus menjaga kebersihan lingkungan? Tuliskan alasanmu!|Agar lingkungan sehat dan nyaman, tidak menjadi sarang penyakit/kuman, dan tidak terjadi banjir karena sampah.|sehat, penyakit, nyaman, banjir
+M|1|2|Kalimat yang menunjukkan perasaan SENANG adalah …|Hore, aku juara kelas!|Aku kehilangan pensil.|Kucingku sakit.|Aku takut gelap.|"Hore" menunjukkan perasaan gembira.
+M|1|2|Lawan kata "bersih" adalah …|kotor|rapi|indah|wangi|Bersih >< kotor.
+M|1|2|Kata tanya untuk menanyakan alasan adalah …|mengapa|siapa|kapan|di mana|Mengapa dipakai untuk menanyakan sebab atau alasan.
+M|2|2|Kalimat yang berisi pendapat adalah …|Aku setuju jika kelas dihias dengan tanaman.|Kelas kami ada di lantai dua.|Ada 25 siswa di kelasku.|Bu guru memakai baju batik.|Pendapat berisi pikiran atau sikap kita, sering memakai "aku setuju" atau "menurutku".
+M|2|2|Susunan kata sesuai abjad (kamus) adalah …|daun, kaki, pohon, sapu|kaki, daun, sapu, pohon|pohon, sapu, daun, kaki|sapu, pohon, kaki, daun|Urutan abjad: d, k, p, s.
+M|2|2|Persamaan kata "gembira" adalah …|senang|sedih|marah|takut|Gembira = senang.
+M|3|2|Pendapat: "Siswa sebaiknya membawa botol minum sendiri."\nAlasan yang paling tepat adalah …|Agar mengurangi sampah botol plastik.|Agar tas menjadi berat.|Agar bisa pamer botol baru.|Agar tidak perlu minum.|Alasan harus mendukung pendapat dan masuk akal.
+M|3|2|Saat menyampaikan pendapat di depan kelas, sikap yang benar adalah …|berbicara jelas dan sopan|berteriak keras|memotong pembicaraan teman|berbicara sambil bermain|Sampaikan pendapat dengan jelas, sopan, dan intonasi yang tepat.
+M|3|2|Dalam kamus, kata "sapu" terletak SETELAH kata …|sabun|sepatu|sikat|susu|Bandingkan huruf kedua: sa-b sebelum sa-p. Jadi sabun → sapu.
+I|2|2|Teks yang berisi pendapat disertai alasan disebut teks …|argumentasi|Teks argumentasi berisi pendapat dan alasan.
+I|2|2|Kata tanya untuk menanyakan tempat adalah …|di mana;dimana|Di mana = menanyakan tempat.
+I|3|2|Lawan kata "rajin" adalah …|malas|Rajin >< malas.
+I|3|2|Buku yang berisi daftar kata beserta artinya, disusun menurut abjad, disebut …|kamus|Kamus disusun berdasarkan urutan abjad.
+U|2|Tuliskan pendapatmu tentang membuang sampah di sungai, beserta alasannya!|Aku tidak setuju membuang sampah di sungai, karena sungai menjadi kotor, airnya tercemar, ikan bisa mati, dan dapat menyebabkan banjir.|tidak setuju, kotor, banjir, tercemar
+U|2|Bagaimana perasaanmu jika temanmu sakit? Apa yang akan kamu lakukan?|Aku merasa sedih/khawatir. Aku akan menjenguknya, mendoakannya, atau mengantarkan catatan pelajaran.|sedih, menjenguk, mendoakan, membantu
+
+@ ipas
+M|1|1|Indra peraba adalah …|kulit|mata|telinga|lidah|Kulit merasakan halus, kasar, panas, dan dingin.
+M|1|1|Kita dapat mengetahui bunga harum menggunakan …|hidung|mata|kulit|telinga|Hidung adalah indra penciuman.
+M|1|1|Bagian tubuh untuk melihat warna pelangi adalah …|mata|hidung|lidah|kulit|Mata adalah indra penglihatan.
+M|2|1|Cara merawat telinga yang benar adalah …|membersihkan bagian luar dengan lembut|mengorek dengan benda tajam|mendengar musik sangat keras|memasukkan air sabun|Jangan mengorek telinga dengan benda tajam, cukup bersihkan bagian luar.
+M|2|1|Fungsi alis dan bulu mata adalah …|melindungi mata dari debu & keringat|membuat wajah lucu|membantu mendengar|membantu mencium|Alis dan bulu mata melindungi mata.
+M|2|1|Rasa yang dapat dikecap lidah, kecuali …|harum|manis|asin|pahit|Harum dicium dengan hidung, bukan dikecap lidah.
+M|3|1|Doni menutup mata lalu meraba benda: halus dan dingin. Indra yang bekerja adalah …|kulit (peraba)|mata|telinga|hidung|Tanpa melihat, kulit tetap bisa merasakan halus dan dingin.
+M|3|1|Pancaindra membantu melindungi kita. Contohnya …|hidung mencium bau gosong sehingga kita tahu ada kebakaran|mata dipakai untuk tidur|lidah dipakai untuk melihat|telinga dipakai untuk mencium|Indra memberi tanda bahaya, misalnya bau asap atau gosong.
+M|3|1|Membaca di tempat gelap terlalu lama dapat membuat …|mata cepat lelah|telinga sakit|hidung tersumbat|lidah pahit|Membaca harus di tempat yang cukup terang.
+I|2|1|Indra pengecap adalah …|lidah|Lidah dapat merasakan manis, asin, asam, dan pahit.
+I|2|1|Jumlah pancaindra manusia ada …|5;lima|Panca = lima: mata, telinga, hidung, lidah, kulit.
+I|3|1|Telinga adalah indra …|pendengaran;pendengar|Telinga untuk mendengar.
+I|3|1|Bulu-bulu di dalam hidung berfungsi untuk menyaring …|debu;kotoran;debu dan kotoran|Bulu hidung menyaring debu yang masuk saat bernapas.
+U|1|Sebutkan pancaindra dan fungsinya masing-masing!|Mata untuk melihat, telinga untuk mendengar, hidung untuk mencium, lidah untuk mengecap, kulit untuk meraba.|melihat, mendengar, mencium, mengecap, meraba
+U|1|Tuliskan dua cara merawat mata!|Membaca di tempat terang, menjaga jarak saat menonton TV/gawai, tidak mengucek mata dengan tangan kotor, makan sayur (wortel), dan istirahat yang cukup.|terang, jarak, mengucek, wortel
+M|1|2|Benda yang dipakai orang zaman dahulu untuk menulis surat adalah …|kertas dan pena|telepon genggam|komputer|tablet|Dahulu orang berkirim kabar lewat surat yang ditulis di kertas.
+M|1|2|Contoh situs budaya di Bali adalah …|Pura Besakih|Mal|Bandara|Jalan tol|Pura Besakih adalah tempat suci bersejarah di Bali.
+M|1|2|Kebiasaan turun-temurun dalam keluarga atau masyarakat disebut …|tradisi|teknologi|transportasi|tetangga|Tradisi diwariskan dari orang tua kepada anak cucu.
+M|2|2|Dahulu orang bepergian jauh dengan kuda atau pedati. Sekarang memakai …|mobil, motor, pesawat|dinosaurus|sepatu roda saja|kapal layar kayu saja|Alat transportasi berubah dari masa ke masa.
+M|2|2|Asal-usul nama Gandaria di Jakarta berasal dari nama …|pohon buah gandaria|tokoh pahlawan|sungai besar|gunung|Di daerah itu dahulu banyak tumbuh pohon gandaria.
+M|2|2|Cara mengetahui sejarah keluarga kita adalah …|bertanya kepada kakek dan nenek|menonton kartun|bermain gim|tidur siang|Kakek, nenek, dan orang tua adalah saksi sejarah keluarga.
+M|3|2|Sikap yang tepat saat mengunjungi situs budaya adalah …|menjaga kebersihan & tidak mencoret-coret|mencoret dinding candi|memanjat arca|membuang sampah sembarangan|Situs budaya harus dijaga agar tetap lestari.
+M|3|2|Contoh perubahan lingkungan dari masa ke masa adalah …|sawah berubah menjadi perumahan|matahari terbit dari barat|gunung pindah tempat|laut menjadi kering dalam sehari|Lingkungan bisa berubah karena kebutuhan manusia.
+M|3|2|Manfaat mempelajari sejarah daerah adalah …|mengenal & bangga pada asal-usul daerah|agar cepat kaya|agar tidak sekolah|agar bisa terbang|Mengenal sejarah membuat kita menghargai dan melestarikan budaya.
+I|2|2|Tempat bersejarah peninggalan masa lalu, seperti candi dan pura kuno, disebut situs …|budaya;sejarah|Situs budaya perlu dijaga bersama.
+I|3|2|Kebiasaan yang diwariskan turun-temurun disebut …|tradisi;adat;adat istiadat|Tradisi diwariskan dari generasi ke generasi.
+I|3|2|Orang yang mengalami atau melihat langsung suatu peristiwa masa lalu disebut saksi …|sejarah|Kakek-nenek bisa menjadi saksi sejarah.
+I|2|2|Perubahan alat komunikasi: dahulu surat, sekarang …|telepon genggam;hp;handphone;telepon;ponsel|Sekarang kabar bisa dikirim dengan cepat lewat HP.
+U|2|Sebutkan contoh perubahan di lingkungan tempat tinggal dahulu dan sekarang!|Contoh: dahulu banyak sawah dan lapangan, sekarang menjadi rumah/toko; dahulu jalan tanah, sekarang jalan aspal; dahulu pasar tradisional, sekarang ada toko modern.|dahulu, sekarang, sawah, jalan
+U|2|Mengapa situs budaya harus dijaga? Tuliskan juga satu cara menjaganya!|Karena situs budaya adalah peninggalan sejarah/leluhur yang tidak bisa diganti. Cara menjaganya: tidak mencoret-coret, tidak membuang sampah sembarangan, dan ikut merawatnya.|peninggalan, sejarah, mencoret, sampah
+M|1|3|Fase kehidupan manusia setelah bayi adalah …|anak-anak|dewasa|lansia|remaja|Urutan: bayi → anak-anak → remaja → dewasa → lansia.
+M|1|3|Manusia lanjut usia disebut juga …|lansia|balita|remaja|bayi|Lansia = lanjut usia.
+M|1|3|Contoh sikap peduli kepada anggota keluarga adalah …|membantu ibu menyapu rumah|bermain gawai terus|membantah ayah|berteriak di rumah|Membantu pekerjaan rumah adalah wujud peduli.
+M|2|3|Ciri fisik pada fase dewasa adalah …|tubuh tumbuh sempurna dan bisa bekerja|belum bisa berjalan|masih menyusu|rambut memutih semua|Orang dewasa tubuhnya sudah tumbuh sempurna.
+M|2|3|Ciri fisik lansia adalah …|rambut beruban, kulit keriput|tubuh sangat kecil|belum punya gigi karena bayi|tumbuh tinggi dengan cepat|Lansia biasanya beruban, kulit keriput, dan gerak melambat.
+M|2|3|Peran kakak di rumah adalah …|membantu & membimbing adik|menyuruh adik terus|mengambil mainan adik|tidak peduli|Kakak memberi contoh baik dan membantu adik.
+M|3|3|Nenek ingin menyeberang jalan. Sikap peduli yang tepat adalah …|membantu nenek menyeberang dengan hati-hati|membiarkannya|menertawakannya|berlari mendahului|Membantu orang lain adalah sikap peduli dan berbagi.
+M|3|3|Mengapa setiap anggota keluarga perlu menjalankan perannya?|agar keluarga rukun, nyaman, dan teratur|agar ada yang dimarahi|agar rumah berantakan|agar tidak perlu bekerja sama|Jika semua menjalankan peran, keluarga menjadi harmonis.
+M|3|3|Urutan fase kehidupan yang BENAR adalah …|bayi, anak-anak, remaja, dewasa, lansia|bayi, remaja, anak-anak, lansia, dewasa|anak-anak, bayi, dewasa, remaja, lansia|lansia, dewasa, remaja, anak-anak, bayi|Manusia tumbuh dari bayi sampai lansia.
+I|2|3|Fase kehidupan manusia usia 0–2 tahun disebut …|bayi|Bayi bertubuh kecil, merangkak, dan menyusu.
+I|2|3|Fase sesudah anak-anak dan sebelum dewasa adalah …|remaja|Remaja: tubuh tumbuh cepat dan mulai mandiri.
+I|3|3|Sikap mau membantu orang lain yang membutuhkan disebut sikap …|peduli;tolong menolong;peduli sosial|Peduli = memperhatikan dan membantu orang lain.
+I|3|3|Orang yang bertugas mencari nafkah untuk keluarga biasanya adalah …|ayah;orang tua;ayah dan ibu|Ayah (dan ibu) bekerja untuk memenuhi kebutuhan keluarga.
+U|3|Tuliskan urutan fase kehidupan manusia dan satu ciri setiap fase!|Bayi (tubuh kecil, menyusu) → anak-anak (mulai sekolah, aktif bermain) → remaja (tubuh tumbuh cepat) → dewasa (tubuh sempurna, bekerja) → lansia (beruban, keriput).|bayi, anak-anak, remaja, dewasa, lansia
+U|3|Apa saja peranmu sebagai anak di rumah? Sebutkan minimal dua!|Belajar dengan rajin, membantu orang tua (menyapu, merapikan kamar), menjaga adik, dan menaati aturan di rumah.|belajar, membantu, merapikan, menaati
+M|1|4|Kupu-kupu berasal dari …|ulat|cacing|ikan|semut|Ulat berubah menjadi kepompong, lalu menjadi kupu-kupu.
+M|1|4|Anak katak yang hidup di air disebut …|berudu|ulat|kecambah|nimfa|Berudu (kecebong) bernapas dengan insang dan hidup di air.
+M|1|4|Bagian tumbuhan yang menyerap air dari tanah adalah …|akar|daun|bunga|buah|Akar menyerap air dan zat hara dari tanah.
+M|2|4|Perubahan bentuk tubuh hewan dari menetas sampai dewasa disebut …|metamorfosis|fotosintesis|adaptasi|reproduksi|Metamorfosis: contohnya kupu-kupu dan katak.
+M|2|4|Bagian tumbuhan tempat membuat makanan adalah …|daun|akar|batang|bunga|Daun membuat makanan dengan bantuan sinar matahari.
+M|2|4|Hewan yang TIDAK mengalami metamorfosis adalah …|kucing|kupu-kupu|katak|nyamuk|Anak kucing bentuknya sudah mirip induknya.
+M|3|4|Nyamuk bertelur di air. Cara mencegah nyamuk berkembang biak adalah …|menguras & menutup tempat air|membiarkan genangan air|menyimpan kaleng bekas berisi air|menanam di air kotor|Telur nyamuk menetas di air yang tergenang.
+M|3|4|Urutan daur hidup belalang adalah …|telur → nimfa → belalang dewasa|telur → ulat → kepompong → belalang|telur → berudu → belalang|nimfa → telur → belalang|Belalang mengalami metamorfosis tidak sempurna.
+M|3|4|Biji kacang hijau diletakkan di kapas basah. Beberapa hari kemudian muncul …|kecambah|kepompong|berudu|bunga|Biji yang mendapat air akan berkecambah.
+I|2|4|Ulat yang membungkus dirinya sebelum menjadi kupu-kupu disebut …|kepompong|Kepompong (pupa) adalah tahap sebelum kupu-kupu.
+I|2|4|Bagian tumbuhan yang menyerap air adalah …|akar|Akar menyerap air dan unsur hara dari tanah.
+I|3|4|Anak belalang yang mirip induknya tetapi belum bersayap disebut …|nimfa|Nimfa adalah tahap metamorfosis tidak sempurna.
+I|3|4|Tumbuhan membutuhkan air, udara, dan … matahari untuk tumbuh.|cahaya;sinar;cahaya matahari;sinar matahari|Cahaya matahari membantu tumbuhan membuat makanan.
+U|4|Tuliskan urutan daur hidup kupu-kupu!|Telur → ulat (larva) → kepompong (pupa) → kupu-kupu dewasa.|telur, ulat, kepompong, kupu-kupu
+U|4|Sebutkan dua cara melestarikan hewan dan tumbuhan!|Tidak menebang pohon sembarangan, menanam pohon (reboisasi), tidak berburu hewan langka, tidak membakar hutan, dan menjaga kebersihan lingkungan.|menanam, menebang, berburu, hutan
+
+@ pancasila
+M|1|1|Nama, alamat, dan tanggal lahir termasuk …|identitas diri|hobi|cita-cita|denah|Identitas diri menunjukkan siapa kita.
+M|1|1|Indonesia terdiri atas banyak suku. Contohnya suku …|Bali|Eropa|Jepang|Arab Saudi|Suku Bali adalah salah satu suku bangsa di Indonesia.
+M|1|1|Gambar yang menunjukkan letak ruangan atau rumah disebut …|denah|foto|lukisan|komik|Denah menunjukkan letak ruangan atau tempat.
+M|2|1|Gabungan beberapa RW membentuk …|desa/kelurahan|provinsi|negara|RT|KK → RT → RW → desa/kelurahan.
+M|2|1|Gabungan beberapa desa/kelurahan membentuk …|kecamatan|RT|RW|keluarga|Desa/kelurahan → kecamatan → kabupaten/kota → provinsi.
+M|2|1|Provinsi dipimpin oleh …|gubernur|bupati|camat|lurah|Gubernur memimpin provinsi.
+M|3|1|Rumah Adi ada di RT 03 RW 10. Artinya rumah Adi juga bagian dari …|kecamatan, kabupaten, provinsi, dan NKRI|negara lain|hanya RT saja|tidak bagian dari NKRI|Setiap alamat di Indonesia adalah bagian dari NKRI.
+M|3|1|Bahasa persatuan bangsa Indonesia adalah …|bahasa Indonesia|bahasa Bali|bahasa Jawa|bahasa Inggris|Bahasa Indonesia mempersatukan suku-suku yang berbeda bahasa daerah.
+M|3|1|Teman sekelas berbeda agama sedang berdoa. Sikapmu …|menghormati dan tidak mengganggu|mengajaknya bermain|menertawakan|membuat suara keras|Menghormati teman yang beribadah adalah wujud toleransi.
+I|2|1|Kepanjangan NKRI adalah Negara Kesatuan Republik …|Indonesia|NKRI = Negara Kesatuan Republik Indonesia.
+I|2|1|Kecamatan dipimpin oleh seorang …|camat|Camat memimpin kecamatan.
+I|3|1|Semboyan bangsa Indonesia adalah Bhinneka Tunggal …|Ika|Bhinneka Tunggal Ika = berbeda-beda tetapi tetap satu.
+I|3|1|Kumpulan beberapa kepala keluarga dalam satu lingkungan membentuk Rukun …|Tetangga;RT|Beberapa KK membentuk Rukun Tetangga (RT).
+U|1|Tuliskan identitas dirimu (minimal nama, tempat/tanggal lahir, dan alamat)!|Contoh: Nama saya Komang Ayu, lahir di Denpasar, 5 Mei 2018. Alamat saya Jalan Melati No. 3, Desa ..., Kecamatan ..., Kabupaten ..., Provinsi Bali.|nama, lahir, alamat
+U|1|Bagaimana sikapmu terhadap teman yang berbeda suku, agama, atau bahasa?|Tetap berteman dengan baik, saling menghormati, tidak mengejek perbedaan, dan bekerja sama, sesuai semboyan Bhinneka Tunggal Ika.|menghormati, berteman, tidak mengejek, Bhinneka Tunggal Ika
+M|1|2|Aturan di sekolah yang ditulis disebut …|tata tertib|dongeng|puisi|lagu|Tata tertib sekolah adalah aturan tertulis.
+M|1|2|Contoh kewajiban di sekolah adalah …|mengerjakan tugas dari guru|mendapat pelajaran|bermain di kantin|memakai fasilitas sekolah|Kewajiban = yang harus kita lakukan.
+M|1|2|Contoh hak anak di rumah adalah …|mendapat makanan dan kasih sayang|menyapu lantai|mencuci piring|membersihkan kamar|Hak = yang kita terima.
+M|2|2|Jika semua siswa menaati aturan kelas, maka kelas menjadi …|tertib dan nyaman|ramai dan kotor|berantakan|membosankan|Aturan membuat suasana tertib dan nyaman.
+M|2|2|Siswa yang datang terlambat berkali-kali mendapat teguran. Teguran itu disebut …|sanksi|hadiah|pujian|hak|Sanksi diberikan kepada yang melanggar aturan.
+M|2|2|Kesepakatan kelas sebaiknya dibuat dengan cara …|musyawarah bersama|ditentukan satu orang|diam-diam|undian|Musyawarah membuat kesepakatan adil untuk semua.
+M|3|2|Budi meminta uang jajan tambahan, tetapi belum mengerjakan PR. Sikap yang benar adalah …|mengerjakan PR dulu, baru meminta hak|marah karena tidak diberi|mengambil uang diam-diam|menyuruh adik mengerjakan PR|Kewajiban dilaksanakan dulu, baru meminta hak.
+M|3|2|Contoh aturan tidak tertulis di sekolah adalah …|mengucapkan salam kepada guru|jadwal pelajaran|tata tertib di papan|jadwal piket|Aturan tidak tertulis berasal dari kebiasaan baik.
+M|3|2|Hak dan kewajiban yang seimbang membuat hidup …|adil dan rukun|selalu bertengkar|tidak teratur|sepi|Hak dan kewajiban harus seimbang agar adil.
+I|2|2|Sesuatu yang harus kita lakukan disebut …|kewajiban|Kewajiban = yang harus dilakukan.
+I|2|2|Sesuatu yang seharusnya kita terima disebut …|hak|Hak = yang kita terima.
+I|3|2|Hukuman bagi yang melanggar aturan disebut …|sanksi|Sanksi membuat orang jera melanggar aturan.
+I|3|2|Aturan yang disepakati bersama oleh guru dan siswa di kelas disebut … kelas.|kesepakatan|Kesepakatan kelas dibuat bersama.
+U|2|Sebutkan dua contoh hak dan dua contoh kewajiban siswa di sekolah!|Hak: mendapat pelajaran, memakai fasilitas sekolah, mendapat perlakuan yang adil. Kewajiban: menaati tata tertib, mengerjakan tugas, menjaga kebersihan, datang tepat waktu.|hak, kewajiban, pelajaran, tata tertib
+U|2|Apa akibatnya jika siswa tidak menaati aturan di sekolah?|Sekolah menjadi tidak tertib dan tidak nyaman, kegiatan belajar terganggu, dan siswa yang melanggar akan mendapat sanksi.|tidak tertib, terganggu, sanksi

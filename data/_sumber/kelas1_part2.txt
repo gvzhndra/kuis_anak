@@ -1,0 +1,98 @@
+@ bahasa_bali
+M|1|1|"Pekak" artinya …|kakek|nenek|ayah|adik|Pekak = kakek.
+M|2|1|"Beli" artinya …|kakak laki-laki|kakak perempuan|adik|ibu|Beli = kakak laki-laki.
+M|3|1|Salam penutup umat Hindu adalah …|Om Shanti Shanti Shanti Om|Om Swastyastu|Rahajeng semeng|Suksma|Diucapkan di akhir kegiatan.
+I|1|1|Bahasa Bali dari "ibu" adalah …|meme|Ibu = meme.
+I|2|1|Bahasa Bali dari "nenek" adalah …|dadong|Nenek = dadong.
+I|3|1|Salam pembuka: Om …|Swastyastu|Om Swastyastu.
+U|1|Sebutkan anggota keluargamu dalam bahasa Bali!|Bapa (ayah), meme (ibu), pekak (kakek), dadong (nenek), beli/mbok (kakak), adi (adik).|bapa, meme, pekak, dadong
+M|1|2|Angka 6 dalam bahasa Bali adalah …|nem|lima|pitu|papat|6 = nem.
+M|2|2|besik + besik = …|dua|telu|papat|besik|1 + 1 = 2 → dua.
+M|3|2|"Sia" adalah angka …|9|8|7|6|Sia = 9.
+I|1|2|Angka 2 dalam bahasa Bali adalah …|dua|2 = dua.
+I|2|2|Angka 3 dalam bahasa Bali adalah …|telu|3 = telu.
+I|3|2|Angka 7 dalam bahasa Bali adalah …|pitu|7 = pitu.
+U|2|Hitung dalam bahasa Bali dari 1 sampai 5!|besik, dua, telu, papat, lima.|besik, dua, telu, papat, lima
+M|1|3|"Mata" dalam bahasa Bali artinya …|mata|telinga|hidung|mulut|Mata = mata.
+M|2|3|"Putih" dalam bahasa Bali adalah …|putih|selem|barak|gadang|Putih = putih.
+M|3|3|"Be" artinya …|ikan|burung|ayam|kucing|Be = ikan.
+I|1|3|Bahasa Bali dari "kucing" adalah …|meong|Kucing = meong.
+I|2|3|Bahasa Bali dari "merah" adalah …|barak|Merah = barak.
+I|3|3|Bahasa Bali dari "kaki" adalah …|batis|Kaki = batis.
+U|3|Sebutkan dua nama binatang dalam bahasa Bali!|Contoh: meong (kucing), cicing (anjing), siap (ayam), sampi (sapi), be (ikan), kedis (burung), bikul (tikus).|meong, cicing, siap, sampi, kedis
+
+@ bahasa_inggris
+M|1|1|"Good night" diucapkan saat …|mau tidur malam|bangun pagi|siang hari|makan|Good night = selamat malam (sebelum tidur).
+M|2|1|"Brother" artinya …|saudara laki-laki|saudara perempuan|ayah|kakek|Brother = saudara laki-laki.
+M|3|1|"Hello! My name is Rina." Rina sedang …|berkenalan|tidur|makan|menangis|My name is … = namaku …
+I|1|1|Bahasa Inggris dari "ayah" adalah …|father;dad;daddy|Ayah = father.
+I|2|1|Bahasa Inggris dari "terima kasih" adalah …|thank you;thanks;thankyou|Terima kasih = thank you.
+I|3|1|Lengkapi: "Good …" (selamat pagi)|morning|Good morning = selamat pagi.
+U|1|Perkenalkan namamu dalam bahasa Inggris!|Hello! My name is … (contoh: Hello! My name is Komang.)|hello, my name is
+M|1|2|"Black" artinya warna …|hitam|putih|merah|biru|Black = hitam.
+M|2|2|"Six" adalah angka …|6|5|7|9|Six = 6.
+M|3|2|"one + one = …"|two|three|one|four|1 + 1 = 2 = two.
+I|1|2|Bahasa Inggris dari angka 1 adalah …|one|1 = one.
+I|2|2|Bahasa Inggris dari warna merah adalah …|red|Merah = red.
+I|3|2|Bahasa Inggris dari angka 4 adalah …|four|4 = four.
+U|2|Hitung dalam bahasa Inggris dari 1 sampai 5!|one, two, three, four, five.|one, two, three, four, five
+M|1|3|"Fish" artinya …|ikan|kucing|burung|sapi|Fish = ikan 🐟.
+M|2|3|"Hand" artinya …|tangan|kaki|kepala|mata|Hand = tangan.
+M|3|3|"Apple" artinya …|apel|pisang|jeruk|mangga|Apple = apel 🍎.
+I|1|3|Bahasa Inggris dari "kucing" adalah …|cat|Kucing = cat.
+I|2|3|Bahasa Inggris dari "buku" adalah …|book|Buku = book.
+I|3|3|Bahasa Inggris dari "mata" adalah …|eye;eyes|Mata = eye.
+U|3|Sebutkan dua nama binatang dalam bahasa Inggris!|Contoh: cat (kucing), dog (anjing), bird (burung), fish (ikan), cow (sapi), duck (bebek).|cat, dog, bird, fish, cow
+
+@ pjok
+M|1|1|Gerak menekuk badan ke depan disebut …|membungkuk|berlari|melompat|merangkak|Membungkuk = gerak di tempat.
+M|2|1|Gerakan memutar pinggang ke kanan dan kiri disebut …|memilin|mengayun|melompat|berjalan|Memilin = memutar bagian tubuh.
+M|3|1|Gerak di tempat artinya bergerak tanpa …|berpindah tempat|bernapas|berpikir|tersenyum|Kaki tetap di tempat.
+I|1|1|Sebelum berolahraga, kita melakukan …|pemanasan;peregangan|Pemanasan menyiapkan otot.
+I|2|1|Menggerakkan lengan maju-mundur disebut meng…|ayun;mengayun|Mengayun = maju-mundur.
+I|3|1|Peregangan dilakukan sambil menghitung 1 sampai … (tulis angka)|8;delapan|Hitungan 1–8.
+U|1|Sebutkan dua contoh gerak di tempat!|Membungkuk, menekuk, memilin (memutar pinggang), mengayun lengan, meliuk.|membungkuk, menekuk, memilin, mengayun
+M|1|2|Kita pergi ke sekolah dengan …|berjalan|berguling|merangkak|terbang|Berjalan = gerak berpindah tempat.
+M|2|2|Gerak berpindah tempat disebut gerak …|lokomotor|manipulatif|di tempat|diam|Lokomotor = berpindah tempat.
+M|3|2|Saat guling depan, kita memakai …|matras|meja|kursi|sepeda|Guling depan dilakukan di atas matras agar aman.
+I|1|2|Jika ada lubang di depan, kita me…|lompat;melompat;lompati;melompatinya|Melompati lubang.
+I|2|2|Berjalan lebih cepat disebut ber…|lari;berlari|Berlari lebih cepat dari berjalan.
+I|3|2|Bayi bergerak dengan tangan dan lutut. Gerakan ini disebut me…|rangkak;merangkak|Merangkak.
+U|2|Sebutkan dua contoh gerak berpindah tempat!|Berjalan, berlari, melompat, merangkak, berguling.|berjalan, berlari, melompat, merangkak
+M|1|3|Bola ditendang menggunakan …|kaki|tangan|kepala|siku|Menendang memakai kaki.
+M|2|3|Memukul balon ke atas menggunakan …|telapak tangan|kaki|lutut|kepala|Pukul balon dengan telapak tangan.
+M|3|3|Gerak menggunakan benda disebut gerak …|manipulatif|lokomotor|di tempat|tidur|Melempar, menangkap, menendang = manipulatif.
+I|1|3|Bola ditangkap dengan kedua …|tangan|Tangkap bola dengan kedua tangan.
+I|2|3|Bola dilempar dengan … tangan atau dua tangan.|satu|Melempar bisa satu atau dua tangan.
+I|3|3|Bermain sepak bola: bola ditendang ke arah …|gawang|Bola ditendang ke gawang.
+U|3|Sebutkan dua gerakan memakai bola!|Melempar, menangkap, menendang, memukul, menggiring bola.|melempar, menangkap, menendang
+
+@ tik
+M|1|1|Gawai yang bisa dilipat dan dibawa ke sekolah adalah …|laptop|kulkas|televisi|mesin cuci|Laptop bisa dibawa ke mana-mana.
+M|2|1|Komputer membantu kita untuk …|belajar & mengetik|memasak nasi|mencuci baju|menyapu|Komputer membantu belajar.
+M|3|1|Yang termasuk gawai adalah …|tablet|meja|kursi|lemari|Tablet adalah gawai elektronik.
+I|1|1|Alat untuk menelepon disebut …|hp;handphone;telepon;ponsel;telepon genggam|HP dipakai untuk menelepon.
+I|2|1|Komputer menyala memakai …|listrik|Komputer memakai listrik.
+I|3|1|Gawai yang layarnya disentuh, lebih besar dari HP, disebut …|tablet|Tablet memiliki layar sentuh.
+U|1|Sebutkan dua contoh gawai!|HP (telepon genggam), tablet, laptop, komputer.|hp, tablet, laptop, komputer
+M|1|2|Bagian komputer yang ada huruf dan angkanya adalah …|keyboard|monitor|speaker|mouse|Keyboard berisi tombol huruf dan angka.
+M|2|2|Speaker berguna untuk …|mengeluarkan suara|mengetik|mencetak|melihat|Speaker mengeluarkan suara.
+M|3|2|Pasangan yang benar adalah …|monitor – melihat gambar|mouse – mendengar|speaker – mengetik|printer – mengeklik|Monitor menampilkan gambar.
+I|1|2|Layar komputer disebut …|monitor;layar|Monitor = layar.
+I|2|2|Alat untuk mencetak ke kertas adalah …|printer|Printer mencetak.
+I|3|2|Alat untuk mengetik huruf adalah …|keyboard;papan ketik|Keyboard = papan ketik.
+U|2|Sebutkan dua bagian komputer!|Monitor (layar), keyboard, mouse, CPU, speaker, printer.|monitor, keyboard, mouse, speaker
+M|1|3|Untuk menggerakkan panah di layar kita memakai …|mouse|speaker|printer|kabel|Mouse menggerakkan kursor.
+M|2|3|Tombol panjang di keyboard untuk memberi jarak adalah …|spasi|enter|power|huruf A|Tombol spasi memberi jarak antarkata.
+M|3|3|Menekan tombol mouse satu kali disebut …|klik|ketik|geser|cetak|Klik = tekan satu kali.
+I|1|3|Menekan tombol mouse disebut …|klik|Klik.
+I|2|3|Tombol untuk menghapus huruf adalah …|backspace;delete|Backspace menghapus huruf.
+I|3|3|Panah kecil di layar disebut …|kursor;pointer|Kursor bergerak mengikuti mouse.
+U|3|Apa kegunaan mouse dan keyboard?|Mouse untuk menggerakkan kursor dan mengeklik. Keyboard untuk mengetik huruf dan angka.|mouse, klik, keyboard, mengetik
+M|1|4|Saat memakai komputer, tangan harus …|bersih dan kering|basah|kotor|berminyak|Tangan basah berbahaya karena listrik.
+M|2|4|Bermain gawai sebaiknya …|tidak terlalu lama|seharian penuh|sampai tengah malam|sambil makan di kasur|Batasi waktu bermain gawai.
+M|3|4|Orang asing mengajak chat di tablet. Kita harus …|memberi tahu orang tua|membalasnya|memberi alamat rumah|merahasiakannya|Beri tahu orang tua.
+I|1|4|Saat memakai komputer, kita duduk dengan …|tegak|Duduk tegak agar tidak pegal.
+I|2|4|Sebelum memakai komputer di sekolah, kita minta izin kepada …|guru;bu guru;pak guru|Minta izin kepada guru.
+I|3|4|Komputer dimatikan dengan memilih menu Shut …|Down|Shut Down = mematikan komputer.
+U|4|Sebutkan dua aturan saat memakai komputer!|Tangan bersih dan kering, tidak makan dan minum di dekat komputer, duduk tegak, jaga jarak mata, minta izin, tidak terlalu lama.|tangan bersih, makan, minum, duduk tegak, jarak

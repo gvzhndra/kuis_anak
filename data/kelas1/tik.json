@@ -1,0 +1,889 @@
+{
+ "subject": "TIK",
+ "icon": "💻",
+ "source": "Muatan sekolah TIK Kelas I (materi umum, bukan dari SIBI — TIK bukan mata pelajaran nasional di SD). Mohon dicocokkan dengan materi sekolah.",
+ "chapters": [
+  "Bab 1 Mengenal Komputer & Gawai",
+  "Bab 2 Bagian-Bagian Komputer",
+  "Bab 3 Mouse & Keyboard",
+  "Bab 4 Aturan Memakai Komputer"
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "bab": "Mengenal komputer",
+   "q": "Benda ini namanya …",
+   "img": "💻",
+   "choices": [
+    "laptop",
+    "televisi",
+    "radio",
+    "kulkas"
+   ],
+   "answer": 0,
+   "explain": "Ini laptop, komputer yang bisa dibawa ke mana-mana.",
+   "id": "k1-tik-001",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "bab": "Bagian komputer",
+   "q": "Benda ini namanya …",
+   "img": "🖱️",
+   "choices": [
+    "mouse",
+    "keyboard",
+    "monitor",
+    "printer"
+   ],
+   "answer": 0,
+   "explain": "Mouse dipakai untuk menggerakkan panah di layar dan mengeklik.",
+   "id": "k1-tik-002",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "bab": "Bagian komputer",
+   "q": "Benda ini namanya …",
+   "img": "⌨️",
+   "choices": [
+    "keyboard",
+    "mouse",
+    "speaker",
+    "kamera"
+   ],
+   "answer": 0,
+   "explain": "Keyboard (papan ketik) dipakai untuk mengetik huruf dan angka.",
+   "id": "k1-tik-003",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "bab": "Bagian komputer",
+   "q": "Bagian komputer yang menampilkan gambar adalah …",
+   "img": "🖥️",
+   "choices": [
+    "monitor (layar)",
+    "mouse",
+    "keyboard",
+    "kabel"
+   ],
+   "answer": 0,
+   "explain": "Monitor atau layar menampilkan gambar dan tulisan.",
+   "id": "k1-tik-004",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "bab": "Mengenal gawai",
+   "q": "Yang termasuk gawai (alat elektronik) adalah …",
+   "choices": [
+    "📱 HP",
+    "📘 buku",
+    "✏️ pensil",
+    "🎒 tas"
+   ],
+   "answer": 0,
+   "explain": "HP, tablet, dan laptop termasuk gawai.",
+   "id": "k1-tik-005",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "bab": "Bagian komputer",
+   "q": "Untuk mendengarkan suara dari komputer kita memakai …",
+   "img": "🔊",
+   "choices": [
+    "speaker",
+    "mouse",
+    "monitor",
+    "printer"
+   ],
+   "answer": 0,
+   "explain": "Speaker mengeluarkan suara. Bisa juga memakai headphone 🎧.",
+   "id": "k1-tik-006",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "bab": "Aturan memakai komputer",
+   "q": "Sebelum memegang komputer, tangan kita harus …",
+   "choices": [
+    "bersih dan kering",
+    "basah",
+    "kotor",
+    "lengket"
+   ],
+   "answer": 0,
+   "explain": "Tangan basah atau kotor bisa merusak komputer dan berbahaya karena listrik.",
+   "id": "k1-tik-007",
+   "ch": 4
+  },
+  {
+   "level": 1,
+   "bab": "Aturan memakai komputer",
+   "q": "Saat memakai komputer, kita boleh …",
+   "choices": [
+    "duduk dengan tegak",
+    "makan di atas keyboard",
+    "menumpahkan minuman",
+    "memukul layar"
+   ],
+   "answer": 0,
+   "explain": "Duduk tegak membuat badan tidak pegal.",
+   "id": "k1-tik-008",
+   "ch": 4
+  },
+  {
+   "level": 1,
+   "bab": "Mengenal gawai",
+   "q": "Alat yang bisa dipakai untuk menelepon adalah …",
+   "choices": [
+    "📱 HP",
+    "🖨️ printer",
+    "⌨️ keyboard",
+    "🖱️ mouse"
+   ],
+   "answer": 0,
+   "explain": "HP (telepon genggam) dipakai untuk menelepon dan berkirim pesan.",
+   "id": "k1-tik-009",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "bab": "Bagian komputer",
+   "q": "Tombol untuk menyalakan komputer disebut tombol …",
+   "img": "⏻",
+   "imgSpeak": "",
+   "choices": [
+    "power",
+    "spasi",
+    "enter",
+    "huruf A"
+   ],
+   "answer": 0,
+   "explain": "Tombol power menyalakan dan mematikan komputer.",
+   "id": "k1-tik-010",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Bagian komputer",
+   "q": "Alat untuk mencetak tulisan atau gambar ke kertas adalah …",
+   "img": "🖨️",
+   "choices": [
+    "printer",
+    "speaker",
+    "mouse",
+    "monitor"
+   ],
+   "answer": 0,
+   "explain": "Printer mencetak tulisan dan gambar ke kertas.",
+   "id": "k1-tik-011",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Menggunakan mouse",
+   "q": "Menekan tombol mouse satu kali disebut …",
+   "choices": [
+    "klik",
+    "ketik",
+    "geser",
+    "cetak"
+   ],
+   "answer": 0,
+   "explain": "Menekan tombol kiri mouse satu kali disebut klik.",
+   "id": "k1-tik-012",
+   "ch": 3
+  },
+  {
+   "level": 2,
+   "bab": "Menggunakan keyboard",
+   "q": "Keyboard dipakai untuk …",
+   "choices": [
+    "mengetik",
+    "mencetak",
+    "mendengar",
+    "memotret"
+   ],
+   "answer": 0,
+   "explain": "Keyboard dipakai untuk mengetik huruf, angka, dan tanda.",
+   "id": "k1-tik-013",
+   "ch": 3
+  },
+  {
+   "level": 2,
+   "bab": "Sikap memakai komputer",
+   "q": "Jarak mata dengan layar yang baik adalah …",
+   "choices": [
+    "agak jauh, sejauh lengan",
+    "sangat dekat",
+    "menempel di layar",
+    "sambil tiduran"
+   ],
+   "answer": 0,
+   "explain": "Jaga jarak sekitar satu lengan agar mata tidak cepat lelah.",
+   "id": "k1-tik-014",
+   "ch": 4
+  },
+  {
+   "level": 2,
+   "bab": "Sikap memakai komputer",
+   "q": "Setelah lama bermain gawai, sebaiknya kita …",
+   "choices": [
+    "mengistirahatkan mata",
+    "terus bermain sampai malam",
+    "bermain dalam gelap",
+    "tidak tidur"
+   ],
+   "answer": 0,
+   "explain": "Istirahatkan mata dengan melihat benda jauh atau bermain di luar.",
+   "id": "k1-tik-015",
+   "ch": 4
+  },
+  {
+   "level": 2,
+   "bab": "Mengenal gawai",
+   "q": "Gawai yang layarnya bisa disentuh dan lebih besar dari HP adalah …",
+   "choices": [
+    "tablet",
+    "radio",
+    "kalkulator",
+    "jam dinding"
+   ],
+   "answer": 0,
+   "explain": "Tablet memiliki layar sentuh yang besar.",
+   "id": "k1-tik-016",
+   "ch": 1
+  },
+  {
+   "level": 2,
+   "bab": "Aturan memakai komputer",
+   "q": "Makanan dan minuman sebaiknya diletakkan …",
+   "choices": [
+    "jauh dari komputer",
+    "di atas keyboard",
+    "di samping mouse",
+    "di atas laptop"
+   ],
+   "answer": 0,
+   "explain": "Minuman yang tumpah bisa merusak komputer.",
+   "id": "k1-tik-017",
+   "ch": 4
+  },
+  {
+   "level": 2,
+   "bab": "Bagian komputer",
+   "q": "Benda ini dipakai untuk memotret dan merekam video lewat komputer …",
+   "img": "📷",
+   "choices": [
+    "kamera (webcam)",
+    "printer",
+    "speaker",
+    "keyboard"
+   ],
+   "answer": 0,
+   "explain": "Kamera atau webcam dipakai untuk memotret dan video call.",
+   "id": "k1-tik-018",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Menggunakan keyboard",
+   "q": "Untuk membuat jarak antara dua kata, kita menekan tombol …",
+   "choices": [
+    "spasi",
+    "power",
+    "huruf Z",
+    "angka 1"
+   ],
+   "answer": 0,
+   "explain": "Tombol spasi adalah tombol panjang di bagian bawah keyboard.",
+   "id": "k1-tik-019",
+   "ch": 3
+  },
+  {
+   "level": 2,
+   "bab": "Aturan memakai komputer",
+   "q": "Sebelum memakai komputer di sekolah, kita harus …",
+   "choices": [
+    "izin kepada guru",
+    "langsung mencabut kabel",
+    "membuka tanpa izin",
+    "berebut dengan teman"
+   ],
+   "answer": 0,
+   "explain": "Selalu minta izin dan ikuti petunjuk guru.",
+   "id": "k1-tik-020",
+   "ch": 4
+  },
+  {
+   "level": 3,
+   "bab": "Mengenal komputer",
+   "q": "Yang BUKAN bagian dari komputer adalah …",
+   "choices": [
+    "🧹 sapu",
+    "🖱️ mouse",
+    "⌨️ keyboard",
+    "🖥️ monitor"
+   ],
+   "answer": 0,
+   "explain": "Sapu adalah alat kebersihan, bukan bagian komputer.",
+   "id": "k1-tik-021",
+   "ch": 1
+  },
+  {
+   "level": 3,
+   "bab": "Menggunakan mouse",
+   "q": "Menekan tombol mouse dua kali dengan cepat disebut …",
+   "choices": [
+    "klik dua kali",
+    "klik kanan",
+    "mengetik",
+    "menggeser layar"
+   ],
+   "answer": 0,
+   "explain": "Klik dua kali (double click) biasanya untuk membuka program.",
+   "id": "k1-tik-022",
+   "ch": 3
+  },
+  {
+   "level": 3,
+   "bab": "Sikap memakai komputer",
+   "q": "Cara mematikan komputer yang benar adalah …",
+   "choices": [
+    "memilih menu Shut Down",
+    "mencabut kabel langsung",
+    "memukul tombol",
+    "menyiram dengan air"
+   ],
+   "answer": 0,
+   "explain": "Matikan lewat menu Shut Down agar komputer tidak rusak.",
+   "id": "k1-tik-023",
+   "ch": 4
+  },
+  {
+   "level": 3,
+   "bab": "Mengenal gawai",
+   "q": "Rudi bermain HP dari pagi sampai malam. Akibatnya …",
+   "choices": [
+    "mata lelah & kurang bergerak",
+    "mata makin sehat",
+    "badan makin kuat",
+    "nilai makin bagus"
+   ],
+   "answer": 0,
+   "explain": "Terlalu lama memakai gawai membuat mata lelah. Batasi waktunya.",
+   "id": "k1-tik-024",
+   "ch": 1
+  },
+  {
+   "level": 3,
+   "bab": "Bagian komputer",
+   "q": "Pasangan alat dan gunanya yang BENAR adalah …",
+   "choices": [
+    "printer – mencetak",
+    "mouse – mendengar",
+    "speaker – mengetik",
+    "keyboard – memotret"
+   ],
+   "answer": 0,
+   "explain": "Printer untuk mencetak, speaker untuk suara, keyboard untuk mengetik.",
+   "id": "k1-tik-025",
+   "ch": 2
+  },
+  {
+   "level": 3,
+   "bab": "Aturan memakai komputer",
+   "q": "Ada orang tidak dikenal mengajak chat di tablet. Sebaiknya kita …",
+   "choices": [
+    "memberi tahu orang tua",
+    "membalas dengan alamat rumah",
+    "mengirim foto",
+    "merahasiakannya"
+   ],
+   "answer": 0,
+   "explain": "Jangan berbicara dengan orang asing di internet. Beri tahu orang tua.",
+   "id": "k1-tik-026",
+   "ch": 4
+  },
+  {
+   "level": 3,
+   "bab": "Menggunakan keyboard",
+   "q": "Untuk menghapus huruf yang salah ketik, kita menekan tombol …",
+   "choices": [
+    "Backspace",
+    "Spasi",
+    "Power",
+    "Enter"
+   ],
+   "answer": 0,
+   "explain": "Backspace menghapus huruf di sebelah kiri kursor.",
+   "id": "k1-tik-027",
+   "ch": 3
+  },
+  {
+   "level": 3,
+   "bab": "Mengenal komputer",
+   "q": "Komputer menyala karena memakai …",
+   "choices": [
+    "listrik",
+    "air",
+    "angin",
+    "bensin"
+   ],
+   "answer": 0,
+   "explain": "Komputer memakai listrik atau baterai. Jangan bermain kabel listrik!",
+   "id": "k1-tik-028",
+   "ch": 1
+  },
+  {
+   "level": 3,
+   "bab": "Mengenal gawai",
+   "q": "Kegunaan komputer bagi pelajar adalah …",
+   "choices": [
+    "belajar dan mengerjakan tugas",
+    "bertengkar",
+    "begadang",
+    "tidak sekolah"
+   ],
+   "answer": 0,
+   "explain": "Komputer membantu kita belajar, menggambar, dan mengetik tugas.",
+   "id": "k1-tik-029",
+   "ch": 1
+  },
+  {
+   "level": 3,
+   "bab": "Menggunakan mouse",
+   "q": "Panah kecil di layar yang bergerak mengikuti mouse disebut …",
+   "choices": [
+    "kursor (pointer)",
+    "ikon",
+    "tombol",
+    "kabel"
+   ],
+   "answer": 0,
+   "explain": "Kursor atau pointer bergerak saat mouse digeser.",
+   "id": "k1-tik-030",
+   "ch": 3
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Gawai yang bisa dilipat dan dibawa ke sekolah adalah …",
+   "choices": [
+    "laptop",
+    "kulkas",
+    "televisi",
+    "mesin cuci"
+   ],
+   "answer": 0,
+   "explain": "Laptop bisa dibawa ke mana-mana.",
+   "bab": "Bab 1 Mengenal Komputer & Gawai",
+   "fromSource": true,
+   "id": "k1-tik-031"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Komputer membantu kita untuk …",
+   "choices": [
+    "belajar & mengetik",
+    "memasak nasi",
+    "mencuci baju",
+    "menyapu"
+   ],
+   "answer": 0,
+   "explain": "Komputer membantu belajar.",
+   "bab": "Bab 1 Mengenal Komputer & Gawai",
+   "fromSource": true,
+   "id": "k1-tik-032"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Yang termasuk gawai adalah …",
+   "choices": [
+    "tablet",
+    "meja",
+    "kursi",
+    "lemari"
+   ],
+   "answer": 0,
+   "explain": "Tablet adalah gawai elektronik.",
+   "bab": "Bab 1 Mengenal Komputer & Gawai",
+   "fromSource": true,
+   "id": "k1-tik-033"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "type": "input",
+   "q": "Alat untuk menelepon disebut …",
+   "answer": "hp",
+   "accept": [
+    "handphone",
+    "telepon",
+    "ponsel",
+    "telepon genggam"
+   ],
+   "explain": "HP dipakai untuk menelepon.",
+   "bab": "Bab 1 Mengenal Komputer & Gawai",
+   "fromSource": true,
+   "id": "k1-tik-034"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "Komputer menyala memakai …",
+   "answer": "listrik",
+   "accept": [],
+   "explain": "Komputer memakai listrik.",
+   "bab": "Bab 1 Mengenal Komputer & Gawai",
+   "fromSource": true,
+   "id": "k1-tik-035"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "input",
+   "q": "Gawai yang layarnya disentuh, lebih besar dari HP, disebut …",
+   "answer": "tablet",
+   "accept": [],
+   "explain": "Tablet memiliki layar sentuh.",
+   "bab": "Bab 1 Mengenal Komputer & Gawai",
+   "fromSource": true,
+   "id": "k1-tik-036"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Sebutkan dua contoh gawai!",
+   "answer": "HP (telepon genggam), tablet, laptop, komputer.",
+   "keywords": [
+    "hp",
+    "tablet",
+    "laptop",
+    "komputer"
+   ],
+   "bab": "Bab 1 Mengenal Komputer & Gawai",
+   "fromSource": true,
+   "id": "k1-tik-037"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Bagian komputer yang ada huruf dan angkanya adalah …",
+   "choices": [
+    "keyboard",
+    "monitor",
+    "speaker",
+    "mouse"
+   ],
+   "answer": 0,
+   "explain": "Keyboard berisi tombol huruf dan angka.",
+   "bab": "Bab 2 Bagian-Bagian Komputer",
+   "fromSource": true,
+   "id": "k1-tik-038"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Speaker berguna untuk …",
+   "choices": [
+    "mengeluarkan suara",
+    "mengetik",
+    "mencetak",
+    "melihat"
+   ],
+   "answer": 0,
+   "explain": "Speaker mengeluarkan suara.",
+   "bab": "Bab 2 Bagian-Bagian Komputer",
+   "fromSource": true,
+   "id": "k1-tik-039"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Pasangan yang benar adalah …",
+   "choices": [
+    "monitor – melihat gambar",
+    "mouse – mendengar",
+    "speaker – mengetik",
+    "printer – mengeklik"
+   ],
+   "answer": 0,
+   "explain": "Monitor menampilkan gambar.",
+   "bab": "Bab 2 Bagian-Bagian Komputer",
+   "fromSource": true,
+   "id": "k1-tik-040"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "type": "input",
+   "q": "Layar komputer disebut …",
+   "answer": "monitor",
+   "accept": [
+    "layar"
+   ],
+   "explain": "Monitor = layar.",
+   "bab": "Bab 2 Bagian-Bagian Komputer",
+   "fromSource": true,
+   "id": "k1-tik-041"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "type": "input",
+   "q": "Alat untuk mencetak ke kertas adalah …",
+   "answer": "printer",
+   "accept": [],
+   "explain": "Printer mencetak.",
+   "bab": "Bab 2 Bagian-Bagian Komputer",
+   "fromSource": true,
+   "id": "k1-tik-042"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "input",
+   "q": "Alat untuk mengetik huruf adalah …",
+   "answer": "keyboard",
+   "accept": [
+    "papan ketik"
+   ],
+   "explain": "Keyboard = papan ketik.",
+   "bab": "Bab 2 Bagian-Bagian Komputer",
+   "fromSource": true,
+   "id": "k1-tik-043"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "uraian",
+   "q": "Sebutkan dua bagian komputer!",
+   "answer": "Monitor (layar), keyboard, mouse, CPU, speaker, printer.",
+   "keywords": [
+    "monitor",
+    "keyboard",
+    "mouse",
+    "speaker"
+   ],
+   "bab": "Bab 2 Bagian-Bagian Komputer",
+   "fromSource": true,
+   "id": "k1-tik-044"
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "Untuk menggerakkan panah di layar kita memakai …",
+   "choices": [
+    "mouse",
+    "speaker",
+    "printer",
+    "kabel"
+   ],
+   "answer": 0,
+   "explain": "Mouse menggerakkan kursor.",
+   "bab": "Bab 3 Mouse & Keyboard",
+   "fromSource": true,
+   "id": "k1-tik-045"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "Tombol panjang di keyboard untuk memberi jarak adalah …",
+   "choices": [
+    "spasi",
+    "enter",
+    "power",
+    "huruf A"
+   ],
+   "answer": 0,
+   "explain": "Tombol spasi memberi jarak antarkata.",
+   "bab": "Bab 3 Mouse & Keyboard",
+   "fromSource": true,
+   "id": "k1-tik-046"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "Menekan tombol mouse satu kali disebut …",
+   "choices": [
+    "klik",
+    "ketik",
+    "geser",
+    "cetak"
+   ],
+   "answer": 0,
+   "explain": "Klik = tekan satu kali.",
+   "bab": "Bab 3 Mouse & Keyboard",
+   "fromSource": true,
+   "id": "k1-tik-047"
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "type": "input",
+   "q": "Menekan tombol mouse disebut …",
+   "answer": "klik",
+   "accept": [],
+   "explain": "Klik.",
+   "bab": "Bab 3 Mouse & Keyboard",
+   "fromSource": true,
+   "id": "k1-tik-048"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "type": "input",
+   "q": "Tombol untuk menghapus huruf adalah …",
+   "answer": "backspace",
+   "accept": [
+    "delete"
+   ],
+   "explain": "Backspace menghapus huruf.",
+   "bab": "Bab 3 Mouse & Keyboard",
+   "fromSource": true,
+   "id": "k1-tik-049"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "input",
+   "q": "Panah kecil di layar disebut …",
+   "answer": "kursor",
+   "accept": [
+    "pointer"
+   ],
+   "explain": "Kursor bergerak mengikuti mouse.",
+   "bab": "Bab 3 Mouse & Keyboard",
+   "fromSource": true,
+   "id": "k1-tik-050"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "uraian",
+   "q": "Apa kegunaan mouse dan keyboard?",
+   "answer": "Mouse untuk menggerakkan kursor dan mengeklik. Keyboard untuk mengetik huruf dan angka.",
+   "keywords": [
+    "mouse",
+    "klik",
+    "keyboard",
+    "mengetik"
+   ],
+   "bab": "Bab 3 Mouse & Keyboard",
+   "fromSource": true,
+   "id": "k1-tik-051"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "q": "Saat memakai komputer, tangan harus …",
+   "choices": [
+    "bersih dan kering",
+    "basah",
+    "kotor",
+    "berminyak"
+   ],
+   "answer": 0,
+   "explain": "Tangan basah berbahaya karena listrik.",
+   "bab": "Bab 4 Aturan Memakai Komputer",
+   "fromSource": true,
+   "id": "k1-tik-052"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "q": "Bermain gawai sebaiknya …",
+   "choices": [
+    "tidak terlalu lama",
+    "seharian penuh",
+    "sampai tengah malam",
+    "sambil makan di kasur"
+   ],
+   "answer": 0,
+   "explain": "Batasi waktu bermain gawai.",
+   "bab": "Bab 4 Aturan Memakai Komputer",
+   "fromSource": true,
+   "id": "k1-tik-053"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "q": "Orang asing mengajak chat di tablet. Kita harus …",
+   "choices": [
+    "memberi tahu orang tua",
+    "membalasnya",
+    "memberi alamat rumah",
+    "merahasiakannya"
+   ],
+   "answer": 0,
+   "explain": "Beri tahu orang tua.",
+   "bab": "Bab 4 Aturan Memakai Komputer",
+   "fromSource": true,
+   "id": "k1-tik-054"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "type": "input",
+   "q": "Saat memakai komputer, kita duduk dengan …",
+   "answer": "tegak",
+   "accept": [],
+   "explain": "Duduk tegak agar tidak pegal.",
+   "bab": "Bab 4 Aturan Memakai Komputer",
+   "fromSource": true,
+   "id": "k1-tik-055"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "type": "input",
+   "q": "Sebelum memakai komputer di sekolah, kita minta izin kepada …",
+   "answer": "guru",
+   "accept": [
+    "bu guru",
+    "pak guru"
+   ],
+   "explain": "Minta izin kepada guru.",
+   "bab": "Bab 4 Aturan Memakai Komputer",
+   "fromSource": true,
+   "id": "k1-tik-056"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "type": "input",
+   "q": "Komputer dimatikan dengan memilih menu Shut …",
+   "answer": "Down",
+   "accept": [],
+   "explain": "Shut Down = mematikan komputer.",
+   "bab": "Bab 4 Aturan Memakai Komputer",
+   "fromSource": true,
+   "id": "k1-tik-057"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "type": "uraian",
+   "q": "Sebutkan dua aturan saat memakai komputer!",
+   "answer": "Tangan bersih dan kering, tidak makan dan minum di dekat komputer, duduk tegak, jaga jarak mata, minta izin, tidak terlalu lama.",
+   "keywords": [
+    "tangan bersih",
+    "makan",
+    "minum",
+    "duduk tegak",
+    "jarak"
+   ],
+   "bab": "Bab 4 Aturan Memakai Komputer",
+   "fromSource": true,
+   "id": "k1-tik-058"
+  }
+ ]
+}

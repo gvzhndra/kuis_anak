@@ -1,0 +1,1149 @@
+{
+ "subject": "TIK",
+ "icon": "💻",
+ "source": "Muatan sekolah TIK Kelas III (materi umum, bukan dari SIBI — TIK bukan mata pelajaran nasional di SD). Mohon dicocokkan dengan materi sekolah.",
+ "chapters": [
+  "Bab 1 Perangkat Komputer",
+  "Bab 2 Keyboard, Mouse, File & Aplikasi",
+  "Bab 3 Internet Sehat & Aman"
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "bab": "Perangkat komputer",
+   "q": "Bagian komputer untuk mengetik adalah …",
+   "choices": [
+    "keyboard",
+    "monitor",
+    "speaker",
+    "printer"
+   ],
+   "answer": 0,
+   "explain": "Keyboard dipakai untuk mengetik huruf, angka, dan simbol.",
+   "id": "k3-tik-001",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "bab": "Perangkat komputer",
+   "q": "Monitor berfungsi untuk …",
+   "choices": [
+    "menampilkan gambar & tulisan",
+    "mencetak",
+    "mengetik",
+    "menyimpan suara"
+   ],
+   "answer": 0,
+   "explain": "Monitor adalah layar komputer.",
+   "id": "k3-tik-002",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "bab": "Perangkat komputer",
+   "q": "Printer berfungsi untuk …",
+   "choices": [
+    "mencetak ke kertas",
+    "mengetik",
+    "memotret",
+    "mengeluarkan suara"
+   ],
+   "answer": 0,
+   "explain": "Printer mencetak dokumen dan gambar.",
+   "id": "k3-tik-003",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "bab": "Keyboard & mouse",
+   "q": "Tombol untuk membuat baris baru saat mengetik adalah …",
+   "choices": [
+    "Enter",
+    "Spasi",
+    "Backspace",
+    "Shift"
+   ],
+   "answer": 0,
+   "explain": "Enter membuat baris baru atau menjalankan perintah.",
+   "id": "k3-tik-004",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "bab": "Keyboard & mouse",
+   "q": "Tombol panjang untuk memberi jarak antarkata adalah …",
+   "choices": [
+    "Spasi",
+    "Enter",
+    "Esc",
+    "Tab"
+   ],
+   "answer": 0,
+   "explain": "Spacebar (spasi) memberi jarak antarkata.",
+   "id": "k3-tik-005",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "bab": "Internet aman",
+   "q": "Kata sandi (password) akun kita sebaiknya …",
+   "choices": [
+    "dirahasiakan",
+    "diberitahukan ke semua teman",
+    "ditulis di papan kelas",
+    "dibagikan di internet"
+   ],
+   "answer": 0,
+   "explain": "Kata sandi hanya boleh diketahui kita dan orang tua.",
+   "id": "k3-tik-006",
+   "ch": 3
+  },
+  {
+   "level": 1,
+   "bab": "Perangkat komputer",
+   "q": "Alat untuk mendengarkan suara secara pribadi tanpa mengganggu orang lain adalah …",
+   "img": "🎧",
+   "choices": [
+    "headphone",
+    "printer",
+    "monitor",
+    "scanner"
+   ],
+   "answer": 0,
+   "explain": "Headphone atau earphone dipakai di telinga.",
+   "id": "k3-tik-007",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "bab": "Program aplikasi",
+   "q": "Program komputer untuk menggambar adalah …",
+   "choices": [
+    "Paint",
+    "Kalkulator",
+    "Speaker",
+    "Printer"
+   ],
+   "answer": 0,
+   "explain": "Paint adalah program menggambar sederhana.",
+   "id": "k3-tik-008",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "bab": "Internet aman",
+   "q": "Internet dapat kita gunakan untuk …",
+   "choices": [
+    "mencari informasi belajar",
+    "berbohong",
+    "mengejek teman",
+    "berbuat curang"
+   ],
+   "answer": 0,
+   "explain": "Gunakan internet untuk hal yang baik, seperti belajar.",
+   "id": "k3-tik-009",
+   "ch": 3
+  },
+  {
+   "level": 1,
+   "bab": "Keyboard & mouse",
+   "q": "Mouse berfungsi untuk …",
+   "choices": [
+    "menggerakkan kursor & memilih",
+    "mengetik kalimat",
+    "mencetak",
+    "menyimpan listrik"
+   ],
+   "answer": 0,
+   "explain": "Mouse menggerakkan kursor (panah) di layar.",
+   "id": "k3-tik-010",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Perangkat input & output",
+   "q": "Yang termasuk perangkat MASUKAN (input) adalah …",
+   "choices": [
+    "keyboard",
+    "monitor",
+    "printer",
+    "speaker"
+   ],
+   "answer": 0,
+   "explain": "Input = memasukkan data: keyboard, mouse, mikrofon, kamera, scanner.",
+   "id": "k3-tik-011",
+   "ch": 1
+  },
+  {
+   "level": 2,
+   "bab": "Perangkat input & output",
+   "q": "Yang termasuk perangkat KELUARAN (output) adalah …",
+   "choices": [
+    "speaker",
+    "mouse",
+    "keyboard",
+    "mikrofon"
+   ],
+   "answer": 0,
+   "explain": "Output = mengeluarkan hasil: monitor, printer, speaker.",
+   "id": "k3-tik-012",
+   "ch": 1
+  },
+  {
+   "level": 2,
+   "bab": "Keyboard & mouse",
+   "q": "Tombol Backspace berfungsi untuk …",
+   "choices": [
+    "menghapus huruf di kiri kursor",
+    "membuat baris baru",
+    "memberi spasi",
+    "mematikan komputer"
+   ],
+   "answer": 0,
+   "explain": "Backspace menghapus karakter di sebelah kiri kursor.",
+   "id": "k3-tik-013",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Keyboard & mouse",
+   "q": "Untuk menulis SEMUA huruf kapital, kita menyalakan tombol …",
+   "choices": [
+    "Caps Lock",
+    "Enter",
+    "Spasi",
+    "Esc"
+   ],
+   "answer": 0,
+   "explain": "Caps Lock membuat semua huruf yang diketik menjadi huruf besar.",
+   "id": "k3-tik-014",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Keyboard & mouse",
+   "q": "Klik kanan pada mouse biasanya untuk …",
+   "choices": [
+    "memunculkan menu pilihan",
+    "mematikan komputer",
+    "mencetak",
+    "menghapus semua file"
+   ],
+   "answer": 0,
+   "explain": "Klik kanan memunculkan menu pintasan (pilihan).",
+   "id": "k3-tik-015",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Desktop & file",
+   "q": "Gambar kecil di layar desktop yang mewakili program disebut …",
+   "choices": [
+    "ikon",
+    "kursor",
+    "kabel",
+    "folder kertas"
+   ],
+   "answer": 0,
+   "explain": "Ikon adalah gambar kecil. Klik dua kali untuk membuka programnya.",
+   "id": "k3-tik-016",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Desktop & file",
+   "q": "Tempat untuk menyimpan dan mengelompokkan file di komputer disebut …",
+   "img": "📁",
+   "choices": [
+    "folder",
+    "printer",
+    "mouse",
+    "speaker"
+   ],
+   "answer": 0,
+   "explain": "Folder berguna untuk merapikan file.",
+   "id": "k3-tik-017",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Program aplikasi",
+   "q": "Program untuk mengetik surat atau cerita adalah …",
+   "choices": [
+    "Microsoft Word / pengolah kata",
+    "Paint",
+    "Kalkulator",
+    "Pemutar musik"
+   ],
+   "answer": 0,
+   "explain": "Pengolah kata seperti Microsoft Word atau Google Docs dipakai untuk mengetik.",
+   "id": "k3-tik-018",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Internet aman",
+   "q": "Data pribadi yang TIDAK boleh dibagikan ke orang asing di internet adalah …",
+   "choices": [
+    "alamat rumah",
+    "warna favorit",
+    "judul lagu kesukaan",
+    "nama hewan di buku"
+   ],
+   "answer": 0,
+   "explain": "Alamat rumah, nomor HP, dan sekolah adalah data pribadi.",
+   "id": "k3-tik-019",
+   "ch": 3
+  },
+  {
+   "level": 2,
+   "bab": "Perangkat komputer",
+   "q": "Alat untuk menyimpan file yang bisa dibawa ke mana-mana adalah …",
+   "choices": [
+    "flashdisk",
+    "monitor",
+    "keyboard",
+    "speaker"
+   ],
+   "answer": 0,
+   "explain": "Flashdisk adalah media penyimpanan kecil yang mudah dibawa.",
+   "id": "k3-tik-020",
+   "ch": 1
+  },
+  {
+   "level": 3,
+   "bab": "Perangkat input & output",
+   "q": "Kelompok yang SEMUANYA perangkat input adalah …",
+   "choices": [
+    "mouse, keyboard, mikrofon",
+    "monitor, printer, speaker",
+    "keyboard, printer, speaker",
+    "mouse, monitor, printer"
+   ],
+   "answer": 0,
+   "explain": "Mouse, keyboard, dan mikrofon memasukkan data ke komputer.",
+   "id": "k3-tik-021",
+   "ch": 1
+  },
+  {
+   "level": 3,
+   "bab": "Perangkat input & output",
+   "q": "Mikrofon termasuk perangkat … karena …",
+   "choices": [
+    "input, memasukkan suara",
+    "output, mengeluarkan suara",
+    "output, mencetak suara",
+    "penyimpanan, menyimpan file"
+   ],
+   "answer": 0,
+   "explain": "Mikrofon memasukkan suara ke komputer, jadi termasuk input.",
+   "id": "k3-tik-022",
+   "ch": 1
+  },
+  {
+   "level": 3,
+   "bab": "Keyboard & mouse",
+   "q": "Untuk menulis SATU huruf kapital saja, kita menekan … sambil menekan huruf.",
+   "choices": [
+    "Shift",
+    "Caps Lock",
+    "Enter",
+    "Backspace"
+   ],
+   "answer": 0,
+   "explain": "Tahan Shift sambil menekan huruf untuk satu huruf kapital.",
+   "id": "k3-tik-023",
+   "ch": 2
+  },
+  {
+   "level": 3,
+   "bab": "Keyboard & mouse",
+   "q": "Menekan tombol mouse lalu menggeser benda tanpa melepas tombol disebut …",
+   "choices": [
+    "drag (seret)",
+    "klik kanan",
+    "scroll",
+    "double click"
+   ],
+   "answer": 0,
+   "explain": "Drag and drop: tekan, tahan, geser, lalu lepaskan.",
+   "id": "k3-tik-024",
+   "ch": 2
+  },
+  {
+   "level": 3,
+   "bab": "Desktop & file",
+   "q": "Agar tugas yang diketik tidak hilang, kita harus …",
+   "choices": [
+    "menyimpan (Save) file",
+    "langsung mematikan komputer",
+    "mencabut kabel",
+    "menutup tanpa menyimpan"
+   ],
+   "answer": 0,
+   "explain": "Simpan file dengan menu Save atau Ctrl + S.",
+   "id": "k3-tik-025",
+   "ch": 2
+  },
+  {
+   "level": 3,
+   "bab": "Program aplikasi",
+   "q": "Menghitung 245 + 378 dengan cepat di komputer bisa memakai program …",
+   "choices": [
+    "Kalkulator",
+    "Paint",
+    "Pemutar video",
+    "Kamera"
+   ],
+   "answer": 0,
+   "explain": "Program Kalkulator dipakai untuk berhitung.",
+   "id": "k3-tik-026",
+   "ch": 2
+  },
+  {
+   "level": 3,
+   "bab": "Internet aman",
+   "q": "Teman mengirim pesan berisi ejekan kepada temanmu di grup chat. Sikap yang benar adalah …",
+   "choices": [
+    "tidak ikut-ikutan & memberi tahu guru/orang tua",
+    "ikut mengejek",
+    "menyebarkan pesan itu",
+    "menertawakannya"
+   ],
+   "answer": 0,
+   "explain": "Mengejek di internet adalah perundungan (cyberbullying). Jangan ikut, dan laporkan.",
+   "id": "k3-tik-027",
+   "ch": 3
+  },
+  {
+   "level": 3,
+   "bab": "Internet aman",
+   "q": "Muncul hadiah gratis di internet yang meminta kata sandi. Sebaiknya kita …",
+   "choices": [
+    "tidak mengekliknya & bertanya pada orang tua",
+    "langsung memasukkan kata sandi",
+    "membagikan ke teman",
+    "mengisi alamat rumah"
+   ],
+   "answer": 0,
+   "explain": "Itu bisa penipuan. Jangan klik dan jangan berikan kata sandi.",
+   "id": "k3-tik-028",
+   "ch": 3
+  },
+  {
+   "level": 3,
+   "bab": "Perangkat komputer",
+   "q": "Urutan menyalakan komputer meja (PC) yang benar adalah …",
+   "choices": [
+    "colok listrik → tekan power CPU → tunggu menyala",
+    "tekan power → colok listrik → cabut kabel",
+    "nyalakan printer → matikan CPU",
+    "cabut kabel → tekan keyboard"
+   ],
+   "answer": 0,
+   "explain": "Pastikan listrik tersambung, tekan tombol power, lalu tunggu sampai desktop muncul.",
+   "id": "k3-tik-029",
+   "ch": 1
+  },
+  {
+   "level": 3,
+   "bab": "Desktop & file",
+   "q": "File yang sudah tidak dipakai lalu dihapus akan masuk ke …",
+   "choices": [
+    "Recycle Bin (tempat sampah)",
+    "Printer",
+    "Folder Musik",
+    "Keyboard"
+   ],
+   "answer": 0,
+   "explain": "File yang dihapus masuk ke Recycle Bin dan masih bisa dikembalikan.",
+   "id": "k3-tik-030",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Perangkat untuk memasukkan suara ke komputer adalah …",
+   "choices": [
+    "mikrofon",
+    "speaker",
+    "monitor",
+    "printer"
+   ],
+   "answer": 0,
+   "explain": "Mikrofon = perangkat input suara.",
+   "bab": "Bab 1 Perangkat Komputer",
+   "fromSource": true,
+   "id": "k3-tik-031"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Perangkat untuk memindai (scan) dokumen ke komputer adalah …",
+   "choices": [
+    "scanner",
+    "speaker",
+    "printer",
+    "monitor"
+   ],
+   "answer": 0,
+   "explain": "Scanner memasukkan gambar dokumen ke komputer.",
+   "bab": "Bab 1 Perangkat Komputer",
+   "fromSource": true,
+   "id": "k3-tik-032"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Layar komputer disebut juga …",
+   "choices": [
+    "monitor",
+    "mouse",
+    "keyboard",
+    "CPU"
+   ],
+   "answer": 0,
+   "explain": "Monitor menampilkan gambar dan tulisan.",
+   "bab": "Bab 1 Perangkat Komputer",
+   "fromSource": true,
+   "id": "k3-tik-033"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Bagian komputer yang menjadi \"otak\" untuk memproses data adalah …",
+   "choices": [
+    "CPU",
+    "speaker",
+    "mouse",
+    "kabel"
+   ],
+   "answer": 0,
+   "explain": "CPU memproses semua perintah.",
+   "bab": "Bab 1 Perangkat Komputer",
+   "fromSource": true,
+   "id": "k3-tik-034"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Hasil dari printer berupa …",
+   "choices": [
+    "kertas cetakan",
+    "suara",
+    "gambar di layar",
+    "file di flashdisk"
+   ],
+   "answer": 0,
+   "explain": "Printer adalah perangkat output.",
+   "bab": "Bab 1 Perangkat Komputer",
+   "fromSource": true,
+   "id": "k3-tik-035"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Webcam termasuk perangkat …",
+   "choices": [
+    "input",
+    "output",
+    "penyimpanan",
+    "listrik"
+   ],
+   "answer": 0,
+   "explain": "Webcam memasukkan gambar/video ke komputer.",
+   "bab": "Bab 1 Perangkat Komputer",
+   "fromSource": true,
+   "id": "k3-tik-036"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Kelompok yang SEMUANYA perangkat output adalah …",
+   "choices": [
+    "monitor, printer, speaker",
+    "keyboard, mouse, scanner",
+    "mikrofon, webcam, mouse",
+    "keyboard, monitor, mouse"
+   ],
+   "answer": 0,
+   "explain": "Output menampilkan atau mengeluarkan hasil.",
+   "bab": "Bab 1 Perangkat Komputer",
+   "fromSource": true,
+   "id": "k3-tik-037"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Flashdisk termasuk perangkat …",
+   "choices": [
+    "penyimpanan",
+    "input",
+    "output",
+    "jaringan"
+   ],
+   "answer": 0,
+   "explain": "Flashdisk dipakai untuk menyimpan file.",
+   "bab": "Bab 1 Perangkat Komputer",
+   "fromSource": true,
+   "id": "k3-tik-038"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Proyektor yang menampilkan gambar ke layar besar termasuk perangkat …",
+   "choices": [
+    "output",
+    "input",
+    "penyimpanan",
+    "pengetik"
+   ],
+   "answer": 0,
+   "explain": "Proyektor menampilkan hasil → output.",
+   "bab": "Bab 1 Perangkat Komputer",
+   "fromSource": true,
+   "id": "k3-tik-039"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "Perangkat untuk mengetik huruf adalah …",
+   "answer": "keyboard",
+   "accept": [
+    "papan ketik"
+   ],
+   "explain": "Keyboard = papan ketik.",
+   "bab": "Bab 1 Perangkat Komputer",
+   "fromSource": true,
+   "id": "k3-tik-040"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "Perangkat untuk mencetak ke kertas adalah …",
+   "answer": "printer",
+   "accept": [],
+   "explain": "Printer mencetak dokumen.",
+   "bab": "Bab 1 Perangkat Komputer",
+   "fromSource": true,
+   "id": "k3-tik-041"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "input",
+   "q": "Perangkat yang memasukkan data ke komputer disebut perangkat …",
+   "answer": "input",
+   "accept": [
+    "masukan"
+   ],
+   "explain": "Contoh: keyboard, mouse, mikrofon.",
+   "bab": "Bab 1 Perangkat Komputer",
+   "fromSource": true,
+   "id": "k3-tik-042"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "input",
+   "q": "Perangkat yang mengeluarkan hasil dari komputer disebut perangkat …",
+   "answer": "output",
+   "accept": [
+    "keluaran"
+   ],
+   "explain": "Contoh: monitor, printer, speaker.",
+   "bab": "Bab 1 Perangkat Komputer",
+   "fromSource": true,
+   "id": "k3-tik-043"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Sebutkan dua perangkat input dan dua perangkat output beserta fungsinya!",
+   "answer": "Input: keyboard (mengetik), mouse (menggerakkan kursor), mikrofon (memasukkan suara). Output: monitor (menampilkan gambar), printer (mencetak), speaker (mengeluarkan suara).",
+   "keywords": [
+    "input",
+    "output",
+    "keyboard",
+    "monitor",
+    "printer"
+   ],
+   "bab": "Bab 1 Perangkat Komputer",
+   "fromSource": true,
+   "id": "k3-tik-044"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Apa perbedaan perangkat input dan output?",
+   "answer": "Perangkat input memasukkan data atau perintah ke komputer, sedangkan perangkat output mengeluarkan atau menampilkan hasil dari komputer.",
+   "keywords": [
+    "memasukkan",
+    "mengeluarkan",
+    "menampilkan"
+   ],
+   "bab": "Bab 1 Perangkat Komputer",
+   "fromSource": true,
+   "id": "k3-tik-045"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Tombol untuk keluar atau membatalkan biasanya …",
+   "choices": [
+    "Esc",
+    "Enter",
+    "Spasi",
+    "Shift"
+   ],
+   "answer": 0,
+   "explain": "Esc = escape (keluar).",
+   "bab": "Bab 2 Keyboard, Mouse, File & Aplikasi",
+   "fromSource": true,
+   "id": "k3-tik-046"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Menggulir halaman ke atas dan bawah memakai … pada mouse.",
+   "choices": [
+    "roda (scroll)",
+    "tombol kanan saja",
+    "kabel",
+    "lampu"
+   ],
+   "answer": 0,
+   "explain": "Roda mouse untuk scroll.",
+   "bab": "Bab 2 Keyboard, Mouse, File & Aplikasi",
+   "fromSource": true,
+   "id": "k3-tik-047"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "File gambar yang dibuat di Paint dapat disimpan dengan menu …",
+   "choices": [
+    "Save",
+    "Delete",
+    "Close",
+    "Exit"
+   ],
+   "answer": 0,
+   "explain": "Save = simpan.",
+   "bab": "Bab 2 Keyboard, Mouse, File & Aplikasi",
+   "fromSource": true,
+   "id": "k3-tik-048"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Tombol pintas untuk menyimpan file adalah …",
+   "choices": [
+    "Ctrl + S",
+    "Ctrl + P",
+    "Alt + F4",
+    "Shift + A"
+   ],
+   "answer": 0,
+   "explain": "Ctrl + S = Save (simpan).",
+   "bab": "Bab 2 Keyboard, Mouse, File & Aplikasi",
+   "fromSource": true,
+   "id": "k3-tik-049"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Tampilan awal Windows yang berisi ikon-ikon disebut …",
+   "choices": [
+    "desktop",
+    "folder",
+    "printer",
+    "keyboard"
+   ],
+   "answer": 0,
+   "explain": "Desktop = layar utama komputer.",
+   "bab": "Bab 2 Keyboard, Mouse, File & Aplikasi",
+   "fromSource": true,
+   "id": "k3-tik-050"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Untuk mengganti nama file, kita memilih menu …",
+   "choices": [
+    "Rename",
+    "Delete",
+    "Print",
+    "Copy"
+   ],
+   "answer": 0,
+   "explain": "Rename = ganti nama.",
+   "bab": "Bab 2 Keyboard, Mouse, File & Aplikasi",
+   "fromSource": true,
+   "id": "k3-tik-051"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Tombol pintas untuk menyalin (copy) adalah …",
+   "choices": [
+    "Ctrl + C",
+    "Ctrl + V",
+    "Ctrl + Z",
+    "Ctrl + S"
+   ],
+   "answer": 0,
+   "explain": "Ctrl + C = copy, Ctrl + V = paste.",
+   "bab": "Bab 2 Keyboard, Mouse, File & Aplikasi",
+   "fromSource": true,
+   "id": "k3-tik-052"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Tombol pintas untuk membatalkan langkah terakhir (undo) adalah …",
+   "choices": [
+    "Ctrl + Z",
+    "Ctrl + C",
+    "Ctrl + P",
+    "Ctrl + A"
+   ],
+   "answer": 0,
+   "explain": "Ctrl + Z = undo.",
+   "bab": "Bab 2 Keyboard, Mouse, File & Aplikasi",
+   "fromSource": true,
+   "id": "k3-tik-053"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Program pengolah kata digunakan untuk …",
+   "choices": [
+    "mengetik dokumen/cerita",
+    "menggambar",
+    "mendengar musik",
+    "menelepon"
+   ],
+   "answer": 0,
+   "explain": "Contoh: Microsoft Word atau Google Docs.",
+   "bab": "Bab 2 Keyboard, Mouse, File & Aplikasi",
+   "fromSource": true,
+   "id": "k3-tik-054"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "type": "input",
+   "q": "Tombol untuk membuat baris baru adalah …",
+   "answer": "enter",
+   "accept": [],
+   "explain": "Enter membuat baris baru.",
+   "bab": "Bab 2 Keyboard, Mouse, File & Aplikasi",
+   "fromSource": true,
+   "id": "k3-tik-055"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "type": "input",
+   "q": "Tempat file yang dihapus sementara disebut Recycle …",
+   "answer": "Bin",
+   "accept": [],
+   "explain": "Recycle Bin = tempat sampah komputer.",
+   "bab": "Bab 2 Keyboard, Mouse, File & Aplikasi",
+   "fromSource": true,
+   "id": "k3-tik-056"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "input",
+   "q": "Tombol pintas untuk menempel (paste) adalah Ctrl + …",
+   "answer": "V",
+   "accept": [],
+   "explain": "Ctrl + V = paste.",
+   "bab": "Bab 2 Keyboard, Mouse, File & Aplikasi",
+   "fromSource": true,
+   "id": "k3-tik-057"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "input",
+   "q": "Program untuk menggambar sederhana di Windows bernama …",
+   "answer": "Paint",
+   "accept": [
+    "ms paint",
+    "microsoft paint"
+   ],
+   "explain": "Paint dipakai untuk menggambar.",
+   "bab": "Bab 2 Keyboard, Mouse, File & Aplikasi",
+   "fromSource": true,
+   "id": "k3-tik-058"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "uraian",
+   "q": "Tuliskan langkah-langkah menyimpan gambar di program Paint!",
+   "answer": "Klik menu File → pilih Save (atau tekan Ctrl + S) → ketik nama file → pilih folder tempat menyimpan → klik Save.",
+   "keywords": [
+    "File",
+    "Save",
+    "nama file",
+    "folder"
+   ],
+   "bab": "Bab 2 Keyboard, Mouse, File & Aplikasi",
+   "fromSource": true,
+   "id": "k3-tik-059"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "uraian",
+   "q": "Apa fungsi folder di komputer? Berikan contoh!",
+   "answer": "Folder berfungsi untuk menyimpan dan mengelompokkan file agar rapi dan mudah dicari. Contoh: folder \"Tugas Sekolah\" berisi file tugas, folder \"Foto\" berisi gambar.",
+   "keywords": [
+    "menyimpan",
+    "mengelompokkan",
+    "rapi",
+    "mudah dicari"
+   ],
+   "bab": "Bab 2 Keyboard, Mouse, File & Aplikasi",
+   "fromSource": true,
+   "id": "k3-tik-060"
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "Internet dapat dipakai untuk …",
+   "choices": [
+    "mencari informasi pelajaran",
+    "berbohong",
+    "mencuri data",
+    "mengejek teman"
+   ],
+   "answer": 0,
+   "explain": "Gunakan internet untuk hal yang baik.",
+   "bab": "Bab 3 Internet Sehat & Aman",
+   "fromSource": true,
+   "id": "k3-tik-061"
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "Sebelum membuka internet, anak-anak sebaiknya …",
+   "choices": [
+    "izin dan didampingi orang tua",
+    "diam-diam",
+    "tengah malam",
+    "memakai akun orang lain"
+   ],
+   "answer": 0,
+   "explain": "Orang tua membantu memilih konten yang aman.",
+   "bab": "Bab 3 Internet Sehat & Aman",
+   "fromSource": true,
+   "id": "k3-tik-062"
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "Situs untuk mencari informasi di internet, contohnya …",
+   "choices": [
+    "Google",
+    "Paint",
+    "Kalkulator",
+    "Printer"
+   ],
+   "answer": 0,
+   "explain": "Google adalah mesin pencari.",
+   "bab": "Bab 3 Internet Sehat & Aman",
+   "fromSource": true,
+   "id": "k3-tik-063"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "Mengejek atau mengancam orang lain di internet disebut …",
+   "choices": [
+    "perundungan siber (cyberbullying)",
+    "belajar daring",
+    "mengunduh",
+    "mengetik"
+   ],
+   "answer": 0,
+   "explain": "Cyberbullying adalah perbuatan buruk.",
+   "bab": "Bab 3 Internet Sehat & Aman",
+   "fromSource": true,
+   "id": "k3-tik-064"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "Kata sandi yang baik adalah …",
+   "choices": [
+    "sulit ditebak & dirahasiakan",
+    "nama sendiri saja",
+    "123456",
+    "dibagikan ke teman"
+   ],
+   "answer": 0,
+   "explain": "Kata sandi harus rahasia dan sulit ditebak.",
+   "bab": "Bab 3 Internet Sehat & Aman",
+   "fromSource": true,
+   "id": "k3-tik-065"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "Terlalu lama bermain internet dapat menyebabkan …",
+   "choices": [
+    "mata lelah & lupa belajar",
+    "badan makin kuat",
+    "nilai makin bagus",
+    "mata makin tajam"
+   ],
+   "answer": 0,
+   "explain": "Batasi waktu memakai gawai.",
+   "bab": "Bab 3 Internet Sehat & Aman",
+   "fromSource": true,
+   "id": "k3-tik-066"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "Kamu menemukan berita aneh di internet. Sikap yang benar adalah …",
+   "choices": [
+    "bertanya kepada orang tua/guru sebelum percaya",
+    "langsung membagikannya",
+    "percaya begitu saja",
+    "mengirim ke semua grup"
+   ],
+   "answer": 0,
+   "explain": "Belum tentu benar (bisa hoaks). Cek dulu.",
+   "bab": "Bab 3 Internet Sehat & Aman",
+   "fromSource": true,
+   "id": "k3-tik-067"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "Orang asing di internet meminta foto dan alamat rumahmu. Sebaiknya …",
+   "choices": [
+    "menolak dan melapor ke orang tua",
+    "mengirimnya",
+    "membalas dengan nomor HP",
+    "menyimpan rahasia"
+   ],
+   "answer": 0,
+   "explain": "Jangan berikan data pribadi kepada orang asing.",
+   "bab": "Bab 3 Internet Sehat & Aman",
+   "fromSource": true,
+   "id": "k3-tik-068"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "Berita bohong yang tersebar di internet disebut …",
+   "choices": [
+    "hoaks",
+    "fakta",
+    "dongeng",
+    "pengumuman"
+   ],
+   "answer": 0,
+   "explain": "Hoaks = berita bohong.",
+   "bab": "Bab 3 Internet Sehat & Aman",
+   "fromSource": true,
+   "id": "k3-tik-069"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "type": "input",
+   "q": "Berita bohong disebut …",
+   "answer": "hoaks",
+   "accept": [
+    "hoax"
+   ],
+   "explain": "Jangan ikut menyebarkan hoaks.",
+   "bab": "Bab 3 Internet Sehat & Aman",
+   "fromSource": true,
+   "id": "k3-tik-070"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "type": "input",
+   "q": "Kata sandi disebut juga …",
+   "answer": "password",
+   "accept": [],
+   "explain": "Password harus dirahasiakan.",
+   "bab": "Bab 3 Internet Sehat & Aman",
+   "fromSource": true,
+   "id": "k3-tik-071"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "input",
+   "q": "Situs untuk mencari informasi di internet disebut mesin …",
+   "answer": "pencari",
+   "accept": [],
+   "explain": "Contoh mesin pencari: Google.",
+   "bab": "Bab 3 Internet Sehat & Aman",
+   "fromSource": true,
+   "id": "k3-tik-072"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "input",
+   "q": "Perundungan di internet disebut cyber…",
+   "answer": "bullying",
+   "accept": [
+    "bully"
+   ],
+   "explain": "Cyberbullying = perundungan siber.",
+   "bab": "Bab 3 Internet Sehat & Aman",
+   "fromSource": true,
+   "id": "k3-tik-073"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "uraian",
+   "q": "Tuliskan tiga aturan aman menggunakan internet!",
+   "answer": "Tidak membagikan data pribadi (alamat, nomor HP, kata sandi), minta izin/didampingi orang tua, tidak berbicara dengan orang asing, tidak menyebarkan hoaks, dan membatasi waktu bermain.",
+   "keywords": [
+    "data pribadi",
+    "orang tua",
+    "orang asing",
+    "hoaks"
+   ],
+   "bab": "Bab 3 Internet Sehat & Aman",
+   "fromSource": true,
+   "id": "k3-tik-074"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "uraian",
+   "q": "Apa yang harus kamu lakukan jika temanmu diejek di grup chat?",
+   "answer": "Tidak ikut mengejek, membela atau menghibur teman, dan melaporkannya kepada guru atau orang tua.",
+   "keywords": [
+    "tidak ikut",
+    "membela",
+    "melapor",
+    "guru"
+   ],
+   "bab": "Bab 3 Internet Sehat & Aman",
+   "fromSource": true,
+   "id": "k3-tik-075"
+  }
+ ]
+}

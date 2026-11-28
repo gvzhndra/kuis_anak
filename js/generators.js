@@ -162,6 +162,11 @@
       explain: `${obj.replace(/^\S+\s/, "")} berbentuk ${shape}.` };
   };
 
+
+  // soal cerita khusus penjumlahan / pengurangan (untuk menu per bab kelas 1)
+  G.k1_story_add = function (lvl) { let q; do { q = G.k1_story(lvl); } while (!/penjumlahan/i.test(q.bab)); return q; };
+  G.k1_story_sub = function (lvl) { let q; do { q = G.k1_story(lvl); } while (/penjumlahan/i.test(q.bab)); return q; };
+
   // ======================= KELAS 3 =======================
   G.k3_place = function (lvl) {
     const n = R(lvl === 1 ? 100 : 101, 999);
@@ -288,6 +293,54 @@
     const [v1, u1, v2, u2, rule] = map[t];
     return Object.assign({ bab: "Pengukuran panjang & berat", q: `${fmt(v1)} ${u1} = … ${u2}`, explain: `${rule}, jadi ${fmt(v1)} ${u1} = ${fmt(v2)} ${u2}.` },
       numChoicesFixed(v2));
+  };
+
+
+  // ----- Bab 2: bilangan yang hilang dalam kalimat matematika
+  G.k3_missing = function (lvl) {
+    const kind = lvl === 1 ? pick(["add", "sub"]) : lvl === 2 ? pick(["add", "sub", "sub2"]) : pick(["mul", "div", "add3"]);
+    let q, ans, ex;
+    if (kind === "add") { const a = R(12, 60), b = R(10, 39); q = `${a} + … = ${a + b}`; ans = b; ex = `${a + b} − ${a} = ${b}.`; }
+    if (kind === "sub") { const a = R(40, 99), b = R(10, a - 10); q = `${a} − … = ${a - b}`; ans = b; ex = `${a} − ${a - b} = ${b}.`; }
+    if (kind === "sub2") { const b = R(15, 45), c = R(10, 50); q = `… − ${b} = ${c}`; ans = b + c; ex = `${c} + ${b} = ${b + c}. Cek: ${b + c} − ${b} = ${c}.`; }
+    if (kind === "mul") { const a = R(2, 10), b = R(2, 10); q = `… × ${b} = ${a * b}`; ans = a; ex = `${a * b} : ${b} = ${a}.`; }
+    if (kind === "div") { const b = R(2, 10), c = R(2, 10); q = `… : ${b} = ${c}`; ans = b * c; ex = `${c} × ${b} = ${b * c}.`; }
+    if (kind === "add3") { const a = R(120, 500), b = R(105, 400); q = `${fmt(a)} + … = ${fmt(a + b)}`; ans = b; ex = `${fmt(a + b)} − ${fmt(a)} = ${fmt(b)}.`; }
+    return Object.assign({ bab: "Kalimat matematika", q: `Nilai … yang tepat adalah …\n${q}`, explain: ex }, numChoicesF(ans, lvl === 3 ? 10 : 2));
+  };
+
+  // ----- Bab 3: soal cerita pengukuran
+  G.k3_measure_story = function (lvl) {
+    const nm = pick(NAMES);
+    if (pick([0, 1])) {
+      const m = R(2, lvl === 3 ? 5 : 3), cut = R(3, 9) * (lvl === 1 ? 20 : 10) + (lvl === 1 ? 0 : 0);
+      const left = m * 100 - cut;
+      return Object.assign({ bab: "Pengukuran panjang", q: `${nm} punya pita ${m} m. Pita dipotong ${cut} cm untuk prakarya.\nSisa pita ${nm} … cm.`,
+        explain: `${m} m = ${m * 100} cm. ${m * 100} − ${cut} = ${left} cm.` }, numChoicesF(left, 10));
+    }
+    const kg = R(1, lvl === 3 ? 4 : 2), g = R(1, 9) * 100, tot = kg * 1000 + g;
+    return Object.assign({ bab: "Pengukuran berat", q: `Ibu membeli ${kg} kg gula dan ${g} gram tepung.\nBerat seluruhnya … gram.`,
+      explain: `${kg} kg = ${fmt(kg * 1000)} gram. ${fmt(kg * 1000)} + ${g} = ${fmt(tot)} gram.` }, numChoicesF(tot, 100));
+  };
+
+  // ----- Bos Final bagian C: soal cerita dua langkah (isian angka, 3 poin)
+  G.k3_multistep = function () {
+    const nm = pick(NAMES), [th, unit] = pick(THINGS);
+    const t = R(0, 3);
+    let q, ans, ex;
+    if (t === 0) { const a = R(3, 9), b = R(4, 9), c = R(3, a * b - 5); ans = a * b - c;
+      q = `${nm} membeli ${a} kantong ${th}. Setiap kantong berisi ${b} ${th}. Sebanyak ${c} ${th} diberikan kepada teman.\nBerapa sisa ${th} ${nm}? Tuliskan angkanya.`;
+      ex = `Langkah 1: ${a} × ${b} = ${a * b}.\nLangkah 2: ${a * b} − ${c} = ${ans} ${unit}.`; }
+    if (t === 1) { const a = R(3, 8), b = R(4, 9), c = R(5, 25); ans = a * b + c;
+      q = `Di kelas ada ${a} meja. Di setiap meja ada ${b} buku. Bu guru membawa lagi ${c} buku.\nBerapa jumlah buku sekarang?`;
+      ex = `Langkah 1: ${a} × ${b} = ${a * b}.\nLangkah 2: ${a * b} + ${c} = ${ans} buku.`; }
+    if (t === 2) { const k = R(2, 6), per = R(3, 9), a = R(10, k * per - 5), b = k * per - a; ans = per;
+      q = `${nm} punya ${a} ${th}. Ibu memberi ${b} ${th} lagi. Semua ${th} dibagikan sama banyak kepada ${k} anak.\nSetiap anak mendapat berapa ${th}?`;
+      ex = `Langkah 1: ${a} + ${b} = ${a + b}.\nLangkah 2: ${a + b} : ${k} = ${per} ${unit}.`; }
+    if (t === 3) { const price = R(2, 9) * 500, n = R(2, 5), pay = Math.ceil((price * n + 1) / 5000) * 5000; ans = pay - price * n;
+      q = `Harga 1 buku tulis Rp${fmt(price)}. ${nm} membeli ${n} buku dan membayar dengan uang Rp${fmt(pay)}.\nBerapa rupiah uang kembaliannya? (tulis angkanya saja)`;
+      ex = `Langkah 1: ${n} × ${fmt(price)} = ${fmt(price * n)}.\nLangkah 2: ${fmt(pay)} − ${fmt(price * n)} = ${fmt(ans)}. Kembalian Rp${fmt(ans)}.`; }
+    return { type: "input", bab: "Soal cerita", q, answer: String(ans), explain: ex };
   };
 
   // pilihan untuk angka besar: kelipatan step agar terlihat masuk akal

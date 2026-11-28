@@ -19,7 +19,8 @@
    ],
    "answer": 0,
    "explain": "Rama menikah dengan Sita, putri Raja Janaka.",
-   "id": "k1-agama_hindu-001"
+   "id": "k1-agama_hindu-001",
+   "ch": 1
   },
   {
    "level": 1,
@@ -33,7 +34,8 @@
    ],
    "answer": 0,
    "explain": "Raja Dasaratha adalah raja Kosala, ayah Rama.",
-   "id": "k1-agama_hindu-002"
+   "id": "k1-agama_hindu-002",
+   "ch": 1
   },
   {
    "level": 1,
@@ -48,7 +50,8 @@
    ],
    "answer": 0,
    "explain": "Hanuman membantu Rama dengan tulus.",
-   "id": "k1-agama_hindu-003"
+   "id": "k1-agama_hindu-003",
+   "ch": 1
   },
   {
    "level": 1,
@@ -63,7 +66,8 @@
    ],
    "answer": 0,
    "explain": "Rama mahir memanah.",
-   "id": "k1-agama_hindu-004"
+   "id": "k1-agama_hindu-004",
+   "ch": 1
   },
   {
    "level": 1,
@@ -77,7 +81,8 @@
    ],
    "answer": 0,
    "explain": "Alam semesta adalah ciptaan Hyang Widhi Wasa.",
-   "id": "k1-agama_hindu-005"
+   "id": "k1-agama_hindu-005",
+   "ch": 2
   },
   {
    "level": 1,
@@ -91,7 +96,8 @@
    ],
    "answer": 0,
    "explain": "Ayam bisa bergerak, makan, dan tumbuh. Ayam makhluk hidup.",
-   "id": "k1-agama_hindu-006"
+   "id": "k1-agama_hindu-006",
+   "ch": 2
   },
   {
    "level": 1,
@@ -105,7 +111,8 @@
    ],
    "answer": 0,
    "explain": "Matahari, bulan, bintang, gunung, dan laut termasuk benda mati.",
-   "id": "k1-agama_hindu-007"
+   "id": "k1-agama_hindu-007",
+   "ch": 2
   },
   {
    "level": 1,
@@ -120,7 +127,8 @@
    ],
    "answer": 0,
    "explain": "Menyiram tanaman adalah cara menghargai ciptaan Hyang Widhi.",
-   "id": "k1-agama_hindu-008"
+   "id": "k1-agama_hindu-008",
+   "ch": 2
   },
   {
    "level": 2,
@@ -134,7 +142,8 @@
    ],
    "answer": 0,
    "explain": "Kitab Ramayana ditulis Maharesi Walmiki.",
-   "id": "k1-agama_hindu-009"
+   "id": "k1-agama_hindu-009",
+   "ch": 1
   },
   {
    "level": 2,
@@ -148,7 +157,8 @@
    ],
    "answer": 0,
    "explain": "Ramayana terdiri atas 7 kanda. Kanda artinya buku.",
-   "id": "k1-agama_hindu-010"
+   "id": "k1-agama_hindu-010",
+   "ch": 1
   },
   {
    "level": 2,
@@ -162,7 +172,8 @@
    ],
    "answer": 0,
    "explain": "Ibu kota Kerajaan Kosala adalah Ayodhya.",
-   "id": "k1-agama_hindu-011"
+   "id": "k1-agama_hindu-011",
+   "ch": 1
   },
   {
    "level": 2,
@@ -176,7 +187,8 @@
    ],
    "answer": 0,
    "explain": "Laksmana setia menemani dan menjaga Rama.",
-   "id": "k1-agama_hindu-012"
+   "id": "k1-agama_hindu-012",
+   "ch": 1
   },
   {
    "level": 2,
@@ -190,7 +202,8 @@
    ],
    "answer": 0,
    "explain": "Laksmana dan Satrughna adalah saudara kembar.",
-   "id": "k1-agama_hindu-013"
+   "id": "k1-agama_hindu-013",
+   "ch": 1
   },
   {
    "level": 2,
@@ -204,7 +217,8 @@
    ],
    "answer": 0,
    "explain": "Rahwana, raja Alengka, membawa lari Sita.",
-   "id": "k1-agama_hindu-014"
+   "id": "k1-agama_hindu-014",
+   "ch": 1
   },
   {
    "level": 2,
@@ -218,7 +232,8 @@
    ],
    "answer": 0,
    "explain": "Tri = tiga, pramana = kemampuan.",
-   "id": "k1-agama_hindu-015"
+   "id": "k1-agama_hindu-015",
+   "ch": 2
   },
   {
    "level": 2,
@@ -232,7 +247,8 @@
    ],
    "answer": 0,
    "explain": "Tumbuhan punya bayu (tumbuh) saja, jadi Eka Pramana.",
-   "id": "k1-agama_hindu-016"
+   "id": "k1-agama_hindu-016",
+   "ch": 2
   },
   {
    "level": 2,
@@ -246,7 +262,8 @@
    ],
    "answer": 0,
    "explain": "Bayu = bergerak/tumbuh, sabda = bersuara, idep = berpikir.",
-   "id": "k1-agama_hindu-017"
+   "id": "k1-agama_hindu-017",
+   "ch": 2
   },
   {
    "level": 3,
@@ -260,7 +277,8 @@
    ],
    "answer": 0,
    "explain": "Jatayu mencoba menolong Sita, tetapi dikalahkan Rahwana.",
-   "id": "k1-agama_hindu-018"
+   "id": "k1-agama_hindu-018",
+   "ch": 1
   },
   {
    "level": 3,
@@ -274,7 +292,8 @@
    ],
    "answer": 0,
    "explain": "Sampati memberi tahu Rama bahwa Sita dibawa ke Alengka.",
-   "id": "k1-agama_hindu-019"
+   "id": "k1-agama_hindu-019",
+   "ch": 1
   },
   {
    "level": 3,
@@ -288,7 +307,8 @@
    ],
    "answer": 0,
    "explain": "Hanuman membantu Rama dengan tulus dan tidak putus asa.",
-   "id": "k1-agama_hindu-020"
+   "id": "k1-agama_hindu-020",
+   "ch": 1
   },
   {
    "level": 3,
@@ -302,7 +322,8 @@
    ],
    "answer": 0,
    "explain": "Rama tinggal di hutan selama 14 tahun.",
-   "id": "k1-agama_hindu-021"
+   "id": "k1-agama_hindu-021",
+   "ch": 1
   },
   {
    "level": 3,
@@ -316,7 +337,8 @@
    ],
    "answer": 0,
    "explain": "Rama berbhakti kepada orang tua, pemaaf, dan penyayang.",
-   "id": "k1-agama_hindu-022"
+   "id": "k1-agama_hindu-022",
+   "ch": 1
   },
   {
    "level": 3,
@@ -330,7 +352,8 @@
    ],
    "answer": 0,
    "explain": "Manusia bisa bergerak (bayu), bersuara (sabda), dan berpikir (idep).",
-   "id": "k1-agama_hindu-023"
+   "id": "k1-agama_hindu-023",
+   "ch": 2
   },
   {
    "level": 3,
@@ -345,7 +368,8 @@
    ],
    "answer": 0,
    "explain": "Binatang punya bayu dan sabda, jadi Dwi Pramana.",
-   "id": "k1-agama_hindu-024"
+   "id": "k1-agama_hindu-024",
+   "ch": 2
   },
   {
    "level": 3,
@@ -359,7 +383,8 @@
    ],
    "answer": 0,
    "explain": "Merawat binatang dan tanaman adalah wujud syukur kepada Hyang Widhi.",
-   "id": "k1-agama_hindu-025"
+   "id": "k1-agama_hindu-025",
+   "ch": 2
   },
   {
    "level": 3,
@@ -373,7 +398,8 @@
    ],
    "answer": 0,
    "explain": "Perbedaan membuat kita saling menghargai dan menghormati.",
-   "id": "k1-agama_hindu-026"
+   "id": "k1-agama_hindu-026",
+   "ch": 2
   },
   {
    "level": 1,
@@ -387,7 +413,8 @@
    ],
    "answer": 0,
    "explain": "Saudara Rama: Bharata, Laksmana, dan Satrughna.",
-   "id": "k1-agama_hindu-027"
+   "id": "k1-agama_hindu-027",
+   "ch": 1
   },
   {
    "level": 1,
@@ -401,7 +428,8 @@
    ],
    "answer": 0,
    "explain": "Matahari, bulan, dan bintang adalah benda langit ciptaan Hyang Widhi.",
-   "id": "k1-agama_hindu-028"
+   "id": "k1-agama_hindu-028",
+   "ch": 2
   },
   {
    "level": 2,
@@ -415,7 +443,8 @@
    ],
    "answer": 0,
    "explain": "Sita adalah putri Raja Janaka dari Mithila.",
-   "id": "k1-agama_hindu-029"
+   "id": "k1-agama_hindu-029",
+   "ch": 1
   },
   {
    "level": 3,
@@ -429,7 +458,213 @@
    ],
    "answer": 0,
    "explain": "Pasukan Sugriwa membuat jembatan melewati laut menuju Alengka.",
-   "id": "k1-agama_hindu-030"
+   "id": "k1-agama_hindu-030",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Raja Dasaratha memimpin kerajaan …",
+   "choices": [
+    "Kosala",
+    "Alengka",
+    "Kiskenda",
+    "Mithila"
+   ],
+   "answer": 0,
+   "explain": "Raja Dasaratha adalah raja Kosala.",
+   "bab": "Bab 1 Cerita Ramayana",
+   "fromSource": true,
+   "id": "k1-agama_hindu-031"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "Guru Rama saat kecil adalah Resi …",
+   "choices": [
+    "Wiswamitra",
+    "Walmiki",
+    "Agastya",
+    "Wyasa"
+   ],
+   "answer": 0,
+   "explain": "Rama belajar kepada Resi Wiswamitra.",
+   "bab": "Bab 1 Cerita Ramayana",
+   "fromSource": true,
+   "id": "k1-agama_hindu-032"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Yang meminta Rama tinggal di hutan adalah …",
+   "choices": [
+    "Kekayi",
+    "Sita",
+    "Bharata",
+    "Sugriwa"
+   ],
+   "answer": 0,
+   "explain": "Kekayi ingin Bharata menjadi raja.",
+   "bab": "Bab 1 Cerita Ramayana",
+   "fromSource": true,
+   "id": "k1-agama_hindu-033"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "type": "input",
+   "q": "Istri Rama bernama …",
+   "answer": "Sita",
+   "accept": [
+    "Dewi Sita"
+   ],
+   "explain": "Rama menikah dengan Sita.",
+   "bab": "Bab 1 Cerita Ramayana",
+   "fromSource": true,
+   "id": "k1-agama_hindu-034"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "Kera putih yang membantu Rama bernama …",
+   "answer": "Hanuman",
+   "accept": [
+    "Hanoman"
+   ],
+   "explain": "Hanuman membantu Rama mencari Sita.",
+   "bab": "Bab 1 Cerita Ramayana",
+   "fromSource": true,
+   "id": "k1-agama_hindu-035"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "input",
+   "q": "Kitab Ramayana terdiri atas … kanda. (tulis angka)",
+   "answer": "7",
+   "accept": [
+    "tujuh"
+   ],
+   "explain": "Ramayana terdiri atas 7 kanda.",
+   "bab": "Bab 1 Cerita Ramayana",
+   "fromSource": true,
+   "id": "k1-agama_hindu-036"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Sebutkan satu sifat baik Rama yang patut kita tiru!",
+   "answer": "Rama berbhakti kepada orang tua, pemaaf, dan penyayang.",
+   "keywords": [
+    "berbhakti",
+    "pemaaf",
+    "penyayang"
+   ],
+   "bab": "Bab 1 Cerita Ramayana",
+   "fromSource": true,
+   "id": "k1-agama_hindu-037"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Matahari, bulan, dan bintang adalah ciptaan …",
+   "choices": [
+    "Hyang Widhi Wasa",
+    "manusia",
+    "hewan",
+    "raja"
+   ],
+   "answer": 0,
+   "explain": "Semua benda langit ciptaan Hyang Widhi.",
+   "bab": "Bab 2 Ciptaan Hyang Widhi Wasa",
+   "fromSource": true,
+   "id": "k1-agama_hindu-038"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Binatang termasuk Dwi Pramana karena memiliki …",
+   "choices": [
+    "bayu dan sabda",
+    "bayu saja",
+    "idep saja",
+    "bayu, sabda, idep"
+   ],
+   "answer": 0,
+   "explain": "Binatang bisa bergerak (bayu) dan bersuara (sabda).",
+   "bab": "Bab 2 Ciptaan Hyang Widhi Wasa",
+   "fromSource": true,
+   "id": "k1-agama_hindu-039"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Kemampuan berpikir disebut …",
+   "choices": [
+    "idep",
+    "bayu",
+    "sabda",
+    "kanda"
+   ],
+   "answer": 0,
+   "explain": "Idep = berpikir, hanya dimiliki manusia.",
+   "bab": "Bab 2 Ciptaan Hyang Widhi Wasa",
+   "fromSource": true,
+   "id": "k1-agama_hindu-040"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "type": "input",
+   "q": "Pencipta alam semesta adalah Hyang Widhi …",
+   "answer": "Wasa",
+   "accept": [],
+   "explain": "Hyang Widhi Wasa menciptakan alam semesta.",
+   "bab": "Bab 2 Ciptaan Hyang Widhi Wasa",
+   "fromSource": true,
+   "id": "k1-agama_hindu-041"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "type": "input",
+   "q": "Tumbuhan termasuk … Pramana.",
+   "answer": "Eka",
+   "accept": [],
+   "explain": "Tumbuhan hanya bisa tumbuh (bayu) → Eka Pramana.",
+   "bab": "Bab 2 Ciptaan Hyang Widhi Wasa",
+   "fromSource": true,
+   "id": "k1-agama_hindu-042"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "input",
+   "q": "Manusia termasuk … Pramana.",
+   "answer": "Tri",
+   "accept": [],
+   "explain": "Manusia punya bayu, sabda, idep → Tri Pramana.",
+   "bab": "Bab 2 Ciptaan Hyang Widhi Wasa",
+   "fromSource": true,
+   "id": "k1-agama_hindu-043"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "uraian",
+   "q": "Sebutkan dua cara menghargai ciptaan Hyang Widhi Wasa!",
+   "answer": "Menyiram tanaman, merawat binatang, membuang sampah pada tempatnya, menanam pohon, tidak menyakiti binatang.",
+   "keywords": [
+    "menyiram",
+    "merawat",
+    "sampah",
+    "menanam"
+   ],
+   "bab": "Bab 2 Ciptaan Hyang Widhi Wasa",
+   "fromSource": true,
+   "id": "k1-agama_hindu-044"
   }
  ]
 }

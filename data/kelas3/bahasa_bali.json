@@ -3,13 +3,10 @@
  "icon": "🌺",
  "source": "Muatan lokal Bahasa Bali Kelas III (materi umum kurikulum Bahasa Bali, bukan dari SIBI) — mohon dicocokkan dengan buku sekolah",
  "chapters": [
-  "Wilangan (angka)",
-  "Wewaran (nama hari)",
-  "Anggan awak",
-  "Kulawarga",
-  "Sor singgih basa (basa alus)",
-  "Pangangge aksara Bali",
-  "Pangastungkara"
+  "Bab 1 Pangastungkara, Kulawarga & Anggan Awak",
+  "Bab 2 Wilangan & Wewaran",
+  "Bab 3 Basa Alus (Sor Singgih)",
+  "Bab 4 Aksara Bali & Angka Bali"
  ],
  "questions": [
   {
@@ -24,7 +21,8 @@
    ],
    "answer": 0,
    "explain": "Om Swastyastu = salam pembuka. Om Shanti Shanti Shanti Om = salam penutup.",
-   "id": "k3-bahasa_bali-001"
+   "id": "k3-bahasa_bali-001",
+   "ch": 1
   },
   {
    "level": 1,
@@ -38,7 +36,8 @@
    ],
    "answer": 0,
    "explain": "Om Shanti Shanti Shanti Om artinya semoga damai di hati, di dunia, dan selamanya.",
-   "id": "k3-bahasa_bali-002"
+   "id": "k3-bahasa_bali-002",
+   "ch": 1
   },
   {
    "level": 1,
@@ -52,7 +51,8 @@
    ],
    "answer": 0,
    "explain": "Semeng = pagi. Rahajeng semeng = selamat pagi.",
-   "id": "k3-bahasa_bali-003"
+   "id": "k3-bahasa_bali-003",
+   "ch": 1
   },
   {
    "level": 1,
@@ -66,7 +66,8 @@
    ],
    "answer": 0,
    "explain": "10 = dasa (adasa).",
-   "id": "k3-bahasa_bali-004"
+   "id": "k3-bahasa_bali-004",
+   "ch": 2
   },
   {
    "level": 1,
@@ -80,7 +81,8 @@
    ],
    "answer": 0,
    "explain": "6 = nem.",
-   "id": "k3-bahasa_bali-005"
+   "id": "k3-bahasa_bali-005",
+   "ch": 2
   },
   {
    "level": 1,
@@ -95,7 +97,8 @@
    ],
    "answer": 0,
    "explain": "Bibih = mulut.",
-   "id": "k3-bahasa_bali-006"
+   "id": "k3-bahasa_bali-006",
+   "ch": 1
   },
   {
    "level": 1,
@@ -109,7 +112,8 @@
    ],
    "answer": 0,
    "explain": "Mbok = kakak perempuan, beli = kakak laki-laki.",
-   "id": "k3-bahasa_bali-007"
+   "id": "k3-bahasa_bali-007",
+   "ch": 1
   },
   {
    "level": 1,
@@ -123,7 +127,8 @@
    ],
    "answer": 0,
    "explain": "Redite = Minggu.",
-   "id": "k3-bahasa_bali-008"
+   "id": "k3-bahasa_bali-008",
+   "ch": 2
   },
   {
    "level": 2,
@@ -137,7 +142,8 @@
    ],
    "answer": 0,
    "explain": "Soma = Senin.",
-   "id": "k3-bahasa_bali-009"
+   "id": "k3-bahasa_bali-009",
+   "ch": 2
   },
   {
    "level": 2,
@@ -151,7 +157,8 @@
    ],
    "answer": 0,
    "explain": "Buda = Rabu.",
-   "id": "k3-bahasa_bali-010"
+   "id": "k3-bahasa_bali-010",
+   "ch": 2
   },
   {
    "level": 2,
@@ -165,7 +172,8 @@
    ],
    "answer": 0,
    "explain": "Sukra = Jumat.",
-   "id": "k3-bahasa_bali-011"
+   "id": "k3-bahasa_bali-011",
+   "ch": 2
   },
   {
    "level": 2,
@@ -179,7 +187,8 @@
    ],
    "answer": 0,
    "explain": "4 + 5 = 9 → sia.",
-   "id": "k3-bahasa_bali-012"
+   "id": "k3-bahasa_bali-012",
+   "ch": 2
   },
   {
    "level": 2,
@@ -193,7 +202,8 @@
    ],
    "answer": 0,
    "explain": "10 − 3 = 7 → pitu.",
-   "id": "k3-bahasa_bali-013"
+   "id": "k3-bahasa_bali-013",
+   "ch": 2
   },
   {
    "level": 2,
@@ -207,7 +217,8 @@
    ],
    "answer": 0,
    "explain": "Kepada orang yang dihormati kita memakai basa alus.",
-   "id": "k3-bahasa_bali-014"
+   "id": "k3-bahasa_bali-014",
+   "ch": 3
   },
   {
    "level": 2,
@@ -221,7 +232,8 @@
    ],
    "answer": 0,
    "explain": "Nggih = ya (basa alus).",
-   "id": "k3-bahasa_bali-015"
+   "id": "k3-bahasa_bali-015",
+   "ch": 3
   },
   {
    "level": 2,
@@ -235,7 +247,9 @@
    ],
    "answer": 0,
    "explain": "Ulu = i, suku = u, taleng = é, pepet = e (ě).",
-   "id": "k3-bahasa_bali-016"
+   "id": "k3-bahasa_bali-016",
+   "ch": 3,
+   "skip": true
   },
   {
    "level": 3,
@@ -249,7 +263,8 @@
    ],
    "answer": 0,
    "explain": "Wraspati = Kamis.",
-   "id": "k3-bahasa_bali-017"
+   "id": "k3-bahasa_bali-017",
+   "ch": 2
   },
   {
    "level": 3,
@@ -263,7 +278,8 @@
    ],
    "answer": 0,
    "explain": "Saniscara = Sabtu. Anggara = Selasa.",
-   "id": "k3-bahasa_bali-018"
+   "id": "k3-bahasa_bali-018",
+   "ch": 2
   },
   {
    "level": 3,
@@ -277,7 +293,8 @@
    ],
    "answer": 0,
    "explain": "Redite (Minggu), Soma (Senin), Anggara (Selasa), Buda, Wraspati, Sukra, Saniscara.",
-   "id": "k3-bahasa_bali-019"
+   "id": "k3-bahasa_bali-019",
+   "ch": 2
   },
   {
    "level": 3,
@@ -291,7 +308,9 @@
    ],
    "answer": 0,
    "explain": "Suku = u. Contoh: ba + suku = bu.",
-   "id": "k3-bahasa_bali-020"
+   "id": "k3-bahasa_bali-020",
+   "ch": 3,
+   "skip": true
   },
   {
    "level": 3,
@@ -305,7 +324,9 @@
    ],
    "answer": 0,
    "explain": "Taleng tedong = o.",
-   "id": "k3-bahasa_bali-021"
+   "id": "k3-bahasa_bali-021",
+   "ch": 3,
+   "skip": true
   },
   {
    "level": 3,
@@ -319,7 +340,8 @@
    ],
    "answer": 0,
    "explain": "Tiang = saya (basa alus, dipakai kepada orang yang dihormati).",
-   "id": "k3-bahasa_bali-022"
+   "id": "k3-bahasa_bali-022",
+   "ch": 3
   },
   {
    "level": 3,
@@ -333,7 +355,8 @@
    ],
    "answer": 0,
    "explain": "Suksma = terima kasih.",
-   "id": "k3-bahasa_bali-023"
+   "id": "k3-bahasa_bali-023",
+   "ch": 1
   },
   {
    "level": 3,
@@ -347,7 +370,8 @@
    ],
    "answer": 0,
    "explain": "Sirah = kepala.",
-   "id": "k3-bahasa_bali-024"
+   "id": "k3-bahasa_bali-024",
+   "ch": 1
   },
   {
    "level": 1,
@@ -361,7 +385,8 @@
    ],
    "answer": 0,
    "explain": "Beli = kakak laki-laki.",
-   "id": "k3-bahasa_bali-025"
+   "id": "k3-bahasa_bali-025",
+   "ch": 1
   },
   {
    "level": 1,
@@ -375,7 +400,8 @@
    ],
    "answer": 0,
    "explain": "Suksma = terima kasih.",
-   "id": "k3-bahasa_bali-026"
+   "id": "k3-bahasa_bali-026",
+   "ch": 1
   },
   {
    "level": 2,
@@ -389,7 +415,8 @@
    ],
    "answer": 0,
    "explain": "Anggara = Selasa.",
-   "id": "k3-bahasa_bali-027"
+   "id": "k3-bahasa_bali-027",
+   "ch": 2
   },
   {
    "level": 2,
@@ -403,7 +430,8 @@
    ],
    "answer": 0,
    "explain": "8 − 3 = 5 → lima.",
-   "id": "k3-bahasa_bali-028"
+   "id": "k3-bahasa_bali-028",
+   "ch": 2
   },
   {
    "level": 3,
@@ -417,7 +445,8 @@
    ],
    "answer": 0,
    "explain": "2 × 5 = 10 → dasa.",
-   "id": "k3-bahasa_bali-029"
+   "id": "k3-bahasa_bali-029",
+   "ch": 2
   },
   {
    "level": 3,
@@ -431,7 +460,2800 @@
    ],
    "answer": 0,
    "explain": "Taleng = é.",
-   "id": "k3-bahasa_bali-030"
+   "id": "k3-bahasa_bali-030",
+   "ch": 3,
+   "skip": true
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "Salam pembuka umat Hindu adalah …",
+   "choices": [
+    "Om Swastyastu",
+    "Om Shanti Shanti Shanti Om",
+    "Rahajeng wengi",
+    "Suksma"
+   ],
+   "answer": 0,
+   "explain": "Om Swastyastu = semoga selamat atas karunia Hyang Widhi.",
+   "bab": "Bab 1 Pangastungkara, Kulawarga & Anggan Awak",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-031"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "\"Meme\" artinya …",
+   "choices": [
+    "ibu",
+    "ayah",
+    "nenek",
+    "kakak"
+   ],
+   "answer": 0,
+   "explain": "Meme = ibu, bapa = ayah.",
+   "bab": "Bab 1 Pangastungkara, Kulawarga & Anggan Awak",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-032"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "\"Cunguh\" artinya …",
+   "choices": [
+    "hidung",
+    "mata",
+    "telinga",
+    "mulut"
+   ],
+   "answer": 0,
+   "explain": "Cunguh = hidung.",
+   "bab": "Bab 1 Pangastungkara, Kulawarga & Anggan Awak",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-033"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "\"Dadong\" artinya …",
+   "choices": [
+    "nenek",
+    "kakek",
+    "ibu",
+    "adik"
+   ],
+   "answer": 0,
+   "explain": "Dadong = nenek, pekak = kakek.",
+   "bab": "Bab 1 Pangastungkara, Kulawarga & Anggan Awak",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-034"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "\"Batis\" artinya …",
+   "choices": [
+    "kaki",
+    "tangan",
+    "kepala",
+    "perut"
+   ],
+   "answer": 0,
+   "explain": "Batis = kaki.",
+   "bab": "Bab 1 Pangastungkara, Kulawarga & Anggan Awak",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-035"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "\"Rahajeng wengi\" artinya …",
+   "choices": [
+    "selamat malam",
+    "selamat pagi",
+    "selamat siang",
+    "selamat jalan"
+   ],
+   "answer": 0,
+   "explain": "Wengi = malam.",
+   "bab": "Bab 1 Pangastungkara, Kulawarga & Anggan Awak",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-036"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "\"Kuping\" dan \"mata\" adalah bagian dari …",
+   "choices": [
+    "anggan awak (anggota tubuh)",
+    "wewalungan (binatang)",
+    "wewaran (hari)",
+    "wilangan (angka)"
+   ],
+   "answer": 0,
+   "explain": "Kuping = telinga, mata = mata. Keduanya anggota tubuh.",
+   "bab": "Bab 1 Pangastungkara, Kulawarga & Anggan Awak",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-037"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Kakak perempuanmu dipanggil …",
+   "choices": [
+    "mbok",
+    "beli",
+    "adi",
+    "bapa"
+   ],
+   "answer": 0,
+   "explain": "Mbok = kakak perempuan, beli = kakak laki-laki.",
+   "bab": "Bab 1 Pangastungkara, Kulawarga & Anggan Awak",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-038"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "Saat bertemu guru di pagi hari, kita mengucapkan …",
+   "choices": [
+    "Om Swastyastu, rahajeng semeng",
+    "Om Shanti Shanti Shanti Om",
+    "Rahajeng wengi",
+    "Sampun"
+   ],
+   "answer": 0,
+   "explain": "Salam pembuka lalu selamat pagi (rahajeng semeng).",
+   "bab": "Bab 1 Pangastungkara, Kulawarga & Anggan Awak",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-039"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "Bahasa Bali dari \"ayah\" adalah …",
+   "answer": "bapa",
+   "accept": [
+    "aji",
+    "bapak"
+   ],
+   "explain": "Ayah = bapa (atau aji).",
+   "bab": "Bab 1 Pangastungkara, Kulawarga & Anggan Awak",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-040"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "Bahasa Bali dari \"terima kasih\" adalah …",
+   "answer": "suksma",
+   "accept": [
+    "matur suksma"
+   ],
+   "explain": "Suksma = terima kasih.",
+   "bab": "Bab 1 Pangastungkara, Kulawarga & Anggan Awak",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-041"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "input",
+   "q": "Bahasa Bali dari \"adik\" adalah …",
+   "answer": "adi",
+   "accept": [],
+   "explain": "Adi = adik.",
+   "bab": "Bab 1 Pangastungkara, Kulawarga & Anggan Awak",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-042"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "input",
+   "q": "\"Rahajeng semeng\" artinya selamat …",
+   "answer": "pagi",
+   "accept": [],
+   "explain": "Semeng = pagi.",
+   "bab": "Bab 1 Pangastungkara, Kulawarga & Anggan Awak",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-043"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Tuliskan nama anggota keluarga dalam bahasa Bali (minimal 4)!",
+   "answer": "Bapa (ayah), meme (ibu), pekak (kakek), dadong (nenek), beli (kakak laki-laki), mbok (kakak perempuan), adi (adik).",
+   "keywords": [
+    "bapa",
+    "meme",
+    "pekak",
+    "dadong",
+    "beli",
+    "mbok",
+    "adi"
+   ],
+   "bab": "Bab 1 Pangastungkara, Kulawarga & Anggan Awak",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-044"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Tuliskan salam pembuka dan salam penutup umat Hindu, serta kapan dipakai!",
+   "answer": "Salam pembuka: Om Swastyastu, dipakai saat bertemu atau memulai kegiatan. Salam penutup: Om Shanti Shanti Shanti Om, dipakai saat mengakhiri kegiatan atau berpisah.",
+   "keywords": [
+    "Om Swastyastu",
+    "Om Shanti",
+    "pembuka",
+    "penutup"
+   ],
+   "bab": "Bab 1 Pangastungkara, Kulawarga & Anggan Awak",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-045"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Angka 5 dalam bahasa Bali adalah …",
+   "choices": [
+    "lima",
+    "nem",
+    "papat",
+    "pitu"
+   ],
+   "answer": 0,
+   "explain": "5 = lima.",
+   "bab": "Bab 2 Wilangan & Wewaran",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-046"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Hari Selasa dalam bahasa Bali adalah …",
+   "choices": [
+    "Anggara",
+    "Soma",
+    "Buda",
+    "Sukra"
+   ],
+   "answer": 0,
+   "explain": "Anggara = Selasa.",
+   "bab": "Bab 2 Wilangan & Wewaran",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-047"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "Angka 8 dalam bahasa Bali adalah …",
+   "choices": [
+    "kutus",
+    "sia",
+    "pitu",
+    "nem"
+   ],
+   "answer": 0,
+   "explain": "8 = kutus.",
+   "bab": "Bab 2 Wilangan & Wewaran",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-048"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "telu + papat = …",
+   "choices": [
+    "pitu",
+    "nem",
+    "kutus",
+    "lima"
+   ],
+   "answer": 0,
+   "explain": "3 + 4 = 7 → pitu.",
+   "bab": "Bab 2 Wilangan & Wewaran",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-049"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Hari sesudah Buda adalah …",
+   "choices": [
+    "Wraspati",
+    "Anggara",
+    "Soma",
+    "Redite"
+   ],
+   "answer": 0,
+   "explain": "Buda (Rabu) → Wraspati (Kamis).",
+   "bab": "Bab 2 Wilangan & Wewaran",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-050"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "Hari sebelum Redite adalah …",
+   "choices": [
+    "Saniscara",
+    "Soma",
+    "Sukra",
+    "Buda"
+   ],
+   "answer": 0,
+   "explain": "Saniscara (Sabtu) → Redite (Minggu).",
+   "bab": "Bab 2 Wilangan & Wewaran",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-051"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "sia − nem = …",
+   "choices": [
+    "telu",
+    "dua",
+    "papat",
+    "lima"
+   ],
+   "answer": 0,
+   "explain": "9 − 6 = 3 → telu.",
+   "bab": "Bab 2 Wilangan & Wewaran",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-052"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Jumlah hari dalam satu minggu (Sapta Wara) ada …",
+   "choices": [
+    "pitu",
+    "lima",
+    "nem",
+    "kutus"
+   ],
+   "answer": 0,
+   "explain": "Sapta Wara = 7 hari: Redite sampai Saniscara.",
+   "bab": "Bab 2 Wilangan & Wewaran",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-053"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "Jika hari ini Sukra, besok adalah …",
+   "choices": [
+    "Saniscara",
+    "Redite",
+    "Wraspati",
+    "Soma"
+   ],
+   "answer": 0,
+   "explain": "Sukra (Jumat) → Saniscara (Sabtu).",
+   "bab": "Bab 2 Wilangan & Wewaran",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-054"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "type": "input",
+   "q": "Angka 10 dalam bahasa Bali adalah …",
+   "answer": "dasa",
+   "accept": [
+    "adasa"
+   ],
+   "explain": "10 = dasa.",
+   "bab": "Bab 2 Wilangan & Wewaran",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-055"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "type": "input",
+   "q": "Hari Senin dalam bahasa Bali adalah …",
+   "answer": "Soma",
+   "accept": [],
+   "explain": "Soma = Senin.",
+   "bab": "Bab 2 Wilangan & Wewaran",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-056"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "input",
+   "q": "Hari Kamis dalam bahasa Bali adalah …",
+   "answer": "Wraspati",
+   "accept": [
+    "Wrespati"
+   ],
+   "explain": "Wraspati = Kamis.",
+   "bab": "Bab 2 Wilangan & Wewaran",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-057"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "input",
+   "q": "dua + dua = … (tulis dalam bahasa Bali)",
+   "answer": "papat",
+   "accept": [],
+   "explain": "2 + 2 = 4 → papat.",
+   "bab": "Bab 2 Wilangan & Wewaran",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-058"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "uraian",
+   "q": "Tuliskan nama-nama hari (Sapta Wara) dalam bahasa Bali secara urut!",
+   "answer": "Redite (Minggu), Soma (Senin), Anggara (Selasa), Buda (Rabu), Wraspati (Kamis), Sukra (Jumat), Saniscara (Sabtu).",
+   "keywords": [
+    "Redite",
+    "Soma",
+    "Anggara",
+    "Buda",
+    "Wraspati",
+    "Sukra",
+    "Saniscara"
+   ],
+   "bab": "Bab 2 Wilangan & Wewaran",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-059"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "uraian",
+   "q": "Tuliskan angka 1 sampai 10 dalam bahasa Bali!",
+   "answer": "besik, dua, telu, papat, lima, nem, pitu, kutus, sia, dasa.",
+   "keywords": [
+    "besik",
+    "telu",
+    "papat",
+    "nem",
+    "pitu",
+    "kutus",
+    "sia",
+    "dasa"
+   ],
+   "bab": "Bab 2 Wilangan & Wewaran",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-060"
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "Kepada guru, kita sebaiknya berbicara dengan basa …",
+   "choices": [
+    "alus",
+    "kasar",
+    "campuran",
+    "asing"
+   ],
+   "answer": 0,
+   "explain": "Basa alus dipakai kepada orang yang dihormati.",
+   "bab": "Bab 3 Basa Alus (Sor Singgih)",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-061"
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "\"Nggih\" artinya …",
+   "choices": [
+    "ya",
+    "tidak",
+    "nanti",
+    "sudah"
+   ],
+   "answer": 0,
+   "explain": "Nggih = ya (alus).",
+   "bab": "Bab 3 Basa Alus (Sor Singgih)",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-062"
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "Pangangge suara \"ulu\" memberi bunyi …",
+   "choices": [
+    "i",
+    "u",
+    "é",
+    "o"
+   ],
+   "answer": 0,
+   "explain": "Ulu = i.",
+   "bab": "Bab 3 Basa Alus (Sor Singgih)",
+   "fromSource": true,
+   "skip": true,
+   "id": "k3-bahasa_bali-063"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "\"Tiang\" artinya …",
+   "choices": [
+    "saya",
+    "kamu",
+    "dia",
+    "mereka"
+   ],
+   "answer": 0,
+   "explain": "Tiang = saya (basa alus).",
+   "bab": "Bab 3 Basa Alus (Sor Singgih)",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-064"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "\"Sampun\" artinya …",
+   "choices": [
+    "sudah",
+    "belum",
+    "ya",
+    "tidak"
+   ],
+   "answer": 0,
+   "explain": "Sampun = sudah (alus).",
+   "bab": "Bab 3 Basa Alus (Sor Singgih)",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-065"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "Pangangge suara \"pepet\" memberi bunyi …",
+   "choices": [
+    "e (seperti \"e\" pada kata \"emas\")",
+    "i",
+    "u",
+    "o"
+   ],
+   "answer": 0,
+   "explain": "Pepet = ě.",
+   "bab": "Bab 3 Basa Alus (Sor Singgih)",
+   "fromSource": true,
+   "skip": true,
+   "id": "k3-bahasa_bali-066"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "Ba + suku dibaca …",
+   "choices": [
+    "bu",
+    "bi",
+    "be",
+    "bo"
+   ],
+   "answer": 0,
+   "explain": "Suku memberi bunyi u, jadi ba + suku = bu.",
+   "bab": "Bab 3 Basa Alus (Sor Singgih)",
+   "fromSource": true,
+   "skip": true,
+   "id": "k3-bahasa_bali-067"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "Ka + ulu dibaca …",
+   "choices": [
+    "ki",
+    "ku",
+    "ke",
+    "ko"
+   ],
+   "answer": 0,
+   "explain": "Ulu memberi bunyi i, jadi ka + ulu = ki.",
+   "bab": "Bab 3 Basa Alus (Sor Singgih)",
+   "fromSource": true,
+   "skip": true,
+   "id": "k3-bahasa_bali-068"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "Pangangge suara untuk bunyi \"o\" adalah …",
+   "choices": [
+    "taleng tedong",
+    "ulu",
+    "suku",
+    "pepet"
+   ],
+   "answer": 0,
+   "explain": "Taleng tedong = o.",
+   "bab": "Bab 3 Basa Alus (Sor Singgih)",
+   "fromSource": true,
+   "skip": true,
+   "id": "k3-bahasa_bali-069"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "type": "input",
+   "q": "Pangangge suara \"suku\" memberi bunyi …",
+   "answer": "u",
+   "accept": [],
+   "explain": "Suku = u.",
+   "bab": "Bab 3 Basa Alus (Sor Singgih)",
+   "fromSource": true,
+   "skip": true,
+   "id": "k3-bahasa_bali-070"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "type": "input",
+   "q": "\"Nggih\" artinya …",
+   "answer": "ya",
+   "accept": [],
+   "explain": "Nggih = ya.",
+   "bab": "Bab 3 Basa Alus (Sor Singgih)",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-071"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "input",
+   "q": "Bahasa Bali alus dari \"saya\" adalah …",
+   "answer": "tiang",
+   "accept": [],
+   "explain": "Tiang = saya (alus).",
+   "bab": "Bab 3 Basa Alus (Sor Singgih)",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-072"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "input",
+   "q": "Pangangge suara \"taleng\" memberi bunyi …",
+   "answer": "é",
+   "accept": [
+    "e"
+   ],
+   "explain": "Taleng = é.",
+   "bab": "Bab 3 Basa Alus (Sor Singgih)",
+   "fromSource": true,
+   "skip": true,
+   "id": "k3-bahasa_bali-073"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "uraian",
+   "q": "Mengapa kita harus memakai basa alus kepada orang tua dan guru?",
+   "answer": "Untuk menunjukkan sikap hormat dan sopan santun kepada orang yang lebih tua atau dihormati, sesuai tata krama (sor singgih basa).",
+   "keywords": [
+    "hormat",
+    "sopan",
+    "alus"
+   ],
+   "bab": "Bab 3 Basa Alus (Sor Singgih)",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-074"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "uraian",
+   "q": "Sebutkan pangangge suara aksara Bali dan bunyinya (minimal 3)!",
+   "answer": "Ulu = i, suku = u, taleng = é, taleng tedong = o, pepet = ě.",
+   "keywords": [
+    "ulu",
+    "suku",
+    "taleng",
+    "pepet"
+   ],
+   "bab": "Bab 3 Basa Alus (Sor Singgih)",
+   "fromSource": true,
+   "skip": true,
+   "id": "k3-bahasa_bali-075"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara ini dibaca …",
+   "choices": [
+    "ha",
+    "ka",
+    "ra",
+    "pa"
+   ],
+   "answer": 0,
+   "explain": "ᬳ dibaca \"ha\".",
+   "img": "ᬳ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-076"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara ini dibaca …",
+   "choices": [
+    "na",
+    "ga",
+    "nya",
+    "ta"
+   ],
+   "answer": 0,
+   "explain": "ᬦ dibaca \"na\".",
+   "img": "ᬦ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-077"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara ini dibaca …",
+   "choices": [
+    "ca",
+    "wa",
+    "ja",
+    "ka"
+   ],
+   "answer": 0,
+   "explain": "ᬘ dibaca \"ca\".",
+   "img": "ᬘ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-078"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara ini dibaca …",
+   "choices": [
+    "ra",
+    "ya",
+    "ba",
+    "ha"
+   ],
+   "answer": 0,
+   "explain": "ᬭ dibaca \"ra\".",
+   "img": "ᬭ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-079"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara ini dibaca …",
+   "choices": [
+    "ka",
+    "ya",
+    "sa",
+    "ga"
+   ],
+   "answer": 0,
+   "explain": "ᬓ dibaca \"ka\".",
+   "img": "ᬓ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-080"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara ini dibaca …",
+   "choices": [
+    "da",
+    "nga",
+    "ca",
+    "ja"
+   ],
+   "answer": 0,
+   "explain": "ᬤ dibaca \"da\".",
+   "img": "ᬤ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-081"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara ini dibaca …",
+   "choices": [
+    "ta",
+    "sa",
+    "nya",
+    "nga"
+   ],
+   "answer": 0,
+   "explain": "ᬢ dibaca \"ta\".",
+   "img": "ᬢ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-082"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara ini dibaca …",
+   "choices": [
+    "sa",
+    "ba",
+    "ga",
+    "nya"
+   ],
+   "answer": 0,
+   "explain": "ᬲ dibaca \"sa\".",
+   "img": "ᬲ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-083"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara ini dibaca …",
+   "choices": [
+    "wa",
+    "sa",
+    "ca",
+    "ma"
+   ],
+   "answer": 0,
+   "explain": "ᬯ dibaca \"wa\".",
+   "img": "ᬯ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-084"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara ini dibaca …",
+   "choices": [
+    "la",
+    "na",
+    "ra",
+    "ja"
+   ],
+   "answer": 0,
+   "explain": "ᬮ dibaca \"la\".",
+   "img": "ᬮ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-085"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara ini dibaca …",
+   "choices": [
+    "ma",
+    "ca",
+    "ka",
+    "la"
+   ],
+   "answer": 0,
+   "explain": "ᬫ dibaca \"ma\".",
+   "img": "ᬫ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-086"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara ini dibaca …",
+   "choices": [
+    "ga",
+    "nga",
+    "pa",
+    "ba"
+   ],
+   "answer": 0,
+   "explain": "ᬕ dibaca \"ga\".",
+   "img": "ᬕ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-087"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara ini dibaca …",
+   "choices": [
+    "ba",
+    "wa",
+    "da",
+    "ra"
+   ],
+   "answer": 0,
+   "explain": "ᬩ dibaca \"ba\".",
+   "img": "ᬩ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-088"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara ini dibaca …",
+   "choices": [
+    "nga",
+    "ba",
+    "na",
+    "ma"
+   ],
+   "answer": 0,
+   "explain": "ᬗ dibaca \"nga\".",
+   "img": "ᬗ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-089"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara ini dibaca …",
+   "choices": [
+    "pa",
+    "nga",
+    "ya",
+    "ha"
+   ],
+   "answer": 0,
+   "explain": "ᬧ dibaca \"pa\".",
+   "img": "ᬧ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-090"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara ini dibaca …",
+   "choices": [
+    "ja",
+    "la",
+    "ra",
+    "ba"
+   ],
+   "answer": 0,
+   "explain": "ᬚ dibaca \"ja\".",
+   "img": "ᬚ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-091"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara ini dibaca …",
+   "choices": [
+    "ya",
+    "la",
+    "nga",
+    "ja"
+   ],
+   "answer": 0,
+   "explain": "ᬬ dibaca \"ya\".",
+   "img": "ᬬ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-092"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara ini dibaca …",
+   "choices": [
+    "nya",
+    "ma",
+    "na",
+    "ka"
+   ],
+   "answer": 0,
+   "explain": "ᬜ dibaca \"nya\".",
+   "img": "ᬜ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-093"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Angka Bali ini adalah …",
+   "choices": [
+    "0",
+    "4",
+    "3",
+    "9"
+   ],
+   "answer": 0,
+   "explain": "᭐ = 0.",
+   "img": "᭐",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-094"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Angka Bali ini adalah …",
+   "choices": [
+    "1",
+    "0",
+    "5",
+    "9"
+   ],
+   "answer": 0,
+   "explain": "᭑ = 1.",
+   "img": "᭑",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-095"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Angka Bali ini adalah …",
+   "choices": [
+    "2",
+    "8",
+    "5",
+    "4"
+   ],
+   "answer": 0,
+   "explain": "᭒ = 2.",
+   "img": "᭒",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-096"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Angka Bali ini adalah …",
+   "choices": [
+    "3",
+    "8",
+    "9",
+    "5"
+   ],
+   "answer": 0,
+   "explain": "᭓ = 3.",
+   "img": "᭓",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-097"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Angka Bali ini adalah …",
+   "choices": [
+    "4",
+    "9",
+    "3",
+    "6"
+   ],
+   "answer": 0,
+   "explain": "᭔ = 4.",
+   "img": "᭔",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-098"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Angka Bali ini adalah …",
+   "choices": [
+    "5",
+    "8",
+    "3",
+    "6"
+   ],
+   "answer": 0,
+   "explain": "᭕ = 5.",
+   "img": "᭕",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-099"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Angka Bali ini adalah …",
+   "choices": [
+    "6",
+    "5",
+    "4",
+    "8"
+   ],
+   "answer": 0,
+   "explain": "᭖ = 6.",
+   "img": "᭖",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-100"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Angka Bali ini adalah …",
+   "choices": [
+    "7",
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 0,
+   "explain": "᭗ = 7.",
+   "img": "᭗",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-101"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Angka Bali ini adalah …",
+   "choices": [
+    "8",
+    "1",
+    "5",
+    "2"
+   ],
+   "answer": 0,
+   "explain": "᭘ = 8.",
+   "img": "᭘",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-102"
+  },
+  {
+   "level": 1,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Angka Bali ini adalah …",
+   "choices": [
+    "9",
+    "0",
+    "3",
+    "6"
+   ],
+   "answer": 0,
+   "explain": "᭙ = 9.",
+   "img": "᭙",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-103"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara Bali untuk bunyi \"ha\" adalah …",
+   "choices": [
+    "ᬳ",
+    "ᬕ",
+    "ᬭ",
+    "ᬲ"
+   ],
+   "answer": 0,
+   "explain": "\"ha\" ditulis ᬳ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-104"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara Bali untuk bunyi \"na\" adalah …",
+   "choices": [
+    "ᬦ",
+    "ᬩ",
+    "ᬬ",
+    "ᬳ"
+   ],
+   "answer": 0,
+   "explain": "\"na\" ditulis ᬦ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-105"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara Bali untuk bunyi \"ca\" adalah …",
+   "choices": [
+    "ᬘ",
+    "ᬫ",
+    "ᬯ",
+    "ᬳ"
+   ],
+   "answer": 0,
+   "explain": "\"ca\" ditulis ᬘ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-106"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara Bali untuk bunyi \"ra\" adalah …",
+   "choices": [
+    "ᬭ",
+    "ᬓ",
+    "ᬘ",
+    "ᬫ"
+   ],
+   "answer": 0,
+   "explain": "\"ra\" ditulis ᬭ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-107"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara Bali untuk bunyi \"ka\" adalah …",
+   "choices": [
+    "ᬓ",
+    "ᬚ",
+    "ᬯ",
+    "ᬕ"
+   ],
+   "answer": 0,
+   "explain": "\"ka\" ditulis ᬓ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-108"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara Bali untuk bunyi \"da\" adalah …",
+   "choices": [
+    "ᬤ",
+    "ᬫ",
+    "ᬭ",
+    "ᬬ"
+   ],
+   "answer": 0,
+   "explain": "\"da\" ditulis ᬤ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-109"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara Bali untuk bunyi \"ta\" adalah …",
+   "choices": [
+    "ᬢ",
+    "ᬭ",
+    "ᬜ",
+    "ᬫ"
+   ],
+   "answer": 0,
+   "explain": "\"ta\" ditulis ᬢ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-110"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara Bali untuk bunyi \"sa\" adalah …",
+   "choices": [
+    "ᬲ",
+    "ᬢ",
+    "ᬳ",
+    "ᬤ"
+   ],
+   "answer": 0,
+   "explain": "\"sa\" ditulis ᬲ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-111"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara Bali untuk bunyi \"wa\" adalah …",
+   "choices": [
+    "ᬯ",
+    "ᬓ",
+    "ᬢ",
+    "ᬘ"
+   ],
+   "answer": 0,
+   "explain": "\"wa\" ditulis ᬯ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-112"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara Bali untuk bunyi \"la\" adalah …",
+   "choices": [
+    "ᬮ",
+    "ᬕ",
+    "ᬲ",
+    "ᬬ"
+   ],
+   "answer": 0,
+   "explain": "\"la\" ditulis ᬮ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-113"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara Bali untuk bunyi \"ma\" adalah …",
+   "choices": [
+    "ᬫ",
+    "ᬩ",
+    "ᬘ",
+    "ᬬ"
+   ],
+   "answer": 0,
+   "explain": "\"ma\" ditulis ᬫ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-114"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara Bali untuk bunyi \"ga\" adalah …",
+   "choices": [
+    "ᬕ",
+    "ᬲ",
+    "ᬗ",
+    "ᬩ"
+   ],
+   "answer": 0,
+   "explain": "\"ga\" ditulis ᬕ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-115"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara Bali untuk bunyi \"ba\" adalah …",
+   "choices": [
+    "ᬩ",
+    "ᬲ",
+    "ᬤ",
+    "ᬘ"
+   ],
+   "answer": 0,
+   "explain": "\"ba\" ditulis ᬩ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-116"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara Bali untuk bunyi \"nga\" adalah …",
+   "choices": [
+    "ᬗ",
+    "ᬬ",
+    "ᬲ",
+    "ᬜ"
+   ],
+   "answer": 0,
+   "explain": "\"nga\" ditulis ᬗ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-117"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara Bali untuk bunyi \"pa\" adalah …",
+   "choices": [
+    "ᬧ",
+    "ᬦ",
+    "ᬭ",
+    "ᬲ"
+   ],
+   "answer": 0,
+   "explain": "\"pa\" ditulis ᬧ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-118"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara Bali untuk bunyi \"ja\" adalah …",
+   "choices": [
+    "ᬚ",
+    "ᬮ",
+    "ᬗ",
+    "ᬭ"
+   ],
+   "answer": 0,
+   "explain": "\"ja\" ditulis ᬚ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-119"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara Bali untuk bunyi \"ya\" adalah …",
+   "choices": [
+    "ᬬ",
+    "ᬓ",
+    "ᬲ",
+    "ᬜ"
+   ],
+   "answer": 0,
+   "explain": "\"ya\" ditulis ᬬ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-120"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara Bali untuk bunyi \"nya\" adalah …",
+   "choices": [
+    "ᬜ",
+    "ᬧ",
+    "ᬮ",
+    "ᬓ"
+   ],
+   "answer": 0,
+   "explain": "\"nya\" ditulis ᬜ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-121"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara berikutnya dalam urutan hanacaraka adalah …",
+   "choices": [
+    "ᬭ",
+    "ᬦ",
+    "ᬢ",
+    "ᬗ"
+   ],
+   "answer": 0,
+   "explain": "Urutannya: ha na ca ra → ᬳ ᬦ ᬘ ᬭ.",
+   "img": "ᬳ ᬦ ᬘ …",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-122"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara berikutnya dalam urutan hanacaraka adalah …",
+   "choices": [
+    "ᬤ",
+    "ᬜ",
+    "ᬭ",
+    "ᬢ"
+   ],
+   "answer": 0,
+   "explain": "Urutannya: ca ra ka da → ᬘ ᬭ ᬓ ᬤ.",
+   "img": "ᬘ ᬭ ᬓ …",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-123"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara berikutnya dalam urutan hanacaraka adalah …",
+   "choices": [
+    "ᬲ",
+    "ᬤ",
+    "ᬩ",
+    "ᬘ"
+   ],
+   "answer": 0,
+   "explain": "Urutannya: ka da ta sa → ᬓ ᬤ ᬢ ᬲ.",
+   "img": "ᬓ ᬤ ᬢ …",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-124"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara berikutnya dalam urutan hanacaraka adalah …",
+   "choices": [
+    "ᬮ",
+    "ᬚ",
+    "ᬘ",
+    "ᬗ"
+   ],
+   "answer": 0,
+   "explain": "Urutannya: ta sa wa la → ᬢ ᬲ ᬯ ᬮ.",
+   "img": "ᬢ ᬲ ᬯ …",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-125"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara berikutnya dalam urutan hanacaraka adalah …",
+   "choices": [
+    "ᬕ",
+    "ᬧ",
+    "ᬭ",
+    "ᬦ"
+   ],
+   "answer": 0,
+   "explain": "Urutannya: wa la ma ga → ᬯ ᬮ ᬫ ᬕ.",
+   "img": "ᬯ ᬮ ᬫ …",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-126"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara berikutnya dalam urutan hanacaraka adalah …",
+   "choices": [
+    "ᬗ",
+    "ᬮ",
+    "ᬲ",
+    "ᬯ"
+   ],
+   "answer": 0,
+   "explain": "Urutannya: ma ga ba nga → ᬫ ᬕ ᬩ ᬗ.",
+   "img": "ᬫ ᬕ ᬩ …",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-127"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara berikutnya dalam urutan hanacaraka adalah …",
+   "choices": [
+    "ᬚ",
+    "ᬗ",
+    "ᬤ",
+    "ᬢ"
+   ],
+   "answer": 0,
+   "explain": "Urutannya: ba nga pa ja → ᬩ ᬗ ᬧ ᬚ.",
+   "img": "ᬩ ᬗ ᬧ …",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-128"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Aksara berikutnya dalam urutan hanacaraka adalah …",
+   "choices": [
+    "ᬜ",
+    "ᬤ",
+    "ᬚ",
+    "ᬮ"
+   ],
+   "answer": 0,
+   "explain": "Urutannya: pa ja ya nya → ᬧ ᬚ ᬬ ᬜ.",
+   "img": "ᬧ ᬚ ᬬ …",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-129"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Angka Bali ini adalah …",
+   "choices": [
+    "32",
+    "33",
+    "42",
+    "31"
+   ],
+   "answer": 0,
+   "explain": "᭓᭒ = 32 (᭓ = 3, ᭒ = 2).",
+   "img": "᭓᭒",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-130"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Angka Bali ini adalah …",
+   "choices": [
+    "71",
+    "72",
+    "17",
+    "70"
+   ],
+   "answer": 0,
+   "explain": "᭗᭑ = 71 (᭗ = 7, ᭑ = 1).",
+   "img": "᭗᭑",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-131"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Angka Bali ini adalah …",
+   "choices": [
+    "64",
+    "65",
+    "74",
+    "46"
+   ],
+   "answer": 0,
+   "explain": "᭖᭔ = 64 (᭖ = 6, ᭔ = 4).",
+   "img": "᭖᭔",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-132"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Angka Bali ini adalah …",
+   "choices": [
+    "54",
+    "64",
+    "53",
+    "45"
+   ],
+   "answer": 0,
+   "explain": "᭕᭔ = 54 (᭕ = 5, ᭔ = 4).",
+   "img": "᭕᭔",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-133"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Angka Bali ini adalah …",
+   "choices": [
+    "47",
+    "48",
+    "57",
+    "74"
+   ],
+   "answer": 0,
+   "explain": "᭔᭗ = 47 (᭔ = 4, ᭗ = 7).",
+   "img": "᭔᭗",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-134"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Angka Bali ini adalah …",
+   "choices": [
+    "49",
+    "48",
+    "50",
+    "59"
+   ],
+   "answer": 0,
+   "explain": "᭔᭙ = 49 (᭔ = 4, ᭙ = 9).",
+   "img": "᭔᭙",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-135"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Angka Bali ini adalah …",
+   "choices": [
+    "43",
+    "42",
+    "34",
+    "44"
+   ],
+   "answer": 0,
+   "explain": "᭔᭓ = 43 (᭔ = 4, ᭓ = 3).",
+   "img": "᭔᭓",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-136"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Angka Bali ini adalah …",
+   "choices": [
+    "94",
+    "104",
+    "49",
+    "93"
+   ],
+   "answer": 0,
+   "explain": "᭙᭔ = 94 (᭙ = 9, ᭔ = 4).",
+   "img": "᭙᭔",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-137"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "type": "input",
+   "q": "Tulis cara membaca aksara ini (huruf latin):",
+   "answer": "maca",
+   "accept": [],
+   "explain": "ᬫ ma + ᬘ ca = maca (membaca).",
+   "img": "ᬫᬘ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-138"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "type": "input",
+   "q": "Tulis cara membaca aksara ini (huruf latin):",
+   "answer": "kala",
+   "accept": [],
+   "explain": "ᬓ ka + ᬮ la = kala (waktu).",
+   "img": "ᬓᬮ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-139"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "type": "input",
+   "q": "Tulis cara membaca aksara ini (huruf latin):",
+   "answer": "lara",
+   "accept": [],
+   "explain": "ᬮ la + ᬭ ra = lara (sedih/sakit).",
+   "img": "ᬮᬭ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-140"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "type": "input",
+   "q": "Tulis cara membaca aksara ini (huruf latin):",
+   "answer": "kaca",
+   "accept": [],
+   "explain": "ᬓ ka + ᬘ ca = kaca (kaca/cermin).",
+   "img": "ᬓᬘ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-141"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "type": "input",
+   "q": "Tulis cara membaca aksara ini (huruf latin):",
+   "answer": "kaja",
+   "accept": [],
+   "explain": "ᬓ ka + ᬚ ja = kaja (arah gunung (utara)).",
+   "img": "ᬓᬚ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-142"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "type": "input",
+   "q": "Tulis cara membaca aksara ini (huruf latin):",
+   "answer": "baya",
+   "accept": [],
+   "explain": "ᬩ ba + ᬬ ya = baya (bahaya).",
+   "img": "ᬩᬬ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-143"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "type": "input",
+   "q": "Tulis angka Bali ini dengan angka biasa:",
+   "answer": "97",
+   "accept": [],
+   "explain": "᭙᭗ = 97.",
+   "img": "᭙᭗",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-144"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "type": "input",
+   "q": "Tulis angka Bali ini dengan angka biasa:",
+   "answer": "62",
+   "accept": [],
+   "explain": "᭖᭒ = 62.",
+   "img": "᭖᭒",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-145"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "type": "input",
+   "q": "Tulis angka Bali ini dengan angka biasa:",
+   "answer": "27",
+   "accept": [],
+   "explain": "᭒᭗ = 27.",
+   "img": "᭒᭗",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-146"
+  },
+  {
+   "level": 2,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "type": "input",
+   "q": "Tulis angka Bali ini dengan angka biasa:",
+   "answer": "33",
+   "accept": [],
+   "explain": "᭓᭓ = 33.",
+   "img": "᭓᭓",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-147"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali ini dibaca …",
+   "choices": [
+    "bapa",
+    "dawa",
+    "mata",
+    "lada"
+   ],
+   "answer": 0,
+   "explain": "ᬩ ba + ᬧ pa = bapa (ayah).",
+   "img": "ᬩᬧ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-148"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali ini dibaca …",
+   "choices": [
+    "mata",
+    "nama",
+    "jala",
+    "kaja"
+   ],
+   "answer": 0,
+   "explain": "ᬫ ma + ᬢ ta = mata (mata).",
+   "img": "ᬫᬢ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-149"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali ini dibaca …",
+   "choices": [
+    "raja",
+    "baya",
+    "lada",
+    "nama"
+   ],
+   "answer": 0,
+   "explain": "ᬭ ra + ᬚ ja = raja (raja).",
+   "img": "ᬭᬚ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-150"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali ini dibaca …",
+   "choices": [
+    "sapa",
+    "wana",
+    "baya",
+    "nama"
+   ],
+   "answer": 0,
+   "explain": "ᬲ sa + ᬧ pa = sapa (siapa).",
+   "img": "ᬲᬧ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-151"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali ini dibaca …",
+   "choices": [
+    "kaca",
+    "naga",
+    "jaja",
+    "raja"
+   ],
+   "answer": 0,
+   "explain": "ᬓ ka + ᬘ ca = kaca (kaca/cermin).",
+   "img": "ᬓᬘ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-152"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali ini dibaca …",
+   "choices": [
+    "dawa",
+    "lada",
+    "naga",
+    "lara"
+   ],
+   "answer": 0,
+   "explain": "ᬤ da + ᬯ wa = dawa (panjang).",
+   "img": "ᬤᬯ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-153"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali ini dibaca …",
+   "choices": [
+    "jaja",
+    "naga",
+    "dawa",
+    "mata"
+   ],
+   "answer": 0,
+   "explain": "ᬚ ja + ᬚ ja = jaja (kue).",
+   "img": "ᬚᬚ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-154"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali ini dibaca …",
+   "choices": [
+    "lara",
+    "raja",
+    "dawa",
+    "nama"
+   ],
+   "answer": 0,
+   "explain": "ᬮ la + ᬭ ra = lara (sedih/sakit).",
+   "img": "ᬮᬭ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-155"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali ini dibaca …",
+   "choices": [
+    "maca",
+    "raja",
+    "basa",
+    "kaca"
+   ],
+   "answer": 0,
+   "explain": "ᬫ ma + ᬘ ca = maca (membaca).",
+   "img": "ᬫᬘ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-156"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali ini dibaca …",
+   "choices": [
+    "basa",
+    "mata",
+    "nama",
+    "dawa"
+   ],
+   "answer": 0,
+   "explain": "ᬩ ba + ᬲ sa = basa (bahasa).",
+   "img": "ᬩᬲ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-157"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali ini dibaca …",
+   "choices": [
+    "nama",
+    "dawa",
+    "wana",
+    "kala"
+   ],
+   "answer": 0,
+   "explain": "ᬦ na + ᬫ ma = nama (nama).",
+   "img": "ᬦᬫ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-158"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali ini dibaca …",
+   "choices": [
+    "naga",
+    "maca",
+    "kaja",
+    "bapa"
+   ],
+   "answer": 0,
+   "explain": "ᬦ na + ᬕ ga = naga (naga).",
+   "img": "ᬦᬕ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-159"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali ini dibaca …",
+   "choices": [
+    "kala",
+    "maca",
+    "jaja",
+    "kaja"
+   ],
+   "answer": 0,
+   "explain": "ᬓ ka + ᬮ la = kala (waktu).",
+   "img": "ᬓᬮ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-160"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali ini dibaca …",
+   "choices": [
+    "jala",
+    "kaca",
+    "jaja",
+    "lada"
+   ],
+   "answer": 0,
+   "explain": "ᬚ ja + ᬮ la = jala (jaring).",
+   "img": "ᬚᬮ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-161"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali ini dibaca …",
+   "choices": [
+    "wana",
+    "jala",
+    "naga",
+    "nama"
+   ],
+   "answer": 0,
+   "explain": "ᬯ wa + ᬦ na = wana (hutan).",
+   "img": "ᬯᬦ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-162"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali ini dibaca …",
+   "choices": [
+    "kaja",
+    "lada",
+    "raja",
+    "sapa"
+   ],
+   "answer": 0,
+   "explain": "ᬓ ka + ᬚ ja = kaja (arah gunung (utara)).",
+   "img": "ᬓᬚ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-163"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali ini dibaca …",
+   "choices": [
+    "lada",
+    "sapa",
+    "dawa",
+    "naga"
+   ],
+   "answer": 0,
+   "explain": "ᬮ la + ᬤ da = lada (merica).",
+   "img": "ᬮᬤ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-164"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali ini dibaca …",
+   "choices": [
+    "baya",
+    "kaca",
+    "raja",
+    "bapa"
+   ],
+   "answer": 0,
+   "explain": "ᬩ ba + ᬬ ya = baya (bahaya).",
+   "img": "ᬩᬬ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-165"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali untuk kata \"kaja\" (arah gunung (utara)) adalah …",
+   "choices": [
+    "ᬓᬚ",
+    "ᬦᬫ",
+    "ᬩᬲ",
+    "ᬫᬘ"
+   ],
+   "answer": 0,
+   "explain": "kaja = ka + ja → ᬓᬚ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-166"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali untuk kata \"nama\" (nama) adalah …",
+   "choices": [
+    "ᬦᬫ",
+    "ᬚᬮ",
+    "ᬩᬧ",
+    "ᬮᬤ"
+   ],
+   "answer": 0,
+   "explain": "nama = na + ma → ᬦᬫ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-167"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali untuk kata \"dawa\" (panjang) adalah …",
+   "choices": [
+    "ᬤᬯ",
+    "ᬮᬤ",
+    "ᬩᬬ",
+    "ᬯᬦ"
+   ],
+   "answer": 0,
+   "explain": "dawa = da + wa → ᬤᬯ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-168"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali untuk kata \"jaja\" (kue) adalah …",
+   "choices": [
+    "ᬚᬚ",
+    "ᬦᬕ",
+    "ᬤᬯ",
+    "ᬮᬭ"
+   ],
+   "answer": 0,
+   "explain": "jaja = ja + ja → ᬚᬚ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-169"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali untuk kata \"mata\" (mata) adalah …",
+   "choices": [
+    "ᬫᬢ",
+    "ᬮᬭ",
+    "ᬤᬯ",
+    "ᬚᬮ"
+   ],
+   "answer": 0,
+   "explain": "mata = ma + ta → ᬫᬢ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-170"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali untuk kata \"jala\" (jaring) adalah …",
+   "choices": [
+    "ᬚᬮ",
+    "ᬩᬲ",
+    "ᬓᬮ",
+    "ᬦᬕ"
+   ],
+   "answer": 0,
+   "explain": "jala = ja + la → ᬚᬮ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-171"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali untuk kata \"kaca\" (kaca/cermin) adalah …",
+   "choices": [
+    "ᬓᬘ",
+    "ᬩᬧ",
+    "ᬦᬫ",
+    "ᬤᬯ"
+   ],
+   "answer": 0,
+   "explain": "kaca = ka + ca → ᬓᬘ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-172"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali untuk kata \"basa\" (bahasa) adalah …",
+   "choices": [
+    "ᬩᬲ",
+    "ᬚᬮ",
+    "ᬭᬚ",
+    "ᬫᬘ"
+   ],
+   "answer": 0,
+   "explain": "basa = ba + sa → ᬩᬲ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-173"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali untuk kata \"kala\" (waktu) adalah …",
+   "choices": [
+    "ᬓᬮ",
+    "ᬓᬘ",
+    "ᬲᬧ",
+    "ᬫᬘ"
+   ],
+   "answer": 0,
+   "explain": "kala = ka + la → ᬓᬮ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-174"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Tulisan aksara Bali untuk kata \"sapa\" (siapa) adalah …",
+   "choices": [
+    "ᬲᬧ",
+    "ᬫᬘ",
+    "ᬫᬢ",
+    "ᬦᬕ"
+   ],
+   "answer": 0,
+   "explain": "sapa = sa + pa → ᬲᬧ.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-175"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Angka 229 ditulis dalam angka Bali …",
+   "choices": [
+    "᭒᭒᭙",
+    "᭙᭒᭒",
+    "᭒᭑᭙",
+    "᭒᭓᭐"
+   ],
+   "answer": 0,
+   "explain": "229 = ᭒᭒᭙.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-176"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Angka 957 ditulis dalam angka Bali …",
+   "choices": [
+    "᭙᭕᭗",
+    "᭗᭕᭙",
+    "᭙᭔᭗",
+    "᭙᭕᭘"
+   ],
+   "answer": 0,
+   "explain": "957 = ᭙᭕᭗.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-177"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Angka 144 ditulis dalam angka Bali …",
+   "choices": [
+    "᭑᭔᭔",
+    "᭔᭔᭑",
+    "᭑᭕᭔",
+    "᭑᭔᭕"
+   ],
+   "answer": 0,
+   "explain": "144 = ᭑᭔᭔.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-178"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Angka 594 ditulis dalam angka Bali …",
+   "choices": [
+    "᭕᭙᭔",
+    "᭕᭘᭔",
+    "᭕᭙᭕",
+    "᭖᭐᭔"
+   ],
+   "answer": 0,
+   "explain": "594 = ᭕᭙᭔.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-179"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Angka 422 ditulis dalam angka Bali …",
+   "choices": [
+    "᭔᭒᭒",
+    "᭒᭒᭔",
+    "᭔᭑᭒",
+    "᭔᭓᭒"
+   ],
+   "answer": 0,
+   "explain": "422 = ᭔᭒᭒.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-180"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "q": "Angka 154 ditulis dalam angka Bali …",
+   "choices": [
+    "᭑᭕᭔",
+    "᭑᭔᭔",
+    "᭔᭕᭑",
+    "᭑᭖᭔"
+   ],
+   "answer": 0,
+   "explain": "154 = ᭑᭕᭔.",
+   "choiceAksara": true,
+   "choiceLang": "none",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-181"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "type": "input",
+   "q": "Tulis cara membaca kata aksara Bali ini:",
+   "answer": "kala",
+   "accept": [],
+   "explain": "ᬓ ka + ᬮ la = kala (waktu).",
+   "img": "ᬓᬮ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-182"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "type": "input",
+   "q": "Tulis cara membaca kata aksara Bali ini:",
+   "answer": "raja",
+   "accept": [],
+   "explain": "ᬭ ra + ᬚ ja = raja (raja).",
+   "img": "ᬭᬚ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-183"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "type": "input",
+   "q": "Tulis cara membaca kata aksara Bali ini:",
+   "answer": "dawa",
+   "accept": [],
+   "explain": "ᬤ da + ᬯ wa = dawa (panjang).",
+   "img": "ᬤᬯ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-184"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "type": "input",
+   "q": "Tulis cara membaca kata aksara Bali ini:",
+   "answer": "nama",
+   "accept": [],
+   "explain": "ᬦ na + ᬫ ma = nama (nama).",
+   "img": "ᬦᬫ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-185"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "type": "input",
+   "q": "Tulis cara membaca kata aksara Bali ini:",
+   "answer": "baya",
+   "accept": [],
+   "explain": "ᬩ ba + ᬬ ya = baya (bahaya).",
+   "img": "ᬩᬬ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-186"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "type": "input",
+   "q": "Tulis cara membaca kata aksara Bali ini:",
+   "answer": "sapa",
+   "accept": [],
+   "explain": "ᬲ sa + ᬧ pa = sapa (siapa).",
+   "img": "ᬲᬧ",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-187"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "type": "input",
+   "q": "Tulis angka Bali ini dengan angka biasa:",
+   "answer": "735",
+   "accept": [],
+   "explain": "᭗᭓᭕ = 735.",
+   "img": "᭗᭓᭕",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-188"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "type": "input",
+   "q": "Tulis angka Bali ini dengan angka biasa:",
+   "answer": "514",
+   "accept": [],
+   "explain": "᭕᭑᭔ = 514.",
+   "img": "᭕᭑᭔",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-189"
+  },
+  {
+   "level": 3,
+   "ch": 4,
+   "bab": "Bab 4 Aksara Bali & Angka Bali",
+   "type": "input",
+   "q": "Tulis angka Bali ini dengan angka biasa:",
+   "answer": "729",
+   "accept": [],
+   "explain": "᭗᭒᭙ = 729.",
+   "img": "᭗᭒᭙",
+   "imgType": "aksara",
+   "imgSpeak": "",
+   "fromSource": true,
+   "id": "k3-bahasa_bali-190"
   }
  ]
 }

@@ -1,0 +1,809 @@
+{
+ "subject": "Bahasa Inggris",
+ "icon": "🇬🇧",
+ "lang": "en",
+ "source": "Bahasa Inggris Kelas I (materi umum — buku nasional English for Nusantara Kids baru tersedia mulai Kelas III). Mohon dicocokkan dengan materi sekolah.",
+ "chapters": [
+  "Unit 1 Greetings & Family",
+  "Unit 2 Colors & Numbers",
+  "Unit 3 Animals, Body & Things"
+ ],
+ "questions": [
+  {
+   "level": 1,
+   "bab": "Greetings",
+   "q": "Salam di pagi hari dalam bahasa Inggris adalah …",
+   "choices": [
+    "Good morning",
+    "Good night",
+    "Goodbye",
+    "Thank you"
+   ],
+   "answer": 0,
+   "explain": "Good morning = selamat pagi.",
+   "id": "k1-bahasa_inggris-001",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "bab": "Greetings",
+   "q": "Bahasa Inggris dari \"terima kasih\" adalah …",
+   "choices": [
+    "Thank you",
+    "Sorry",
+    "Hello",
+    "Please"
+   ],
+   "answer": 0,
+   "explain": "Thank you = terima kasih.",
+   "id": "k1-bahasa_inggris-002",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "bab": "Colors",
+   "q": "Warna ini dalam bahasa Inggris adalah …",
+   "img": "🟥",
+   "imgSpeak": "",
+   "choices": [
+    "red",
+    "blue",
+    "green",
+    "yellow"
+   ],
+   "answer": 0,
+   "explain": "Red = merah.",
+   "id": "k1-bahasa_inggris-003",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "bab": "Colors",
+   "q": "Warna ini dalam bahasa Inggris adalah …",
+   "img": "🟨",
+   "imgSpeak": "",
+   "choices": [
+    "yellow",
+    "red",
+    "black",
+    "white"
+   ],
+   "answer": 0,
+   "explain": "Yellow = kuning.",
+   "id": "k1-bahasa_inggris-004",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "bab": "Numbers",
+   "q": "Angka 3 dalam bahasa Inggris adalah …",
+   "choices": [
+    "three",
+    "two",
+    "four",
+    "ten"
+   ],
+   "answer": 0,
+   "explain": "3 = three.",
+   "id": "k1-bahasa_inggris-005",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "bab": "Numbers",
+   "q": "Ada berapa? Pilih bahasa Inggrisnya!",
+   "img": "🍎🍎",
+   "imgSpeak": "",
+   "choices": [
+    "two",
+    "one",
+    "three",
+    "five"
+   ],
+   "answer": 0,
+   "explain": "Ada 2 apel = two.",
+   "id": "k1-bahasa_inggris-006",
+   "ch": 2
+  },
+  {
+   "level": 1,
+   "bab": "Animals",
+   "q": "Bahasa Inggris dari hewan ini adalah …",
+   "img": "🐈",
+   "imgSpeak": "",
+   "choices": [
+    "cat",
+    "dog",
+    "bird",
+    "fish"
+   ],
+   "answer": 0,
+   "explain": "Kucing = cat.",
+   "id": "k1-bahasa_inggris-007",
+   "ch": 3
+  },
+  {
+   "level": 1,
+   "bab": "Animals",
+   "q": "Bahasa Inggris dari hewan ini adalah …",
+   "img": "🐕",
+   "imgSpeak": "",
+   "choices": [
+    "dog",
+    "cat",
+    "cow",
+    "duck"
+   ],
+   "answer": 0,
+   "explain": "Anjing = dog.",
+   "id": "k1-bahasa_inggris-008",
+   "ch": 3
+  },
+  {
+   "level": 1,
+   "bab": "Family",
+   "q": "Bahasa Inggris dari \"ibu\" adalah …",
+   "choices": [
+    "mother",
+    "father",
+    "sister",
+    "brother"
+   ],
+   "answer": 0,
+   "explain": "Mother = ibu, father = ayah.",
+   "id": "k1-bahasa_inggris-009",
+   "ch": 1
+  },
+  {
+   "level": 1,
+   "bab": "Fruits",
+   "q": "Bahasa Inggris dari buah ini adalah …",
+   "img": "🍌",
+   "imgSpeak": "",
+   "choices": [
+    "banana",
+    "apple",
+    "orange",
+    "mango"
+   ],
+   "answer": 0,
+   "explain": "Pisang = banana.",
+   "id": "k1-bahasa_inggris-010",
+   "ch": 3
+  },
+  {
+   "level": 2,
+   "bab": "Colors",
+   "q": "Warna ini dalam bahasa Inggris adalah …",
+   "img": "🟩",
+   "imgSpeak": "",
+   "choices": [
+    "green",
+    "blue",
+    "brown",
+    "pink"
+   ],
+   "answer": 0,
+   "explain": "Green = hijau.",
+   "id": "k1-bahasa_inggris-011",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Colors",
+   "q": "Warna ini dalam bahasa Inggris adalah …",
+   "img": "🟦",
+   "imgSpeak": "",
+   "choices": [
+    "blue",
+    "green",
+    "purple",
+    "orange"
+   ],
+   "answer": 0,
+   "explain": "Blue = biru.",
+   "id": "k1-bahasa_inggris-012",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Numbers",
+   "q": "Angka 7 dalam bahasa Inggris adalah …",
+   "choices": [
+    "seven",
+    "six",
+    "eight",
+    "nine"
+   ],
+   "answer": 0,
+   "explain": "7 = seven.",
+   "id": "k1-bahasa_inggris-013",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Numbers",
+   "q": "\"Five\" adalah angka …",
+   "choiceLang": "id",
+   "imgLang": "en",
+   "img": "five",
+   "choices": [
+    "5",
+    "4",
+    "6",
+    "9"
+   ],
+   "answer": 0,
+   "explain": "Five = 5.",
+   "id": "k1-bahasa_inggris-014",
+   "ch": 2
+  },
+  {
+   "level": 2,
+   "bab": "Parts of the body",
+   "q": "Bahasa Inggris dari bagian tubuh ini adalah …",
+   "img": "👁️",
+   "imgSpeak": "",
+   "choices": [
+    "eye",
+    "ear",
+    "nose",
+    "hand"
+   ],
+   "answer": 0,
+   "explain": "Mata = eye.",
+   "id": "k1-bahasa_inggris-015",
+   "ch": 3
+  },
+  {
+   "level": 2,
+   "bab": "Parts of the body",
+   "q": "Bahasa Inggris dari bagian tubuh ini adalah …",
+   "img": "👃",
+   "imgSpeak": "",
+   "choices": [
+    "nose",
+    "mouth",
+    "eye",
+    "foot"
+   ],
+   "answer": 0,
+   "explain": "Hidung = nose.",
+   "id": "k1-bahasa_inggris-016",
+   "ch": 3
+  },
+  {
+   "level": 2,
+   "bab": "Family",
+   "q": "Bahasa Inggris dari \"ayah\" adalah …",
+   "choices": [
+    "father",
+    "mother",
+    "grandmother",
+    "baby"
+   ],
+   "answer": 0,
+   "explain": "Father = ayah.",
+   "id": "k1-bahasa_inggris-017",
+   "ch": 1
+  },
+  {
+   "level": 2,
+   "bab": "Things in the classroom",
+   "q": "Bahasa Inggris dari benda ini adalah …",
+   "img": "📘",
+   "imgSpeak": "",
+   "choices": [
+    "book",
+    "bag",
+    "pen",
+    "chair"
+   ],
+   "answer": 0,
+   "explain": "Buku = book.",
+   "id": "k1-bahasa_inggris-018",
+   "ch": 3
+  },
+  {
+   "level": 2,
+   "bab": "Greetings",
+   "q": "Saat berpisah dengan teman, kita berkata …",
+   "choices": [
+    "Goodbye",
+    "Good morning",
+    "Hello",
+    "Thank you"
+   ],
+   "answer": 0,
+   "explain": "Goodbye = selamat tinggal / sampai jumpa.",
+   "id": "k1-bahasa_inggris-019",
+   "ch": 1
+  },
+  {
+   "level": 2,
+   "bab": "Animals",
+   "q": "Bahasa Inggris dari hewan ini adalah …",
+   "img": "🐦",
+   "imgSpeak": "",
+   "choices": [
+    "bird",
+    "fish",
+    "cat",
+    "rabbit"
+   ],
+   "answer": 0,
+   "explain": "Burung = bird.",
+   "id": "k1-bahasa_inggris-020",
+   "ch": 3
+  },
+  {
+   "level": 3,
+   "bab": "Greetings",
+   "q": "Teman bertanya \"What is your name?\". Jawaban yang tepat adalah …",
+   "qLang": "id",
+   "choices": [
+    "My name is Ayu.",
+    "I am fine.",
+    "Good night.",
+    "Thank you."
+   ],
+   "answer": 0,
+   "explain": "What is your name? = Siapa namamu? Jawab: My name is …",
+   "id": "k1-bahasa_inggris-021",
+   "ch": 1
+  },
+  {
+   "level": 3,
+   "bab": "Greetings",
+   "q": "Teman bertanya \"How are you?\". Jawaban yang tepat adalah …",
+   "choices": [
+    "I am fine, thank you.",
+    "My name is Budi.",
+    "Goodbye.",
+    "I am seven."
+   ],
+   "answer": 0,
+   "explain": "How are you? = Apa kabar? Jawab: I am fine, thank you.",
+   "id": "k1-bahasa_inggris-022",
+   "ch": 1
+  },
+  {
+   "level": 3,
+   "bab": "Numbers",
+   "q": "two + three = …",
+   "choices": [
+    "five",
+    "four",
+    "six",
+    "seven"
+   ],
+   "answer": 0,
+   "explain": "2 + 3 = 5 = five.",
+   "qLang": "en",
+   "id": "k1-bahasa_inggris-023",
+   "ch": 2
+  },
+  {
+   "level": 3,
+   "bab": "Numbers",
+   "q": "Angka 10 dalam bahasa Inggris adalah …",
+   "choices": [
+    "ten",
+    "nine",
+    "eight",
+    "one"
+   ],
+   "answer": 0,
+   "explain": "10 = ten.",
+   "id": "k1-bahasa_inggris-024",
+   "ch": 2
+  },
+  {
+   "level": 3,
+   "bab": "Colors",
+   "q": "Warna langit yang cerah adalah …",
+   "img": "☀️🌤️",
+   "imgSpeak": "",
+   "choices": [
+    "blue",
+    "black",
+    "brown",
+    "red"
+   ],
+   "answer": 0,
+   "explain": "Langit cerah berwarna biru = blue.",
+   "id": "k1-bahasa_inggris-025",
+   "ch": 2
+  },
+  {
+   "level": 3,
+   "bab": "Parts of the body",
+   "q": "Kita mendengar dengan …",
+   "choices": [
+    "ears",
+    "eyes",
+    "hands",
+    "feet"
+   ],
+   "answer": 0,
+   "explain": "Ears = telinga. Kita mendengar dengan telinga.",
+   "id": "k1-bahasa_inggris-026",
+   "ch": 3
+  },
+  {
+   "level": 3,
+   "bab": "Family",
+   "q": "Bahasa Inggris dari \"kakak/adik perempuan\" adalah …",
+   "choices": [
+    "sister",
+    "brother",
+    "father",
+    "uncle"
+   ],
+   "answer": 0,
+   "explain": "Sister = saudara perempuan. Brother = saudara laki-laki.",
+   "id": "k1-bahasa_inggris-027",
+   "ch": 1
+  },
+  {
+   "level": 3,
+   "bab": "Things in the classroom",
+   "q": "Bahasa Inggris dari \"tas\" adalah …",
+   "img": "🎒",
+   "imgSpeak": "",
+   "choices": [
+    "bag",
+    "book",
+    "table",
+    "pencil"
+   ],
+   "answer": 0,
+   "explain": "Tas = bag.",
+   "id": "k1-bahasa_inggris-028",
+   "ch": 3
+  },
+  {
+   "level": 3,
+   "bab": "Fruits",
+   "q": "Buah ini bahasa Inggrisnya …",
+   "img": "🍊",
+   "imgSpeak": "",
+   "choices": [
+    "orange",
+    "apple",
+    "grape",
+    "banana"
+   ],
+   "answer": 0,
+   "explain": "Jeruk = orange.",
+   "id": "k1-bahasa_inggris-029",
+   "ch": 3
+  },
+  {
+   "level": 3,
+   "bab": "Animals",
+   "q": "\"Cow\" artinya …",
+   "img": "cow",
+   "imgLang": "en",
+   "choiceLang": "id",
+   "choices": [
+    "sapi",
+    "kucing",
+    "ayam",
+    "kuda"
+   ],
+   "answer": 0,
+   "explain": "Cow = sapi 🐄.",
+   "id": "k1-bahasa_inggris-030",
+   "ch": 3
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "q": "\"Good night\" diucapkan saat …",
+   "choices": [
+    "mau tidur malam",
+    "bangun pagi",
+    "siang hari",
+    "makan"
+   ],
+   "answer": 0,
+   "explain": "Good night = selamat malam (sebelum tidur).",
+   "bab": "Unit 1 Greetings & Family",
+   "fromSource": true,
+   "id": "k1-bahasa_inggris-031"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "q": "\"Brother\" artinya …",
+   "choices": [
+    "saudara laki-laki",
+    "saudara perempuan",
+    "ayah",
+    "kakek"
+   ],
+   "answer": 0,
+   "explain": "Brother = saudara laki-laki.",
+   "bab": "Unit 1 Greetings & Family",
+   "fromSource": true,
+   "id": "k1-bahasa_inggris-032"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "q": "\"Hello! My name is Rina.\" Rina sedang …",
+   "choices": [
+    "berkenalan",
+    "tidur",
+    "makan",
+    "menangis"
+   ],
+   "answer": 0,
+   "explain": "My name is … = namaku …",
+   "bab": "Unit 1 Greetings & Family",
+   "fromSource": true,
+   "id": "k1-bahasa_inggris-033"
+  },
+  {
+   "level": 1,
+   "ch": 1,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"ayah\" adalah …",
+   "answer": "father",
+   "accept": [
+    "dad",
+    "daddy"
+   ],
+   "explain": "Ayah = father.",
+   "bab": "Unit 1 Greetings & Family",
+   "fromSource": true,
+   "id": "k1-bahasa_inggris-034"
+  },
+  {
+   "level": 2,
+   "ch": 1,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"terima kasih\" adalah …",
+   "answer": "thank you",
+   "accept": [
+    "thanks",
+    "thankyou"
+   ],
+   "explain": "Terima kasih = thank you.",
+   "bab": "Unit 1 Greetings & Family",
+   "fromSource": true,
+   "id": "k1-bahasa_inggris-035"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "input",
+   "q": "Lengkapi: \"Good …\" (selamat pagi)",
+   "answer": "morning",
+   "accept": [],
+   "explain": "Good morning = selamat pagi.",
+   "bab": "Unit 1 Greetings & Family",
+   "fromSource": true,
+   "id": "k1-bahasa_inggris-036"
+  },
+  {
+   "level": 3,
+   "ch": 1,
+   "type": "uraian",
+   "q": "Perkenalkan namamu dalam bahasa Inggris!",
+   "answer": "Hello! My name is … (contoh: Hello! My name is Komang.)",
+   "keywords": [
+    "hello",
+    "my name is"
+   ],
+   "bab": "Unit 1 Greetings & Family",
+   "fromSource": true,
+   "id": "k1-bahasa_inggris-037"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "q": "\"Black\" artinya warna …",
+   "choices": [
+    "hitam",
+    "putih",
+    "merah",
+    "biru"
+   ],
+   "answer": 0,
+   "explain": "Black = hitam.",
+   "bab": "Unit 2 Colors & Numbers",
+   "fromSource": true,
+   "id": "k1-bahasa_inggris-038"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "q": "\"Six\" adalah angka …",
+   "choices": [
+    "6",
+    "5",
+    "7",
+    "9"
+   ],
+   "answer": 0,
+   "explain": "Six = 6.",
+   "bab": "Unit 2 Colors & Numbers",
+   "fromSource": true,
+   "id": "k1-bahasa_inggris-039"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "q": "\"one + one = …\"",
+   "choices": [
+    "two",
+    "three",
+    "one",
+    "four"
+   ],
+   "answer": 0,
+   "explain": "1 + 1 = 2 = two.",
+   "bab": "Unit 2 Colors & Numbers",
+   "fromSource": true,
+   "id": "k1-bahasa_inggris-040"
+  },
+  {
+   "level": 1,
+   "ch": 2,
+   "type": "input",
+   "q": "Bahasa Inggris dari angka 1 adalah …",
+   "answer": "one",
+   "accept": [],
+   "explain": "1 = one.",
+   "bab": "Unit 2 Colors & Numbers",
+   "fromSource": true,
+   "id": "k1-bahasa_inggris-041"
+  },
+  {
+   "level": 2,
+   "ch": 2,
+   "type": "input",
+   "q": "Bahasa Inggris dari warna merah adalah …",
+   "answer": "red",
+   "accept": [],
+   "explain": "Merah = red.",
+   "bab": "Unit 2 Colors & Numbers",
+   "fromSource": true,
+   "id": "k1-bahasa_inggris-042"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "input",
+   "q": "Bahasa Inggris dari angka 4 adalah …",
+   "answer": "four",
+   "accept": [],
+   "explain": "4 = four.",
+   "bab": "Unit 2 Colors & Numbers",
+   "fromSource": true,
+   "id": "k1-bahasa_inggris-043"
+  },
+  {
+   "level": 3,
+   "ch": 2,
+   "type": "uraian",
+   "q": "Hitung dalam bahasa Inggris dari 1 sampai 5!",
+   "answer": "one, two, three, four, five.",
+   "keywords": [
+    "one",
+    "two",
+    "three",
+    "four",
+    "five"
+   ],
+   "bab": "Unit 2 Colors & Numbers",
+   "fromSource": true,
+   "id": "k1-bahasa_inggris-044"
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "q": "\"Fish\" artinya …",
+   "choices": [
+    "ikan",
+    "kucing",
+    "burung",
+    "sapi"
+   ],
+   "answer": 0,
+   "explain": "Fish = ikan 🐟.",
+   "bab": "Unit 3 Animals, Body & Things",
+   "fromSource": true,
+   "id": "k1-bahasa_inggris-045"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "q": "\"Hand\" artinya …",
+   "choices": [
+    "tangan",
+    "kaki",
+    "kepala",
+    "mata"
+   ],
+   "answer": 0,
+   "explain": "Hand = tangan.",
+   "bab": "Unit 3 Animals, Body & Things",
+   "fromSource": true,
+   "id": "k1-bahasa_inggris-046"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "q": "\"Apple\" artinya …",
+   "choices": [
+    "apel",
+    "pisang",
+    "jeruk",
+    "mangga"
+   ],
+   "answer": 0,
+   "explain": "Apple = apel 🍎.",
+   "bab": "Unit 3 Animals, Body & Things",
+   "fromSource": true,
+   "id": "k1-bahasa_inggris-047"
+  },
+  {
+   "level": 1,
+   "ch": 3,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"kucing\" adalah …",
+   "answer": "cat",
+   "accept": [],
+   "explain": "Kucing = cat.",
+   "bab": "Unit 3 Animals, Body & Things",
+   "fromSource": true,
+   "id": "k1-bahasa_inggris-048"
+  },
+  {
+   "level": 2,
+   "ch": 3,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"buku\" adalah …",
+   "answer": "book",
+   "accept": [],
+   "explain": "Buku = book.",
+   "bab": "Unit 3 Animals, Body & Things",
+   "fromSource": true,
+   "id": "k1-bahasa_inggris-049"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "input",
+   "q": "Bahasa Inggris dari \"mata\" adalah …",
+   "answer": "eye",
+   "accept": [
+    "eyes"
+   ],
+   "explain": "Mata = eye.",
+   "bab": "Unit 3 Animals, Body & Things",
+   "fromSource": true,
+   "id": "k1-bahasa_inggris-050"
+  },
+  {
+   "level": 3,
+   "ch": 3,
+   "type": "uraian",
+   "q": "Sebutkan dua nama binatang dalam bahasa Inggris!",
+   "answer": "Contoh: cat (kucing), dog (anjing), bird (burung), fish (ikan), cow (sapi), duck (bebek).",
+   "keywords": [
+    "cat",
+    "dog",
+    "bird",
+    "fish",
+    "cow"
+   ],
+   "bab": "Unit 3 Animals, Body & Things",
+   "fromSource": true,
+   "id": "k1-bahasa_inggris-051"
+  }
+ ]
+}

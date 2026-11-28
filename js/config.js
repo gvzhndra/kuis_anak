@@ -16,6 +16,9 @@ window.KUIS_CONFIG = {
   // Timer (menit) per kelas. Isi 0 untuk mematikan timer.
   timerMinutes: { 1: 0, 2: 0, 3: 15, 4: 20, 5: 20, 6: 20 },
 
+  // Waktu (menit) untuk 🐉 Bos Final (ulangan sumatif). 0 = tanpa batas waktu.
+  bossMinutes: { 1: 0, 2: 0, 3: 45, 4: 60, 5: 60, 6: 60 },
+
   // Nilai minimal (persen) untuk membuka level berikutnya.
   unlockPercent: 70,
 
@@ -25,7 +28,7 @@ window.KUIS_CONFIG = {
   // Daftar pelajaran per kelas → nama file di folder data/kelasN/
   // Kelas yang belum ada di sini tampil "segera" saat mendaftar.
   subjects: {
-    1: ["matematika", "bahasa_indonesia", "pancasila", "agama_hindu", "bahasa_bali"],
-    3: ["matematika", "bahasa_indonesia", "ipas", "pancasila", "agama_hindu", "bahasa_bali"]
+    1: ["matematika", "bahasa_indonesia", "pancasila", "agama_hindu", "bahasa_bali", "bahasa_inggris", "pjok", "tik"],
+    3: ["matematika", "bersusun", "bahasa_indonesia", "ipas", "pancasila", "agama_hindu", "bahasa_bali", "bahasa_inggris", "pjok", "tik"]
   }
 };

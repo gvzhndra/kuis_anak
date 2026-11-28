@@ -1,0 +1,66 @@
+# Soal tambahan KELAS 1 (format sama seperti kelas3_part1.txt)
+#   M|level|bab|pertanyaan|jawaban benar|salah 1|salah 2|salah 3|penjelasan
+#   I|level|bab|pertanyaan|jawaban;variasi|penjelasan
+#   U|bab|pertanyaan|kunci jawaban|kata penting 1, kata penting 2
+
+@ bahasa_indonesia
+M|1|1|Huruf vokal ada … buah.|5|3|4|6|Huruf vokal: a, i, u, e, o.
+M|2|1|Kata "ular" diawali huruf …|u|a|i|o|U-lar diawali huruf u.
+M|3|1|Kata yang diawali huruf vokal adalah …|ikan|bola|sapi|kuda|Ikan diawali huruf i (vokal).
+I|1|1|Huruf vokal sesudah huruf "a" adalah …|i|Urutan vokal: a, i, u, e, o.
+I|2|1|"bo" + "la" dibaca …|bola|bo + la = bola.
+I|3|1|Kata "apel" diawali huruf …|a|A-pel diawali huruf a.
+U|1|Sebutkan huruf vokal!|Huruf vokal ada lima: a, i, u, e, o.|a, i, u, e, o
+M|1|2|Saat bermain di taman, kita harus …|hati-hati|mendorong teman|berlari ke jalan|berebut ayunan|Bermain dengan hati-hati agar tidak terluka.
+M|2|2|"ha" + "ti" dibaca …|hati|hutan|hari|hama|ha + ti = hati.
+M|3|2|Kata yang diawali suku kata "cu" adalah …|cuci|cicak|cabai|coklat|Cu-ci diawali "cu".
+I|1|2|"ca" + "ri" dibaca …|cari|ca + ri = cari.
+I|2|2|"hu" + "jan" dibaca …|hujan|hu + jan = hujan.
+I|3|2|Kata "perahu" ⛵ diakhiri suku kata …|hu|pe-ra-hu, suku kata terakhir "hu".
+U|2|Sebutkan dua permainan yang kamu sukai!|Contoh: petak umpet, lompat tali, main bola, ayunan, perosotan, kelereng.|bola, lompat, petak umpet, ayunan
+M|1|3|Kuman bisa ada di tangan yang …|kotor|bersih|wangi|kering|Tangan kotor banyak kumannya.
+M|2|3|Kita mandi sehari … kali.|2|5|10|0|Mandi dua kali sehari: pagi dan sore.
+M|3|3|"ku" + "man" dibaca …|kuman|kaman|kumin|kemon|ku + man = kuman.
+I|1|3|Mencuci tangan memakai air dan …|sabun|Sabun membunuh kuman.
+I|2|3|"ka" + "ki" dibaca …|kaki|ka + ki = kaki.
+I|3|3|Sebelum tidur kita menggosok …|gigi|Gosok gigi sebelum tidur.
+U|3|Kapan saja kita harus mencuci tangan? Sebutkan dua!|Sebelum makan, sesudah makan, sesudah bermain, dan sesudah dari kamar mandi.|sebelum makan, sesudah bermain, kamar mandi
+M|1|4|Saat meminta tolong, kita mengucapkan …|tolong|pergi|diam|biarin|Gunakan kata "tolong" saat meminta bantuan.
+M|2|4|"la" + "ri" dibaca …|lari|lali|laru|liri|la + ri = lari.
+M|3|4|Kalimat yang benar adalah …|Ibu memasak nasi.|Nasi ibu memasak.|Memasak nasi ibu.|Ibu nasi memasak.|Siapa (Ibu) – melakukan apa (memasak) – apa (nasi).
+I|1|4|"lu" + "pa" dibaca …|lupa|lu + pa = lupa.
+I|2|4|Jika berbuat salah, kita mengucapkan …|maaf;minta maaf|Ucapkan maaf jika berbuat salah.
+I|3|4|Nama orang diawali huruf …|kapital;besar;huruf besar;huruf kapital|Nama orang diawali huruf kapital.
+U|4|Tulis satu kalimat tentang dirimu!|Contoh: Namaku Ayu. / Aku suka membaca. (Kalimat diawali huruf kapital dan diakhiri titik.)|aku, namaku
+
+@ pancasila
+M|1|1|Nama panggilan kita digunakan saat …|berkenalan|tidur|makan|mandi|Sebutkan nama saat berkenalan.
+M|2|1|Ciri-ciri tubuh setiap teman …|berbeda-beda|sama semua|tidak ada|jelek|Setiap orang unik dan berbeda.
+M|3|1|Rina suka menyanyi. Doni suka menggambar. Itu adalah …|kegemaran (hobi)|aturan|tugas|hukuman|Kegemaran = hobi.
+I|1|1|Saat bermain bersama, kita harus … (bergantian)|bergantian;antre|Bermain bergantian agar semua senang.
+I|2|1|Kegemaran disebut juga …|hobi|Kegemaran = hobi.
+I|3|1|Kalau berbuat salah kepada teman, kita meminta …|maaf|Minta maaf jika berbuat salah.
+U|1|Sebutkan nama dan kegemaranmu!|Contoh: Namaku Komang. Kegemaranku menggambar.|nama, kegemaran, suka
+M|1|2|Aturan di rumah dibuat oleh …|orang tua|teman|tetangga|guru les|Orang tua membuat aturan di rumah.
+M|2|2|Setelah makan, piring kotor diletakkan di …|tempat cuci piring|kamar tidur|bawah meja|halaman|Rapikan piring setelah makan.
+M|3|2|Contoh menaati aturan di rumah adalah …|tidur tepat waktu|main gawai sampai larut malam|membuang sampah sembarangan|tidak mandi|Tidur tepat waktu adalah aturan baik.
+I|1|2|Sampah dibuang ke tempat …|sampah|Buang sampah di tempat sampah.
+I|2|2|Bangun tidur, kita merapikan tempat …|tidur|Rapikan tempat tidur setelah bangun.
+I|3|2|Membersihkan lingkungan bersama-sama disebut gotong …|royong|Gotong royong = bekerja sama.
+U|2|Sebutkan dua aturan di rumahmu!|Contoh: bangun pagi, merapikan tempat tidur, membuang sampah di tempat sampah, belajar setiap malam, tidur tepat waktu.|bangun pagi, merapikan, sampah, belajar
+
+@ agama_hindu
+M|1|1|Raja Dasaratha memimpin kerajaan …|Kosala|Alengka|Kiskenda|Mithila|Raja Dasaratha adalah raja Kosala.
+M|2|1|Guru Rama saat kecil adalah Resi …|Wiswamitra|Walmiki|Agastya|Wyasa|Rama belajar kepada Resi Wiswamitra.
+M|3|1|Yang meminta Rama tinggal di hutan adalah …|Kekayi|Sita|Bharata|Sugriwa|Kekayi ingin Bharata menjadi raja.
+I|1|1|Istri Rama bernama …|Sita;Dewi Sita|Rama menikah dengan Sita.
+I|2|1|Kera putih yang membantu Rama bernama …|Hanuman;Hanoman|Hanuman membantu Rama mencari Sita.
+I|3|1|Kitab Ramayana terdiri atas … kanda. (tulis angka)|7;tujuh|Ramayana terdiri atas 7 kanda.
+U|1|Sebutkan satu sifat baik Rama yang patut kita tiru!|Rama berbhakti kepada orang tua, pemaaf, dan penyayang.|berbhakti, pemaaf, penyayang
+M|1|2|Matahari, bulan, dan bintang adalah ciptaan …|Hyang Widhi Wasa|manusia|hewan|raja|Semua benda langit ciptaan Hyang Widhi.
+M|2|2|Binatang termasuk Dwi Pramana karena memiliki …|bayu dan sabda|bayu saja|idep saja|bayu, sabda, idep|Binatang bisa bergerak (bayu) dan bersuara (sabda).
+M|3|2|Kemampuan berpikir disebut …|idep|bayu|sabda|kanda|Idep = berpikir, hanya dimiliki manusia.
+I|1|2|Pencipta alam semesta adalah Hyang Widhi …|Wasa|Hyang Widhi Wasa menciptakan alam semesta.
+I|2|2|Tumbuhan termasuk … Pramana.|Eka|Tumbuhan hanya bisa tumbuh (bayu) → Eka Pramana.
+I|3|2|Manusia termasuk … Pramana.|Tri|Manusia punya bayu, sabda, idep → Tri Pramana.
+U|2|Sebutkan dua cara menghargai ciptaan Hyang Widhi Wasa!|Menyiram tanaman, merawat binatang, membuang sampah pada tempatnya, menanam pohon, tidak menyakiti binatang.|menyiram, merawat, sampah, menanam
